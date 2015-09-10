@@ -1,0 +1,8 @@
+Si sigues recto, el Bosque Azulejo no es\xfffemuy largo, pero, si te desvías a un lado,\xf000븀\x0000\xfffese convierte en un laberinto natural.\xf000븁\x0000\xfffeMe pregunto qué camino vas a escoger:\xfffeel directo o el del laberinto...
+Camus: Este es el Bosque Azulejo.\xf000븁\x0000\xfffeCiertamente, este no es un buen lugar\xfffepara buscar refugio.\xf000븁\x0000
+Hola, ¿qué tal?\xfffe¿Te dedicas a entrenar Pokémon?\xf000븁\x0000\xfffe¡Pues entonces, toma!\xfffe¡Seguro que te viene bien!\xf000븁\x0000
+Golpe Roca es un movimiento que,\xfffeen ocasiones, puede disminuir\xf000븀\x0000\xfffela Defensa de tu adversario.\xf000븁\x0000\xfffeY, para tu información, tiene un efecto\xfffedemoledor en los Pokémon de tipo Normal,\xf000븀\x0000\xfffeque tanto le gustan a la Líder\xf000븀\x0000\xfffede Gimnasio Aloe.
+Hay una roca para que pruebes.\xf000븁\x0000\xfffe¿Quieres que \xf000Ă\x0001\x0000 la destruya?
+¡\xf000Ă\x0001\x0000 ha intentado destruir\xfffela roca de prueba!\xf000븁\x0000\xfffe¡Ha logrado romper parte de la roca y se\xfffeha desprendido un fragmento de la misma!\xf000븁\x0000
+Hay una roca de prueba.
+Bosque Azulejo\xfffe¿Llevas suficientes Antídotos?

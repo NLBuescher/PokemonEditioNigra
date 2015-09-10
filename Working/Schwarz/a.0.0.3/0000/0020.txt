@@ -1,0 +1,38 @@
+Cheren: Wird ein Pokémon vergiftet,\xfffeschwinden seine KP nach und nach.\xf000븁\x0000\xfffeDas ist aber nur im Kampf so!\xf000븁\x0000
+Na, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeSuchst du die Arenaleiter?
+Gerade eben waren sie noch hier\xfffeund haben über die verschiedenen\xf000븀\x0000\xfffePokémon-Typen gesprochen.\xf000븁\x0000\xfffeDu musst sie knapp verpasst haben!\xf000븁\x0000
+Wer es als Trainer zu etwas bringen will,\xfffeder muss sich im Kampf bewähren.\xf000븁\x0000\xfffeEs ist also auf jeden Fall das Beste,\xfffegegen die Arenaleiter anzutreten.\xf000븁\x0000
+Du, \xf000Ā\x0001\x0000...\xfffeTritt doch mal gegen mich an!\xf000븁\x0000\xfffeIch möchte herausfinden, wie wichtig\xfffeder Einsatz von Items im Kampf ist!
+Cheren: \xf000Ā\x0001\x0000...\xfffeTritt doch mal gegen mich an!\xf000븁\x0000\xfffeIch möchte herausfinden, wie wichtig\xfffeder Einsatz von Items im Kampf ist!
+Ach ja?\xf000븁\x0000\xfffeAlso ich will unbedingt ein paar Items\xfffeausprobieren, darum warte ich hier auf\xf000븀\x0000\xfffedich, bis du bereit bist!
+Cheren: Höchste Zeit herauszufinden,\xfffewie wichtig Items sind...\xf000븁\x0000\xfffeOder wie weit man ohne Items kommt!\xf000븁\x0000\xfffeAber wir kämpfen hier drinnen, das Ganze\xfffedarf also nicht zu wild werden!\xf000븁\x0000
+Cheren: Wie erwartet ist der Einsatz\xfffevon Items von größter Wichtigkeit.\xf000븁\x0000\xfffeHier, \xf000Ā\x0001\x0000!\xfffeDiese Beere ist für dich!\xf000븁\x0000
+Cheren: Gibst du einem Pokémon diese\xfffeBeere mit, so isst es sie im Kampf von\xf000븀\x0000\xfffeselbst, sobald seine KP schwinden.\xf000븁\x0000\xfffeVon Menschen hergestellte Items\xfffewie Tränke kann es aber nicht\xf000븀\x0000\xfffeselbst verwenden.\xf000븁\x0000\xfffeAlso, viel Glück!\xf000븁\x0000
+Ich liebe Pokémon und will noch mehr\xfffeüber sie wissen!\xf000븁\x0000\xfffeUnd genau dafür gibt es die wunderbare\xfffeTrainerschule!
+Die Pokémon haben allerlei mysteriöse\xfffeFähigkeiten.\xf000븁\x0000\xfffeDie meisten davon kommen im Kampf\xfffezum Tragen.
+Man kann die Entwicklung eines Pokémon\xfffeauch unterbinden. Wusstest du das?\xf000븁\x0000\xfffeIch lese dir mal aus dem Buch hier vor.\xf000븁\x0000\xfffe„Sobald die Evolution des Pokémon\xfffeeinsetzt, kann man es mit dem B-Knopf\xf000븀\x0000\xfffeso sehr erschrecken, dass es in seiner\xf000븀\x0000\xfffeEntwicklung gestoppt wird.“
+Es gibt Attacken, die man nur mit\xfffeTechnischen Maschinen erlernen kann.\xf000븁\x0000\xfffeEine Technische Maschine kann beliebig\xfffeoft verwendet werden, also nur zu!\xf000븁\x0000\xfffeUnd falls du mit einer Attacke nicht\xfffezufrieden bist, verwende doch einfach\xf000븀\x0000\xfffeeine andere Technische Maschine.
+Wollen wir ein kleines Quiz über\xfffeStatusprobleme machen?
+Also, hier kommt die Frage!\xf000븁\x0000\xfffeMit welchem der folgenden Items kannst\xfffedu ein vergiftetes Pokémon heilen?
+Gegengift
+Para-Heiler
+Aufwecker
+Bingo!\xf000븁\x0000\xfffeDamit liegst du goldrichtig!\xfffeKommen wir zur nächsten Frage.\xf000븁\x0000
+Ein paralysiertes Pokémon machst du mit\xfffeeinem Para-Heiler wieder mobil, aber...\xf000븁\x0000\xfffeEin Pokémon, das eingeschlafen ist,\xfffeweckst du womit wieder auf?
+Bingo, Bingo!\xf000븁\x0000\xfffeAbsolut richtig!\xf000븁\x0000\xfffeMit Statusproblemen kennst du dich\xfffeaus, da wird dir das hier nützen!\xf000븁\x0000
+Ein Hyperheiler ist schon was Feines!\xf000븁\x0000\xfffeSchließlich heilt er durch die Bank\xfffealle Statusprobleme!
+Falls dir doch noch nach einem kleinen\xfffeQuiz sein sollte, sprich mich einfach an!
+Buuuh!\xf000븁\x0000\xfffeDas ist leider falsch. Vielleicht weißt\xfffedu's ja beim nächsten Mal!
+Auf der Tafel stehen Erläuterungen\xfffezu den Statusproblemen, die sich\xf000븀\x0000\xfffePokémon im Kampf zuziehen können.\xf000븁\x0000
+Welche möchtest du lesen?
+Wenn ein Pokémon vergiftet wurde,\xfffewird es im Kampf ständig KP verlieren.\xf000븁\x0000\xfffeDas Gift wirkt auch noch nach dem\xfffeKampf.\xf000븁\x0000\xfffeMit einem Gegengift kann\xfffedas Pokémon geheilt werden.\xf000븁\x0000
+Eine Paralyse verringert die Initiative\xfffeeines Pokémon und hindert es gelegentlich\xf000븀\x0000\xfffedaran anzugreifen.\xf000븁\x0000\xfffeDa die Paralyse auch nach dem Kampf\xfffeweiter andauert, solltest du sie mit\xf000븀\x0000\xfffeeinem Para-Heiler aufheben.\xf000븁\x0000
+Wenn ein Pokémon einschläft,\xfffekann es nicht mehr angreifen.\xf000븁\x0000\xfffeDas Pokémon wird vielleicht von selbst\xfffewieder wach, aber wenn der Kampf endet\xf000븀\x0000\xfffeund es noch immer nicht erwacht ist,\xf000븀\x0000\xfffeschläft es weiter.\xf000븁\x0000\xfffeWecke es mit einem Aufwecker auf.\xf000븁\x0000
+Eine Verbrennung senkt die Kraft des\xfffeAngriffs und die KP nehmen ständig ab.\xf000븁\x0000\xfffeDer Brand hält auch nach dem Kampf an.\xfffeSetze einen Feuerheiler ein!\xf000븁\x0000
+Wurde ein Pokémon eingefroren,\xfffeist es völlig hilflos.\xf000븁\x0000\xfffeVielleicht taut es aus eigener Kraft\xfffewährend des Kampfes wieder auf.\xf000븁\x0000\xfffeAber ist der Kampf zu Ende, bleibt es\xfffegefroren! Setze einen Eisheiler ein.\xf000븁\x0000
+Gift
+Paralyse
+Schlaf
+Brand
+Gefroren
+Zurück

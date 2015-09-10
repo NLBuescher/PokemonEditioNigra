@@ -1,0 +1,27 @@
+Estás en el Centro de Estudios\xfffeEstacionales.\xf000븁\x0000\xfffeEl Monte Tuerca, pasada Ciudad Loza,\xfffese cubre de nieve durante el invierno.
+Hay Pokémon que cambian de aspecto con\xfffelas estaciones del año.\xf000븁\x0000\xfffe¿Podríamos considerarlo una forma\xfffeespecial de evolución?
+Nosotros estudiamos los efectos que\xfffeprovoca en la naturaleza el cambio de\xf000븀\x0000\xfffelas estaciones.\xf000븁\x0000\xfffeEn esta zona vive un Pokémon llamado\xfffe\xf000ā\x0001\x0000, ¿sabes?\xf000븁\x0000\xfffeLos \xf000ā\x0001\x0000 son famosos por cambiar\xfffede aspecto según la estación del año,\xf000븀\x0000\xfffeuna característica interesantísima.\xf000븁\x0000\xfffeNosotros queremos estudiar los efectos\xfffedel cambio estacional sobre los Pokémon.\xf000븁\x0000\xfffePara ello, contamos con un sistema\xffferevolucionario de control climático\xf000븀\x0000\xfffeautomatizado que nos permite recrear\xf000븀\x0000\xfffecualquier condición de temperatura\xf000븀\x0000\xfffey humedad, independientemente\xf000븀\x0000\xfffede la estación.\xf000븁\x0000
+Bueno...\xf000븁\x0000\xfffeHa estado muy bien la charla, pero es que\xfffeestamos muy ocupados.\xf000븁\x0000\xfffeAhora no tenemos tiempo de ir a atrapar\xfffeun \xf000ā\x0001\x0000, así que te quiero\xf000븀\x0000\xfffepedir un favor.\xf000븁\x0000\xfffeMe gustaría que atraparas un \xf000ā\x0001\x0000\xfffey lo trajeras aquí.\xf000븁\x0000\xfffeCuando hayamos confirmado que en\xfffeesta estación se pueden encontrar\xf000븀\x0000\xfffe\xf000ā\x0001\x0000, nosotros saldremos\xf000븀\x0000\xfffea buscar a otro.\xf000븁\x0000
+¿Qué me dices?\xf000븁\x0000\xfffe¿Me dejas echarle un vistazo al aspecto\xfffedel \xf000ā\x0001\x0000 que llevas contigo?
+¡La Forma Primavera de un \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeSu cuerpo y color... ¡recuerdan a\xfffeun campo florido!\xf000븁\x0000\xfffe¡Y no solo eso! ¡También desprende una\xfffefragancia floral!\xf000븁\x0000\xfffeMuchísimas gracias. ¡Voy ahora mismo a\xfffeatrapar otro \xf000ā\x0001\x0000!
+¡La Forma Verano de un \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeSu cuerpo y color... ¡recuerdan a un\xfffearbusto frondoso!\xf000븁\x0000\xfffe¡Y no solo eso! ¡También desprende una\xfffefragancia herbal!\xf000븁\x0000\xfffeMuchísimas gracias. ¡Voy ahora mismo\xfffea atrapar otro \xf000ā\x0001\x0000!
+¡La Forma Otoño de un \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeSu cuerpo y color... ¡recuerdan a un\xfffecamino cubierto de hojas caídas!\xf000븁\x0000\xfffe¡Y no solo eso! ¡También desprende una\xfffefragancia a hojas secas!\xf000븁\x0000\xfffeMuchísimas gracias. ¡Voy ahora mismo\xfffea atrapar otro \xf000ā\x0001\x0000!
+¡La Forma Invierno de un \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeSu cuerpo y color... ¡recuerdan a una\xfffemontaña que se cubre de nieve fresca!\xf000븁\x0000\xfffe¡Y no solo eso! ¡Su fragancia es fresca\xfffecomo el hielo recién formado!\xf000븁\x0000\xfffeMuchísimas gracias. ¡Voy ahora mismo\xfffea atrapar otro \xf000ā\x0001\x0000!
+¡Muchas gracias!\xf000븁\x0000\xfffePero ya había atrapado un\xfffe\xf000ā\x0001\x0000 en esa forma.
+Entiendo.\xf000븁\x0000\xfffeAunque podrías ayudar mucho a nuestra\xfffeinvestigación.
+¡Ah, eres tú!\xf000븁\x0000\xfffe¡Gracias a ti, hemos podido reunir todas\xfffelas formas estacionales de \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeAhora podremos investigar la relación que\xfffeexiste entre los Pokémon, el clima y las\xf000븀\x0000\xfffeestaciones del año.\xf000븁\x0000\xfffeMuchísimas gracias.\xf000븁\x0000\xfffeSé que no es gran cosa, pero quiero que\xfffete lleves esto.\xf000븁\x0000
+Este debe de ser el único lugar del mundo\xfffedonde es posible ver simultáneamente\xf000븀\x0000\xfffelas cuatro formas de \xf000ā\x0001\x0000.\xf000븁\x0000\xfffeCreo que vamos a terminar siendo\xfffeinseparables.
+No te ofendas, pero eso no es\xfffeun \xf000ā\x0001\x0000.
+¡Liii!
+¡Liii! ¡Liii, liii!
+¡Liii! ¡Liii!
+Liii...
+Estas vitrinas cuentan con microclimas\xfffecontrolados automáticamente.
+El cristal está frío al tacto.\xf000븁\x0000\xfffeEn el interior, las plantas dan unos\xfffefrutos preciosos.
+El cristal está muy frío al tacto.\xf000븁\x0000\xfffeEn el interior, las plantas han perdido\xfffetodas sus hojas.
+El cristal está cálido al tacto.\xf000븁\x0000\xfffeEn el interior, las plantas tienen\xfffepequeños brotes.
+El cristal está caliente al tacto.\xf000븁\x0000\xfffeEn el interior, las plantas están llenas\xfffede hojas enormes.
+La temperatura en la Ruta 6 es de \xf000ȁ\x0001\x0000 ºC.
+La temperatura en la Ruta 6 es de \xf000ȁ\x0001\x0000 ºC.
+La temperatura en la Ruta 6 es de \xf000ȁ\x0001\x0000 ºC.
+La temperatura en la Ruta 6 es de -\xf000Ȁ\x0001\x0000 ºC.

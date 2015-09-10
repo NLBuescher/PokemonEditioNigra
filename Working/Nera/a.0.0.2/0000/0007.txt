@@ -1,0 +1,21 @@
+NOME:
+LAVORO:
+HOBBY:
+TEMPO DI GIOCO:
+\xf000Ĩ\x0001\x0000
+\xf000Ĩ\x0001\x0000
+\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
+PROVENIENZA:
+\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Ringraziamenti ricevuti:\xfffeContatti stabiliti:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
+
+
+Ora del contatto: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Ora del contatto: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Sta lottando contro un \xf000ā\x0001\x0000\xfffeselvatico!
+Sta lottando contro un Pokémon speciale!
+Sta lottando contro \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000).
+Sta lottando contro un Capopalestra.
+Sta lottando contro un Allenatore\xfffespeciale.
+Sta esplorando la seguente località:\xfffe\xf000ą\x0001\x0000.

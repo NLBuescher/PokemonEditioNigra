@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+EINSETZEN
+O.K.
+ZURÜCK
+EDITIEREN
+-Neue Nachricht hinzufügen-
+WÄHLEN
+LÖSCHEN
+ZURÜCK
+Liste der registrierten Nachrichten:\xfffeEntscheide dich für eine Nachricht,\xfffedie du gern einsetzen möchtest!
+Bitte suche die Grundnachricht aus\xfffeund tippe den Ort an, an dem deine\xfffePhrase eingesetzt werden muss.
+Bitte wähle den Text aus,\xfffeden du einsetzen möchtest.
+Gruppen-Modus:\xfffeWähle unten aufgelistete\xfffeWörter oder Ausdrücke aus.
+ABC-Modus:\xfffeGib einige Buchstaben der gesuchten\xfffePhrase ein, um die Suche einzuengen.
+ABC-Modus:\xfffeBitte wähle eine Phrase aus der\xfffeTrefferliste aus.
+Wortgruppen-Modus:\xfffeBitte wähle die Wortgruppe, aus der\xfffedu eine Phrase einsetzen möchtest.

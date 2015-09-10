@@ -1,0 +1,52 @@
+SOINS
+PV/PP
+SOINS
+STATUT
+
+
+OBJETS COMBAT
+BALLS
+DERNIER OBJET UTILISÉ
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+
+SOINS
+PV/PP
+SOINS
+STATUT
+BALLS
+OBJETS COMBAT
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+UTILISER
+
+
+
+
+
+
+
+
+
+
+
+
+Impossible! On ne peut pas viser\xfffequand il y a deux Pokémon!
+Il n'y a plus de place dans le PC!
+
+Impossible! On ne peut pas viser\xfffesi aucun Pokémon n'est visible!
+
+Énergie insuffisante.
+Conseil du Professeur...\xfffeChaque chose en son temps!
+Il faut se concentrer pour bien lancer!

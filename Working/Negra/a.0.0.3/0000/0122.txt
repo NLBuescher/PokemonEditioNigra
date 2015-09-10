@@ -1,0 +1,84 @@
+Pilistilla: ¡Hooolaaa!\xfffe¡Pasa, pasa!\xf000븁\x0000
+Pilistilla: ¡Qué alegría, qué alboroto!\xfffe¡Acierta y gana con nosotros!\xf000븁\x0000\xfffeHoy contamos nada más y nada menos\xfffeque... ¡con esta personita!\xf000븁\x0000
+Xavilotodo: ¡Me alegro de verte!\xf000븁\x0000\xfffe¡Ya podemos dar comienzo a nuestro\xfffeconcurso “Acierta y gana con nosotros"!\xf000븁\x0000\xfffe¡Cuanto más aciertes, más ganarás!\xfffe¡Y ahora, la pregunta!\xf000븁\x0000
+Esoé: ¡Esooo!\xf000븁\x0000
+Xavilotodo: ¡Pregunta!\xf000븁\x0000
+Pilistilla: ¡Hala!\xf000븁\x0000\xfffe¡Qué difícil te lo ha puesto!\xfffe¿Te la sabes? ¿Te la sabes?\xf000븁\x0000
+Esoé: ¡Una pista! ¡Una pista!\xf000븁\x0000
+Xavilotodo: ¿Qué oigo?\xfffe¡El público pide una pistilla!\xf000븁\x0000
+Pilistilla: ¡Muy bien! ¡De eso ya me\xfffeencargo yo! ¡Atiende!\xf000븁\x0000
+Xavilotodo: ¡Vaya! ¡Te lo ha puesto\xfffeen bandeja! ¡Más claro, el agua!\xf000븁\x0000\xfffe¡Ahora tienes que responder!\xf000븁\x0000
+Xavilotodo: ¡Guaaau!\xfffe¡Respuesta co-rrec-tí-si-ma!\xf000븁\x0000
+Pilistilla: ¡Genial! ¡Fantástico!\xf000븁\x0000
+Esoé: ¡Fiuuu! ¡Fiuuu! ¡Ole, eso es!\xf000븁\x0000
+Xavilotodo: ¡Enhorabuena!\xfffe¡Has ganado un Antídoto!\xf000븁\x0000
+Xavilotodo: Huuuy... ¡Lástima!\xfffe¡Respuesta incorrecta!\xf000븁\x0000
+Pilistilla: Oooh... ¡Qué penica!\xf000븁\x0000
+Esoé: ¡Buen intento! ¡Venga, eso es!\xf000븁\x0000
+Xavilotodo: ¡Sí, lo has intentado!\xf000븁\x0000\xfffeA ver... Como premio de consolación,\xfffete vas a llevar... ¡un Antiparaliz!\xf000븁\x0000
+Pilistilla: ¡Qué alegría, qué alboroto!\xfffe¡Acierta y gana con nosotros!\xf000븁\x0000\xfffe¡Hasta mañana a la misma hora!
+Xavilotodo: ¿Te gustan los programas\xfffeconcurso?
+Pilistilla: ¡Quiero salir por la tele!
+Esoé: ¡Te lo has currado!
+¿Cómo se llaman las misteriosas criaturas\xfffeque habitan en nuestro mundo?\xf000븁\x0000
+¿Qué le dirías a alguien para felicitarle\xfffepor su trabajo?\xf000븁\x0000
+¿Qué es lo contrario de “analógico"?\xf000븁\x0000
+¿Con qué pagas cuando vas de compras?\xf000븁\x0000
+¿Cómo llamarías también a una pareja\xfffede enamorados?\xf000븁\x0000
+El hermano de tu padre es tu...\xf000븁\x0000
+¿Cómo se llama a la persona que enseña\xfffeen clase?\xf000븁\x0000
+¿Cómo se llaman los mensajes que pueden\xfffellevar los Pokémon? ¿Carta o Corte?\xf000븁\x0000
+Dime el nombre de un vehículo a pedales.\xf000븁\x0000
+¿Cómo se llama el combate Pokémon\xfffede dos contra dos?\xf000븁\x0000
+¿Qué objeto usarías para sacar\xfffeuna foto?\xf000븁\x0000
+¿Adónde vas cuando necesitas lavarte\xfffesi te has ensuciado?\xf000븁\x0000
+¿Cómo se llama el lugar al que llevas a\xfffetus Pokémon para que se repongan?\xf000븁\x0000
+¿Qué aumenta cuando usas Proteína?\xf000븁\x0000
+¿Cómo se llama, antes de su evolución,\xfffeel Pokémon que cambia de aspecto\xf000븀\x0000\xfffesegún las estaciones del año?\xf000븁\x0000
+¿Qué Pokémon Electrizado lanza\xfffedescargas por su crin?\xf000븁\x0000
+¿Qué Pokémon tiene dos engranajes?\xf000븁\x0000
+¿Qué Pokémon Vuelardilla destaca\xfffepor sus grandes orejas?\xf000븁\x0000
+Dime el nombre de un Pokémon Lapa.\xf000븁\x0000
+¿Sabrías decirme el nombre de\xfffeun Pokémon Torcaz?\xf000븁\x0000
+¿A qué Pokémon Mono Hierba le salen\xfffehojas de la cabeza?\xf000븁\x0000
+¿Qué Pokémon Escucha tiene\xfffemuy buen oído?\xf000븁\x0000
+¿Puedes decirme el nombre de\xfffeun Pokémon Sepultura?\xf000븁\x0000
+¿En qué se convierte Woobat\xfffeal evolucionar?\xf000븁\x0000
+¿En qué se convierte Darumaka\xfffeal evolucionar?\xf000븁\x0000
+¿Cuál es el Pokémon Socorrista que\xffferodea con sus aletas a los Pokémon\xf000븀\x0000\xfffedebilitados?\xf000븁\x0000
+¿Puedes decirme el nombre de un\xfffePokémon Duermevela?\xf000븁\x0000
+¿Cómo se llama el Pokémon Cisne\xfffede hermosas alas blancas?\xf000븁\x0000
+¿Qué Pokémon Trampa se esconde\xfffeen la arena húmeda?\xf000븁\x0000
+¿Qué movimiento te permite surcar\xfffelas aguas a lomos de un Pokémon?\xf000븁\x0000
+¿Qué día es hoy?\xf000븁\x0000
+¡Pista! Empieza por Pok.\xf000븁\x0000
+¡Pista! Puedes pedir así un bistec.\xf000븁\x0000
+¡Pista! Tiene que ver con los dedos.\xf000븁\x0000
+¡Pista! También rima con monedero.\xf000븁\x0000
+¡Pista! Es un tipo de pajarico.\xf000븁\x0000
+¡Pista! A veces llamas así a tus amigotes.\xf000븁\x0000
+¡Pista! Es un tipo de “profesión".\xf000븁\x0000
+¡Pista! No es Corte.\xf000븁\x0000
+¡Pista! Tiene dos ruedas.\xf000븁\x0000
+¡Pista! ¿Cómo se llama a una habitación\xfffepara dos?\xf000븁\x0000
+¡Pista! También puede ser lenta o rápida.\xf000븁\x0000
+¡Pista! No es la cocina.\xf000븁\x0000
+¡Pista! No es un centro comercial.\xf000븁\x0000
+¡Pista! No es la Defensa.\xf000븁\x0000
+¡Pista! I love you, my darling.\xf000븁\x0000
+¡Pista! No es un Pokémon Rayo.\xf000븁\x0000
+¡Pista! Está en la Cueva Electrorroca\xfffey suena igual que cuando se te caen\xf000븀\x0000\xfffelas llaves al suelo.\xf000븁\x0000
+¡Pista! Tiene dos tipos, y uno es Volador.\xf000븁\x0000
+¡Pista! ¿Cómo se llama la palanquita\xfffedel mando de una consola?\xf000븁\x0000
+¡Pista! Es un Pokémon muy tranquilo.\xf000븁\x0000
+¡Pista! Es más bueno que el Pan...\xf000븁\x0000
+¡Pista! Una forma de decir “sonido" es\xfffe“audio", ¿no?\xf000븁\x0000
+¡Pista! Es de tipo Fantasma.\xf000븁\x0000
+¡Pista! Su corazón es su gran encanto.\xf000븁\x0000
+¡Pista! Nos vamos a dar la manita.\xf000븁\x0000
+¡Pista! ¡Ah! ¡Cómo mola!\xf000븁\x0000
+¡Pista! Es la evolución de un Pokémon\xfffeComesueños.\xf000븁\x0000
+¡Pista! No es Juana, pero casi.\xf000븁\x0000
+¡Pista! Es de tipo Eléctrico y Tierra.\xf000븁\x0000
+¡Pista! Es un deporte de playa.\xf000븁\x0000
+¡Pista! Tiene que ver contigo.\xf000븁\x0000

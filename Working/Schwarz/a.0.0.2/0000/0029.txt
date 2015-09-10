@@ -1,0 +1,36 @@
+OPTIONEN
+TEXT-TEMPO
+ANIMATION
+KAMPFSTIL
+TON
+TEXTMODUS
+
+IR-SICHERUNG
+O.K.
+ZURÜCK
+1
+2
+3
+AN
+AUS
+TAUSCH
+FOLGE
+STEREO
+MONO
+
+
+
+
+AN
+AUS
+Wähle zwischen drei verschiedenen\xfffeTextgeschwindigkeiten.
+Wähle, ob in den Kämpfen Animationen für\xfffedie Attacken angezeigt werden sollen.
+Wähle zwischen zwei verschiedenen\xfffeKampfstilen.
+Wähle, wie das Spiel klingen soll.
+
+
+Wähle, ob du vor dem Einsatz der\xfffeInfrarotfunktion speichern möchtest.
+Es existieren bereits andere Speicherdaten.\xfffeÄnderung nicht möglich.\xf000븁\x0000
+Änderungen vornehmen?
+JA
+NEIN

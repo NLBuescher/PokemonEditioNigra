@@ -1,0 +1,16 @@
+Vittorie consecutive: \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeIl prossimo vagone sarà il numero \xf000Ȁ\x0001\x0001.\xfffeVuoi continuare la sfida?
+CONTINUA
+REGISTRA
+RIPOSA
+ABBANDONA
+Vuoi rinunciare alla sfida?
+Vuoi salvare e uscire dal gioco?
+Salvataggio in corso.\xfffeNon spegnere la console.
+Vuoi cancellare il tuo Video Lotta attuale\xfffee sostituirlo con quello dell'ultima lotta?
+In attesa di risposta da un amico...
+
+La sfida è stata interrotta.
+Registrazione del Video Lotta in corso.\xfffeNon spegnere la console.
+La lotta di \xf000Ā\x0001\x0000 è stata\xfffesalvata come Video Lotta.
+Vuoi salvare questa lotta e farla\xfffediventare un Video Lotta?
+In attesa di collegamento...

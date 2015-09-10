@@ -1,0 +1,163 @@
+INTERCAMBIAR
+ATRÁS
+MOSTRAR
+DATOS
+INTERCAMBIAR
+SALIR
+Conectando...\xfffePor favor, espera.
+
+
+
+
+
+
+
+
+
+EN EL EQUIPO
+¿Intercambias a \xf000Ă\x0001\x0000\xfffepor \xf000Ă\x0001\x0001?
+Nv. \xf000Ȃ\x0001\x0000
+
+
+
+
+
+SÍ
+NO
+
+N.º \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000
+\xf000Ă\x0001\x0000
+PS
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+Natural.
+Habilidad
+
+\xf000Ȃ\x0001\x0000 / \xf000Ȃ\x0001\x0001
+\xf000Ȃ\x0001\x0000
+\xf000Ĉ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+Movimientos
+\xf000ć\x0001\x0000
+⑭
+⑮
+¡\xf000Ā\x0001\x0000 ha enviado a \xf000Ă\x0001\x0001!
+¡Cuida bien de \xf000Ă\x0001\x0001!
+Conectando...\xfffePor favor, espera.
+Introduce la inicial del Pokémon\xfffeque buscas.
+No se ha encontrado ningún Pokémon\xfffecon esa inicial.
+\xf000봂\x0000A
+\xf000봂\x0000B
+\xf000봂\x0000C
+\xf000봂\x0000D
+\xf000봂\x0000E
+\xf000봂\x0000F
+\xf000봂\x0000G
+\xf000봂\x0000H
+\xf000봂\x0000I
+\xf000봂\x0000J
+\xf000봂\x0000K
+\xf000봂\x0000L
+\xf000봂\x0000M
+\xf000봂\x0000N
+\xf000봂\x0000O
+\xf000봂\x0000P
+\xf000봂\x0000Q
+\xf000봂\x0000R
+\xf000봂\x0000S
+\xf000봂\x0000T
+\xf000봂\x0000U
+\xf000봂\x0000V
+\xf000봂\x0000W
+\xf000봂\x0000X
+\xf000봂\x0000Y
+\xf000봂\x0000Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El intercambio ha sido cancelado.
+¡Si intercambias ese Pokémon, no podrás\xfffecontinuar tu aventura!
+El otro Entrenador ha elegido un Pokémon\xfffeque no puede ser intercambiado.
+Has elegido un Pokémon que no puedes\xfffeintercambiar.
+Este Pokémon conoce un movimiento\xfffeimportante. No puedes intercambiarlo.
+Parece que el otro Entrenador quiere\xfffeintercambiar un Pokémon contigo.
+¿Quieres terminar el intercambio?
+Esperando que el otro jugador termine...
+Huevo
+La Carta que te llevaba el Pokémon\xfffese ha enviado a tu PC.
+
+
+
+
+El otro Entrenador no puede recibir\xfffela Carta. Se cancelará el intercambio.
+
+Selecciona hasta un máximo de tres\xfffePokémon para intercambiar.
+\xf000봃\x0001\x0000Seleccionando...
+\xf000봃\x0001\x0000Seleccionado
+\xf000봃\x0001\x0000A la espera...
+Pokémon que\xfffequiere \xf000Ā\x0001\x0000
+Todos
+Los chulos
+Los bonitos
+Los aterradores
+Los raros
+Cualesquiera
+Nv. 1 a 49
+Nv. 50
+Nv. 51 a 100
+
+\xf000Ā\x0001\x0000
+\xf000Ă\x0001\x0000 será enviado a \xf000Ā\x0001\x0001.\xfffe¡Adiós, \xf000Ă\x0001\x0000!
+¡Le has devuelto el Pokémon \xf000Ă\x0001\x0000\xfffea \xf000Ā\x0001\x0001! ¡Gracias, \xf000Ă\x0001\x0000!
+¡\xf000Ā\x0001\x0000 te ha devuelto\xfffea \xf000Ă\x0001\x0001!
+¡Bienvenido, \xf000Ă\x0001\x0001!
+Petición intercambio
+Selecciona hasta un máximo de tres\xfffePokémon para intercambiar.
+¿Estás de acuerdo con este intercambio?
+Esperando a que el otro Entrenador se\xfffedecida... Espera un momento, por favor.
+Hay que elegir un Pokémon. ¿Estás\xfffeconforme con los Pokémon ofrecidos?
+El otro Entrenador ha cancelado\xfffeel intercambio.
+El otro Entrenador está de acuerdo\xfffecon el intercambio.
+¿Quieres cancelar el intercambio?
+Intercambio cancelado.
+No puedes enviarle este Pokémon\xfffeal otro Entrenador.
+Hay Pokémon que no pueden enviarse al\xfffeotro Entrenador. Vuelve a seleccionar.
+Hay Pokémon que no puedes recibir.\xfffeVuelve a seleccionar.
+Selecciona un Pokémon que quieras de\xfffeentre los que te han ofrecido.
+¿Quieres intercambiar a tu \xf000Ă\x0001\x0001\xfffepor \xf000Ă\x0001\x0000?
+El otro Entrenador ha cancelado\xfffeel intercambio. Vuelve a seleccionar.
+¿Quieres cambiar los Pokémon\xfffeque ofreces?
+Se ha cancelado el intercambio.\xfffeVuelve a seleccionar.
+Se ha cancelado el intercambio.\xfffeVuelve a seleccionar un Pokémon.
+El otro Entrenador ha cancelado el\xfffeintercambio. Selecciona un Pokémon.
+\xf000Ă\x0001\x0000 ha sido ofrecido.
+\xf000Ă\x0001\x0001 ha sido retirado.
+DESCONECTAR
+Has enviado el Pokémon \xf000Ă\x0001\x0000\xfffea \xf000Ā\x0001\x0001.
+Has recibido el Pokémon \xf000Ă\x0001\x0001\xfffede \xf000Ā\x0001\x0000.
+Error de conexión.
+Error de conexión.\xfffeError: 13280
+Error de conexión.\xfffeError: 13281
+Error de conexión.\xfffeError: 13282
+Error de conexión.\xfffeError: 13283
+???

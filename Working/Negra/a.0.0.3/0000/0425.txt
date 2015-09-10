@@ -1,0 +1,48 @@
+Iris: ¡Eh! ¿Sabes qué?\xf000븁\x0000\xfffe¡Te puedo enseñar el movimiento\xfffemás potente de tipo Dragón!\xf000븁\x0000\xfffe¿Qué me dices? ¿Quieres que se lo enseñe\xfffea alguno de tus Pokémon?
+¡Bueeeno, vaaale!\xfffePero si cambias de opinión, dímelo, ¿eh?
+Bueno, a ver...\xf000븁\x0000\xfffeEse Pokémon podría aprender\xfffeel movimiento, pero aún os queda\xf000븀\x0000\xfffeestrechar lazos.\xf000븁\x0000\xfffeAsí es muy difícil llegar a dominar\xfffecorrectamente la técnica.
+A ver, a ver... Mmm...\xf000븁\x0000\xfffeNinguno de tus Pokémon puede aprender\xfffeese movimiento.
+¿Qué Pokémon quieres que lo aprenda?\xf000븁\x0000
+Vaya, lo siento...\xfffeEste Pokémon no puede aprenderlo.
+¡¿Quéee?!\xfffe¿Enseñarle un movimiento a un Huevo?\xf000븁\x0000\xfffeBueno, vale.\xfffeYo lo intento.\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeLo siento. ¡Es imposible!
+¿Eh? Pero si...\xf000븁\x0000\xfffe¡Si este Pokémon ya conoce el movimiento\xfffe\xf000ć\x0001\x0000!
+Iris: ¡La técnica de Cometa Draco\xfffees fortísimamente fuerte!\xf000븁\x0000\xfffeTanto que, después de usarla, el Ataque\xfffeEspecial del Pokémon bajará un poquito.
+
+¡\xf000Ă\x0001\x0000 ha aprendido \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 quiere aprender\xfffe\xf000ć\x0001\x0001.\xf000븁\x0000\xfffePero \xf000Ă\x0001\x0000 no puede aprender\xfffemás de cuatro movimientos.\xf000븁\x0000\xfffe¿Quieres sustituir uno de esos\xfffemovimientos por \xf000ć\x0001\x0001?
+¿Quieres que deje de aprender\xfffe\xf000ć\x0001\x0000?
+¡\xf000Ă\x0001\x0000 no ha aprendido\xfffe\xf000ć\x0001\x0001!
+¿Quieres que olvide el movimiento\xfffe\xf000ć\x0001\x0000?
+1, \xf000븂\x0001\x00142 y...\xf000븂\x0001\x0014 ¡puf!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe¡\xf000Ă\x0001\x0000 ha olvidado cómo utilizar\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000\xfffeY...\xf000븁\x0000
+¡\xf000Ă\x0001\x0000 ha aprendido \xf000ć\x0001\x0002!
+Lirio: Si así lo deseas, puedo enseñar a\xfffetus Pokémon el movimiento más poderoso\xf000븀\x0000\xfffede tipo Dragón.\xf000븁\x0000\xfffe¿Y bien? ¿Quieres que se lo enseñe\xfffea alguno de tus Pokémon?
+Como prefieras.\xfffeVuelve si cambias de parecer.
+Lo siento.\xf000븁\x0000\xfffeTu Pokémon podría aprender este\xfffemovimiento, pero todavía no está\xf000븀\x0000\xfffelo bastante ligado a ti.\xf000븁\x0000\xfffeAsí no hay forma de que pueda\xfffeenseñárselo.
+De acuerdo.\xf000븁\x0000\xfffePero me temo que ninguno de tus Pokémon\xfffepuede aprender este movimiento.
+¿Qué Pokémon quieres que lo aprenda?\xf000븁\x0000
+Lo siento.\xf000븁\x0000\xfffeEse Pokémon no puede aprender\xfffeeste movimiento.
+Mmm...\xf000븁\x0000\xfffeCreo que va a ser un poco difícil que\xfffele enseñe un movimiento a un Huevo.
+Mmm... Este Pokémon ya conoce\xfffeel movimiento \xf000ć\x0001\x0000.
+Lirio: ¡La potencia de Cometa Draco\xfffees tremenda!\xf000븁\x0000\xfffePero el Ataque Especial del Pokémon\xfffeque lo use bajará tras usarlo.
+¿Tu anhelo de poder te ha traído\xfffehasta mí?\xf000븁\x0000\xfffeBien, recompensaré tu empeño.\xf000븁\x0000\xfffeVoy a enseñarte el movimiento que andas\xfffebuscando.\xf000븁\x0000\xfffe¡El movimiento definitivo!\xf000븁\x0000\xfffe¿Quieres que alguno de tus Pokémon\xfffelo aprenda?
+
+¡No llevas ningún Pokémon que pueda\xfffeaprender el movimiento!\xf000븁\x0000\xfffe¡No me hagas perder el tiempo! ¡Bah!
+Mmm... Como quieras.\xfffeSi cambias de idea, aquí estaré.
+¿Qué Pokémon quieres que lo aprenda?\xf000븁\x0000
+¡No puedo enseñarle un movimiento\xfffea este Pokémon!\xf000븁\x0000\xfffe¡No me hagas perder el tiempo! ¡Bah!
+¡No se le pueden enseñar movimientos\xfffea un Huevo! ¡Bah!
+¡El vínculo que os une no es lo bastante\xfffefuerte! ¡Bah!
+¡Ese Pokémon ya conoce el movimiento!\xfffe¡Bah!
+Voy a enseñarle \xf000ć\x0001\x0001 a tu\xfffe\xf000ā\x0001\x0000. ¿Vale?
+
+¡Eh, oye!\xf000븁\x0000\xfffe¿Aún llevas el Pokémon que\xfffete dio la Prof.ª Encina?\xf000븁\x0000\xfffePorque si os lleváis muy bien, puedo\xfffeenseñarle un movimiento combinado\xf000븀\x0000\xfffemuy especial.
+¿Quieres que le enseñe un movimiento\xfffecombinado especial a un Pokémon?
+Ninguno de los Pokémon que llevas\xfffepuede aprender el movimiento.
+Muy bien.\xfffe¡Hasta la próxima!
+¿Qué Pokémon quieres que lo aprenda?\xf000븁\x0000
+Ese Pokémon no puede aprender\xfffemovimientos especiales.\xf000븁\x0000\xfffe¡Solamente los Pokémon entregados por\xfffela Prof.ª Encina pueden aprenderlos!
+¿Enseñarle un movimiento a un Huevo?\xfffe¡Tú estás mal de la cabeza!
+Me parece que aún tendríais que\xfffellevaros mejor.
+¡Este Pokémon ya ha aprendido\xfffeel movimiento!
+¿Quieres enseñarle \xf000ć\x0001\x0001\xfffea \xf000ā\x0001\x0000?
+Mi Pokémon favorito es...\xf000븁\x0000\xfffe¡Me gustan todos los que da\xfffela Prof.ª Encina!\xf000븁\x0000\xfffe¡Porque todos pueden aprender\xfffemovimientos combinados especiales!\xf000븁\x0000\xfffe¿A que sí?

@@ -1,0 +1,27 @@
+Inserisci il numero del treno (da 1 a \xf000ȁ\x0001\x0000).\xf000븁\x0000
+Treno numero \xf000ȁ\x0001\x0000. Grado \xf000ȁ\x0001\x0001.\xfffeRicezione dei dati in corso.
+Non puoi salire su quel treno\xfffefino al prossimo aggiornamento.\xf000븁\x0000
+Il trasferimento dei dati è riuscito.\xf000븁\x0000
+Vuoi annullare la sfida?
+Inserisci il grado del treno (da 1 a 10).\xf000븁\x0000
+Inserisci il numero del treno (da 1 a \xf000ȁ\x0001\x0000).\xf000븁\x0000
+Invio dei dati in corso.\xfffeNon spegnere la console.
+I dati sono stati inviati.\xf000븁\x0000
+Vuoi annullare il download dei dati?
+
+
+
+Il treno Lotta Wi-Fi non è disponibile per\xfffelavori di manutenzione.\xf000븁\x0000\xfffeRiprova più tardi.\xfffe(Codice errore: 13281)\xf000븁\x0000
+Il treno Lotta Wi-Fi è molto affollato.\xf000븁\x0000\xfffeRiprova più tardi.\xfffe(Codice errore: 13282)\xf000븁\x0000
+Il treno Lotta Wi-Fi è molto affollato.\xf000븁\x0000\xfffeRiprova più tardi.\xfffe(Codice errore: 13261)\xf000븁\x0000
+Impossibile collegarsi al treno Lotta Wi-Fi.\xf000븁\x0000\xfffeRitornerai al banco accettazione.\xfffe(Codice errore: 13262)\xf000븁\x0000
+Impossibile collegarsi al treno Lotta Wi-Fi.\xf000븁\x0000\xfffeRitornerai al banco accettazione.\xfffe(Codice errore: 13266)\xf000븁\x0000
+Il collegamento al treno Lotta Wi-Fi\xfffesi è interrotto.\xf000븁\x0000\xfffeRitornerai al banco accettazione.\xfffe(Codice errore: 13264)\xf000븁\x0000
+Il collegamento al treno Lotta Wi-Fi\xfffesi è interrotto.\xf000븁\x0000\xfffeRitornerai al banco accettazione.\xfffe(Codice errore: 13267)\xf000븁\x0000
+Non è un numero valido per\xfffeil treno Lotta Wi-Fi.\xf000븁\x0000\xfffe(Codice errore: 13263)\xf000븁\x0000
+
+Si è verificato un errore di collegamento.\xf000븁\x0000\xfffe(Codice errore: 13267)\xf000븁\x0000
+C'è un problema con i Pokémon selezionati.\xf000븁\x0000
+
+
+Collegamento in corso.\xfffeAttendi...

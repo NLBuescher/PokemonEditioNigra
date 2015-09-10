@@ -1,0 +1,18 @@
+ZONA NEXO
+VIDEOMISOR
+EN LA SALA UNIÓN
+\xf000ȁ\x0001\x0000
+EVENTO DISTRIBUCIÓN
+SÍ
+NO
+
+
+
+
+
+C-GEAR DETECTADOS
+
+
+Zona Nexo\xfffeConexión
+Zona Nexo\xfffeInvitados: \xf000Ȁ\x0001\x0000
+Zona Nexo\xfffeMisión

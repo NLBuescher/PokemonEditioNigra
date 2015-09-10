@@ -1,0 +1,23 @@
+-
+Akershus
+Aust-Agder
+Buskerud
+Finnmark
+Hedmark
+Hordaland
+Isola Jan Mayen
+Isole Lofoten
+Møre og Romsdal
+Nordland
+Nord-Trøndelag
+Oppland
+Oslo
+Rogaland
+Sogn og Fjordane
+Sør-Trøndelag
+Isole Svalbard
+Telemark
+Troms
+Vest-Agder
+Vestfold
+Østfold

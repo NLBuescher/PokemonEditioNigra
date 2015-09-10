@@ -1,0 +1,107 @@
+
+Bitte Suchkriterien festlegen.
+
+
+Bitte Ordnungskriterium festlegen.
+Bitte 1. Buchstaben festlegen.
+Bitte Typ festlegen.
+Bitte Umriss festlegen.
+Bitte Farbe festlegen.
+Pokémon gefunden!
+Keine Treffer...
+Suche...
+LISTENORDNUNG
+NAME
+TYP
+FARBE
+FORM
+EINALL-POKÉDEX: SUCHE
+NATIONALER POKÉDEX: SUCHE
+
+START
+
+
+
+
+Numerisch
+A bis Z
+Schwer zuerst
+Leicht zuerst
+Groß zuerst
+Klein zuerst
+Unlicht
+Gestein
+Psycho
+Kampf
+Pflanze
+Eis
+Geist
+Boden
+Elektro
+Gift
+Drachen
+Normal
+Stahl
+Flug
+Feuer
+Wasser
+Käfer
+----
+/
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+Rot
+Blau
+Gelb
+Grün
+Schwarz
+Braun
+Violett
+Grau
+Weiß
+Rosa
+----

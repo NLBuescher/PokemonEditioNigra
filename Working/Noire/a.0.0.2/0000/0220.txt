@@ -1,0 +1,23 @@
+-
+Aquitaine
+Alsace
+Île-de-France
+Auvergne
+Corse
+Champagne-Ardenne
+Nord-Pas-de-Calais
+Basse-Normandie
+Haute-Normandie
+Picardie
+Franche-Comté
+Bourgogne
+Bretagne
+Provence-Alpes-Côte-d'Azur
+Pays de la Loire
+Poitou-Charentes
+Midi-Pyrénées
+Languedoc-Roussillon
+Limousin
+Rhône-Alpes
+Lorraine
+Centre

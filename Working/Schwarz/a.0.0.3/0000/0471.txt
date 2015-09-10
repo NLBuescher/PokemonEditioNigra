@@ -1,0 +1,97 @@
+Willkommen im Globalen Terminal!\xf000븁\x0000
+Welche Verbindung zur Nintendo Wi-Fi\xfffeConnection soll hergestellt werden?
+Bis zum nächsten Mal!
+
+Komm bitte hier entlang.\xf000븁\x0000
+Im Globalen Terminal kannst du dich über\xfffedie Nintendo Wi-Fi Connection mit Spielern\xf000븀\x0000\xfffeweltweit verbinden und zusammen mit ihnen\xf000븀\x0000\xfffePokémon-Kämpfe und den Pokémon-Tausch\xf000븀\x0000\xfffegenießen!\xf000븁\x0000\xfffeNäheres erläutert man dir gern\xfffein den verschiedenen Bereichen!\xf000븁\x0000
+Noch sind einige Vorbereitungen nötig.\xfffeKomm doch bitte später wieder!
+Du hast mindestens ein Pokémon,\xfffedas nicht gewählt werden kann.
+Fehler bei der Datenübertragung.
+Zufallsmatch
+GTS
+Musical-Schnappschuss
+Kampfvideos
+Info
+Zurück
+Möchtest du einen Pokémon-Tausch\xfffein der GTS durchführen?
+In der GTS kannst du mit Trainern\xfffeaus aller Welt Pokémon tauschen.\xf000븁\x0000\xfffeEs gibt zwei Tauscharten in der GTS:\xfffeGTS und GTS-Verhandlung, die sich\xf000븀\x0000\xfffebeide im Ablauf unterscheiden.\xf000븁\x0000
+GTS
+GTS-Verhandlung
+Info
+Zurück
+Möchtest du am weltweiten\xfffePokémon-Tausch teilnehmen?
+Ja
+Info
+Zurück
+Es gibt zwei Arten, wie der Pokémon-\xfffeTausch hier bei der GTS funktioniert.\xf000븁\x0000\xfffeDu kannst ein Pokémon zum Tausch\xfffeanbieten oder nach einem suchen.\xf000븁\x0000
+Worüber möchtest du mehr\xfffeerfahren?
+Du musst das Pokémon, das du tauschen\xfffemöchtest, auswählen.\xf000븁\x0000\xfffeDann wirst du gefragt, welches Pokémon\xfffedu im Austausch dafür haben möchtest.\xf000븁\x0000\xfffeFindet sich ein anderer Spieler, der dir\xfffedieses Pokémon im Tausch anbieten kann,\xf000븀\x0000\xfffewird der Tausch durchgeführt.\xf000븁\x0000
+Du kannst dir auch die Pokémon,\xfffedie von anderen Trainern angeboten\xf000븀\x0000\xfffewerden, ansehen.\xf000븁\x0000\xfffeDu siehst dabei auch, nach welchen\xfffePokémon diese Trainer suchen.\xf000븁\x0000\xfffeWenn du ein Pokémon entdeckst,\xfffedas du haben möchtest, musst du\xf000븀\x0000\xfffeim Tausch dafür das Pokémon anbieten,\xf000븀\x0000\xfffedas der entsprechende Trainer sucht.\xf000븁\x0000
+Pokémon anbieten
+Pokémon suchen
+Alles klar!
+Möchtest du die Verhandlungen für einen\xfffeglobalen Pokémon-Tausch beginnen?
+Ja
+Info
+Zurück
+Bei der GTS-Verhandlung legst du anhand\xfffeverschiedener Kriterien fest, was für ein\xf000븀\x0000\xfffePokémon du tauschen möchtest.\xf000븁\x0000\xfffeFindet sich dann ein Trainer mit denselben\xfffeKriterien, beginnen die Verhandlungen.\xf000븁\x0000\xfffeUm den Tausch durchzuführen, musst du\xfffemindestens zwei Pokémon bei dir haben.\xf000븁\x0000
+Worüber möchtest du mehr\xfffeerfahren?
+Beim Verhandlungstausch bieten du und\xfffedein Tauschpartner je 3 Pokémon an.\xf000븁\x0000\xfffeDann sucht sich jeder von euch ein\xfffePokémon aus den 3 angebotenen aus.\xf000븁\x0000
+Es gibt 3 Tauschkriterien:\xfffeLevel des Pokémon, welches Pokémon\xf000븀\x0000\xfffedu möchtest und welches Pokémon du\xf000븀\x0000\xfffeanbietest.\xf000븁\x0000\xfffeDu kannst mit einem Trainer tauschen,\xfffeder dieselben Kriterien ausgewählt hat.\xf000븁\x0000\xfffeDu kannst dich auch mit einem Trainer,\xfffemit dem du zuvor schon mal getauscht\xf000븀\x0000\xfffehast, zum Tausch verabreden.\xf000븁\x0000
+Verhandlungstausch
+Tauschkriterien
+Alles klar!
+Möchtest du die Kampfkamera starten?
+Hier kannst du ein mit deiner Kampfkamera\xfffeaufgenommenes Video veröffentlichen.\xf000븁\x0000\xfffeDu kannst auch Kampfvideos ansehen,\xfffedie andere Trainer veröffentlicht haben.\xf000븁\x0000\xfffeDie Kampfvideos kannst du nach Pokémon,\xfffeKampfschauplatz oder Beliebtheit ordnen.\xf000븁\x0000\xfffeDein veröffentlichtes Kampfvideo erhält\xfffeeine zwölfstellige Nummer.\xf000븁\x0000\xfffeDurch Eingabe dieser Nummer können\xfffedeine Freunde dein Kampfvideo ansehen.\xf000븁\x0000
+Ja
+Info
+Zurück
+Musical-Schnappschuss ansehen?
+Hier kannst du einen im Musiktheater von\xfffeRayono City mit deiner Kampfkamera\xf000븀\x0000\xfffeselbst aufgenommenen\xf000븀\x0000\xfffeMusical-Schnappschuss veröffentlichen.\xf000븁\x0000\xfffeDu kannst auch Schnappschüsse ansehen,\xfffedie andere Trainer veröffentlicht haben.\xf000븁\x0000
+Ja
+Info
+Zurück
+Möchtest du dich einem Zufallsmatch\xfffestellen?
+Ja
+Info
+Zurück
+Im Zufallsmatch kannst du gegen Trainer\xfffeaus aller Welt antreten.\xf000븁\x0000\xfffeEs gibt den Einzelkampf, den Doppelkampf,\xfffeden Dreierkampf, den Reihumkampf und den\xf000븀\x0000\xfffeWerferkampf.\xf000븁\x0000\xfffeDie Kämpfe können im Freien Modus oder\xfffeim Bewertungsmodus ausgetragen werden.\xf000븁\x0000\xfffeAm Freien Modus kann jeder teilnehmen.\xf000븁\x0000\xfffeUm am Bewertungsmodus teilzunehmen,\xfffemusst du die Spielsynchro aktivieren\xf000븀\x0000\xfffeund danach von deinem PC daheim aus\xf000븀\x0000\xfffedie Pokémon Global Link-Seite aufrufen.\xf000븁\x0000\xfffeDort gibst du dann die\xfffeSpielsynchro ID ein!\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe(Pokémon Global Link)\xf000븁\x0000
+Worüber möchtest du mehr\xfffeerfahren?
+Freier Modus
+Bewertungsmodus
+Besondere Regeln
+Alles klar!
+Im Freien Modus kannst du zwanglos\xfffegegen Trainer aus aller Welt kämpfen.\xf000븁\x0000\xfffeStelle dich der Herausforderung mit\xfffedeinen gut trainierten Pokémon!\xf000븁\x0000
+Der Bewertungsmodus ist für Trainer,\xfffedie es weit bringen wollen.\xf000븁\x0000\xfffeVerbinde dich und triff auf Gegner\xfffemit einer vergleichbaren Bewertung.\xf000븁\x0000\xfffeDu startest mit einer Bewertung\xfffevon 1 500.\xf000븁\x0000\xfffeGewinnst du, steigt die Bewertung,\xfffeverlierst du, sinkt sie.\xf000븁\x0000\xfffeJe höher deine Bewertung, desto besser\xfffebist du als Trainer. Also finde heraus,\xf000븀\x0000\xfffewas du auf dem Kasten hast!\xf000븁\x0000\xfffeEins musst du aber noch beachten:\xf000븁\x0000\xfffeVerbindest du dich von einem anderen\xfffeNintendo DS-System aus mit der Nintendo\xf000븀\x0000\xfffeWFC, gehen all deine Ergebnisse\xf000븀\x0000\xfffeim Bewertungsmodus verloren!\xf000븁\x0000
+Im Zufallsmatch finden einige besondere\xfffeRegeln Anwendung.\xf000븁\x0000\xfffePokémon, deren Level 51 oder höher ist,\xfffewerden auf Level 50 heruntergestuft.\xf000븁\x0000\xfffeDie Spitznamen der Pokémon werden nicht\xfffeverwendet.\xf000븁\x0000\xfffeAußerdem gibt es Zeitlimits beim Auswählen\xfffeder Pokémon und bei der Befehlsvergabe.\xf000븁\x0000\xfffeÜberschreitest du diese Zeitbegrenzung,\xfffewird automatisch eine Attacke gewählt!\xf000븁\x0000\xfffeAuch für den Kampf als Ganzes gilt ein\xfffeZeitlimit. Ist der Kampf nach Ablauf der\xf000븀\x0000\xfffeZeitbegrenzung noch nicht entschieden,\xf000븀\x0000\xfffeso wird der Sieger per Schiedsspruch\xf000븀\x0000\xfffeermittelt.\xf000븁\x0000
+Welche Art Kampf wählst du?
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Werferkampf
+Zurück
+Möchtest du dich der Herausforderung\xfffeim Einzelkampf stellen?
+Möchtest du dich der Herausforderung\xfffeim Doppelkampf stellen?
+Möchtest du dich der Herausforderung\xfffeim Dreierkampf stellen?
+Möchtest du dich der Herausforderung\xfffeim Reihumkampf stellen?
+Möchtest du dich der Herausforderung\xfffeim Werferkampf stellen?
+O.K.
+Spielregeln
+Zurück
+Für den Einzelkampf benötigst du\xfffe3 bis 6 Pokémon.\xf000븁\x0000\xfffeVor dem Kampf siehst du deine eigenen\xfffePokémon und die deines Kontrahenten.\xf000븀\x0000\xfffeJeder wählt dann 3 für den Kampf aus.\xf000븁\x0000\xfffeEs müssen 3 verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAußerdem dürfen keine besonderen\xfffePokémon oder Eier ausgewählt werden.\xf000븁\x0000
+Für den Doppelkampf benötigst du\xfffe4 bis 6 Pokémon.\xf000븁\x0000\xfffeVor dem Kampf siehst du deine eigenen\xfffePokémon und die deines Kontrahenten.\xf000븀\x0000\xfffeJeder wählt dann 4 für den Kampf aus.\xf000븁\x0000\xfffeEs müssen 4 verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAußerdem dürfen keine besonderen\xfffePokémon oder Eier ausgewählt werden.\xf000븁\x0000
+Für den Dreierkampf benötigst du\xfffe6 Pokémon.\xf000븁\x0000\xfffeVor dem Kampf siehst du deine eigenen\xfffePokémon und die deines Kontrahenten.\xf000븀\x0000\xfffeJeder wählt dann 6 für den Kampf.\xf000븁\x0000\xfffeEs müssen 6 verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAußerdem dürfen keine besonderen\xfffePokémon oder Eier ausgewählt werden.\xf000븁\x0000
+Für den Reihumkampf benötigst du\xfffe4 bis 6 Pokémon.\xf000븁\x0000\xfffeVor dem Kampf siehst du deine eigenen\xfffePokémon und die deines Kontrahenten.\xf000븀\x0000\xfffeJeder wählt dann 4 für den Kampf aus.\xf000븁\x0000\xfffeEs müssen 4 verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAußerdem dürfen keine besonderen\xfffePokémon oder Eier ausgewählt werden.\xf000븁\x0000
+Der Werferkampf ist ein Dreierkampf,\xfffebei dem der Wunderwerfer zum Einsatz\xf000븀\x0000\xfffekommt.\xf000븁\x0000\xfffeFür den Kampf benötigst du\xfffe6 Pokémon.\xf000븁\x0000\xfffeVor dem Kampf siehst du deine eigenen\xfffePokémon und die deines Kontrahenten.\xf000븀\x0000\xfffeJeder wählt dann 6 für den Kampf.\xf000븁\x0000\xfffeEs müssen 6 verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAußerdem dürfen keine besonderen\xfffePokémon oder Eier ausgewählt werden.\xf000븁\x0000
+
+
+
+
+
+
+
+
+Nanu?\xf000븁\x0000\xfffeWeder in deinem Team noch in deinen Boxen\xfffeist Platz für ein weiteres Pokémon!\xf000븁\x0000\xfffeUm die GTS nutzen zu können,\xfffemusst du erst Platz in deinem Team\xf000븀\x0000\xfffeoder in deinen Boxen schaffen.\xf000븁\x0000
+Nanu?\xf000븁\x0000\xfffeDu musst mindestens zwei Pokémon\xfffedabei haben, um die GTS zu nutzen!\xf000븁\x0000
+Nanu?\xf000븁\x0000\xfffeDu musst aber mindestens zwei Pokémon\xfffedabei haben, um die GTS-Verhandlung\xf000븀\x0000\xfffenutzen zu können!\xf000븁\x0000

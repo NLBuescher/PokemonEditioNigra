@@ -1,0 +1,12 @@
+Tu Pokémon preferido es \xf000ā\x0001\x0000,\xfffe¿a que sí?
+Tu preferido es ese Huevo,\xfffe¿a que sí?
+¡Sí! ¡Lo he adivinado!\xfffe¡Tomaaa! ¡Lo sabía!
+¡¿Cómo?!\xfffe¿Tu preferido no es \xf000ā\x0001\x0000?
+¡¿Cómo?!\xfffe¿Tu preferido no es ese Huevo?
+Quiero saber cuál es el Pokémon\xfffepreferido de todo el mundo.
+Descansamos cuando estamos cansados.\xfffe¡Somos igualitos que los Pokémon!
+¿Que cómo se reponen los Pokémon?\xfffeLo siento, pero no tengo ni idea.\xf000븁\x0000
+¿Sabes lo que es Geonet?
+¡Anda! ¡Estás usando Geonet!\xfffe¡Muy bien!\xf000븁\x0000\xfffeDeja que te enseñe algo, pero...\xfffe¡no se lo digas a nadie! ¿Vale?\xf000븁\x0000\xfffeGracias a esta tecnología punta, puedes\xfffeponerte en contacto con gente que está\xf000븀\x0000\xfffemuuuy lejos.\xf000븁\x0000\xfffe¡Y además puedes intercambiar Pokémon!\xf000븁\x0000\xfffeSi crees que te estoy tomando el pelo...\xfffe¡pruébalo! ¡Ya verás como alucinas!
+¡Anda! ¡Si conoces Geonet!\xfffe¡Muy bien!\xf000븁\x0000\xfffeDeja que te enseñe algo, pero...\xfffe¡no se lo digas a nadie! ¿Vale?\xf000븁\x0000\xfffeCuando usas Geonet, ¡queda registrada\xfffela ubicación desde la que accedes!
+En la primera planta de este Centro\xfffePokémon hay un globo terráqueo.\xf000븁\x0000\xfffeSe llama Geonet.\xf000븁\x0000\xfffeCuando usas Geonet, ¡quedará registrada\xfffela ubicación desde la que accedes!

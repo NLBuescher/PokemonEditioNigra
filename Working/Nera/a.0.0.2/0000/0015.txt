@@ -1,0 +1,200 @@
+●●
+Appare \xf000ā\x0001\x0000 selvatico!
+Appaiono \xf000ā\x0001\x0000 e \xf000ā\x0001\x0001 selvatici!
+Appare \xf000ā\x0001\x0000 selvatico!
+Appare \xf000ā\x0001\x0000 selvatico!
+Appare \xf000ā\x0001\x0000 visto in sogno!
+Appare \xf000ā\x0001\x0000!
+Parte la sfida di \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0000!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)\xfffee \xf000Ā\x0001\x0003 (\xf000Ď\x0001\x0002)!\xf000븁\x0000
+Parte la sfida di \xf000Ā\x0001\x0000 e \xf000Ā\x0001\x0001!\xf000븁\x0000
+Avanti, \xf000Ă\x0001\x0000!
+Avanti, \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!
+Avanti, \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) manda in campo\xfffe\xf000Ă\x0001\x0002!
+\xf000Ă\x0001\x0002 e \xf000Ă\x0001\x0003 vengono mandati\xfffein campo da \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) manda in campo\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003 e \xf000Ă\x0001\x0004!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001 e\xfffe\xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000 manda in campo \xf000Ă\x0001\x0001,\xfffe\xf000Ă\x0001\x0002 e \xf000Ă\x0001\x0003!
+La prossima scelta di \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000) sarà \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeVuoi cambiare Pokémon?
+Dai, \xf000Ă\x0001\x0000!
+Coraggio, \xf000Ă\x0001\x0000!
+Ancora un piccolo sforzo, \xf000Ă\x0001\x0000!\xfffeNon mollare!
+Il nemico è debole! Forza, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000, è ora! Rientra!
+\xf000Ă\x0001\x0000, rientra!
+\xf000Ă\x0001\x0000, può bastare! Rientra!
+\xf000Ă\x0001\x0000, ok! Rientra!
+\xf000Ă\x0001\x0000, bene! Rientra!
+\xf000Ă\x0001\x0002 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)!
+\xf000Ă\x0001\x0001 è stato ritirato dalla lotta da\xfffe\xf000Ā\x0001\x0000!
+Colpi inflitti: \xf000Ȁ\x0001\x0000!
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) ha usato lo\xfffestrumento \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 lancia \xf000ĉ\x0001\x0002 verso\xfffe\xf000Ă\x0001\x0001!
+Non puoi usare il Mirabilancere adesso!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffesinistra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffesinistra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffedestra!
+I Pokémon di \xf000Ā\x0001\x0000 ruotano verso\xfffedestra!
+Punti Esperienza ricevuti da \xf000Č\x0001\x0000:\xfffe\xf000Ȇ\x0001\x0001!
+Bonus Punti Esperienza ricevuto da\xfffe\xf000Č\x0001\x0000: \xf000Ȇ\x0001\x0001!
+Hai avuto la meglio su \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!
+Hai sconfitto \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000) e\xfffe\xf000Ā\x0001\x0003 (\xf000Ď\x0001\x0002)!
+La sfida è stata vinta da \xf000Ā\x0001\x0001\xfffe(\xf000Ď\x0001\x0000)!
+La sfida contro \xf000Ā\x0001\x0001 (\xf000Ď\x0001\x0000)\xfffesi è conclusa in parità!
+Hai avuto la meglio su \xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000 hanno perso\xfffela sfida!
+\xf000Ā\x0001\x0000 ha vinto la sfida!
+\xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000 hanno vinto\xfffela sfida!
+La sfida contro \xf000Ā\x0001\x0000 si è conclusa in\xfffeparità!
+La sfida contro \xf000Ā\x0001\x0001 e \xf000Ā\x0001\x0000\xfffesi è conclusa in parità!
+\xf000Ā\x0001\x0000 non ha più Pokémon disponibili!\xf000븁\x0000
+Nella confusione \xf000Ā\x0001\x0000 fa cadere\xfffe$\xf000Ȅ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha sborsato $\xf000Ȅ\x0001\x0001 al vincitore!
+\xf000Ā\x0001\x0000 non ci vede più!
+\xf000Ā\x0001\x0000 ha vinto $\xf000Ȅ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha raccolto $\xf000Ȅ\x0001\x0001!
+\xf000Č\x0001\x0000 è salito al livello \xf000Ȃ\x0001\x0001!
+Oh, no! Il Pokémon si è liberato!
+Ah! Sembrava preso, eh? E invece no!
+Grrr! Per un pelo!
+Nooo! Era così vicino!
+Preso! \xf000ā\x0001\x0000 è stato catturato!
+I dati di \xf000ā\x0001\x0000 sono stati inseriti nel\xfffePokédex.
+La Poké Ball è stata respinta! Non puoi\xfffeprendere i Pokémon altrui: è come rubare!
+Ma è inefficace!
+Cosa deve fare \xf000Č\x0001\x0000?
+Tocca a \xf000Ā\x0001\x0000. Cosa deve fare?
+\xf000븉\x0001<Ma fallisce!
+Scampato pericolo!
+Non sei riuscito a scappare!
+Non si scappa!
+\xf000Ă\x0001\x0000 selvatico è fuggito!
+Non puoi sottrarti alla lotta con un\xfffeAllenatore!
+Vuoi rinunciare all'incontro e uscire ora?
+È superefficace!
+Non è molto efficace...
+È così confuso da colpirsi da solo!
+Brutto colpo!
+Ma non ha Punti Potenza per sferrare\xfffela mossa!
+Grazie all'intervento di \xf000Ā\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 recupera Punti Salute!
+La luce solare diventa intensa!
+Inizia a piovere!
+È iniziata una tempesta di sabbia!
+Inizia a grandinare!
+La nebbia comincia ad addensarsi!
+La luce solare torna normale!
+Ha smesso di piovere!
+La tempesta di sabbia cessa!
+Ha smesso di grandinare!
+La nebbia si è diradata!
+Le condizioni climatiche non hanno più\xfffeeffetto!
+La tempesta di sabbia imperversa!
+La grandine imperversa!
+È un colpo da KO!
+\xf000ĉ\x0001\x0000 indebolisce la potenza di\xfffe\xf000ć\x0001\x0001!
+\xf000ĉ\x0001\x0000 consente di usare soltanto\xfffe\xf000ć\x0001\x0001!
+\xf000Č\x0001\x0000 può usare solo \xf000ć\x0001\x0001!
+Tutte le modifiche alle statistiche sono\xfffestate annullate!
+Ma non è successo nulla!
+\xf000Ć\x0001\x0001\xfffedi \xf000Ă\x0001\x0000
+Magnitudo 4!
+Magnitudo 5!
+Magnitudo 6!
+Magnitudo 7!
+Magnitudo 8!
+Magnitudo 9!
+Magnitudo 10!!!
+Una campana ha suonato!
+Un gradevole profumo si è diffuso nell'aria!
+I Pokémon si dividono i danni!
+La potenza del fuoco è stata indebolita!
+La potenza dell'elettricità è stata\xfffeindebolita!
+La dimensione distorta torna alla normalità!
+La gravità si intensifica!
+La gravità torna normale!
+Tutti i Pokémon che ascoltano Ultimocanto\xfffesaranno esausti in tre turni!
+Grazie a Metronomo, il Pokémon può sferrare\xfffela mossa \xf000ć\x0001\x0000!
+Naturforza risulta in \xf000ć\x0001\x0000!
+Ci sono monete sparse ovunque!
+Troppo debole! Non può creare un sostituto!
+Con Riflesso la tua squadra aumenta\xfffela propria Difesa!
+Con Riflesso il nemico aumenta la Difesa della\xfffepropria squadra!
+L'effetto di Riflesso sulla tua squadra è\xfffefinito!
+L'effetto di Riflesso sulla squadra\xfffeavversaria è finito!
+Con Schermoluce la tua squadra aumenta\xfffela propria Difesa Speciale!
+Con Schermoluce il nemico aumenta la Difesa\xfffeSpeciale della propria squadra!
+L'effetto di Schermoluce sulla tua squadra\xfffeè finito!
+L'effetto di Schermoluce sulla squadra\xfffeavversaria è finito!
+Un velo mistico ricopre la tua squadra!
+Un velo mistico ricopre la squadra\xfffeavversaria!
+La tua squadra non è più protetta da\xfffeSalvaguardia!
+La squadra avversaria non è più protetta\xfffeda Salvaguardia!
+La tua squadra è avvolta dalla nebbia!
+La squadra avversaria è avvolta dalla\xfffenebbia!
+La nebbia intorno alla tua squadra si è\xfffediradata!
+La nebbia intorno alla squadra avversaria\xfffesi è diradata!
+Comincia a soffiare Ventoincoda per la tua\xfffesquadra!
+Comincia a soffiare Ventoincoda per la\xfffesquadra avversaria!
+Ventoincoda non soffia più sulla tua\xfffesquadra!
+Ventoincoda non soffia più sulla squadra\xfffeavversaria!
+Fortuncanto protegge la tua squadra dai\xfffebrutti colpi!
+Fortuncanto protegge la squadra avversaria\xfffedai brutti colpi!
+Finito l'effetto di Fortuncanto sulla tua\xfffesquadra!
+Finito l'effetto di Fortuncanto sulla\xfffesquadra avversaria!
+Ai piedi della tua squadra c'è una trappola\xfffedi Punte!
+Ai piedi della squadra nemica c'è una\xfffetrappola di Punte!
+Ai piedi della tua squadra non c'è più\xfffela trappola di Punte!
+Ai piedi della squadra nemica non c'è più\xfffela trappola di Punte!
+Ai piedi della tua squadra c'è una trappola\xfffedi Fielepunte!
+Ai piedi della squadra nemica c'è una\xfffetrappola di Fielepunte!
+Ai piedi della tua squadra non c'è più\xfffela trappola di Fielepunte!
+Ai piedi della squadra nemica non c'è più\xfffela trappola di Fielepunte!
+La tua squadra è circondata da rocce\xfffeaguzze sospese in aria!
+La squadra avversaria è circondata da\xffferocce aguzze sospese in aria!
+Levitoroccia non ha più effetto sulla tua\xfffesquadra!
+Levitoroccia non ha più effetto sulla\xfffesquadra avversaria!
+La tua squadra è protetta da Bodyguard!
+La squadra avversaria è protetta da\xfffeBodyguard!
+La tua squadra è protetta da Anticipo!
+La squadra avversaria è protetta da\xfffeAnticipo!
+Appare un arcobaleno sulla tua squadra!
+Appare un arcobaleno sulla squadra\xfffeavversaria!
+Scompare l'arcobaleno sulla tua squadra!
+Scompare l'arcobaleno sulla squadra\xfffeavversaria!
+La tua squadra è avvolta da un muro di\xfffefiamme!
+La squadra avversaria è avvolta da un muro\xfffedi fiamme!
+Il muro di fiamme non avvolge più la tua\xfffesquadra!
+Il muro di fiamme non avvolge più la squadra\xfffeavversaria!
+La tua squadra è circondata da una palude!
+La squadra avversaria è circondata da una\xfffepalude!
+La tua squadra non è più circondata dalla\xfffepalude!
+La squadra avversaria non è più circondata\xfffedalla palude!
+I Pokémon della tua squadra non riescono\xfffea mangiare le Bacche per l'emozione!
+I Pokémon della squadra nemica non riescono\xfffea mangiare le Bacche per l'emozione!
+Ha creato una dimensione in cui Difesa e\xfffeDifesa Speciale vengono scambiate!
+La dimensione non è più alterata: Difesa e\xfffeDifesa Speciale sono tornate alla normalità!
+Ha creato una dimensione in cui svaniscono\xfffegli effetti degli strumenti!
+La dimensione non è più alterata e gli\xfffestrumenti tornano ad avere effetto!
+\xf000ĉ\x0001\x0000 incrementa la potenza di\xfffe\xf000ć\x0001\x0001!
+Il tempo è scaduto! La lotta finisce qui.
+La lotta è durata troppo a lungo, perciò la\xffferiproduzione viene interrotta qui!
+Forma Zen attivata!
+Forma Zen disattivata!
+Formidabile! Due mosse che diventano una!\xfffeChe combinazione fantastica!
+\xf000Č\x0001\x0000 non obbedisce!
+\xf000Č\x0001\x0000 sta ciondolando!
+\xf000Č\x0001\x0000 ti dà le spalle!
+\xf000Č\x0001\x0000 fa finta di niente!
+\xf000Č\x0001\x0000 ignora gli ordini!
+\xf000Č\x0001\x0000 fa un riposino!
+\xf000Č\x0001\x0000 ignora gli ordini. Sta dormendo!
+Centramento!
+Ma qui non puoi usare questo strumento!
+\xf000Č\x0001\x0000 è intrappolato da Cadutalibera!
+La lotta finisce per abbandono.
+(DEBUG) (\xf000Ȁ\x0001\x0000) Metronomo \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002

@@ -1,0 +1,17 @@
+Bienvenue à Géonet,\xfffele globe high-tech!\xf000븁\x0000
+Que voulez-vous faire?
+Vous pouvez enregistrer ici\xfffel'endroit où vous vivez.\xf000븁\x0000\xfffeCette information peut être vue par\xfffevos amis ou d'autres joueurs via\xf000븀\x0000\xfffela communication sans fil DS ou\xf000븀\x0000\xfffevia la connexion Wi-Fi Nintendo.\xf000븁\x0000\xfffeVoulez-vous enregistrer l'endroit où\xfffevous vivez?
+Veuillez sélectionner l'endroit où\xfffevous vivez.
+Veuillez sélectionner la région dans\xfffelaquelle vous vivez.
+Une fois l'enregistrement terminé, vous\xfffene pourrez plus changer ces données.\xf000븁\x0000\xfffeVoulez-vous enregistrer ces données?
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+OUI
+NON
+VOIR LIEUX
+ENREGISTRER
+RETOUR
+VOIR
+Lieu enregistré:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Pour afficher un lieu enregistré, placez\xfffele curseur et appuyez sur le bouton X.
+FERMER

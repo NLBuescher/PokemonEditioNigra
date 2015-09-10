@@ -1,0 +1,8 @@
+La strada diritta è molto veloce, ma se\xfffedovessi deviare ti ritroveresti in un\xf000븀\x0000\xfffelabirinto intricato.\xf000븁\x0000\xfffeQuale dei due percorsi seguirai per\xfffeattraversare il Bosco Girandola?
+Artemisio: Da questo punto inizia il Bosco\xfffeGirandola.\xf000븁\x0000\xfffeSe si sono rifugiati da queste parti, sarà\xfffedifficile trovarli.\xf000븁\x0000
+Ehi, Allenatore in viaggio!\xfffeTi occupi a sufficienza dei tuoi Pokémon?\xf000븀\x0000\xfffeTi regalo una cosa che potrebbe servirti!\xf000븁\x0000
+Spaccaroccia è una mossa che a volte\xfffeabbassa la Difesa dell'avversario.\xf000븁\x0000\xfffeÈ molto efficace contro i Pokémon di tipo\xfffeNormale, i preferiti dal Capopalestra\xf000븀\x0000\xfffeAloé!
+C'è una roccia dimostrativa...\xf000븁\x0000\xfffeVuoi chiedere a \xf000Ă\x0001\x0000 di spaccarla?
+\xf000Ă\x0001\x0000 ha cercato di spaccare\xfffela roccia dimostrativa!\xf000븁\x0000\xfffeSe n'è staccato un frammento!\xf000븁\x0000
+C'è una roccia dimostrativa.
+Per il Bosco Girandola\xfffeHai abbastanza Antidoti?

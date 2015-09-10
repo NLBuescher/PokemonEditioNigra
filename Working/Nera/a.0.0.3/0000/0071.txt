@@ -1,0 +1,27 @@
+Dalla Stazione Ruotadentata puoi\xfffeprendere il Metrò Lotta!
+Questo è il Metrò Lotta!\xf000븁\x0000\xfffeCome indica il nome, è una metropolitana\xfffedove gli Allenatori possono lottare.
+Nel Metrò Lotta ci sono sette binari.\xf000븁\x0000\xfffeAll'inizio, però, si può salire solo sui\xfffetreni delle Lotte in Singolo, in Doppio e\xf000븀\x0000\xfffeMultipla!
+Nel Metrò Lotta ci sono sette binari.\xf000븁\x0000\xfffePer salire sui supertreni bisogna\xfffeimpegnarsi molto!
+Ehi, senti!\xf000븁\x0000\xfffeMi insegni la tua frase preferita oppure\xfffequello che diresti dopo una vittoria\xf000븀\x0000\xfffeo una sconfitta?
+Bene! Allora insegnami la tua frase\xfffepreferita prima di una lotta!\xf000븁\x0000
+Bene! Allora dimmi che cosa dici quando\xfffeperdi!\xf000븁\x0000
+Bene! Allora dimmi che cosa dici quando\xfffevinci!\xf000븁\x0000
+Bene! Allora dimmi che cosa dici quando hai\xfffebattuto tutti!\xf000븁\x0000
+Ho capito, grazie!\xfffeDunque, \xf000Ĝ\x0001\x0000...
+Eh? Non vuoi dirmelo?\xfffeChe peccato...
+Grazie! Mi diresti un'altra cosa?
+Ho capito, grazie!
+Frase preferita
+Dopo una vittoria
+Dopo una sconfitta
+Quando ho battuto tutti
+Non voglio dire niente
+Treno Lotta in Singolo
+Treno Lotta in Doppio
+Treno Lotta Multipla
+Treno Lotta Wi-Fi
+Supertreno Lotta in Singolo
+Supertreno Lotta in Doppio
+Supertreno Lotta Multipla
+Treno diretto a Roteolia
+Lavori in corso

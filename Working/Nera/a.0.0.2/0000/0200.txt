@@ -1,0 +1,350 @@
+SALUTA
+DISEGNA
+LOTTA
+SCAMBIA
+ESCI
+GIRAUOVO
+
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ti ha contattato.\xf000븂\x0001\x000f
+La comunicazione è stata interrotta.
+In attesa di risposta da \xf000Ā\x0001\x0000.\xf000븂\x0001\x000f
+La comunicazione è stata interrotta.
+Ti è stato offerto di vedere la Scheda\xfffeAllenatore di \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeVuoi mostrare la tua?
+Questa è la Scheda Allenatore di\xfffe\xf000Ā\x0001\x0000, che vive qui:\xf000븁\x0000\xfffe\xf000ĥ\x0001\x0004,\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Questa è la Scheda Allenatore di\xfffe\xf000Ā\x0001\x0000, che vive qui:\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Questa è la Scheda Allenatore di\xfffe\xf000Ā\x0001\x0000, che vive qui:\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+Questa è la Scheda Allenatore di\xfffe\xf000Ā\x0001\x0000.\xf000븂\x0001<
+Attendi che l'altro giocatore finisca.
+Hai rifiutato l'offerta.
+\xf000Ā\x0001\x0000 ti ha invitato a disegnare\xfffeinsieme.\xf000븁\x0000\xfffeVuoi accettare?
+
+Hai rifiutato l'offerta.
+
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Singolo senza nessuna restrizione.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Singolo con le regole della Lotta Pari.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Doppio senza nessuna restrizione.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Doppio con le regole della Lotta Pari.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Triplo senza nessuna restrizione.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffein Triplo con le regole della Lotta Pari.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffea Rotazione senza nessuna restrizione.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffea Rotazione con le regole della Lotta Pari.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffeMultipla senza nessuna restrizione.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+\xf000Ā\x0001\x0000 ti ha sfidato ad una Lotta\xfffeMultipla con le regole della Lotta Pari.\xf000븁\x0000\xfffeVuoi accettare?\xf000븁\x0000
+
+Hai rifiutato l'offerta.
+\xf000Ā\x0001\x0000 ti ha offerto di fare uno\xfffescambio.\xf000븁\x0000\xfffeVuoi accettare?
+Ha inizio lo scambio.\xf000븂\x0001<
+Hai rifiutato l'offerta.
+Per fare uno scambio ti servono almeno\xfffedue Pokémon.
+\xf000Ā\x0001\x0000 ti ha invitato a scambiare dati.\xf000븁\x0000\xfffeVuoi accettare?
+
+
+\xf000Ā\x0001\x0000 ti ha invitato a una partita\xfffedi Girauovo.\xf000븁\x0000\xfffeVuoi accettare?
+
+Hai rifiutato l'offerta.
+Non hai alcun Uovo. L'invito è stato\xffferifiutato.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeSono \xf000Ā\x0001\x0000! Che cosa vuoi fare?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeSono \xf000Ā\x0001\x0000! Vuoi fare qualcosa?
+Scusa, ma ho qualcos'altro da fare.\xfffeSarà per la prossima volta!
+Oh, sono spiacente, ma ho altro da fare.\xfffeUn'altra volta, ok?
+Che cosa vuoi fare?
+Che cosa vuoi fare?
+L'Allenatore ha da fare.
+L'Allenatore ha da fare.
+\xf000Ā\x0001\x0000 non risponde...
+\xf000Ā\x0001\x0000 non risponde...
+Senz'altro! Lascia che ti mostri la mia\xfffeScheda Allenatore come segno di amicizia.
+Ti mostrerò la mia Scheda Allenatore come\xfffeforma di presentazione.
+Dov'è finita la mia Scheda Allenatore?!\xf000븁\x0000\xfffeScusa, te la mostrerò un'altra volta.
+Ma dove avrò mai messo la mia Scheda\xfffeAllenatore?!\xf000븁\x0000\xfffeScusa, te la farò vedere più tardi!
+Ti mostrerò la mia Scheda Allenatore come\xfffeforma di presentazione.
+Ci stiamo mostrando le rispettive Schede\xfffeAllenatore per conoscerci.
+Spero che faremo amicizia!
+Piacere di conoscerti.
+Vuoi disegnare insieme a me? Ok, ma devi\xfffeaspettare un attimo.
+Vuoi disegnare con me? Va bene. Aspetta\xfffesolo un secondo.
+
+
+Mi dispiace, ma ora proprio non posso.\xfffeSarà per un'altra volta!
+Oh, mi dispiace! Disegneremo qualche altra\xfffevolta!
+\xf000Ā\x0001\x0000: Stiamo disegnando proprio\xfffein questo momento.\xf000븁\x0000\xfffeAh, già! \xf000Ā\x0001\x0001, ti andrebbe di\xfffedisegnare con noi?
+\xf000Ā\x0001\x0000: Stiamo disegnando proprio\xfffein questo momento.\xf000븁\x0000\xfffeAh, già! \xf000Ā\x0001\x0001, ti andrebbe di\xfffedisegnare con noi?
+Oh, va bene. Torna a trovarmi quando vuoi!
+Oh beh, torna quando vuoi!
+Ok! Aspetta un attimo.
+Va bene! Aspetta un secondo.
+Ok! Disegniamo insieme!\xf000븂\x0001<
+Ok! Grazie di avere aspettato! Disegniamo!\xf000븂\x0001<
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Ah, ho capito! L'ultima lettera che disegni\xfffetu deve essere la prima che disegno io?
+Wow! Sei molto abile!
+Smettila di disegnare facce strane!\xfffeMi spancio dalle risate!
+Ah ah ah! E questo cos'è?!
+Wow! Sei abile! Cercherò di imitarti!
+Adoro disegnare! Potrei farlo per ore!
+Eh? E quello cos'è? Dovrei essere io?
+Oops! Non riesco a stare dentro le linee!
+Una lotta? Va bene! Dammi solo un momento!
+Una lotta? Va bene! Ma ho bisogno di\xfffeun momento per prepararmi.
+Scusa, t'ho fatto attendere! Diamo inizio\xfffealla lotta!\xf000븂\x0001<
+Scusa se ti ho fatto aspettare.\xfffeCominciamo!\xf000븂\x0001<
+Scusa, ma i miei Pokémon non si sentono\xfffemolto bene al momento.\xf000븀\x0000\xfffeLotteremo un'altra volta!
+Mi spiace, ma i miei Pokémon non si sentono\xfffebene in questo momento.\xf000븀\x0000\xfffeSarà per un'altra volta!
+\xf000Ā\x0001\x0000: Stiamo per dare inizio ad una\xfffeLotta Multipla.\xf000븁\x0000\xfffeAh, già! \xf000Ā\x0001\x0001, ti andrebbe di\xfffelottare con noi?
+\xf000Ā\x0001\x0000: Stiamo per dare inizio ad una\xfffeLotta Multipla.\xf000븁\x0000\xfffeAh, già! \xf000Ā\x0001\x0001, ti andrebbe di\xfffelottare con noi?
+Oh, va bene. Torna a trovarmi quando vuoi!
+Oh beh, torna quando vuoi!
+Ok! Aspetta un attimo.
+Va bene! Aspetta un secondo.
+Ok! Grazie per avere aspettato! Lottiamo!\xf000븂\x0001<
+Ok! Grazie per avere aspettato! Lottiamo!\xf000븂\x0001<
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Spiacente! Sarà per un'altra volta!
+
+
+Ti ho visto: sei forte!
+Quel Pokémon è davvero notevole!
+Ho visto la mossa che hai usato! Proprio\xfffeun'ottima strategia!
+Proprio la mossa giusta!
+Stupefacente! Chi se lo aspettava?!
+Incredibile! Come fai a lottare così bene?
+Come hai fatto ad usare quel Pokémon\xfffein una situazione simile?
+Sai perfettamente quando sostituire\xfffei Pokémon!
+Vuoi fare uno scambio? Aspetta solo\xfffeun attimo.
+Uno scambio? Perché no! Ma dammi un\xfffesecondo.
+
+
+Spiacente, ma al momento non ho Pokémon\xfffeda scambiare.\xf000븁\x0000\xfffeFaremo uno scambio un'altra volta.
+Spiacente, ma non ho Pokémon da scambiare\xfffeal momento.\xf000븁\x0000\xfffeLo faremo un'altra volta!
+Grandioso! Proprio il Pokémon che volevo!
+Sto facendo uno scambio di Pokémon.
+Era tanto che volevo avere proprio questo\xfffePokémon!
+Finalmente ho avuto il Pokémon che volevo\xfffegrazie a uno scambio!
+Non puoi fare uno scambio se hai solo un\xfffePokémon con te.\xf000븁\x0000
+Non puoi fare uno scambio se hai solo un\xfffePokémon con te.\xf000븁\x0000
+Quando vorrai trattare di nuovo con me,\xfffefammi un fischio.
+Quando vorrai trattare di nuovo con me,\xfffefammi un fischio.
+
+
+
+
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Spiacente! Sarà per un'altra volta!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Girauovo? Certo! Però aspetta un attimo!
+Girauovo? Ma certo! Dammi un attimo!
+
+
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Spiacente! Sarà per un'altra volta!
+Per partecipare a Girauovo devi avere\xfffeun Uovo.\xf000븁\x0000
+Per giocare a Girauovo ti serve un Uovo.\xf000븁\x0000
+\xf000Ā\x0001\x0000, ora giocheremo a Girauovo.\xf000븁\x0000\xfffeEhi, \xf000Ā\x0001\x0001! Vuoi giocare anche tu?
+\xf000Ā\x0001\x0000, stiamo per giocare a\xfffeGirauovo.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, vuoi unirti a noi e giocare?
+Oh, va bene. Torna a trovarmi quando vuoi!
+Oh beh, torna quando vuoi!
+Ok! Aspetta un attimo.
+Va bene! Aspetta un secondo.
+Ok! Giochiamo a Girauovo!\xf000븂\x0001<
+Ok! Giochiamo insieme a Girauovo!\xf000븂\x0001<
+Eh? Non hai nemmeno un Uovo? Torna\xfffequando ne avrai uno.
+Eh? Non hai nemmeno un Uovo? Quando\xfffene avrai uno, torna pure.
+Oh, mi dispiace, ma ho veramente molto\xfffeda fare al momento.\xf000븀\x0000\xfffeUn'altra volta, va bene?
+Spiacente! Sarà per un'altra volta!
+Nella tua squadra c'è un Uovo, ma non può\xfffeessere scambiato.
+Nella tua squadra c'è un Uovo, ma non può\xfffeessere scambiato.
+Nella tua squadra c'è un Uovo, ma non può\xfffeessere scambiato.\xf000븁\x0000
+Nella tua squadra c'è un Uovo, ma non può\xfffeessere scambiato.\xf000븁\x0000
+Giocare a Girauovo è divertentissimo!
+Stiamo giocando a Girauovo!
+Ehi, fermati là!
+Ah! Si è spostato di nuovo!
+Il mio Uovo è favoloso!
+Quell'Uovo lo volevo...
+Sì! Ho ottenuto l'Uovo che volevo!
+Se non avessi continuato, avrei ottenuto\xfffeuna Bacca.
+Ti do il benvenuto nella Sala Contatto!\xf000븁\x0000\xfffeSe hai bisogno di aiuto, sono a tua\xfffedisposizione!\xf000븁\x0000
+
+Quale argomento vuoi che ti spieghi?
+Esistono cinque modalità di lotta.\xf000븁\x0000\xfffeLa Lotta in Singolo è per due Allenatori\xfffecon uno o più Pokémon ciascuno.\xf000븁\x0000\xfffeOgni Allenatore può mandare in campo\xfffeun Pokémon alla volta.\xf000븁\x0000\xfffeLa Lotta in Doppio è per due Allenatori\xfffecon in campo due Pokémon ciascuno.\xf000븁\x0000\xfffeOgni Allenatore può mandare in\xfffecampo due Pokémon alla volta.\xf000븁\x0000\xfffeLa Lotta in Triplo è per due Allenatori\xfffecon in campo tre Pokémon ciascuno.\xf000븁\x0000\xfffeOgni Allenatore può mandare in\xfffecampo tre Pokémon alla volta.\xf000븁\x0000\xfffeLa Lotta a Rotazione è per due Allenatori\xfffecon tre Pokémon ciascuno.\xf000븁\x0000\xfffeOgni Allenatore mette un Pokémon\xfffedavanti e due in retroguardia.\xf000븁\x0000\xfffeLa Lotta Multipla è per quattro\xfffeAllenatori che lottano due contro due.\xf000븁\x0000\xfffeOgni Allenatore può mandare in\xfffecampo un Pokémon alla volta.\xf000븁\x0000
+Potrai scambiare Pokémon con gli altri\xfffegiocatori.\xf000븁\x0000\xfffePiù persone incontrerai, più Pokémon\xffferari potrai trovare!\xf000븁\x0000
+
+Nel Girauovo, ciascun partecipante porta\xfffeun Uovo da scambiare con gli altri.\xf000븁\x0000\xfffeQuale Uovo otterrai alla fine?\xfffeQuale Pokémon ci sarà nell'Uovo?\xf000븀\x0000\xfffeUna sfida divertente ed emozionante!\xf000븁\x0000\xfffePossono partecipare fino a cinque\xfffegiocatori. Invita i tuoi amici!\xf000븁\x0000
+Avrai la possibilità di disegnare insieme\xfffeai tuoi amici.\xf000븁\x0000\xfffePotrete farlo tutti sullo stesso\xfffefoglio.\xf000븁\x0000\xfffeUn disegno fatto in questo modo sarà\xfffeun capolavoro indimenticabile!\xf000븁\x0000\xfffeCosa aspetti? Prova a disegnare con i\xfffetuoi amici! Fino a cinque persone insieme!\xf000븁\x0000
+Selezionando CHAT dal menu, potrai\xfffepartecipare a una conversazione\xf000븀\x0000\xfffecon altre persone.\xf000븁\x0000\xfffeForza, entra nella Sala Contatto e\xfffeincontra altri giocatori!\xf000븁\x0000\xfffeScopri i gusti degli altri e svela loro\xfffei tuoi.\xf000븁\x0000\xfffeEntra nel gruppo, chatta e conosci\xfffetanti nuovi amici!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOTTA
+SCAMBIA
+
+GIRA
+DISEGNA
+CHAT
+INDIETRO
+Stai parlando con \xf000Ā\x0001\x0000...
+Scusa ma ho qualcos'altro da fare.\xfffeSarà per la prossima volta!
+
+
+
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+¡Hola!
+H-e-l-l-o-!
+안녕하세요
+LOTTE PER DUE
+LOTTE PER QUATTRO
+ESCI
+LOTTA IN SINGOLO
+LOTTA IN DOPPIO
+LOTTA IN TRIPLO
+LOTTA A ROTAZIONE
+OK
+REGOLE
+INDIETRO
+
+SENZA RESTRIZIONI
+LOTTA PARI
+MIRABILANCERE SÌ
+MIRABILANCERE NO
+INDIETRO
+Modalità di lotta:\xf000봅\x0001s \xf000\xff00\x0001\x0002Lotta in Singolo\xf000\xff00\x0001\x0000
+Modalità di lotta:\xf000봅\x0001s \xf000\xff00\x0001\x0002Lotta in Doppio\xf000\xff00\x0001\x0000
+Modalità di lotta:\xf000봅\x0001s \xf000\xff00\x0001\x0002Lotta in Triplo\xf000\xff00\x0001\x0000
+Modalità di lotta:\xf000봅\x0001s \xf000\xff00\x0001\x0002Lotta a Rotazione\xf000\xff00\x0001\x0000
+Modalità di lotta:\xf000봅\x0001sLotta Multipla
+Regole:\xf000봅\x0001s \xf000\xff00\x0001\x0002Senza restrizioni\xf000\xff00\x0001\x0000
+Regole:\xf000봅\x0001s \xf000\xff00\x0001\x0002Lotta Pari\xf000\xff00\x0001\x0000
+Mirabilancere:\xf000봅\x0001s \xf000\xff00\x0001\x0002Sì\xf000\xff00\x0001\x0000
+Mirabilancere:\xf000봅\x0001s \xf000\xff00\x0001\x0002No\xf000\xff00\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le condizioni non sono state soddisfatte.\xfffeNon puoi partecipare.
+Attendi...\xfffePremi il pulsante B per annullare.
+Scegli i Pokémon da far scendere in campo.\xf000븂\x0001<
+Scegli tre Pokémon da mandare in campo.\xf000븂\x0001<
+Scegli quattro Pokémon da mandare\xfffein campo.\xf000븂\x0001<
+Scegli sei Pokémon da mandare in campo.\xf000븂\x0001<
+Scegli al massimo tre Pokémon da mandare\xfffein campo.\xf000븂\x0001<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non conosco questo gioco. Non posso\xfffepartecipare.
+Non posso lottare, perché non soddisfo\xfffele condizioni.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interruzione del collegamento in corso.\xfffeAttendi...\xf000븂\x0001<
+
+La lotta verrà interrotta. Vuoi procedere\xfffecomunque?
+SQUADRA
+BOX LOTTA
+L'Allenatore non è disponibile.
+
+
+
+
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda normale!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda di bronzo!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda di rame!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda d'argento!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda d'oro!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda bianca!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda nera!
+\xf000Ā\x0001\x0000 ti mostra la sua Scheda\xfffeAllenatore!\xf000븁\x0000\xfffeÈ una scheda mai vista prima!

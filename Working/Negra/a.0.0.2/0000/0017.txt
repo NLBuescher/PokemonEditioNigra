@@ -1,0 +1,52 @@
+RESTAURAR
+PS/PP
+CURACIÓN
+ESTADOS
+
+
+OBJ. COMBATE
+POKÉ BALLS
+ÚLTIMO OBJETO USADO
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+
+RESTAURAR
+PS/PP
+CURACIÓN
+ESTADOS
+POKÉ BALLS
+OBJ. COMBATE
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+USAR
+
+
+
+
+
+
+
+
+
+
+
+
+¡No tiene efecto! ¡No se puede apuntar\xfffecuando hay dos Pokémon!
+¡No queda sitio en el PC!
+
+¡Es difícil apuntar a un Pokémon que\xfffeno está a la vista!
+
+No tienes suficiente energía.
+Las palabras de la Prof.ª Encina te vienen\xfffea la memoria: “¡Cada cosa en su momento!".
+¡Hay que estar concentrado para poder\xfffeapuntar bien!

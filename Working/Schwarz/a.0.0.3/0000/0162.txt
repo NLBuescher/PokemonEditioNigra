@@ -1,0 +1,8 @@
+Bleibst du auf dem Pfad, geht's ganz fix.\xfffeBiegst du falsch ab, gerätst du\xf000븀\x0000\xfffein ein natürliches Labyrinth!\xf000븁\x0000\xfffeFindest du deinen Weg\xfffedurch den Ewigenwald?
+Artie: Vor uns liegt der Ewigenwald!\xf000븁\x0000\xfffeWenn sie sich da hineinflüchten, macht\xfffedas die Sache nicht gerade leichter!\xf000븁\x0000
+Hallo, du Trainer auf Wanderschaft!\xfffeTrainierst du deine Pokémon auch fleißig?\xf000븀\x0000\xfffeHier, ein kleines Geschenk für dich!\xf000븁\x0000
+Mit der Attacke Zertrümmerer kannst\xfffedu eventuell den Verteidigungs-Wert\xf000븀\x0000\xfffedes Gegners senken.\xf000븁\x0000\xfffeDie Arenaleiterin Aloe hat ja lauter\xfffePokémon vom Typ Normal und gegen\xf000븀\x0000\xfffedie wirkt diese Attacke Wunder!
+Dort ist ein Trainingsfelsen...\xf000븁\x0000\xfffeOb ihn dein \xf000Ă\x0001\x0000 kleinkriegt?
+Dein \xf000Ă\x0001\x0000 hat versucht,\xfffeden Trainingsfelsen zu zertrümmern!\xf000븁\x0000\xfffeEin kleines Stück ist dabei abgesplittert!\xf000븁\x0000
+Dort ist ein Trainingsfelsen...
+In dieser Richtung: Ewigenwald\xf000븁\x0000\xfffe\xfffeHast du auch genug Gegengift dabei?

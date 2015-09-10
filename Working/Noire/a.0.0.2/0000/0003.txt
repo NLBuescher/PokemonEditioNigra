@@ -1,0 +1,140 @@
+UTILISER
+JETER
+ENREGISTRER
+DONNER
+
+OK
+MARCHER
+
+RETOUR
+
+
+
+
+
+
+
+VOIR
+
+DÉSENREGISTRER
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sélection: \xf000ĉ\x0001\x0000
+
+
+
+Impossible de tenir \xf000ĉ\x0001\x0000!
+
+
+
+
+
+En jeter combien?
+Vous jetez \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Voulez-vous jeter\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Conseil du Professeur...\xfffe\xf000Ā\x0001\x0000, chaque chose en son temps!
+Impossible de descendre de\xfffeBicyclette ici.
+Conseil du Professeur...\xfffe\xf000Ā\x0001\x0000, chaque chose en son temps!
+
+CT activée!
+CS activée!
+Elle contient \xf000ć\x0001\x0000.\xf000븁\x0000\xfffeSouhaitez-vous apprendre \xf000ć\x0001\x0000\xfffeà un Pokémon?
+\xf000Ā\x0001\x0000 utilise\xfffe\xf000ĉ\x0001\x0001!
+Le Repousse précédent est\xfffetoujours actif!
+
+
+
+
+\xf000봂\x0000CT\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+
+\xf000봂\x0000CS\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+
+
+
+
+
+\xf000ĉ\x0001\x0000? Oh, non.\xfffeJe ne peux pas acheter ça.
+\xf000ĉ\x0001\x0000? Combien voulez-vous\xfffeen vendre?
+Je peux vous en donner \xf000Ȇ\x0001\x0000 $.\xfffeÇa vous va?
+Cette vente vous a rapporté \xf000Ȇ\x0001\x0001 $.
+Argent
+\xf000Ȇ\x0001\x0000 $
+
++ \xf000Ȇ\x0001\x0000 $
+
+
+
+
+
+PP
+POUVOIR
+PRÉCISION
+CATÉGORIE
+\xf000ȁ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+
+
+
+
+
+
+TYPE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+OUI
+NON
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+Vide
+
+
+Objets rangés!
+\xf000Ē\x0001\x0000

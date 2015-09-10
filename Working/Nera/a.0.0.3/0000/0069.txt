@@ -1,0 +1,15 @@
+N: \xf000븉\x0001\x0001Ehi! Stai cercando il Team Plasma?\xf000븁\x0000\xfffeSono scappati da quella parte, verso\xfffeil luna park. Seguimi.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Non ci sono...\xf000븁\x0000\xfffeSaliamo sulla ruota panoramica. Forse\xfffedall'alto riusciremo a individuarli.\xf000븁\x0000\xfffeA me piace molto la ruota.\xf000븁\x0000\xfffeLa sua dinamica, il movimento circolare...\xfffeÈ un concentrato di splendide formule\xf000븀\x0000\xfffematematiche...\xf000븉\x0001\x0000\xf000븁\x0000
+Seguace Plasma: N!\xf000븁\x0000
+Seguace Plasma: Tutto bene?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Tutto bene, sì.\xf000븁\x0000\xfffeÈ mio dovere proteggere chi vuole\xfffeveramente il bene dei Pokémon.\xf000븁\x0000\xfffeMentre io lotto, voi allontanatevi\xfffein fretta da qui.\xf000븁\x0000\xfffeAllora, \xf000Ā\x0001\x0000, capisci il mio piano?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Mi auguro che la tua risposta sia\xfffesincera. Ne sarei felice.\xf000븁\x0000\xfffeHo un futuro ben chiaro in mente.\xf000븁\x0000\xfffeNon voglio sconfiggerti, ma ti affronterò\xfffecomunque, per permettere al Team Plasma\xf000븀\x0000\xfffedi fuggire.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Capisco... Peccato.\xf000븁\x0000\xfffeHo un futuro ben chiaro in mente.\xf000븁\x0000\xfffeNon voglio sconfiggerti, ma ti affronterò\xfffecomunque, per permettere al Team Plasma\xf000븀\x0000\xfffedi fuggire.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Sei forte...\xf000븁\x0000\xfffeMa il futuro va cambiato, e questo\xfffespetta a me!\xf000븉\x0001\x0000\xf000븁\x0000
+Sconfiggerò anche il Campione e\xfffediventerò imbattibile... senza rivali.\xf000븁\x0000\xfffeFarò in modo che tutti gli Allenatori\xfffeliberino i loro Pokémon!\xf000븁\x0000\xfffeTu speri di stare sempre insieme ai tuoi\xfffePokémon? È questo il tuo desiderio?\xf000븁\x0000\xfffeE allora colleziona le Medaglie delle varie\xfffecittà e poi dirigiti alla Lega Pokémon!\xf000븁\x0000\xfffeUna volta là, prova a fermarmi!\xf000븁\x0000
+\xf000븉\x0001\x0001Se il tuo spirito non è saldo, non ce la\xfffefarai mai a fermarmi.\xf000븉\x0001\x0000\xf000븁\x0000
+Le montagne russe fanno girare la testa!\xfffeNon riesco ancora a fermarmi!
+La ruota panoramica gira e rigira!\xfffeE poi sale e risale!
+Per quanto si invecchi, il luna park\xffferimane un luogo che riempie di gioia.
+Hai visto? C'è un pagliaccio!
+Palestra di Sciroccopoli\xf000븁\x0000\xfffe\xfffeCapopalestra: Camelia\xfffeUna beltà splendente

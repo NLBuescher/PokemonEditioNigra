@@ -1,0 +1,107 @@
+
+Introduce los criterios de búsqueda.
+
+
+Introduce el criterio de ordenación.
+Introduce la inicial del nombre.
+Introduce el tipo de Pokémon.
+Introduce una silueta.
+Introduce el color del Pokémon.
+¡Se han obtenido resultados!
+No se ha encontrado ningún Pokémon.
+Buscando...
+ORDENACIÓN
+NOMBRE
+TIPO
+COLOR
+SILUETA
+Búsqueda en Pokédex de Teselia
+Búsqueda en Pokédex Nacional
+
+BUSCAR
+
+
+
+
+POR NÚMERO
+A-Z
+PESADO-LIGERO
+LIGERO-PESADO
+ALTO-BAJO
+BAJO-ALTO
+SINIESTRO
+ROCA
+PSÍQUICO
+LUCHA
+PLANTA
+HIELO
+FANTASMA
+TIERRA
+ELÉCTRICO
+VENENO
+DRAGÓN
+NORMAL
+ACERO
+VOLADOR
+FUEGO
+AGUA
+BICHO
+------
+/
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+ROJO
+AZUL
+AMARILLO
+VERDE
+NEGRO
+MARRÓN
+MORADO
+GRIS
+BLANCO
+ROSA
+------

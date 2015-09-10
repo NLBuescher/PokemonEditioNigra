@@ -1,0 +1,37 @@
+Ich bin der Pensionsleiter hier.\xf000븁\x0000\xfffeIch kümmere mich um die wertvollen\xfffePokémon der Trainer.\xf000븁\x0000\xfffeWenn ich eins deiner Pokémon\xfffeaufziehen soll, sprich mit meiner Frau.
+Schön, dich zu sehen!\xfffeDeinem \xf000Ă\x0001\x0000 geht es gut!
+Schön, dich zu sehen!\xf000븁\x0000\xfffeDeinem \xf000Ă\x0001\x0000 und\xfffedeinem \xf000Ă\x0001\x0001 geht es gut!\xf000븁\x0000\xfffeDie beiden scheinen sich sehr zu mögen.
+Schön, dich zu sehen!\xf000븁\x0000\xfffeDeinem \xf000Ă\x0001\x0000 und\xfffedeinem \xf000Ă\x0001\x0001 geht es gut!\xf000븁\x0000\xfffeDie beiden scheinen sich zu vertragen.
+Schön, dich zu sehen!\xf000븁\x0000\xfffeDeinem \xf000Ă\x0001\x0000\xfffeund deinem \xf000Ă\x0001\x0001 geht es gut!\xf000븁\x0000\xfffeDie beiden mögen sich aber nicht sehr.
+Schön, dich zu sehen!\xf000븁\x0000\xfffeDeinem \xf000Ă\x0001\x0000\xfffeund deinem \xf000Ă\x0001\x0001 geht es gut!\xf000븁\x0000\xfffeAber die beiden scheinen lieber mit\xfffeanderen Pokémon zu spielen\xf000븀\x0000\xfffeals miteinander...
+Ach, du bist es!\xf000븁\x0000\xfffeWir haben deine Pokémon aufgezogen und\xfffedabei eine ziemliche Überraschung erlebt!\xf000븁\x0000\xfffeDeine Pokémon hatten auf einmal ein Ei!\xf000븁\x0000\xfffeWir wissen nicht, wo es hergekommen ist,\xfffees war - schwupps - einfach da!\xf000븁\x0000\xfffeDu möchtest es doch sicher haben?
+\xf000Ā\x0001\x0000 erhält das Ei vom\xfffePensionsleiter.
+Kümmere dich gut darum!
+Sieht nicht so aus, als ob du noch Platz\xfffedafür hättest... komm wieder, wenn du\xf000븀\x0000\xfffeein bisschen Platz geschaffen hast.
+Dann werde ich es eben behalten.\xfffeOder möchtest du es doch haben?
+Gut, dann werde ich es eben behalten.\xfffeDanke!
+Ich bin die Pensionsleiterin.\xfffeWir ziehen Pokémon für dich auf.\xf000븁\x0000\xfffeNa, sollen wir eins bei uns aufnehmen?
+Ich bin die Pensionsleiterin.\xfffeWir ziehen Pokémon für dich auf.\xf000븁\x0000\xfffeWeswegen bist du denn heute hier?
+Gut.\xfffeKomm bald wieder!
+Oh, hallo!\xfffeMein Mann hat dich schon gesucht.
+Wenn du dieses Pokémon hierlässt,\xfffewomit willst du denn dann kämpfen?\xf000븁\x0000\xfffeKomm einfach später wieder!
+Welches Pokémon sollen\xfffewir für dich aufziehen?\xf000븁\x0000
+Hm, hm...\xfffeDas ist doch nur ein Ei!
+Fein, dann kümmern wir uns also mal\xfffeein Weilchen um dein \xf000Ă\x0001\x0000!\xf000븁\x0000
+Komm wieder vorbei, wenn ein wenig\xfffeZeit ins Land gegangen ist!
+Wir nehmen auch zwei Pokémon bei uns auf.\xfffeWillst du noch eins in Pflege geben?
+Deinem Pokémon geht es gut.\xfffeMöchtest du es wieder an dich nehmen?
+Dein \xf000ā\x0001\x0000 ist um \xf000ȁ\x0001\x0001 Level\xfffegewachsen.\xf000븁\x0000
+Wenn du dein \xf000ā\x0001\x0000 wieder mitnehmen\xfffewillst, kostet das \xf000Ȅ\x0001\x0001 $.\xf000븀\x0000\xfffeNimmst du es wieder an dich?
+Du hast nicht genug Geld...
+\xf000Ā\x0001\x0001 hat \xf000ā\x0001\x0000 von der\xfffePensionsleiterin zurückerhalten.\xf000븁\x0000
+Möchtest du das andere auch wieder\xfffean dich nehmen?
+Wie bitte?\xfffeAber, aber...\xf000븁\x0000\xfffeWenn du das Pokémon bei mir lässt, dann\xfffehast du ja nur noch ein einziges bei dir!\xf000븁\x0000\xfffeWas hältst du davon, wenn du noch ein\xfffepaar Pokémon fängst und dann wieder\xf000븀\x0000\xfffevorbeikommst?
+
+Pokémon hierlassen
+Pokémon an dich nehmen
+Zurück
+
+\xf000ā\x0001\x0000 ♂ Ｌv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000 ♀ Ｌv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000 Ｌv. \xf000Ȃ\x0001\x0001

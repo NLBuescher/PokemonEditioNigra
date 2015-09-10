@@ -1,0 +1,3 @@
+Sollen alle gespeicherten Daten\xfffegelöscht werden?
+Sobald die Daten gelöscht wurden, können\xfffesie nicht mehr wiederhergestellt werden.\xf000븁\x0000\xfffeDen Löschvorgang trotzdem fortsetzen?
+Alle Daten werden gelöscht.\xfffeBitte nicht das System ausschalten.

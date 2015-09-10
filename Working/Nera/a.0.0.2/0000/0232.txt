@@ -1,0 +1,69 @@
+Impossibile collegarsi alla\xfffeNintendo Wi-Fi Connection.\xfffe\xfffePer informazioni, consulta\xfffeil manuale di istruzioni del\xfffesoftware o visita il sito Internet\xfffesupport.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+La Nintendo Wi-Fi Connection\xfffesta registrando un alto volume\xfffedi traffico o il servizio è\xfffemomentaneamente interrotto.\xfffeRiprova più tardi.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Questo ID per la Nintendo Wi-Fi\xfffeConnection è stato cancellato\xfffeperché non è stato usato per\xfffemolto tempo.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Il servizio Nintendo Wi-Fi\xfffeConnection per questo software\xfffenon è più disponibile.\xfffeVisita il sito Internet\xfffesupport.nintendo.com per una\xfffelista dei software compatibili con\xfffela Nintendo Wi-Fi Connection.\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+L'access point è occupato.\xfffeNon puoi collegarti.\xfffeRiprova più tardi.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Nessun access point nell'area\xfffedi copertura. Riprova quando\xfffeti troverai nelle vicinanze di\xfffeun access point.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Nessun access point compatibile\xfffenell'area di copertura. Verifica\xfffele impostazioni di connessione\xfffee riprova.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Impossibile collegarsi alla chiave\xfffeUSB Wi-Fi Nintendo. Verifica le\xfffeimpostazioni di connessione nella\xfffeconfigurazione della Nintendo\xfffeWi-Fi Connection.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Impossibile collegarsi alla\xfffeNintendo Wi-Fi Connection.\xfffeVerifica le impostazioni di\xfffeconnessione e riprova.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Nessuna risposta.\xfffeIl giocatore non è collegato\xfffealla Nintendo Wi-Fi Connection,\xfffeoppure non sei più nel suo\xfffeBlocco Amici.\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Errore di comunicazione.\xfffeCollegamento alla Nintendo\xfffeWi-Fi Connection interrotto.\xfffe\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Il download non è riuscito.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Errore di comunicazione.\xfffeCollegamento alla Nintendo\xfffeWi-Fi Connection interrotto.
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com
+Si è verificato un errore.\xfffeImpossibile utilizzare\xfffela Nintendo Wi-Fi Connection.\xfffeSpegni la console e riprova.\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Le tue informazioni utente\xfffedella Nintendo Wi-Fi Connection\xfffepotrebbero essere state cancellate.\xfffeVerifica le impostazioni di connessione\xfffenei dati di configurazione della\xfffeNintendo Wi-Fi Connection.
+Vuoi collegarti alla\xfffeNintendo Wi-Fi Connection?
+La Nintendo Wi-Fi Connection\xfffeconsidera la tua scheda di gioco e\xfffela console come un'unica entità.\xfffeVuoi salvare le informazioni\xfffeutente della Nintendo Wi-Fi\xfffeConnection di questa console nella\xfffescheda di gioco e collegarti\xfffealla Nintendo Wi-Fi Connection?
+Le informazioni utente della\xfffeNintendo Wi-Fi Connection di\xfffequesta console sono state\xfffesalvate nella scheda di gioco.\xfffeDa questo momento, per\xfffecollegarti alla Nintendo Wi-Fi\xfffeConnection con questa scheda\xfffedovrai utilizzare questa console.
+Impossibile collegarsi alla\xfffeNintendo Wi-Fi Connection perché\xfffele informazioni utente della\xfffeNintendo Wi-Fi Connection\xfffesalvate nella console non\xfffecorrispondono a quelle della\xfffescheda di gioco.
+Vuoi aggiornare le informazioni\xfffeutente della Nintendo Wi-Fi\xfffeConnection salvate nella\xfffescheda di gioco?\xfffeSe aggiorni le informazioni utente,\xfffetutti i dati usati finora per\xfffecollegarti alla Nintendo Wi-Fi\xfffeConnection andranno perduti.
+Vuoi davvero collegarti alla Nintendo Wi-Fi\xfffeConnection e aggiornare le informazioni\xfffeutente della Nintendo Wi-Fi Connection?\xfffe\xfffeAttenzione!\xfffeTutti i nomi registrati nel tuo Blocco Amici\xfffee il Punteggio della Lotta in modalità\xfffeAbbinamento a Caso verranno cancellati.
+Collegamento alla Nintendo Wi-Fi\xfffeConnection in corso. Attendi...
+
+Vuoi scollegarti dalla\xfffeNintendo Wi-Fi Connection?
+Scollegamento dalla Nintendo\xfffeWi-Fi Connection in corso.
+Collegamento alla Nintendo Wi-Fi\xfffeConnection interrotto.\xf000븂\x0001d
+SÌ
+NO
+Salvataggio in corso.\xfffeNon spegnere la console.
+
+Configura la connessione a Internet\xfffeselezionando Internet nelle Impostazioni\xfffedella console. Per informazioni, visita\xfffeil sito Internet support.nintendo.com
+
+Per usufruire di questo servizio,\xfffedevi accettare l'Accordo per l'utilizzo\xfffedei servizi Internet Nintendo DSi che\xfffetrovi nelle Impostazioni della console.\xfffe(Codice errore: 50599)
+\xf000봂\x0000Collegamento alla Nintendo WFC
+\xf000봂\x0000Scollegamento dalla Nintendo WFC
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe\xfffeVuoi ricollegarti alla\xfffeNintendo Wi-Fi Connection?
+Vuoi davvero eseguire l'aggiornamento?\xfffe\xfffeAttenzione!\xfffeIn questo modo abbandonerai la Gara Wi-Fi\xfffealla quale stai partecipando.
+La comunicazione wireless è disattivata.\xfffePer attivarla, vai alle Impostazioni della\xfffeconsole.\xfffe(Codice errore: 50699)
+Il collegamento con l'altro giocatore\xfffeè stato interrotto.
+Errore di comunicazione.\xfffeSpegni la console.
+Le tue informazioni utente della Nintendo\xfffeWi-Fi Connection potrebbero essere state\xfffecancellate. Verifica la configurazione della\xfffeconnessione selezionando Internet nelle\xfffeImpostazioni della console. Per informazioni,\xfffevisita il sito Internet support.nintendo.com
+La Nintendo Wi-Fi Connection considera\xfffei dati di salvataggio e la console Nintendo\xfffeDSi come un'unica entità. Vuoi salvare le\xfffeinformazioni utente della Nintendo Wi-Fi\xfffeConnection di questa console in questi\xfffedati di salvataggio e collegarti alla\xfffeNintendo Wi-Fi Connection?
+Le informazioni utente della Nintendo\xfffeWi-Fi Connection di questa console\xfffeNintendo DSi sono state salvate nei\xfffedati di salvataggio. Da questo momento,\xfffeutilizza questa console per collegarti alla\xfffeNintendo Wi-Fi Connection.
+Impossibile collegarsi alla Nintendo\xfffeWi-Fi Connection perché le informazioni\xfffeutente della Nintendo Wi-Fi Connection\xfffesalvate nella console Nintendo DSi non\xfffecorrispondono a quelle dei dati di\xfffesalvataggio.
+Vuoi aggiornare le informazioni utente\xfffedella Nintendo Wi-Fi Connection salvate\xfffenei dati di salvataggio? Se aggiorni le\xfffeinformazioni utente, tutti i dati usati finora\xfffeper collegarti alla Nintendo Wi-Fi Connection\xfffeandranno perduti.
+Impossibile collegarsi alla Nintendo\xfffeWi-Fi Connection. Per informazioni,\xfffeconsulta il manuale di istruzioni della\xfffeconsole Nintendo DSi o visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Questo ID per la Nintendo Wi-Fi Connection\xfffeè stato cancellato perché non è stato usato\xfffeper molto tempo. Per informazioni, consulta\xfffeil manuale di istruzioni della console\xfffeNintendo DSi o visita il sito Internet\xfffesupport.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Nessun access point compatibile nell'area\xfffedi copertura. Verifica la configurazione\xfffedella connessione selezionando Internet\xfffenelle Impostazioni della console e riprova.\xfffePer informazioni, visita il sito Internet\xfffesupport.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Impossibile collegarsi alla Nintendo Wi-Fi\xfffeConnection. Verifica la configurazione della\xfffeconnessione selezionando Internet nelle\xfffeImpostazioni della console e riprova.\xfffePer informazioni, visita il sito Internet\xfffesupport.nintendo.com\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Si è verificato un errore. Impossibile\xfffeutilizzare la Nintendo Wi-Fi Connection.\xfffeRiavvia la console e riprova.\xfffe(Codice errore: \xf000Ȅ\x0001\x0000)
+Errore di comunicazione del server.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13201)
+Errore di comunicazione del server.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13202)
+Errore di comunicazione.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13203)
+Errore di comunicazione.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13204)
+Errore di comunicazione del server.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13205)
+Il servizio non è più disponibile.\xfffe\xfffe(Codice errore: 13206)
+Errore di comunicazione.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13207)
+Errore di comunicazione del server.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13208)
+Errore di comunicazione.\xfffeRiprova. Se il problema persiste,\xfffeconsulta la sezione “Risoluzione\xfffedei problemi" del manuale di istruzioni.\xfffe\xfffe(Codice errore: 13209)
+
+Il server è occupato.\xfffeNon puoi collegarti.\xfffeRiprova più tardi.\xfffe\xfffe(Codice errore: 13211)
+Il servizio è in fase di manutenzione.\xfffePer informazioni, visita il sito\xfffePokémon Global Link:\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffe(Codice errore: 13212)
+Errore di comunicazione. Scollegamento\xfffedalla Nintendo Wi-Fi Connection in corso.
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: 13280)
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: 13281)
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: 13282)
+Errore di comunicazione.\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xfffe(Codice errore: 13283)

@@ -1,0 +1,22 @@
+Ich beschäftige mich hier mit der\xfffeErforschung von Pokémon-Fossilien.\xf000븁\x0000
+Du besitzt ja ein Fossil! Soll ich es\xfffewieder zu einem Pokémon machen?
+Welches Fossil soll ich wieder\xfffezu einem Pokémon machen?
+Alles klar!\xf000븁\x0000\xfffeIch mache aus dem \xf000ĉ\x0001\x0000\xfffewieder ein Pokémon!\xf000븁\x0000
+Du möchtest aus dem Fossil also doch kein\xfffePokémon wiederherstellen? Auch recht!
+
+Das Fossil, das du mir anvertraut hast,\xfffeist wieder zu einem Pokémon geworden!\xf000븁\x0000\xfffeGenauer gesagt zu einem \xf000ā\x0001\x0000!\xfffeSei bitte immer gut zu ihm!\xf000븁\x0000
+\xf000Ā\x0001\x0000 erhält\xfffeein \xf000ā\x0001\x0001!
+Möchtest du dem erhaltenen \xf000ā\x0001\x0000\xfffeeinen Spitznamen geben?
+Hoppla! Du kannst momentan leider\xfffekein weiteres Pokémon mitnehmen.\xf000븁\x0000\xfffeIch passe hier aber gut darauf auf.\xfffeDu kannst es dir ja demnächst abholen!
+Solltest du in den Besitz eines Fossils\xfffegelangen, dann komm damit zu mir!
+\xf000ĉ\x0001\x0000
+\xf000ĉ\x0001\x0001
+Wurzelfossil
+Klauenfossil
+Helixfossil
+Domfossil
+Altbernstein
+Panzerfossil
+Kopffossil
+Zurück
+B-bitte... \xfffeB-bitte komm ein andermal wieder...

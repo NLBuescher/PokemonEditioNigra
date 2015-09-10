@@ -1,0 +1,9 @@
+Bon... Bon...\xfffeJe suis le Spécialiste des Noms.\xf000븁\x0000\xfffeVeux-tu que j'examine les surnoms\xfffeque tu as donnés à tes Pokémon?
+Bon... Bon...\xfffeQuel surnom de Pokémon veux-tu\xf000븀\x0000\xfffeque j'examine?\xf000븁\x0000
+Ho... Ho... \xf000Ă\x0001\x0000...\xfffeCe n'est pas un mauvais surnom...\xf000븁\x0000\xfffeMais on peut lui en trouver un\xfffelégèrement meilleur...\xf000븁\x0000\xfffeQu'en dis-tu?
+Bien...\xfffeQuel va être son nouveau surnom?\xf000븁\x0000
+Bon!\xfffeDorénavant, le surnom de ce Pokémon\xf000븀\x0000\xfffesera \xf000Ă\x0001\x0000!\xf000븁\x0000\xfffeC'est un meilleur nom, tu ne trouves pas?
+Entendu.\xfffeReviens une autre fois!
+Bon!\xfffeDorénavant, le surnom de ce Pokémon\xf000븀\x0000\xfffesera \xf000Ă\x0001\x0000!\xf000븁\x0000\xfffeComment? Ça ne change pas vraiment?\xfffeCe n'est qu'une impression.\xf000븁\x0000\xfffeSon nouveau nom est meilleur\xfffeque l'ancien!
+Hmmm...\xfffe\xf000Ă\x0001\x0000...\xf000븁\x0000\xfffeC'est un surnom parfait, fais-moi\xfffeconfiance, je m'y connais.\xf000븁\x0000\xfffePrends soin de \xf000Ă\x0001\x0000.
+Mais... Mais...\xfffeMais ce n'est qu'un Œuf.

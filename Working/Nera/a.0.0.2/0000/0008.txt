@@ -1,0 +1,68 @@
+\xf000ȁ\x0001\x0000
+Tot. contatti: \xf000Ȅ\x0001\x0000 
+Chi ringrazi?
+Hai ringraziato \xf000Ā\x0001\x0000!
+Vuoi usare \xf000đ\x0001\x0001?\xfffePassabilie necessarie: \xf000Ȃ\x0001\x0002\xfffePassabilie disponibili: \xf000Ȃ\x0001\x0003
+Vuoi usare \xf000đ\x0001\x0001 che\xfffe\xf000Ā\x0001\x0000 ha attivato?
+Attivazione di Passapotere speciale!\xfffeVuoi usare \xf000đ\x0001\x0001?
+Hai usato \xf000đ\x0001\x0001!
+Non hai abbastanza Passabilie per\xfffeusare questo Passapotere.\xfffeNecessarie: \xf000Ȃ\x0001\x0002 / Possedute: \xf000Ȃ\x0001\x0003
+Stai usando \xf000đ\x0001\x0001.\xfffeSecondi rimanenti: \xf000ȁ\x0001\x0005.
+Stai usando \xf000đ\x0001\x0001.\xfffeMinuti rimanenti: \xf000Ȃ\x0001\x0004:\xf000ȁ\x0001\x0005.
+Hai detto: “\xf000Ĝ\x0001\x0000"!
+VEDI
+SÌ
+NO
+OK
+CHIUDI
+Come va?
+\xf000Ā\x0001\x0000 è nei paraggi.
+\xf000Ā\x0001\x0000 ha iniziato a combattere\xfffecontro \xf000ā\x0001\x0001 selvatico!
+\xf000Ā\x0001\x0000 ha sconfitto \xf000ā\x0001\x0001\xfffeselvatico!
+\xf000Ā\x0001\x0000 ha iniziato a lottare contro\xfffeun Pokémon speciale!
+\xf000Ā\x0001\x0000 ha sconfitto il Pokémon\xfffespeciale!
+\xf000Ā\x0001\x0000 ha sfidato \xf000Ā\x0001\x0002\xfffe(\xf000Ď\x0001\x0001)!
+\xf000Ā\x0001\x0000 ha sconfitto \xf000Ā\x0001\x0002\xfffe(\xf000Ď\x0001\x0001)!
+\xf000Ā\x0001\x0000 ha sfidato un Capopalestra!
+\xf000Ā\x0001\x0000 ha sconfitto il Capopalestra!
+\xf000Ā\x0001\x0000 ha sfidato un Allenatore\xfffespeciale!
+\xf000Ā\x0001\x0000 ha sconfitto l'Allenatore\xfffespeciale!
+\xf000Ā\x0001\x0000 ha sfidato un Allenatore\xfffespeciale!
+\xf000Ā\x0001\x0000 ha sconfitto l'Allenatore\xfffespeciale!
+\xf000Ā\x0001\x0000 ha catturato \xf000ā\x0001\x0001\xfffeselvatico!
+\xf000Ā\x0001\x0000 ha catturato un Pokémon\xfffespeciale!
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 è salito\xfffedi livello!
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 si è evoluto\xfffein \xf000ā\x0001\x0001!
+Dummy Message
+\xf000Ā\x0001\x0000 ha trovato lo strumento\xfffe\xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha giocato per più di \xf000Ȃ\x0001\x0001 ore!
+\xf000Ā\x0001\x0000 ha completato il suo Pokédex!
+\xf000Ā\x0001\x0000 ha ricevuto più di \xf000Ȃ\x0001\x0001\xffferingraziamenti!
+\xf000Ā\x0001\x0000 è all'ingresso della Sala\xfffeContatto.
+\xf000Ā\x0001\x0000 ti ringrazia!
+È attualmente in corso la distribuzione\xfffedi \xf000ā\x0001\x0001!
+È attualmente in corso la distribuzione\xfffedi \xf000ĉ\x0001\x0001!
+È attualmente in corso la distribuzione\xfffedi un Dono Segreto!
+L'attacco sferrato da \xf000Ă\x0001\x0002 di\xfffe\xf000Ā\x0001\x0000 ha prodotto un brutto colpo!
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 ha subito\xfffeun brutto colpo!
+\xf000Ā\x0001\x0000 se la dà a gambe!
+A \xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 rimangono\xfffepochi PS!
+A \xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 rimangono\xfffepochi PP!\xfffe
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 è esausto!
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 ha problemi\xfffedi stato!\xfffe
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 usa \xf000ć\x0001\x0001!
+\xf000Ā\x0001\x0000 ha ricevuto un Uovo.
+Dall'Uovo di \xf000Ā\x0001\x0000 è nato\xfffe\xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 sta facendo acquisti.\xfffe
+\xf000Ā\x0001\x0000 sta affrontando una sfida\xfffenel Metrò Lotta.
+\xf000Ā\x0001\x0000 è alla sua \xf000Ȁ\x0001\x0001ª vittoria\xfffeconsecutiva nel Metrò Lotta!
+\xf000Ā\x0001\x0000 ha ricevuto un Trofeo\xfffenel Metrò Lotta!
+\xf000Ā\x0001\x0000 sta affrontando una sfida\xfffenella Casa Esami.
+\xf000Ā\x0001\x0000 ha ottenuto la seguente\xfffequalifica nella Casa Esami:\xfffe“\xf000Ɓ\x0001\x0001".
+\xf000Ā\x0001\x0000 è sulla ruota panoramica.
+\xf000Ā\x0001\x0000 è nel Pokétrasporto.
+\xf000Ă\x0001\x0002 di \xf000Ā\x0001\x0000 si sta\xfffeesibendo nel Pokémon Musical.\xfffe
+\xf000Ā\x0001\x0000 usa \xf000đ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha detto: “\xf000Ĝ\x0001\x0001".
+Dummy message

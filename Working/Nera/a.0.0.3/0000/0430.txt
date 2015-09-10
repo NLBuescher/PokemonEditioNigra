@@ -1,0 +1,69 @@
+Komor: Ehi, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeNon vedo l'ora che la Prof.ssa Aralia mi\xfffedia il mio primo Pokémon!\xf000븁\x0000
+...\xf000븁\x0000\xfffeBelle non è ancora arrivata. Tanto per\xfffecambiare!\xf000븁\x0000
+Belle: Eccomi! Scusateee! Vi ho fatto\xfffeaspettare?\xf000븁\x0000
+Komor: Belle!\xf000븁\x0000\xfffeMa è possibile che tu sia sempre in\xffferitardo? E proprio oggi, poi?!\xf000븁\x0000\xfffeHai dimenticato che non è una giornata\xfffequalsiasi?\xf000븁\x0000\xfffeOggi finalmente riceveremo dei Pokémon\xfffedalla Prof.ssa Aralia!\xf000븁\x0000
+Belle: Hai ragione, mi dispiace!\xf000븁\x0000
+Belle: Beh, dove sono i Pokémon?\xf000븁\x0000\xfffeQuesta è casa tua, \xf000Ā\x0001\x0000, quindi\xfffescegli prima tu!\xf000븁\x0000
+Komor: Giusto.\xf000븁\x0000
+I nostri Pokémon ci stanno aspettando\xfffedentro quel pacco regalo!\xf000븁\x0000\xfffeForza, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDai, aprilo! Non sto più nella pelle!
+Komor: Ehi, dove pensi di andare senza\xfffeprima aver aperto il pacco regalo?!\xf000븁\x0000
+Komor: Perché non dai un'occhiata al\xfffepacco regalo?\xf000븁\x0000\xfffeSono sicuro che anche i Pokémon non\xfffevedono l'ora di incontrarci!
+Belle: Chissà che Pokémon saranno?
+\xf000Ā\x0001\x0000 apre il pacco regalo!\xf000븁\x0000
+In questo pacco troverete tre\xfffePokémon diversi. Sceglietene\xfffeuno a testa senza litigare.\xfffeA presto!\xfffe                        Prof.ssa Aralia
+
+
+
+\xf000봂\x0000Contiene \xf000ā\x0001\x0001,\xfffe\xf000봂\x0000un Pokémon di tipo Acqua!
+\xf000봂\x0000Contiene \xf000ā\x0001\x0001,\xfffe\xf000봂\x0000un Pokémon di tipo Fuoco!
+\xf000봂\x0000Contiene \xf000ā\x0001\x0001,\xfffe\xf000봂\x0000un Pokémon di tipo Erba!
+Seleziona una Poké Ball.
+È questo il Pokémon che vuoi?
+Conferma!
+SÌ
+NO
+\xf000Ā\x0001\x0000 riceve \xf000ā\x0001\x0001!
+Belle: Allora io scelgo questo Pokémon!\xfffeE quello lì, invece, è per te, Komor!\xf000븁\x0000
+Komor: Ehi, non vale decidere anche per\xfffegli altri!\xf000븁\x0000\xfffeVabbè, \xf000ā\x0001\x0001 era comunque il\xfffePokémon che volevo.\xf000븁\x0000
+Belle: Perfetto, ognuno ha il suo Pokémon\xfffeadesso! Quindi...\xf000븁\x0000\xfffeFacciamo subito una bella lotta!\xf000븁\x0000
+Komor: Belle, anche se questi Pokémon\xfffenon sono ancora fortissimi, non possiamo\xf000븀\x0000\xfffefarli lottare in casa!\xf000븁\x0000
+Belle: Non ti preoccupare! Come hai detto\xfffeanche tu, i Pokémon sono ancora deboli!\xf000븁\x0000\xfffeSe non li facciamo lottare un po', non\xfffediventeranno mai forti!\xf000븁\x0000\xfffeForza, iniziamo subito!\xf000븁\x0000
+
+Il pacco regalo è vuoto...
+
+
+
+
+
+Belle: Noooo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, diventerai un Allenatore\xfffedavvero in gamba un giorno!\xf000븁\x0000\xfffeNe sono proprio sicura!\xf000븁\x0000
+Belle: Oooh!\xf000븁\x0000\xfffeEro talmente concentrata a far usare le\xfffemosse migliori al mio Pokémon che non\xf000븀\x0000\xfffemi sono resa conto di aver vinto!\xf000븁\x0000
+Komor: ...\xf000븁\x0000\xfffeGuardate che avete combinato!\xf000븁\x0000
+Belle: Cosa?! Co-Cos'è successo?!\xf000븁\x0000
+Questi Pokémon fanno proprio sul serio!\xfffeNon si direbbe, piccini come sono!\xf000븁\x0000\xfffeSono proprio felice di avere un Pokémon\xfffetutto mio!\xf000븁\x0000\xfffeScusa per la tua stanza, \xf000Ā\x0001\x0000...\xf000븁\x0000
+Komor: Te l'avevo detto io.\xf000븁\x0000\xfffeSu, lascia che rimetta in sesto il tuo\xfffePokémon.\xf000븁\x0000
+Komor ha rimesso in sesto il Pokémon di\xfffeBelle!
+Lascia che rimetta in sesto anche il tuo\xfffePokémon, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Komor ha rimesso in sesto il Pokémon di\xfffe\xf000Ā\x0001\x0000!
+Komor: Complimenti! Non è da tutti vincere\xfffesenza perdere PS, i Punti Salute!\xf000븁\x0000\xfffePerò i Punti Potenza, o PP, sono calati,\xfffevedo.\xf000븁\x0000
+Belle: Ehi, Komor! Perché non fai una\xfffelotta anche tu?\xf000븁\x0000\xfffeSei talmente in gamba con i Pokémon che\xffferiuscirai a evitare di fare una baraonda\xf000븀\x0000\xfffecome me!\xf000븁\x0000
+Komor: È poco ma sicuro!\xf000븁\x0000\xfffeSono capace di lottare senza mettere la\xfffestanza sottosopra!\xf000븁\x0000\xfffeE poi non è giusto che vi divertiate solo\xfffevoi!\xf000븁\x0000
+
+
+
+
+Dai, fatti sotto! Diamo il via alla nostra\xfffeprima lotta!\xf000븁\x0000\xfffeVediamo come te la cavi, \xf000ā\x0001\x0001!\xf000븁\x0000
+
+Komor: Non mi aspettavo proprio di\xfffeperdere la mia prima lotta.\xf000븁\x0000\xfffeChe emozione, però... finalmente sono\xfffeun vero Allenatore!\xf000븁\x0000\xfffeMa per il momento...\xf000븁\x0000\xfffeMeglio che vada a scusarmi con tua madre\xfffeper come abbiamo ridotto la stanza!\xf000븁\x0000
+Komor: Che emozione...\xfffeFinalmente sono un vero Allenatore!\xf000븁\x0000\xfffeMa per il momento...\xf000븁\x0000\xfffeAndiamo a scusarci con tua madre per\xfffecome abbiamo ridotto la stanza!\xf000븁\x0000
+Belle: Ah! Vengo anch'io!\xf000븁\x0000
+È una console Wii!\xfffeC'è perfino il telecomando!
+È una console Wii! Ed è ancora in perfetto\xfffestato, incredibile!
+È il televisore ultrapiatto comprato dal\xfffepapà!
+È il letto!\xf000븁\x0000\xfffeLe lenzuola che la mamma ha appena lavato\xfffehanno proprio un buon profumo!
+Anche il letto è tutto sottosopra!
+\xf000Ā\x0001\x0000 consulta il PC.\xf000븁\x0000\xfffeInformazioni di base sui Pokémon...\xf000븁\x0000\xfffeNel nostro mondo, le persone vivono\xfffefianco a fianco con i Pokémon.\xf000븁\x0000\xfffeLe persone che lottano insieme ai Pokémon\xfffesono dette Allenatori.
+È un riconoscimento per aver completato\xfffeil Pokédex di Unima!\xf000븁\x0000
+È un riconoscimento per aver completato\xfffeil Pokédex Nazionale!\xf000븁\x0000
+È un trofeo per aver sconfitto in Singolo\xfffeil Capometrò nel Metrò Lotta!
+È un trofeo per aver sconfitto in Doppio\xfffeil Capometrò nel Metrò Lotta!
+È un trofeo per aver sconfitto in Multipla\xfffeil Capometrò nel Metrò Lotta!

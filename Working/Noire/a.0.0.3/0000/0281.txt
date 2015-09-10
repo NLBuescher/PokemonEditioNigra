@@ -1,0 +1,51 @@
+Veux-tu que je jette un œil\xfffeà ton Pokédex?
+Voyons...\xf000븁\x0000\xfffeTu as vu \xf000Ȃ\x0001\x0000 Pokémon différents\xfffedans la région d'Unys.
+Voyons...\xf000븁\x0000\xfffeTu as attrapé \xf000Ȃ\x0001\x0000 Pokémon différents\xfffedans la région d'Unys.
+Prends bien soin de ton Pokédex...\xfffeIl contient tous les précieux souvenirs\xf000븀\x0000\xfffede tes aventures!
+Pour rencontrer des Pokémon, il faut\xfffese promener dans les hautes herbes!\xf000븁\x0000
+Ça commence à ressembler à un vrai\xfffePokédex! Continue comme ça!\xf000븁\x0000
+Il y a des Pokémon difficiles à trouver,\xfffecherche bien dans les hautes herbes!\xf000븁\x0000
+Il y a des Pokémon qu'on ne trouve que\xfffedans une grotte donnée!\xf000븁\x0000\xfffeParfois, ça vaut le coup de retourner\xfffedans une grotte qu'on a déjà explorée!\xf000븁\x0000
+Les Dresseurs que tu rencontres un peu\xfffepartout ont des Pokémon variés.\xf000븁\x0000\xfffeDéfie-les pour remplir ton Pokédex!\xf000븁\x0000
+Le Pokédex s'est bien rempli!\xf000븁\x0000\xfffeTu pourras te souvenir de tes aventures\xfffeen parcourant ses pages!\xf000븁\x0000
+Plus de 100 Pokémon différents...\xf000븁\x0000\xfffeC'est vraiment passionnant de voir leurs\xfffedifférentes caractéristiques!\xf000븁\x0000
+Quel beau Pokédex!\xfffeEncore un petit effort, et c'est bon!\xf000븁\x0000
+Quel magnifique Pokédex!\xfffeIl est presque plein...\xf000븀\x0000\xfffeJ'ai vraiment bien fait de te demander!\xf000븁\x0000
+Superbe! C'est vraiment top méga bien!!!\xf000븁\x0000\xfffeTu as rencontré tous les Pokémon\xfffede la région d'Unys!\xf000븁\x0000\xfffeToutes mes félicitations!\xf000븁\x0000\xfffeDésormais, je vérifierai combien\xfffetu en as attrapé!\xf000븁\x0000
+On dirait que tu as rencontré\xfffebon nombre de Pokémon!\xf000븁\x0000\xfffeJ'ai un petit cadeau pour toi,\xfffepasse au laboratoire!
+On dirait que tu as rencontré\xfffebon nombre de Pokémon!\xf000븁\x0000\xfffeTiens, voilà un petit quelque chose\xfffepour t'encourager dans cette voie!\xf000븁\x0000
+Faux-Chage est une capacité qui permet\xfffed'attaquer en retenant son coup.\xf000븁\x0000\xfffeC'est très pratique pour\xfffeattraper des Pokémon!\xf000븁\x0000
+Abri est une capacité qui permet d'éviter\xfffepratiquement n'importe quelle attaque.\xf000븁\x0000\xfffeBon, certaines attaques comme Ruse\xfffetouchent quand même...\xf000븁\x0000
+Puissance Cachée est une capacité\xfffedont le type et l'efficacité changent\xf000븀\x0000\xfffeselon le Pokémon qui l'apprend.\xf000븁\x0000
+Prends aussi ça!\xf000븁\x0000
+Bon courage pour la suite!
+Petit à petit, ton Pokédex se remplit!\xfffeCourage!\xf000븁\x0000
+Tu connais les différents types\xfffede Poké Balls?\xf000븁\x0000\xfffeChaque variété a ses propres\xfffecaractéristiques, alors apprends\xf000븀\x0000\xfffeà bien t'en servir!\xf000븁\x0000
+En lisant les explications du Pokédex, tu\xfffepeux apprendre des choses amusantes\xf000븀\x0000\xfffeet inattendues sur les Pokémon!\xf000븁\x0000
+Pour remplir le Pokédex, il ne suffit pas\xfffed'attraper des Pokémon! Il faut aussi\xf000븀\x0000\xfffepenser à les faire évoluer!\xf000븁\x0000
+Si tu obtiens un Pokémon\xfffegrâce à un échange,\xf000븀\x0000\xfffec'est comme si tu l'avais attrapé!\xf000븁\x0000
+Avec tous les Pokémon\xfffeque tu as rencontrés,\xf000븁\x0000\xfffetu arrives encore à choisir lesquels\xfffetu veux avoir dans ton équipe?\xf000븁\x0000
+C'est un excellent Pokédex.\xfffeGrâce à lui, mes recherches avancent!\xf000븁\x0000
+Avec tous les Pokémon que tu as\xfffeattrapés, tu dois t'y connaître\xf000븀\x0000\xfffeencore mieux que moi!\xf000븁\x0000\xfffeJ'espère que tu arriveras\xfffeà compléter ton Pokédex!\xf000븁\x0000
+C'est quasiment le Pokédex parfait!\xfffeCourage, tu y es presque!\xf000븁\x0000
+C'est super! C'est méga top!\xf000븁\x0000\xfffeTu as attrapé tous les Pokémon\xfffede la région d'Unys.\xf000븁\x0000\xfffeBravo à toi!!\xf000븁\x0000
+Que me vaut cette visite? Es-tu ici pour\xfffeme montrer où en est ton Pokédex?
+Je vois...\xfffeTu as attrapé \xf000Ȃ\x0001\x0000 Pokémon différents...
+Bon...\xf000븁\x0000\xfffeReviens quand tu voudras me montrer\xfffeton Pokédex!
+Il y a plus de 600 Pokémon\xfffeau niveau national...\xf000븁\x0000\xfffeNe t'en fais pas, vas-y à ton rythme\xfffepour les attraper!
+Et si tu commençais par refaire\xfffeun petit tour d'Unys pour\xf000븀\x0000\xfffetrouver d'autres Pokémon?
+Réduire l'énergie des Pokémon,\xfffec'est la base de la capture!\xf000븁\x0000\xfffeIl ne faut jamais oublier les bases,\xfffen'est-il pas?
+As-tu déjà fait un tour à la Pension?\xf000븁\x0000\xfffeIl semblerait que certains Pokémon ne\xfffepuissent être attrapés et qu'il faille\xf000븀\x0000\xfffedonc les faire sortir d'un Œuf!
+As-tu une Canne?\xf000븁\x0000\xfffeJ'ai ouï dire que nombre de Pokémon\xfffevivaient dans les mers et les rivières...
+Connais-tu Faux-Chage?\xf000븁\x0000\xfffeC'est une capacité qui laisse juste un\xfffesoupçon d'énergie au Pokémon adverse!
+Connais-tu la capacité Regard Noir?\xf000븁\x0000\xfffeLes Pokémon qui la subissent\xfffene peuvent pas s'enfuir!
+Il existe diverses manières d'évoluer\xfffechez les Pokémon.\xf000븁\x0000\xfffeCertains n'évoluent que lorsque le lien\xfffeavec leur Dresseur est assez fort.
+Connais-tu l'expression\xfffe“apparition massive de Pokémon"?\xf000븁\x0000\xfffeComme le nom l'indique, certains Pokémon\xfffeapparaissent parfois en masse!\xf000븀\x0000\xfffeProfites-en pour les attraper!
+Déjà 400 Pokémon différents?!\xf000븁\x0000\xfffeC'est ébouriffant!\xfffeQuel sacré Dresseur tu fais, ma parole!
+Certains Pokémon n'évolueraient qu'en\xfffemontant de niveau à un endroit précis!
+Tous ces Pokémon différents...\xf000븁\x0000\xfffeLa variété de ces créatures\xfffem'étonnera toujours!\xf000븁\x0000\xfffeEt que dire de toi, qui en as\xfffeattrapé autant?!
+As-tu fait un tour au Laboratoire Fret,\xfffesur la Route 15?\xf000븁\x0000\xfffeC'est le genre d'installation qu'un bon\xfffeDresseur doit savoir utiliser!
+Encore un effort pour compléter\xfffele Pokédex...\xf000븁\x0000\xfffePour en avoir attrapé autant, tu dois\xfffevraiment aimer les Pokémon!
+Quel beau Pokédex!\xf000븁\x0000\xfffeÇa ne te dirait pas d'étudier les Pokémon\xfffeavec moi?
+Tu y es presque!\xfffeFais des échanges avec tes amis,\xf000븁\x0000\xfffeet regarde si tu n'as pas oublié\xfffedes Pokémon qui se déplacent!
+...\xfffe...\xf000븁\x0000\xfffeC'est tellement beau, j'en reste sans\xfffevoix! Tu...Tu...\xf000븀\x0000\xfffeTu as réussi!\xf000븁\x0000\xfffeTu as complété le Pokédex National!\xfffeTu es un vrai Dresseur, avec un grand D!\xf000븁\x0000\xfffeJe suis fier de te connaître...\xfffeBravo, et merci du fond du cœur!!!

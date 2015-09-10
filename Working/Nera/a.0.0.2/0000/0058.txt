@@ -1,0 +1,40 @@
+Per partecipare a una Gara in Diretta\xfffeoccorre aggiornare il Certificato\xf000븀\x0000\xfffePartecipante.\xf000븁\x0000\xfffeVuoi procedere con l'aggiornamento?
+Per partecipare a una Gara in Diretta\xfffeoccorre aggiornare il Certificato\xf000븀\x0000\xfffePartecipante.\xf000븁\x0000\xfffeI dati registrati nel Box Lotta con\xfffel'ultima gara saranno cancellati.\xf000븁\x0000\xfffeVuoi procedere con l'aggiornamento?
+Ricezione in corso tramite il collegamento\xfffea infrarossi del Certificato Partecipante.\xf000븁\x0000\xfffeFai in modo che la tua scheda di gioco\xfffee quella dell'altro giocatore siano una\xf000븀\x0000\xfffedi fronte all'altra e premi il pulsante A.\xf000븁\x0000
+Hai già effettuato l'iscrizione\xfffee hai annullato la tua partecipazione\xf000븀\x0000\xfffea questa gara.\xf000븁\x0000\xfffeNon puoi iscriverti nuovamente.\xf000븁\x0000
+Hai già effettuato l'iscrizione\xfffee hai partecipato a questa gara.\xf000븁\x0000\xfffeNon puoi iscriverti nuovamente.\xf000븁\x0000
+I tuoi Pokémon saranno registrati\xfffenel Box Lotta.\xf000븁\x0000\xfffeFai attenzione!\xfffeUna volta registrati, non potrai spostarli\xf000븀\x0000\xfffefino al termine della gara.\xf000븀\x0000\xfffeVuoi proseguire comunque?
+SÌ
+NO
+Vuoi annullare la registrazione\xfffedei Pokémon nel Box Lotta?
+Non hai soddisfatto i requisiti necessari\xfffeper partecipare a questa gara.\xf000븁\x0000\xfffeConsulta le regole e crea un set\xfffedi Pokémon idoneo nel Box Lotta.\xf000븁\x0000
+Salvataggio in corso.\xfffeNon spegnere la console.
+Hai registrato dei Pokémon nel Box Lotta.\xf000븁\x0000\xfffeNon potrai spostarli fino al termine\xfffedella gara.\xf000븁\x0000
+Gara di Lotta Pokémon!\xfffeScegli un'opzione.
+Partecipa
+Guarda
+Esci
+Verrà riprodotto un video\xfffedell'ultima lotta.\xf000븁\x0000
+Se abbandoni questa gara non potrai più\xfffeprendervi parte.\xf000븁\x0000\xfffeVuoi farlo comunque?
+La tua iscrizione a questa gara sarà\xfffeannullata. Vuoi procedere?
+I dati del Box Lotta sono stati cancellati.\xf000븁\x0000
+Per avviare il collegamento a infrarossi,\xfffefai in modo che la tua scheda di gioco\xf000븀\x0000\xfffee quella dell'altro giocatore siano una\xf000븀\x0000\xfffedi fronte all'altra e premi il pulsante A.\xf000븁\x0000
+Vuoi interrompere il collegamento\xfffea infrarossi?
+Hai selezionato una gara diversa\xfffeda quella dell'altro giocatore.\xf000븁\x0000\xfffeControlla il Certificato Partecipante e\xfffesegui le istruzioni del personale addetto.\xf000븁\x0000
+Avversario identificato!
+Segui le istruzioni del personale addetto\xfffee poi premi il pulsante A.\xf000븁\x0000
+La gara si è conclusa. Ora puoi spostare\xfffei Pokémon del Box Lotta.\xf000븁\x0000
+La trasmissione dei dati del Certificato\xfffePartecipante non è riuscita.\xf000븁\x0000
+La trasmissione dei dati del Certificato\xfffePartecipante non è riuscita.\xf000븁\x0000
+Il collegamento non è riuscito.\xf000븁\x0000
+La Gara in Diretta si è conclusa.\xf000븁\x0000
+Termina
+La Gara in Diretta si è conclusa!\xfffeAlla prossima!\xf000븁\x0000
+Ricezione dati in corso.\xfffeAttendi...
+Ricerca avversario in corso.\xfffeAttendi...
+Non è possibile visualizzare il video\xfffedell'ultima lotta a causa di un problema\xf000븀\x0000\xfffenei dati registrati.\xf000븁\x0000
+Comunicazione in corso.\xfffeAttendi...
+Hai già affrontato questo giocatore!\xfffeScegli un altro avversario.\xf000븁\x0000
+Non c'è nessun Pokémon nel Box Lotta!\xf000븁\x0000\xfffeConsulta le regole e crea un set\xfffedi Pokémon idoneo.\xf000븁\x0000
+Effettua la tua selezione.
+Si è verificato un errore.\xfffeLa lotta si è interrotta.\xf000븀\x0000\xfffeSegui le istruzioni del personale addetto.\xf000븁\x0000

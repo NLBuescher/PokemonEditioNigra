@@ -1,0 +1,10 @@
+Que puis-je faire pour vous?
+Bienvenue au point de vente des CT!
+Souhaitez-vous autre chose?
+Nous espérons vous revoir bientôt!
+Bonjour!\xf000븁\x0000
+ACHETER
+VENDRE
+QUITTER
+Bienvenue au Service d'Échange!\xf000븁\x0000\xfffeVoulez-vous échanger vos Points\xfffede Combat contre des prix?
+Revenez nous voir quand vous\xfffele souhaitez!

@@ -1,0 +1,255 @@
+
+
+\xf000Ă\x0001\x0000 non è stato scambiato.\xf000븁\x0000
+\xf000Ă\x0001\x0000 non c'è più...\xf000븁\x0000
+Stai offrendo o cercando un Pokémon?
+Hai selezionato \xf000Ă\x0001\x0000.
+Vuoi riprenderti \xf000Ă\x0001\x0000?
+Vuoi scollegarti dalla\xfffeNintendo Wi-Fi Connection?
+Quale Pokémon cerchi?
+Scegli il Pokémon che vuoi.
+Scegli tra Pokémon maschio o femmina.
+Scegli il livello.
+Scegli il Pokémon che cerchi!
+Ricerca del Pokémon richiesto...
+La ricerca non ha dato risultati!
+Vuoi interrompere la ricerca?
+Vuoi scambiare il tuo Pokémon con quello\xfffedi questo Allenatore?
+Scegli il Pokémon che vuoi scambiare.
+Hai selezionato \xf000Ă\x0001\x0000.
+
+
+Scegli il Pokémon che vuoi offrire.
+Vuoi offrire \xf000Ă\x0001\x0000?
+Vanno bene queste condizioni?
+Controllo stato della GTS in corso.
+La Capsula verrà rimossa.\xfffeVuoi procedere comunque?
+Questo Pokémon non può essere\xfffescambiato!\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13266)\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13267)\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13268)\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13269)\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13270)\xf000븁\x0000
+Questo Pokémon non può essere\xfffescambiato! (Codice errore: 13271)\xf000븁\x0000
+Non si può scambiare un Uovo!\xf000븁\x0000
+
+I tuoi Box PC sono pieni. Non puoi\xfffericevere altri Pokémon!\xf000븁\x0000
+La ricerca ha avuto successo!
+
+Seleziona un amico con SCEGLI.
+Modifica le tue condizioni.
+Attendi un momento.
+La tua squadra è al completo. Non puoi\xfffericevere un Pokémon con un Messaggio!\xf000븁\x0000
+Nella tua squadra non c'è spazio.
+Ha un Fiocco speciale. Non può essere\xfffescambiato!\xf000븁\x0000
+Controllo della GTS non riuscito.
+\xf000봂\x0000SISTEMA GTS
+\xf000봂\x0000INFO
+\xf000봂\x0000OFFRI POKÉMON
+\xf000봂\x0000CERCA POKÉMON
+\xf000봂\x0000CHIUDI
+
+
+
+
+
+OFFERENTE
+
+
+
+
+
+RIPRENDI
+LASCIA
+SÌ
+NO
+NOME
+
+POKÉMON
+
+SESSO
+
+LIVELLO
+
+RICERCA
+\xf000봂\x0000INDIETRO
+SCEGLI
+
+
+
+STRUM.
+
+
+
+CHIESTO
+
+
+
+ORIGINE
+\xf000Ĥ\x0001\x0008
+\xf000ĥ\x0001\x0009
+
+
+
+INFO
+SCAMBIA
+ESCI
+
+
+IN SQUADRA
+
+
+
+
+
+INFO
+CONSEGNA
+ESCI
+CHIESTO
+
+
+OFFRI POKÉMON
+
+L. 
+\xf000Ȃ\x0001\x0003
+L. \xf000Ȃ\x0001\x0003
+INDIETRO
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+QUALSIASI
+⑭
+⑮
+\xf000봂\x0000INDIETRO
+QUALSIASI
+Da L. 9 in giù
+Da L. 10 in su
+Da L. 20 in su
+Da L. 30 in su
+Da L. 40 in su
+Da L. 50 in su
+Da L. 60 in su
+Da L. 70 in su
+Da L. 80 in su
+Da L. 90 in su
+L. 100
+
+
+
+
+
+
+
+Purtroppo questo Pokémon è stato già\xfffescambiato con qualcun altro.\xf000븁\x0000
+Salvataggio in corso.\xfffeNon spegnere la console.
+
+La GTS è in fase di manutenzione.\xfffeRiprova più tardi.\xf000븁\x0000
+La GTS è molto affollata.\xfffeRiprova più tardi.\xf000븁\x0000\xfffe(Codice errore: 13261)\xf000븁\x0000
+Ricerca non riuscita...
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13272)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13275)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13263)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13265)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13264)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13273)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13281)\xf000븁\x0000
+Errore di comunicazione.\xf000븁\x0000\xfffePer informazioni, visita il sito\xfffeInternet support.nintendo.com\xf000븀\x0000\xfffe(Codice errore: 13282)\xf000븁\x0000
+Impossibile collegarsi alla GTS.\xf000븁\x0000
+Il collegamento alla GTS si\xfffeè interrotto. (Codice errore: 13262)\xf000븁\x0000
+Il collegamento alla GTS si\xfffeè interrotto. (Codice errore: 13274)\xf000븁\x0000
+Il collegamento si è interrotto.
+Nuovo collegamento.
+QUALSIASI
+L. 1 a 10
+L. 11 a 20
+L. 21 a 30
+L. 31 a 40
+L. 41 a 50
+L. 51 a 60
+L. 61 a 70
+L. 71 a 80
+L. 81 a 90
+L. 91 a 100
+
+ORIGINE
+
+QUALSIASI
+QUALSIASI
+\xf000봂\x0000INDIETRO
+Scegli il luogo d'origine.
+
+
+Il Pokémon non può essere scambiato\xfffementre tiene quello strumento!\xf000븁\x0000
+A.O.
+
+
+
+
+
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GTS
+GTS\xfffeSCAMBIA POKÉMON
+GTS\xfffeINFO
+GTS\xfffeOFFRI POKÉMON
+GTS\xfffeCERCA POKÉMON
+INDIETRO
+\xf000Ȁ\x0001\x0000
+/

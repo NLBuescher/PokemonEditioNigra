@@ -1,0 +1,10 @@
+¡\xf000ā\x0001\x0000 va alegremente de acá\xfffepara allá!
+Parece que \xf000ā\x0001\x0000 se alegra de\xfffehaberse encontrado con \xf000Ā\x0001\x0001.\xf000븁\x0000
+Parece que \xf000ā\x0001\x0000 quiere irse\xfffecon \xf000Ā\x0001\x0001.\xf000븁\x0000
+¿Quieres llevar este Pokémon contigo?
+¿Quieres que \xf000ā\x0001\x0000 se adentre\xfffeen lo profundo del bosque?
+Esa parte del bosque está llena.\xfffe\xf000ā\x0001\x0000 no puede ir allí.
+¿Quieres que \xf000ā\x0001\x0000 vaya\xfffea un claro del bosque?
+Los claros del bosque están llenos.\xfffe\xf000ā\x0001\x0000 no puede ir allí.
+¡\xf000ā\x0001\x0000 se ha adentrado\xfffeen lo profundo del bosque!\xf000븁\x0000
+¡\xf000ā\x0001\x0000 ha ido a un claro del bosque!\xf000븁\x0000

@@ -1,0 +1,23 @@
+Appelle-moi le Juge.\xf000븁\x0000\xfffeHé hé, ce n'est pas mon vrai nom, mais\xfffetout le monde m'appelle comme ça.\xf000븁\x0000\xfffeÀ cause de mon étrange pouvoir. C'est\xfffede naissance, une sorte de don, quoi.\xf000븁\x0000\xfffeJe peux évaluer, juger si on veut, le\xfffepotentiel global de chaque Pokémon.\xf000븁\x0000\xfffeSi tu veux, je peux évaluer le potentiel\xfffede tes Pokémon.\xf000븁\x0000
+Si tu veux, je peux évaluer le potentiel\xfffede tes Pokémon.\xf000븁\x0000
+Oh, tu ne tiens pas à ce que j'évalue\xfffequoi que ce soit... Je comprends.
+Juger un Œuf?!\xfffeMême moi, je n'en suis pas capable.
+Je vois...\xf000븁\x0000\xfffeCe Pokémon a un potentiel correct à\xfffetous points de vue.\xf000븁\x0000\xfffeC'est mon verdict, et il est sans appel.\xf000븁\x0000
+Je vois...\xf000븁\x0000\xfffeCe Pokémon a un potentiel supérieur à\xfffela moyenne.\xf000븁\x0000\xfffeC'est mon verdict, et il est sans appel.\xf000븁\x0000
+Je vois...\xf000븁\x0000\xfffeCe Pokémon a un potentiel bien\xfffesupérieur à la moyenne.\xf000븁\x0000\xfffeC'est mon verdict, et il est sans appel.\xf000븁\x0000
+Je vois...\xf000븁\x0000\xfffeCe Pokémon a un potentiel exceptionnel.\xfffeC'est mon verdict, et il est sans appel.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans ses PV.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans son Attaque.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans sa Défense.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans son Attaque Spéciale.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans sa Défense Spéciale.\xf000븁\x0000
+J'ajoute que son plus grand atout\xffferéside dans sa Vitesse.\xf000븁\x0000
+Son Attaque n'est pas mal non plus!\xf000븁\x0000
+Sa Défense aussi est d'un bon niveau!\xf000븁\x0000
+Et que dire de son Attaque Spéciale?\xfffeRemarquable!\xf000븁\x0000
+Sa Défense Spéciale est bonne elle aussi.\xf000븁\x0000
+Et sa Vitesse est très bien aussi.\xf000븁\x0000
+D'après mon évaluation, il est assez\xfffecorrect à ce niveau-là.
+D'après mon évaluation, il est très\xfffebien à ce niveau-là.
+D'après mon évaluation, il est\xfffefantastique à ce niveau-là.
+D'après mon évaluation, il est au top\xfffeà ce niveau-là.

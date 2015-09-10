@@ -1,0 +1,560 @@
+
+Colpisce il nemico con la coda o le zampe\xfffeanteriori.
+Colpisce il nemico con un colpo netto.\xfffeProbabile brutto colpo.
+Schiaffeggia il nemico da due a cinque\xfffevolte di fila.
+Colpisce il nemico con una scarica di pugni\xfffeda due a cinque volte di fila.
+Colpisce il nemico con un pugno poderoso.
+Colpisce il nemico con una gran quantità\xfffedi monete recuperabili dopo la lotta.
+Colpisce il nemico con un pugno ardente\xfffeche può scottarlo.
+Colpisce il nemico con un pugno di ghiaccio\xfffeche può congelarlo.
+Colpisce il nemico con un pugno elettrico\xfffeche può paralizzarlo.
+Infligge danni al nemico con artigli\xfffeacuminati, duri e affilati.
+Stringe il nemico in una morsa usando\xfffeenormi e possenti tenaglie.
+Attacca il nemico con pericolose tenaglie.\xfffeSe l'attacco va a segno, il nemico va\xfffesubito KO.
+Chi la usa genera un turbine al primo\xfffeturno e attacca al secondo.\xfffeProbabile brutto colpo.
+Danza frenetica che incrementa lo spirito\xfffecombattivo. Chi la usa aumenta di molto\xfffeil suo Attacco.
+Attacca il nemico con artigli o falci\xfffeaffilate. Fuori dalla lotta si usa per\xfffetagliare piccoli alberi.
+Infligge danni al nemico con una folata\xfffedi vento sollevata dalle ali.
+Infligge danni al nemico spiegando\xfffedelle grandi ali possenti.
+Il bersaglio è spazzato via ed è costretto\xfffea lasciare il posto ad un altro. Se è\xfffeselvatico, la lotta finisce.
+Chi la usa si alza in volo per attaccare\xfffeal turno seguente. Fuori dalla lotta\xfffepermette di volare in città già visitate.
+Lega e stritola il nemico per quattro\xfffeo cinque turni con tentacoli o con un\xfffecorpo lungo.
+Infligge danni al nemico con una coda,\xfffeuna liana o simili.
+Infligge danni al nemico con liane sottili\xfffesimili a fruste.
+Colpisce il nemico con un grosso piede\xfffee può anche farlo tentennare.
+Colpisce il nemico due volte con un paio di\xffferapidi calci inferti con entrambi i piedi.
+Colpisce il nemico con un calcio sferrato\xfffecon la forza di muscoli poderosi.
+Permette di saltare in alto per attaccare\xfffecon un calcio. Se non va a buon fine, chi\xfffela usa si ferisce.
+Chi la usa infierisce sul nemico con\xfffeun calcio rotante. Può anche farlo\xfffetentennare.
+Getta sabbia in faccia al nemico e ne\xffferiduce la precisione.
+Chi la usa si lancia diritto di testa contro\xfffeil nemico. Può anche far tentennare.
+Danneggia il nemico infilzandolo con un\xfffecorno affilato.
+Infilza il nemico con corna affilate o\xfffeun becco da due a cinque volte di fila.
+Colpisce il nemico con un corno perforante\xfffecome un trapano. Se il colpo va a segno,\xfffeil nemico va KO.
+Attacco fisico che colpisce il nemico\xfffeinvestendolo con tutto il corpo.
+Chi la usa carica il nemico con tutto\xfffeil corpo. Può causarne anche la paralisi.
+Avvolge e stritola il nemico con un corpo\xfffelungo o con piante rampicanti per quattro\xfffeo cinque turni.
+Carica spericolata con tutto il corpo\xfffecontro il nemico. Danneggia un po'\xfffeanche chi la usa.
+Assale e attacca il nemico per due o tre\xfffeturni, ma confonde chi la usa.
+Carica spietata e pericolosa che\xfffedanneggia molto anche chi la usa.
+Chi la usa agita la coda per distrarre\xfffei nemici, riducendone la Difesa.
+Colpisce il nemico con un aculeo tossico\xfffeche può anche avvelenarlo.
+Colpisce il nemico due volte di seguito\xfffecon un paio di aghi. Può anche avvelenarlo.
+Il nemico viene colpito da due a cinque\xfffevolte con spilli appuntiti in rapida\xfffesuccessione.
+Terrorizza i nemici con uno sguardo\xfffefulminante e intimidatorio riducendone\xfffela Difesa.
+Il nemico viene morso da denti affilatissimi\xfffeche possono farlo tentennare.
+Distrae i nemici con un ruggito potente e\xfffene riduce l'Attacco.
+Il bersaglio è costretto a lasciare\xfffeil campo e viene sostituito. Mette fine\xfffealle lotte contro Pokémon selvatici.
+Dolce ninnananna, cantata da una voce\xfffesuadente, che fa addormentare il nemico.
+Chi la usa genera dal proprio corpo\xfffestrane onde acustiche che possono\xfffeconfondere il nemico.
+Il nemico viene colpito da onde acustiche\xfffedevastanti che gli provocano un danno\xfffecostante pari a 20 PS.
+Per quattro turni impedisce al bersaglio\xfffedi riutilizzare l'ultima mossa usata.
+Colpisce i nemici spruzzando un acido\xfffecorrosivo. Può anche ridurre la Difesa\xfffeSpeciale.
+Il nemico viene colpito da fiammelle\xfffeche possono anche scottarlo.
+Il nemico viene colpito da intense\xfffefiammate che possono anche scottarlo.
+Chi la usa attira una nebbia che blocca\xfffela riduzione alle statistiche della sua\xfffesquadra per cinque turni.
+Il nemico è colpito da un potente getto\xfffed'acqua.
+Il nemico è travolto da un potente getto\xfffed'acqua spruzzato ad altissima pressione.
+Un'onda enorme sommerge il campo\xfffedi lotta. Fuori dalla lotta si usa\xfffeper spostarsi sull'acqua.
+Il nemico è colpito da un raggio di energia\xfffegelida che può anche congelarlo.
+Colpisce i bersagli con una tremenda\xfffetempesta di ghiaccio che può anche\xfffecongelarli.
+Colpisce il nemico con un raggio speciale.\xfffePuò anche confonderlo.
+Colpisce il nemico con una forte scarica\xfffedi bolle. Può anche ridurne la Velocità.
+Colpisce il nemico con un raggio dai\xfffecolori dell'iride. Può anche ridurne\xfffel'Attacco.
+Colpisce il nemico con un potente raggio.\xfffeChi la usa salta il turno successivo per\xffferecuperare energia.
+Colpisce il nemico con un becco appuntito\xfffeo un corno.
+Attacco a spirale con un becco aguzzo\xfffeche fa da trapano.
+Chi la usa carica il nemico in modo\xfffespericolato, ma danneggia anche\xfffese stesso.
+Un calcio basso e potente che fa cadere\xfffeil nemico. Danneggia maggiormente i nemici\xfffepiù pesanti.
+Mossa che contrasta ogni attacco fisico,\xfffearrecando il doppio del danno ricevuto.
+Colpisce il bersaglio con la forza di\xfffegravità. Infligge un danno pari al livello\xfffedi chi la usa.
+Colpisce il nemico con un'enorme energia.\xfffeFuori dalla lotta si usa per spostare i\xfffemassi.
+Mossa che assorbe PS. Chi la usa recupera\xfffeuna quantità di PS pari alla metà del danno\xfffeinferto.
+Mossa che assorbe PS. Chi la usa recupera\xfffeuna quantità di PS pari alla metà del danno\xfffeinferto.
+Vengono piantati semi sul bersaglio. Questi\xfffesottraggono PS a ogni turno permettendo\xfffea chi la usa di curarsi.
+Provoca la crescita immediata del corpo\xfffee l'aumento dell'Attacco e dell'Attacco\xfffeSpeciale di chi la usa.
+Foglie taglienti sferzano i nemici.\xfffeProbabile brutto colpo.
+Chi la usa assorbe luce al primo turno per\xfffeproiettare un raggio intenso al turno\xfffesuccessivo.
+Investe il bersaglio con una nuvola di\xfffepolvere tossica che avvelena.
+Investe il bersaglio con una nuvola di\xfffepolvere che paralizza.
+Investe il bersaglio con una grande nuvola\xfffedi polvere soporifera che lo fa\xfffeaddormentare.
+Attacca il nemico cospargendolo di petali\xfffeper due o tre turni, ma chi la usa rimane\xfffeconfuso.
+Chi la usa produce della seta che avvolge\xfffei nemici e ne riduce la Velocità.
+Colpisce il nemico con un'onda d'urto\xfffegenerata dall'ira. Questo attacco\xfffeprovoca sempre un danno di 40 PS.
+Intrappola il bersaglio in un turbine di\xfffefuoco che dura per quattro o cinque turni.
+Danneggia il bersaglio con una scarica\xfffeelettrica che può anche paralizzarlo.
+Il bersaglio viene colpito da una potente\xfffescarica elettrica che può anche\xfffeparalizzarlo.
+Il nemico viene colpito da una debole\xfffescarica elettrica che, se va a segno,\xfffene causa la paralisi.
+Il nemico è colpito da un lampo molto\xfffeviolento che può anche paralizzarlo.
+Chi la usa solleva una roccia e la\xfffelancia contro il nemico.
+Chi la usa provoca un potente sisma\xfffeche colpisce gli altri Pokémon in campo.
+Chi la usa crea una spaccatura nel terreno\xfffee cerca di gettarvici dentro il nemico. Se\xfffeva a segno, il nemico va KO.
+Chi la usa scava al primo turno e attacca\xfffeal successivo. Fuori dalla lotta fa uscire\xfffeda alcuni luoghi.
+Iperavvelena il nemico con una potente\xfffetossina. Il danno peggiora ad ogni turno.
+Colpisce il nemico con una leggera forza\xfffetelecinetica e può anche confonderlo.
+Il nemico viene colpito da una potente\xfffeforza telecinetica che può anche ridurne\xfffela Difesa Speciale.
+Chi la usa si avvale della suggestione\xfffeipnotica per far addormentare il nemico.
+Chi la usa medita per risvegliare la propria\xfffeforza interiore e migliorare l'Attacco.
+Chi la usa rilassa e alleggerisce il proprio\xfffecorpo per far salire di molto la Velocità.
+Chi la usa colpisce sempre per primo e\xfffead una tale velocità da rendersi quasi\xfffeinvisibile.
+Questa mossa ha il potere di aumentare\xfffela statistica Attacco ogni volta che chi\xfffela usa viene colpito durante una lotta.
+Fa fuggire dai Pokémon selvatici.\xfffeFuori dalla lotta porta all'ultimo\xfffeCentro Pokémon visitato.
+Fa apparire un orribile miraggio al nemico\xfffee infligge un danno pari al livello di chi\xfffela usa.
+Copia l'ultima mossa usata dal bersaglio.\xfffeLa mossa copiata si può utilizzare fino\xfffealla sostituzione del Pokémon.
+Stridio assordante che riduce di molto\xfffela Difesa del nemico.
+Chi la usa si muove in fretta e crea copie\xfffeillusorie di se stesso che aumentano\xfffela capacità di elusione.
+Mossa autocurativa. Chi la usa recupera\xfffemetà dei PS massimi.
+Tutti i muscoli del corpo si tonificano\xfffeper aumentare la Difesa.
+Il corpo di chi la usa si comprime e diventa\xfffepiù piccolo. La sua capacità di elusione\xfffeaumenta di molto.
+Nuvola di fumo o inchiostro che riduce\xfffela precisione del nemico.
+Colpisce il nemico con un raggio funesto\xfffeche lo confonde.
+Il corpo si ritira nel suo duro guscio\xfffeper aumentare la Difesa.
+Chi la usa si raggomitola per nascondere\xfffei punti deboli e aumentare la propria\xfffeDifesa.
+Innalza una barriera resistente che\xfffeaumenta molto la Difesa.
+Innalza una barriera di luce fantastica\xfffeper ridurre i danni degli attacchi\xfffespeciali alla squadra per cinque turni.
+Chi la usa crea una nube nera che annulla\xfffeogni modifica delle statistiche di tutti\xfffei Pokémon in campo.
+Innalza una barriera di luce fantastica\xfffeper ridurre i danni degli attacchi fisici\xfffealla squadra per cinque turni.
+Chi la usa fa un profondo respiro e si\xfffeconcentra per rendere più probabili\xfffei brutti colpi.
+Chi la usa subisce attacchi per due turni\xfffee poi restituisce il danno moltiplicato\xfffeper due.
+Chi la usa fa di no con un dito e stimola il\xfffecervello a usare a caso una delle tante\xfffemosse esistenti.
+Chi la usa colpisce il bersaglio copiandone\xfffel'ultima mossa usata.
+Chi la usa esplode e infligge danni agli\xfffealtri Pokémon in campo, ma poi va KO.
+Colpisce il nemico con un grande uovo\xfffescaraventato con enorme forza.
+Una lingua lunga infligge danni al nemico e\xfffepuò anche paralizzarlo.
+Colpisce il nemico con una scarica di gas\xfffemaleodoranti. Può anche avvelenarlo.
+Lancio di fango malsano che arreca danno\xfffeal nemico. Può anche avvelenarlo.
+Chi la usa colpisce il nemico con un osso e\xfffepuò farlo anche tentennare.
+Investe il nemico con un'intensa fiammata\xfffeche fa terra bruciata. Può anche\xfffescottarlo.
+Carica il nemico a grande velocità e può\xfffefarlo tentennare. Fuori dalla lotta fa\xffferisalire le cascate.
+Chi la usa intrappola e stritola il nemico\xfffecon la sua corazza spessa e forte per\xfffequattro o cinque turni.
+Colpisce i nemici con raggi a forma\xfffedi stella. Questo attacco è infallibile.
+Chi la usa ritira la testa per aumentare\xfffela Difesa e poi attacca al turno\xfffesuccessivo.
+Il nemico viene colpito da due a cinque\xfffevolte in rapida successione da spilli\xfffeappuntiti.
+Colpisce il nemico con lunghi tentacoli\xfffeo piante rampicanti. Può anche ridurne\xfffela Velocità.
+Chi la usa svuota per un po' la mente per\xfffedimenticare i problemi. La Difesa Speciale\xfffeaumenta di molto.
+Chi la usa distrae il bersaglio piegando\xfffeun cucchiaio e ne riduce la precisione.\xfffe
+Chi la usa recupera metà dei propri PS\xfffemassimi. Fuori dalla lotta può anche far\xfffetrasferire PS ai propri compagni.
+Chi la usa colpisce il nemico con una\xfffeginocchiata in volo: se fallisce, subisce\xfffedanni.
+Chi la usa spaventa il nemico con\xfffeuno sguardo terrificante e ne causa\xfffela paralisi.
+Attacco che funziona solo su un nemico\xfffeche dorme. Chi lo usa riceve metà dei PS\xfffepersi dal nemico.
+Spruzza in faccia al nemico una nuvola\xfffedi gas tossico che avvelena.
+Piovono enormi sfere sulla testa del nemico\xfffeda due a cinque volte di fila.
+Mossa succhiasangue. Chi la usa recupera\xfffeuna quantità di PS pari alla metà del danno\xfffeinferto.
+Chi la usa intimidisce il nemico con\xfffeuna faccia paurosa e gli schiocca\xfffeun bacio che lo fa addormentare.
+Un attacco in due turni e probabile\xfffebrutto colpo. Può anche far tentennare\xfffeil nemico.
+Chi la usa si trasforma in una copia\xfffeesatta del bersaglio per sfruttarne\xfffele caratteristiche.
+Una pioggia di bolle investe i nemici e può\xfffeanche ridurne la Velocità.
+Colpisce il bersaglio con una sequenza\xfffedi pugni che può anche confonderlo.
+Nube di spore che fa sempre addormentare\xfffeil nemico.
+Investe il nemico con un flash che ne\xffferiduce la precisione. Fuori dalla lotta\xfffeserve per illuminare le grotte.
+Colpisce il nemico con una strana onda\xfffepsichica. Ha un'intensità variabile.
+Chi la usa sguazza nell'acqua, senza\xfffeottenere alcun effetto.
+Chi la usa altera la sua struttura\xfffecellulare passando allo stato liquido:\xfffela Difesa sale di molto.
+Colpisce il nemico con una grande tenaglia.\xfffeProbabile brutto colpo.
+Chi la usa esplode per infliggere danni\xfffeagli altri Pokémon attorno, ma va KO.
+Colpisce il nemico con artigli o falci\xfffeaffilate da due a cinque volte in rapida\xfffesuccessione.
+Chi la usa lancia l'osso che tiene. L'osso\xfffecolpisce due volte e ritorna come un vero\xfffee proprio boomerang.
+Chi la usa dorme per due turni.\xfffeRecupera, però, tutti i PS e risolve\xfffetutti i suoi problemi di stato.
+I nemici vengono colpiti da grandi massi\xfffeche possono anche farli tentennare.
+Chi la usa morde il nemico con i suoi incisivi\xfffeaffilati. Può anche farlo tentennare.
+Chi la usa riduce il numero di poligoni sul\xfffeproprio corpo per accentuarne gli spigoli\xfffee aumentare l'Attacco.
+Il tipo di chi la usa muta in quello di una\xfffesua mossa a caso.
+Colpisce il nemico con tre sfere simultanee\xfffecapaci di paralizzarlo, scottarlo o forse\xfffecongelarlo.
+Chi la usa salta sul nemico azzannandolo\xfffecon i suoi incisivi affilati e facendogli\xfffeperdere metà dei PS.
+Attacca il nemico con artigli, falci o altro.\xfffeProbabile brutto colpo.
+Chi la usa crea una copia di se stesso\xfffeusando alcuni PS. La copia serve come\xfffeesca per il nemico.
+Mossa da usare solo in caso estremo,\xfffequando non si hanno più PP. Danneggia\xfffeanche chi la usa.
+Permette a chi la usa di imparare l'ultima\xfffemossa usata dal bersaglio. La nuova mossa\xfffeappresa sostituisce Schizzo.
+Chi la usa esegue fino a tre calci\xfffeconsecutivi la cui potenza aumenta\xfffead ogni colpo.
+Chi la usa attacca il bersaglio e può\xffferubargli uno strumento, se non ne tiene\xfffegià uno.
+Copre il nemico con un filo di seta sottile\xfffee appiccicoso. Il nemico non può fuggire.
+Chi la usa prevede i movimenti del nemico\xfffeper mandare a segno l'attacco successivo.
+Il nemico addormentato ha un incubo e\xfffeperde PS ad ogni turno.
+Chi la usa si copre di fuoco e carica\xfffeil nemico. Può anche scottarlo.
+Mossa da usare solo mentre si dorme.\xfffeIl chiasso assordante può anche far\xfffetentennare il nemico.
+Una mossa che agisce in modo diverso\xfffese chi la usa è di tipo Spettro.
+Chi la usa si dimena per attaccare. È più\xfffeefficace se i suoi PS sono bassi.
+Chi la usa cambia tipo per rendersi\xffferesistente al tipo dell'ultima mossa\xfffeusata dal bersaglio.
+Colpisce il nemico con un vortice d'aria\xfffeper danneggiarlo. Probabile brutto colpo.
+Rilascia spore simili al cotone che si\xfffeattaccano al nemico e riducono di molto\xfffela sua Velocità.
+Chi la usa attacca con tutte le sue forze.\xfffePiù i PS sono bassi, maggiore è la potenza\xfffedi questa mossa.
+Chi la usa sfoga la propria rabbia\xfffesull'ultima mossa usata dal bersaglio\xfffee le sottrae quattro PP.
+Attacca i nemici con una raffica di neve\xfffefarinosa e può anche congelare.
+Permette di eludere tutti gli attacchi.\xfffeSe usata in successione può fallire.
+Chi la usa tira un pugno a velocità\xfffeimpressionante e colpisce di sicuro\xfffeper primo.
+Chi la usa spaventa il nemico con una\xfffefaccia terribile e ne riduce di molto\xfffela Velocità.
+Chi la usa si avvicina al nemico facendo\xfffefinta di niente, per poi scagliare un pugno\xfffeinfallibile a tradimento.
+Chi la usa bacia il nemico con una dolcezza\xfffeangelica, confondendolo.
+Chi la usa massimizza l'Attacco in cambio\xfffedi metà dei PS massimi.
+Chi la usa attacca lanciando fango\xfffesul bersaglio. Può anche avvelenarlo.
+Chi la usa butta fango in faccia al nemico\xfffeper arrecargli danni e ridurne\xfffela precisione.
+Chi la usa spruzza inchiostro in faccia al\xfffenemico. Può anche ridurne la precisione.
+Chi la usa piazza sul terreno una trappola\xfffedi punte che danneggia i nemici quando\xfffescendono in campo.
+Chi la usa provoca un'esplosione elettrica\xfffeche infligge danni e paralizza il nemico.
+Chi la usa rende i Pokémon di tipo Spettro\xfffevulnerabili a qualsiasi tipo di mossa e può,\xfffeinoltre, colpire i nemici sfuggenti.
+Se chi la usa va KO prima del proprio turno,\xfffechi ha sferrato il colpo da KO fa la stessa\xfffefine.
+Ogni Pokémon che sente questo canto va\xfffeKO in tre turni, se non lo si sostituisce.
+Chi la usa attacca i nemici con una folata\xfffedi aria gelida e ne riduce anche\xfffela Velocità.
+Permette di eludere tutti gli attacchi.\xfffeSe usata in successione può fallire.
+Chi la usa colpisce il nemico con un osso\xfffeda due a cinque volte di fila.
+Chi la usa punta il nemico con precisione.\xfffeLa mossa successiva andrà a segno.
+Chi la usa sfoga la sua ira e attacca\xfffeil nemico per due o tre turni prima di\xfffeessere lasciato in preda alla confusione.
+Causa una tempesta di sabbia per cinque\xfffeturni che danneggia tutti i tipi in campo\xfffeesclusi Terra, Roccia e Acciaio.
+Mossa che assorbe PS. Chi la usa recupera\xfffeuna quantità di PS pari alla metà del danno\xfffeinferto.
+Chi la usa resta con un PS anche se\xfffesubisce un colpo da KO in quel turno.\xfffeUsata in successione può fallire.
+Ammalia il nemico con lo sguardo per\xffferenderlo meno cauto. Ne riduce molto\xfffel'Attacco.
+Chi la usa colpisce il nemico rotolando\xfffeper cinque turni, con aumento progressivo\xfffedella potenza ogni volta che va a segno.
+Chi la usa trattiene il colpo per impedire\xfffeal nemico di andare KO, lasciandolo con\xfffealmeno un PS.
+Chi la usa provoca il bersaglio e lo\xfffeconfonde, facendo aumentare però\xfffedi molto il suo Attacco.
+Chi la usa recupera metà dei propri PS\xfffemassimi. Fuori dalla lotta può anche far\xfffetrasferire PS ai propri compagni.
+Colpisce il nemico con una carica elettrica\xfffee può anche paralizzarlo.
+Colpisce il nemico con falci o artigli. Se\xfffeusata in successione aumenta di potenza\xfffeogni volta che va a segno.
+Colpisce il nemico con ali d'acciaio. Può\xfffeanche aumentare la Difesa di chi la usa.
+Chi la usa blocca il nemico con uno sguardo\xfffeoscuro e ammaliante, impedendogli la fuga.
+Se il nemico è del sesso opposto, s'infatua\xfffee attacca con meno probabilità.
+Chi la usa sfodera a caso una delle proprie\xfffemosse mentre sta dormendo.
+Chi la usa produce uno scampanellio che\xffferisolve i problemi di stato dei Pokémon\xfffedi tutta la squadra.
+Mossa che diventa tanto più potente\xfffequanto maggiore è il grado di affezione\xfffedel Pokémon per il proprio Allenatore.
+Chi la usa dà un regalo bomba al bersaglio.\xfffeA volte, però, può fargli recuperare PS.
+Mossa che diventa tanto più potente\xfffequanto minore è il grado di affezione\xfffedel Pokémon per il proprio Allenatore.
+Chi la usa crea un campo protettivo che\xfffedifende tutta la squadra dai problemi di\xfffestato per cinque turni.
+Chi la usa somma i propri PS a quelli\xfffedi un altro Pokémon per poi dividerli\xfffein parti uguali.
+Colpisce il nemico con un fuoco mistico di\xfffeenorme intensità che può anche causargli\xfffeuna scottatura.
+Chi la usa scatena un terremoto\xfffed'intensità variabile che danneggia\xfffegli altri Pokémon in campo.
+Colpisce il nemico con un pugno davvero\xfffeforte. Se va a segno, lo confonde.
+Chi la usa utilizza il suo robusto e\xfffeimponente corno per colpire il nemico\xfffecon tutto se stesso.
+Investe il nemico con una raffica\xfffepotentissima che arreca danni.\xfffePuò anche paralizzarlo.
+Chi la usa è sostituito da un Pokémon\xfffedella squadra, che eredita anche ogni\xfffemodifica alle statistiche.
+Chi la usa obbliga per tre turni il nemico a\xffferipetere l'ultima mossa eseguita.
+Una mossa d'attacco che infligge un danno\xfffedoppio se il nemico è in fase di\xfffesostituzione.
+Attacco rotante che elimina gli effetti di\xfffemosse come Legatutto, Avvolgibotta, Punte\xfffee Parassiseme.
+Un dolce profumo che riduce l'elusione dei\xfffenemici. Fuori dalla lotta attira i Pokémon\xfffeselvatici.
+Il nemico viene colpito da una robusta\xfffecoda d'acciaio. Può anche ridurne\xfffela Difesa.
+Colpisce il nemico con artigli d'acciaio.\xfffePuò anche aumentare l'Attacco di chi\xfffela usa.
+Chi la usa attacca per ultimo, ma il colpo\xfffeè sempre infallibile.
+Chi la usa recupera PS. Il numero di PS\xffferecuperati dipende dalle condizioni\xfffeatmosferiche.
+Chi la usa recupera PS. Il numero di PS\xffferecuperati dipende dalle condizioni\xfffeatmosferiche.
+Chi la usa recupera PS. Il numero di PS\xffferecuperati dipende dalle condizioni\xfffeatmosferiche.
+Mossa singolare che cambia tipo e\xfffepotenza a seconda del Pokémon che\xfffela usa.
+Investe il nemico con un colpo sferrato\xfffecon entrambe le braccia incrociate.\xfffeProbabile brutto colpo.
+Un potente tornado si abbatte sul nemico.\xfffePuò anche far tentennare.
+Chi la usa provoca una forte pioggia per\xfffecinque turni, potenziando le mosse di\xfffetipo Acqua.
+Chi la usa intensifica i raggi solari per\xfffecinque turni, potenziando le mosse di tipo\xfffeFuoco.
+Il nemico viene morso con denti affilati.\xfffePuò anche ridurne la Difesa.
+Mossa che replica ogni attacco speciale,\xfffearrecando il doppio del danno ricevuto.
+Chi la usa s'ipnotizza per copiare ogni\xfffemodifica alle statistiche del bersaglio.
+Chi la usa carica il nemico a velocità\xfffeimpressionante ed attacca sempre per\xfffeprimo.
+Colpisce il nemico con una forza\xfffeprimordiale. Può aumentare tutte\xfffele statistiche.
+Lancia sul nemico una sfera nera.\xfffePuò anche ridurne la Difesa Speciale.
+Due turni dopo l'utilizzo di questa mossa,\xfffeil nemico viene attaccato con energia\xfffepsichica.
+Il nemico viene colpito da un pugno in\xfffegrado di frantumare anche la roccia.\xfffePuò anche ridurne la Difesa.
+Intrappola il nemico in un turbine d'acqua\xfffeche dura per quattro o cinque turni\xfffeinfliggendogli dei danni ogni turno.
+Chi la usa chiama in aiuto i Pokémon della\xfffesquadra: più ce ne sono, maggiore è\xfffeil numero di attacchi.
+Mossa che fa agire per primo e fa\xfffetentennare il nemico. Funziona solo\xfffeappena sceso in campo.
+Chi la usa attacca per tre turni con un\xfffefrastuono che non fa dormire nessuno.
+Chi la usa accumula energia aumentando\xfffela Difesa e la Difesa Speciale.\xfffeSi può utilizzare tre volte.
+Tutta l'energia accumulata in precedenza\xfffecon Accumulo è rilasciata nell'attacco.\xfffeMaggiore è l'energia, più danni si arrecano.
+Chi la usa assorbe l'energia raccolta\xfffecon la mossa Accumulo e recupera PS.\xfffeMaggiore è l'energia, più PS si recuperano.
+Chi la usa investe i nemici con una folata\xfffedi vento caldo. Può anche scottare.
+Chi la usa causa una grandinata che dura\xfffecinque turni. Danneggia tutti i Pokémon\xfffetranne quelli di tipo Ghiaccio.
+Chi la usa tormenta e fa infuriare\xfffeil nemico, impedendogli di usare\xfffela stessa mossa due volte di seguito.
+Adula il bersaglio e lo confonde, ma ne\xfffeaumenta l'Attacco Speciale.
+Fiamme intense di colore viola causano\xfffeuna scottatura al nemico.
+Chi la usa va KO. Tuttavia, riduce di molto\xfffel'Attacco e l'Attacco Speciale del nemico.
+Mossa d'attacco che raddoppia la potenza\xfffese chi la usa è scottato, avvelenato\xfffeo paralizzato.
+Chi la usa prende la mira prima di sferrare\xfffeun pugno. Fallirà se verrà colpito prima\xfffedi eseguire la mossa.
+Infligge un danno doppio ad un bersaglio\xfffeparalizzato, ma ne cura anche la paralisi.
+Chi la usa attrae l'attenzione su di sé,\xfffecostringendo i nemici a sceglierlo sempre\xfffecome bersaglio.
+Mossa che fa uso della forza della natura.\xfffeIl suo effetto varia in base all'ambiente.
+Potenzia la mossa di tipo Elettro usata\xfffesubito dopo. Aumenta anche la Difesa\xfffeSpeciale di chi la usa.
+Provoca il nemico, inducendolo ad usare\xfffesolo mosse d'attacco per tre turni.
+Mossa che aumenta la potenza dell'attacco\xfffedi un alleato.
+Chi la usa coglie il bersaglio in\xfffecontropiede e l'obbliga a cambiare\xfffeil suo strumento con il proprio.
+Chi la usa mima in tutto il bersaglio,\xfffecopiandone l'abilità.
+Permette di recuperare metà dei PS massimi\xfffeal turno successivo.
+Chi la usa utilizza in fretta e a caso una\xfffedelle mosse degli altri Pokémon della\xfffesquadra.
+Chi la usa mette delle radici che gli fanno\xffferecuperare PS ad ogni turno. Non può\xfffeessere sostituito.
+Chi la usa attacca il nemico con grande\xfffeforza, ma il suo Attacco e la sua Difesa\xfffepeggiorano.
+Una barriera rimanda al mittente l'effetto\xfffedi mosse come Parassiseme e di mosse\xfffeche influenzano lo stato.
+Chi la usa ricicla uno strumento tenuto,\xfffegià usato nella lotta, e lo può riutilizzare.
+Mossa d'attacco che infligge un danno\xfffedoppio se si è stati colpiti dal nemico\xfffenello stesso turno.
+Colpisce il nemico con una mano e rompe\xfffebarriere come Riflesso e Schermoluce.
+Chi la usa fa un grande sbadiglio che\xfffeaddormenta il nemico al turno seguente.
+Attacco che blocca anche lo strumento\xfffetenuto dal nemico, impedendone l'uso\xfffenella lotta.
+Attacco che riduce i PS del nemico a una\xfffequantità pari ai PS di chi la usa.
+Attacco impetuoso ed esplosivo la cui\xfffepotenza è proporzionale ai PS di chi\xfffelo usa.
+Chi la usa sfrutta le sue facoltà mentali\xfffeper scambiare l'abilità con il bersaglio.
+Chi la usa impedisce al nemico di usare\xfffemosse che conoscono entrambi.
+Chi la usa riposa per curarsi da\xfffeavvelenamento, paralisi e scottatura.
+Se chi la usa va KO, i PP della mossa\xfffenemica che lo ha messo fuori gioco\xfffesi azzerano.
+Chi la usa ruba e utilizza la mossa\xfffecurativa o modifica-statistiche che\xfffeil bersaglio stava per usare.
+Attacco che può avere un effetto\xfffeaggiuntivo a seconda del luogo\xfffein cui si trova chi lo usa.
+Chi la usa si tuffa in acqua per emergere e\xfffeattaccare al turno seguente. Fuori dalla\xfffelotta permette di immergersi sott'acqua.
+Raffica di ceffoni che colpisce da due a\xfffecinque volte di fila.
+Modifica il tipo di chi la usa a seconda del\xfffeluogo, ad esempio sull'acqua, nell'erba\xfffeo in una grotta.
+Chi la usa fissa una luce forte per\xfffeconcentrarsi e aumentare moltissimo\xfffel'Attacco Speciale.
+Chi la usa scatena un'esplosione\xfffeabbagliante che può anche ridurre\xfffela Difesa Speciale del Pokémon colpito.
+Una sfera coperta di nebbia danneggia\xfffeil nemico. Può anche ridurre l'Attacco\xfffeSpeciale.
+Chi la usa copre il nemico con un manto\xfffedi piume che riduce di molto il suo Attacco.
+Chi la usa esegue una danza goffa che\xfffeconfonde tutti i Pokémon attorno.
+Chi la usa tira un calcio. Probabile brutto\xfffecolpo. Può anche causare una scottatura.
+Chi la usa si ricopre di fango indebolendo\xfffele mosse di tipo Elettro finché resta\xfffein campo.
+Chi la usa attacca il nemico rotolando\xfffeper cinque turni, con aumento progressivo\xfffedella potenza ogni volta che va a segno.
+Chi la usa attacca colpendo il nemico\xfffecon i suoi arti pieni di spine. Può far\xfffetentennare il Pokémon colpito.
+Chi la usa si rilassa recuperando metà\xfffedei propri PS massimi.
+Chi la usa lancia un urlo straziante che\xfffedanneggia i nemici.
+Chi la usa morde il nemico con denti\xfffeavvelenati che possono anche\xfffeiperavvelenarlo.
+Colpisce il nemico con artigli robusti e\xfffeaffilati che possono ridurne la Difesa.
+Potente esplosione che danneggia\xfffeil nemico, ma fa saltare il turno\xfffesuccessivo a chi la provoca.
+Colpisce il nemico con un potente getto\xfffed'acqua. Chi la usa salta il turno\xfffesuccessivo.
+Colpisce il nemico con un pugno veloce\xfffecome una meteora. Può far pure salire\xfffel'Attacco di chi la usa.
+Chi la usa attacca il bersaglio emettendo\xfffeun verso terrificante. Può anche farlo\xfffetentennare.
+Mossa d'attacco che varia tipo e forza in\xfffebase alle condizioni atmosferiche.
+Chi la usa rilascia un dolce profumo\xfffeche risolve tutti i problemi di stato\xfffedella sua squadra.
+Chi la usa inscena un pianto teatrale per\xfffecommuovere il nemico. Ne riduce di molto la\xfffeDifesa Speciale.
+Chi la usa provoca un vento tagliente che\xfffesferza i nemici. Probabile brutto colpo.
+Chi la usa sferra un potente attacco,\xfffema il contraccolpo riduce di molto\xfffeil suo Attacco Speciale.
+Chi la usa rende i Pokémon di tipo Spettro\xfffevulnerabili a qualsiasi tipo di mossa e può,\xfffeinoltre, colpire i nemici sfuggenti.
+Colpisce il nemico con rocce. Inoltre,\xfffelo rallenta riducendone la Velocità.
+Attacca con un forte vento di polvere di\xfffesquame. Tutte le statistiche di chi la\xfffeusa possono salire.
+Orribile stridio, simile a quello prodotto\xfffedal metallo, che riduce di molto\xfffela Difesa Speciale del nemico.
+Una dolce melodia culla il nemico e\xfffelo costringe ad addormentarsi.
+Chi la usa solletica il nemico e lo fa\xffferidere, riducendo il suo Attacco e la\xfffesua Difesa.
+Chi la usa assorbe una forza mistica\xfffedallo spazio che aumenta la Difesa\xfffee la Difesa Speciale.
+Lancia un getto d'acqua contro i nemici.\xfffeLa potenza è proporzionale al numero di PS\xfffedi chi la usa.
+Chi la usa attacca con uno strano raggio\xfffedi luce che può anche confondere\xfffeil Pokémon colpito.
+Il nemico riceve un pugno proveniente\xfffedalle tenebre. Questa mossa è infallibile.
+Chi la usa attacca con una misteriosa\xfffeforza invisibile. Può far tentennare\xfffeil nemico.
+Chi la usa attacca il nemico con un\xfffemontante che può arrivare fino in cielo.
+Chi la usa intrappola il nemico in un turbine\xfffedi sabbia per quattro o cinque turni.
+Ondata di freddo penetrante che, se va\xfffea segno, fa andare KO il nemico.
+Chi la usa attacca con un getto di fango\xfffeche può anche ridurre la precisione\xfffedei nemici.
+Chi la usa spara da due a cinque raffiche\xfffedi semi contro il nemico in successione.
+Chi la usa attacca il nemico a grande\xfffevelocità. Questa mossa è infallibile.
+Chi la usa spara ghiaccioli affilati contro\xfffeil nemico da due a cinque volte di fila.
+Il corpo di chi la usa si indurisce come\xfffeil ferro, facendone salire di molto la\xfffeDifesa.
+Chi la usa sbarra la strada al nemico\xfffeimpedendone la fuga o la sostituzione.
+Chi la usa emette un verso molto forte\xfffeper darsi coraggio e aumentare l'Attacco.
+Chi la usa attacca con artigli affilati che\xfffegraffiano il nemico rapidamente e con\xfffegrande forza.
+Un groviglio di radici colpisce il nemico.\xfffeChi la usa salta il turno successivo.
+Chi la usa tende i muscoli per gonfiare\xfffeil corpo, aumentando Difesa e Attacco.
+Chi la usa balza in alto e ricade sul nemico\xfffedopo un turno. Può anche paralizzare.
+Chi la usa attacca lanciando fango sul\xfffenemico. Riduce anche la Velocità.
+Chi la usa colpisce con la coda e può\xfffeavvelenare il nemico. Probabile brutto\xfffecolpo.
+Chi la usa attacca il bersaglio sorridendo\xfffee gli ruba lo strumento che tiene.\xfffe
+Chi la usa si carica di elettricità e poi\xfffeattacca. Può paralizzare il nemico.\xfffeIl contraccolpo causa seri danni.
+Chi la usa sparpaglia strane foglie che\xfffeinseguono il nemico. Attacco infallibile.
+Chi la usa s'impregna d'acqua indebolendo\xfffele mosse di tipo Fuoco finché resta\xfffein campo.
+Chi la usa, meditando, placa il proprio\xfffespirito per aumentare l'Attacco Speciale\xfffee la Difesa Speciale.
+Colpisce il nemico usando una foglia\xfffeaffilata come una spada. Probabile\xfffebrutto colpo.
+Danza mistica e vigorosa che aumenta\xfffel'Attacco e la Velocità di chi la usa.
+Colpisce il nemico con dei massi pesanti\xfffelanciati in rapida successione. Il numero\xfffedi massi varia da due a cinque.
+Chi la usa colpisce il nemico con una scossa\xfffedi elettricità. È impossibile eludere questa\xfffemossa.
+Il nemico viene colpito da un getto d'acqua\xfffepotentissimo che può anche confonderlo.
+Intensa luce solare che colpisce il nemico\xfffedopo due turni dall'uso della mossa.
+Chi la usa sferra un potente attacco,\xfffema il contraccolpo riduce di molto\xfffeil suo Attacco Speciale.
+Chi la usa sta fermo e riposa, recuperando\xfffemetà dei propri PS massimi.
+Intensifica la gravità per cinque turni.\xfffeLe mosse che fanno volare e Levitazione\xfffesono inutilizzabili.
+Chi la usa rende i Pokémon di tipo Buio\xfffevulnerabili a qualsiasi tipo di mossa e può,\xfffeinoltre, colpire i nemici sfuggenti.
+Questa mossa infligge un danno doppio\xfffead un bersaglio addormentato, ma allo\xfffestesso tempo lo risveglia.
+Chi la usa colpisce il nemico con il suo\xfffepugno forte e pesante, ma perde Velocità.
+Chi la usa colpisce il nemico con un vortice\xffferapidissimo. Più lento è chi la usa, maggiore\xfffeè il danno.
+Chi la usa va KO, ma il Pokémon che lo\xfffesostituisce recupera tutti i PS e risolve\xfffei problemi di stato.
+Se i PS del nemico sono scesi a metà o\xfffemeno, questa mossa colpirà con il doppio\xfffedella forza.
+Chi la usa trae forza dalla Bacca che\xfffetiene. Da questa dipendono il tipo e\xfffela forza dell'attacco.
+Mossa che colpisce anche un nemico che ha\xfffeusato Protezione o Individua, annullandone\xfffegli effetti.
+Chi la usa becca il bersaglio. Inoltre, se\xfffequesti tiene una Bacca, gliela ruba e ne\xfffesfrutta gli effetti.
+Chi la usa scatena un turbine che aumenta\xfffela Velocità di tutti i Pokémon della squadra\xfffeper quattro turni.
+Chi la usa esercita pressione su alcuni\xfffepunti nevralgici e aumenta di molto\xfffeuna statistica a caso.
+Chi la usa si vendica sul nemico che l'ha\xfffeappena ferito con una mossa anche più\xfffepotente.
+Chi usa questa mossa si tira indietro\xfffeper farsi sostituire dopo aver sferrato\xfffel'attacco.
+Chi la usa attacca abbassando la guardia.\xfffeLa propria Difesa e la Difesa Speciale\xfffesi riducono.
+Chi la usa accumula forza, poi attacca.\xfffeLa potenza raddoppia se agisce dopo\xfffeil Pokémon nemico.
+Se il nemico ha già subito dei danni nello\xfffestesso turno, la potenza di questa mossa\xffferaddoppia.
+Impedisce al nemico di usare lo strumento\xfffeche tiene e al suo Allenatore di usarne\xfffealtri sul Pokémon.
+Chi la usa lancia sul nemico lo strumento\xfffeche tiene. La forza e l'effetto dipendono\xfffedallo strumento.
+Con la forza psichica e la suggestione,\xfffechi la usa può trasferire i suoi problemi\xfffedi stato al Pokémon colpito.
+La potenza di questa mossa aumenta man\xfffemano che i suoi PP diminuiscono.
+Chi la usa impedisce al nemico di utilizzare\xfffemosse o abilità recupera-PS per cinque\xfffeturni.
+Chi la usa stritola con forza il nemico.\xfffePiù PS ha il nemico, maggiore è la potenza\xfffedella mossa.
+Mossa psichica che permette a chi la usa\xfffedi scambiare i valori delle sue statistiche\xfffedi Attacco e Difesa.
+Chi la usa lancia acidi gastrici sul nemico.\xfffeIl fluido annulla l'abilità del nemico.
+Chi la usa rivolge un incantesimo al cielo,\xfffeimpedendo al nemico di sferrare brutti\xfffecolpi alla squadra.
+Chi la usa precede un nemico più lento, gli\xffferuba l'attacco e glielo ritorce contro con\xfffepotenza persino maggiore.
+Chi la usa mima l'ultima mossa eseguita dal\xfffenemico. Fallisce se non è stata ancora\xfffeusata alcuna mossa.
+Chi la usa sfrutta la sua forza psichica\xfffeper scambiare le modifiche ad Attacco e\xfffeAttacco Speciale con il bersaglio.
+Chi la usa sfrutta la sua forza psichica\xfffeper scambiare le modifiche a Difesa e a\xfffeDifesa Speciale con il bersaglio.
+Questa mossa diventa più potente ogni\xfffevolta che il nemico aumenta le proprie\xfffestatistiche.
+Per usare questa mossa, bisogna prima\xfffeavvalersi in lotta di tutte le altre mosse\xfffeconosciute.
+Un seme che causa ansia viene piantato\xfffesul bersaglio. Ne muta l'abilità in\xfffeInsonnia e ne blocca il sonno.
+Chi la usa può attaccare per primo.\xfffeFallisce se il nemico non sta preparando\xfffeun attacco.
+Chi la usa piazza una trappola di punte\xfffeche avvelenano i nemici che scendono\xfffein campo.
+Chi la usa sfrutta la sua forza psichica\xfffeper scambiare le modifiche alle statistiche\xfffecon il bersaglio.
+Chi la usa si avvolge in un velo d'acqua.\xfffeRecupera alcuni PS ad ogni turno.
+Chi la usa si solleva in aria per cinque\xfffeturni grazie a un campo elettromagnetico.
+Chi la usa si ricopre di fuoco e carica\xfffeil bersaglio, ma subisce il contraccolpo.\xfffePuò anche scottare.
+Chi la usa attacca con un'onda d'urto che\xfffepuò anche paralizzare il bersaglio.
+Chi la usa rilascia una forza eterea dal\xfffeprofondo del corpo. La mossa è infallibile.
+Chi la usa leviga il proprio corpo per\xffferidurne l'attrito. Aumenta di molto\xfffela Velocità.
+Il nemico è colpito da un tentacolo o da\xfffeun arto intriso di una sostanza tossica.\xfffePuò anche avvelenarlo.
+Chi la usa emana un'aura impregnata di\xfffeoscuri pensieri. Può anche far tentennare\xfffeil Pokémon colpito.
+Chi la usa colpisce il nemico appena\xfffesi presenta l'occasione. Probabile brutto\xfffecolpo.
+Chi la usa attacca agitando la coda\xfffecome se fosse una violenta ondata\xfffein una tempesta furiosa.
+Chi la usa emette una raffica di semi dal\xfffeguscio duro che colpiscono il nemico\xfffedall'alto.
+Chi la usa attacca con un vento tagliente\xfffeche squarcia il cielo. Può anche far\xfffetentennare il Pokémon colpito.
+Chi la usa colpisce il nemico usando le sue\xfffefalci o i suoi artigli come se fossero delle\xfffeforbici.
+Chi la usa fa vibrare le ali creando\xfffeun'onda sonora pericolosa. Può anche\xffferidurre la Difesa Speciale del nemico.
+Chi la usa spalanca la bocca e genera\xfffeun'onda d'urto che colpisce il nemico.
+Chi la usa attacca con fare minaccioso e\xfffein questo modo può anche far tentennare\xfffeil nemico.
+Chi la usa attacca con un raggio di luce\xfffeche brilla come se fosse fatto di pietre\xfffepreziose.
+Pugno che assorbe energia. Fa recuperare\xfffeuna quantità di PS pari alla metà del danno\xfffeinferto.
+Chi la usa rotea i pugni per lanciare\xfffeun'onda di vuoto assoluto verso il nemico.\xfffeAttacca per primo.
+Chi la usa si concentra e rilascia la sua\xfffeforza. Può ridurre la Difesa Speciale del\xfffePokémon colpito.
+Chi la usa attinge energia dalla natura\xfffee la scaglia contro il nemico. Può anche\xffferidurne la Difesa Speciale.
+Chi la usa si nasconde sotto le ali e carica\xfffeda bassa quota. Tuttavia, subisce\xfffeconsiderevoli danni.
+Dal terreno sotto il nemico si sprigiona\xfffeuna forza devastante. Può anche ridurne\xfffela Difesa Speciale.
+Chi la usa scambia lo strumento che tiene\xfffecon quello del bersaglio ad una velocità\xfffeimpressionante.
+Chi la usa carica il nemico usando tutta\xfffela sua forza, ma al turno successivo\xfffedeve riposare.
+Chi la usa stimola il cervello pensando\xfffea cose cattive. Aumenta di molto\xfffel'Attacco Speciale.
+Chi la usa attacca con una scarica di pugni\xfffeveloci come proiettili. Con questa mossa\xfffesi colpisce per primi.
+Mossa d'attacco che infligge doppi danni,\xfffese chi la usa è stato ferito dal nemico\xfffenello stesso turno.
+Chi la usa crea dei pezzi di ghiaccio e\xfffeli lancia. Con questa mossa si colpisce\xfffeper primi.
+Chi la usa attacca con artigli d'ombra\xfffeche colpiscono con gran forza. Probabile\xfffebrutto colpo.
+Chi la usa morde con denti elettrificati\xfffeche possono anche paralizzare o far\xfffetentennare il nemico.
+Chi la usa morde con denti ghiacciati.\xfffePuò anche congelare o far tentennare\xfffeil nemico.
+Chi la usa morde con denti infuocati. Può\xfffeanche scottare o far tentennare il nemico.
+Chi la usa estende la sua ombra e attacca\xfffeil nemico alle spalle. Con questa mossa\xfffesi colpisce per primi.
+Chi la usa lancia una compatta palla di\xfffefango. Può anche ridurre la precisione\xfffedel Pokémon colpito.
+Chi la usa colpisce il nemico con lame fatte\xfffedi forza psichica. Probabile brutto colpo.
+Chi la usa concentra la forza nella testa\xfffee si lancia contro il nemico. Può anche\xfffefarlo tentennare.
+Chi la usa rilascia fasci d'energia dal\xfffecorpo levigato. Può anche ridurre\xfffela precisione del nemico.
+Chi la usa attacca raccogliendo e\xffferilasciando energia luminosa. Può\xffferidurre la Difesa Speciale del nemico.
+Chi la usa carica con impeto incredibile.\xfffeIl colpo può confondere il nemico.
+Chi la usa spazza via barriere come\xfffeRiflesso e Schermoluce con un forte vento\xfffee riduce la capacità d'elusione del nemico.
+Chi la usa crea una dimensione in cui\xfffei Pokémon più lenti si muovono per primi\xfffeper cinque turni.
+Attacca con meteore che cadono dal cielo.\xfffeIl contraccolpo fa calare di molto\xfffel'Attacco Speciale di chi la usa.
+Chi la usa colpisce i Pokémon che ha\xfffeintorno con un bagliore elettrico.\xfffePuò anche causare paralisi.
+Chi la usa lancia fiamme scarlatte sugli\xfffealtri Pokémon in campo. Può anche\xfffescottare.
+Si forma una tempesta di foglie affilate.\xfffeIl contraccolpo riduce di molto l'Attacco\xfffeSpeciale di chi la usa.
+Chi la usa agita violentemente liane o\xfffetentacoli per sferzare il nemico.
+Chi la usa attacca il nemico con un enorme\xfffemasso, ma si deve riposare al turno\xfffesuccessivo.
+Attacco con zanne avvelenate che può\xfffeanche avvelenare il Pokémon colpito.\xfffeProbabile brutto colpo.
+Chi la usa attacca il nemico con rifiuti\xfffesudici che possono anche avvelenarlo.
+Chi la usa colpisce il nemico con la sua\xfffetesta dura come l'acciaio. Può anche\xfffefarlo tentennare.
+Chi la usa lancia bombe d'acciaio che si\xfffeattaccano al nemico. Una mossa infallibile.
+Chi la usa colpisce il nemico dal\xfffebasso con pietre affilate. Probabile\xfffebrutto colpo.
+Se il nemico è del sesso opposto di chi\xfffela usa, sarà ammaliato e il suo Attacco\xfffeSpeciale diminuirà di molto.
+Chi la usa piazza una trappola di rocce\xfffesospese che danneggia i nemici che entrano\xfffein lotta.
+Chi la usa intrappola il nemico con l'erba\xfffee lo fa cadere. Danneggia maggiormente\xfffei nemici più pesanti.
+Chi la usa attacca creando un'onda\xfffesonora con le parole imparate. Può anche\xfffeconfondere il nemico.
+Chi la usa rilascia numerosi colpi di luce.\xfffeIl tipo varia a seconda della Lastra\xfffetenuta.
+Chi la usa morde il nemico. Inoltre, se\xfffequesti tiene una Bacca, gliela ruba e ne\xfffesfrutta gli effetti.
+Chi la usa lancia un fascio di elettricità\xfffemolto intensa. Può anche aumentare il suo\xfffeAttacco Speciale.
+Chi la usa si lancia con tutto il corpo\xfffecontro il nemico, ma subisce anche\xfffeconsiderevoli danni.
+Chi la usa colpisce sempre per primo e\xfffead una tale velocità da rendersi quasi\xfffeinvisibile.
+Chi la usa raduna i suoi sgherri per\xfffecolpire il nemico. Probabile brutto colpo.
+Chi la usa raduna i suoi sgherri per creare\xfffeuno scudo, aumentando Difesa e Difesa\xfffeSpeciale.
+Chi la usa raduna i propri sgherri per farsi\xfffecurare. Recupera metà dei PS massimi.
+Chi la usa attacca con tutta la potenza\xfffedi cui dispone, ma purtroppo subisce\xfffedanni considerevoli.
+Chi la usa colpisce il nemico con la coda\xfffedue volte di fila.
+Chi la usa colpisce il nemico con una forza\xfffecapace di alterare il tempo, ma deve stare\xfffefermo il turno dopo.
+Chi la usa lacera il nemico e lo spazio che\xfffelo circonda. Probabile brutto colpo.
+Chi la usa va KO. Il Pokémon che lo\xfffesostituisce risolve i propri problemi\xfffedi stato e recupera PS e PP.
+Colpisce il nemico con grande forza.\xfffePiù PS ha il nemico, maggiore è la potenza\xfffedella mossa.
+Intrappola il nemico in un turbine di fuoco\xfffeche dura per quattro o cinque turni.
+Trascina i nemici in un mondo di totale\xfffeoscurità e li fa addormentare.
+Chi la usa genera un'onda d'urto dal\xfffesuo corpo. Può anche ridurre di molto\xfffela Difesa Speciale del bersaglio.
+Chi la usa attacca con una forte raffica\xfffedi vento che può aumentare tutte le sue\xfffestatistiche.
+Chi la usa sparisce e poi colpisce il nemico\xfffeal turno successivo. Evita pure Protezione\xfffeo Individua.
+Chi la usa affila i propri artigli,\xfffeaumentando Attacco e precisione.
+Chi la usa para tutti i colpi diretti alla\xfffeintera squadra per un turno. Se usata\xfffein successione può fallire.
+Chi la usa sfrutta la sua forza psichica\xfffeper sommare Difesa e Difesa Speciale a\xfffequelle del bersaglio e dividerle equamente.
+Chi la usa sfrutta la sua forza psichica\xfffeper sommare Attacco e Attacco Speciale a\xfffequelli del bersaglio e dividerli equamente.
+Chi la usa crea una dimensione in cui Difesa\xfffee Difesa Speciale di tutti i Pokémon\xfffevengono scambiate per cinque turni.
+Chi la usa attacca il bersaglio facendo\xfffematerializzare un misterioso raggio\xfffepsichico che provoca danni fisici.
+Lancia uno speciale liquido tossico sul\xfffebersaglio. Se questi è avvelenato, il\xfffedanno provocato raddoppia.
+Chi la usa si libera di tutti i pesi in\xfffeeccesso, alleggerendosi e aumentando di\xfffemolto la propria Velocità.
+Chi la usa attira l'attenzione dei nemici\xfffecospargendosi di una polvere irritante e\xfffediventando bersaglio di tutti gli attacchi.
+Chi la usa fa galleggiare in aria il\xfffebersaglio, rendendolo facile da\xfffecolpire per tre turni.
+Chi la usa crea una dimensione in cui\xfffel'effetto degli strumenti tenuti da tutti\xfffei Pokémon è annullato per cinque turni.
+Chi la usa lancia una pietra o un\xfffeproiettile. Può colpire anche un\xfffebersaglio in volo e farlo cadere.
+Chi la usa sferra un colpo micidiale\xfffeal bersaglio, stritolandolo. Brutto colpo\xfffeassicurato.
+Chi la usa emana una fiammata che colpisce\xfffeil bersaglio e si propaga fino a raggiungere\xfffei Pokémon accanto.
+Lancia un'onda di fango che attacca\xfffetutti i Pokémon nelle vicinanze.\xfffePuò anche avvelenare.
+Danza leggiadra ed elegante che aumenta\xfffel'Attacco Speciale, la Difesa Speciale\xfffee la Velocità di chi la usa.
+Chi la usa si lancia contro il bersaglio\xfffecon tutto il proprio peso. Più è pesante\xffferispetto ad esso e più danni causa.
+Chi la usa infligge danni a tutti i Pokémon\xfffedel suo stesso tipo che ha vicino usando\xfffemisteriose onde elettromagnetiche.
+Chi la usa attacca con una sfera d'energia\xfffeelettrica. Più è rapido rispetto al\xfffebersaglio e più danni arreca.
+Chi la usa proietta un lungo getto d'acqua\xfffecontro il bersaglio e lo rende un Pokémon\xfffedi tipo Acqua.
+Chi la usa si copre di fuoco e attacca\xfffeil bersaglio. Concentrandosi aumenta,\xfffeinoltre, la propria Velocità.
+Chi la usa si concentra, aumentando\xfffeAttacco, Difesa e precisione.
+Chi la usa colpisce con un attacco fulmineo\xfffela parte inferiore del corpo del bersaglio,\xffferiducendone la Velocità.
+Chi la usa attacca il bersaglio con un acido\xfffealtamente corrosivo. Il fluido riduce\xfffedi molto la Difesa Speciale del bersaglio.
+Chi la usa sfrutta la forza del bersaglio.\xfffeIl danno inflitto è proporzionale\xfffeall'Attacco dell'avversario.
+Chi la usa emette un misterioso raggio\xfffepsichico che trasforma l'abilità del\xfffePokémon colpito in Disinvoltura.
+Chi la usa saltella con un buffo ritmo,\xfffeinvitando il bersaglio a imitarlo e rendendo\xfffela sua abilità identica alla propria.
+Chi la usa aiuta un bersaglio più lento\xfffepermettendogli di agire subito dopo.
+Attacca il bersaglio con una melodia.\xfffeSe usata ripetutamente da uno o più\xfffePokémon i danni inflitti aumentano.
+Attacca il bersaglio con la propria voce\xfffeecheggiante. Se usata a ripetizione da uno\xfffeo più Pokémon il danno aumenta.
+Chi la usa attacca non appena il bersaglio\xfffeabbassa la guardia. Il danno inflitto\xfffeprescinde dalle modifiche alle statistiche.
+Attacca il bersaglio lanciandogli contro\xfffeuna nuvola di fumo speciale, che annulla\xfffeogni modifica alle statistiche.
+Attacca il bersaglio con l'energia\xfffeaccumulata. Più sono state aumentate le\xfffestatistiche, maggiore è il danno inflitto.
+Chi la usa protegge tutta la squadra dalle\xfffemosse dei nemici che fanno colpire per\xfffeprimi. Se usata in successione può fallire.
+Chi la usa si teletrasporta al posto\xfffedi un compagno in campo, grazie\xfffead un misterioso potere.
+Chi la usa attacca il bersaglio con un\xfffegetto d'acqua bollente che può anche\xfffescottarlo.
+Chi la usa si disfa del guscio. Difesa e\xfffeDif. Sp. calano, ma aumentano di molto\xfffeAttacco, Att. Sp. e Velocità.
+Chi la usa lancia un'onda rilassante che\xfffefa recuperare al bersaglio metà dei suoi\xfffePS massimi.
+Attacco che causa un danno enorme\xfffese il bersaglio ha problemi di stato.
+Porta il bersaglio in cielo e lo scaglia a\xfffeterra al turno successivo. Il bersaglio\xfffecatturato non può muoversi.
+Facendo ruotare gli ingranaggi, chi la usa\xfffeaumenta non solo il proprio Attacco, ma\xfffeanche di molto la propria Velocità.
+Il bersaglio è scaraventato via ed è\xfffecostretto a lasciare il posto a un altro.\xfffeSe è selvatico, la lotta finisce.
+Attacca il nemico con una fiammata.\xfffeSe il nemico ha una Bacca, viene\xfffedivorata dalle fiamme.
+Chi la usa trattiene il bersaglio,\xfffecostringendolo ad agire per ultimo.
+Attacca rapidamente il bersaglio.\xfffeSe chi la usa non ha uno strumento,\xfffeinfligge al nemico grossi danni.
+Chi la usa cambia il proprio tipo in quello\xfffedel bersaglio.
+Vendica un compagno messo KO. Se ciò è\xfffeaccaduto al turno precedente, il danno\xfffeè maggiore.
+Chi la usa attacca con tutta la potenza di\xfffecui dispone e va KO, ma infligge al bersaglio\xfffeun danno pari ai PS che ha perso.
+Chi la usa consegna il proprio strumento\xfffeal bersaglio se ne è sprovvisto.
+Il bersaglio viene avvolto da intense\xfffefiammate che causano scottature.
+Attacca il nemico con una colonna d'acqua.\xfffeSe usata con Fiammapatto, aumentano gli\xfffeeffetti e un arcobaleno appare in cielo.
+Attacca il nemico con una colonna di fuoco.\xfffeSe usata con Erbapatto, aumentano gli\xfffeeffetti e il campo diventa un mare di fuoco.
+Attacca il nemico con una colonna d'erba.\xfffeSe usata con Acquapatto, aumentano gli\xfffeeffetti e il campo diventa una palude.
+Chi usa questa mossa fa marcia indietro\xfffeper farsi sostituire dopo aver sferrato\xfffel'attacco.
+Colpisce i nemici opponendo resistenza e\xffferiducendo il loro Attacco Speciale.
+Chi la usa calpesta il terreno e scatena un\xfffeterremoto che danneggia tutti i Pokémon\xfffenei paraggi e ne riduce anche la Velocità.
+Chi la usa attacca il bersaglio con un\xfffesoffio d'aria gelida. Brutto colpo\xfffeassicurato.
+Chi la usa fa volar via il bersaglio in modo\xfffeche venga sostituito. Se il bersaglio è un\xfffePokémon selvatico, la lotta finisce.
+Chi la usa si tira su di morale, aumentando\xfffeil proprio Attacco e l'Attacco Speciale.
+Chi la usa attacca i nemici catturandoli\xfffecon una ragnatela elettrica e riducendone\xfffela Velocità.
+Chi la usa si carica di elettricità per poi\xfffescagliarsi sul bersaglio, ma subisce dei\xfffedanni per il contraccolpo.
+Chi la usa si scaglia sul bersaglio ruotando\xfffesu se stesso come un trapano perforante.\xfffeProbabile brutto colpo.
+Chi la usa attacca due volte il bersaglio\xfffecon dei colpi estremamente forti.
+Chi la usa distrae il nemico con un faccino\xfffeinnocente per poi sferrargli un colpo\xfffedevastante che può farlo tentennare.
+Chi la usa infilza il bersaglio con le corna\xfffee assorbe una quantità di PS pari a metà\xfffedel danno inferto.
+Chi la usa taglia il nemico con una spada\xfffemagica. Il danno inflitto ignora le modifiche\xfffealle statistiche del bersaglio.
+Chi la usa colpisce il bersaglio con il suo\xfffeguscio affilato. Il colpo può anche ridurre\xfffela Difesa del bersaglio.
+Chi la usa carica con il suo corpo rovente.\xfffePiù è pesante rispetto al bersaglio e più\xfffedanni causa.
+Chi la usa avvolge e attacca il bersaglio\xfffecon foglie affilate che possono anche\xffferidurne la precisione.
+Chi la usa ruota su se stesso ad alta\xfffevelocità e schiaccia il bersaglio. Può\xfffeanche farlo tentennare.
+Chi la usa avvolge il proprio corpo con\xfffedel cotone molto morbido, proteggendosi\xfffee aumentando moltissimo la propria Difesa.
+Chi la usa attacca il bersaglio con un'onda\xfffed'urto oscura che può ridurne\xfffela precisione.
+Chi la usa attacca il bersaglio facendo\xfffematerializzare un misterioso raggio\xfffepsichico che provoca danni fisici.
+Chi la usa colpisce il bersaglio con la sua\xfffecoda dura da due a cinque volte di fila.
+Chi la usa attacca il bersaglio\xfffeavvolgendolo con un vento fortissimo.\xfffePuò anche confonderlo.
+Chi la usa carica il bersaglio con la sua\xfffetesta in stile afro, ma subisce un po' di\xfffedanni per il contraccolpo.
+Chi la usa colpisce il bersaglio due volte\xfffedi fila lanciandogli contro dei dischi\xfffed'acciaio.
+Chi la usa lancia fiamme scarlatte sui\xfffePokémon intorno a sé. Può anche scottare.
+Chi la usa rilascia un colpo di luce contro\xfffeil bersaglio. Il tipo varia a seconda del\xfffemodulo tenuto.
+Chi la usa attacca i nemici intonando\xfffeun'antica melodia che colpisce il loro\xfffespirito. Può anche farli addormentare.
+Chi la usa attacca il bersaglio tagliandolo\xfffecon una spada mistica. La misteriosa\xfffeenergia sprigionata provoca danni fisici.
+Chi la usa attacca i nemici con una folata\xfffed'aria gelida e ne riduce anche la Velocità.
+Colpisce il bersaglio con una possente\xfffecarica elettrica e può anche paralizzarlo.
+Chi la usa attacca il bersaglio\xfffeavvolgendolo con magnifiche e intense\xfffefiamme blu che possono anche scottarlo.
+Chi la usa avvolge il bersaglio tra le\xfffefiamme. Può anche aumentare l'Attacco\xfffeSpeciale.
+Chi la usa lancia contro il nemico al turno\xfffesuccessivo una sfera di ghiaccio ricoperta\xfffedi elettricità. Può anche paralizzarlo.
+Chi la usa attacca il bersaglio al turno\xfffesuccessivo e lo avvolge in un soffio\xfffed'aria congelata. Può anche scottarlo.
+Chi la usa si mette a urlare per un po',\xffferiducendo l'Attacco Speciale dei nemici.
+Chi la usa attacca violentemente il nemico\xfffecon grosse stalattiti di ghiaccio che\xfffepossono anche farlo tentennare.
+Chi la usa carica emettendo fiamme ardenti\xfffedalla fronte, a costo di una riduzione di\xfffeDifesa, Difesa Speciale e Velocità.
+Chi la usa lancia una fiammata enorme.\xfffeSe usata in combinazione con Incrotuono,\xfffeil danno provocato dalla mossa aumenta.
+Chi la usa lancia un fulmine enorme.\xfffeSe usata in combinazione con Incrofiamma,\xfffeil danno provocato dalla mossa aumenta.

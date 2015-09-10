@@ -1,0 +1,26 @@
+Il y a plein de cartons remplis\xfffed'appareils électriques.
+Il y a plein de cartons remplis\xfffed'appareils électriques.\xf000븁\x0000\xfffeTiens? Motisma s'intéresse\xfffeà leur moteur!\xf000븁\x0000\xfffeVoulez-vous le laisser entrer dedans?
+Motisma renonce malgré lui à entrer\xfffedans le moteur...
+Quel Motisma voulez-vous faire\xfffeentrer dans le moteur?\xf000븁\x0000
+Ce Pokémon ne peut pas entrer\xfffedans le moteur.
+Un Œuf ne peut pas entrer\xfffedans le moteur.
+Dans le moteur de quel appareil\xfffeélectrique voulez-vous que\xf000븀\x0000\xfffe\xf000Ă\x0001\x0000 entre?
+FOUR À MICRO-ONDES
+MACHINE À LAVER
+VENTILATEUR
+RÉFRIGÉRATEUR
+TONDEUSE
+RAPPELER
+RETOUR
+\xf000Ă\x0001\x0000 est entré dans le moteur.
+\xf000Ă\x0001\x0000 tente d'apprendre\xfffe\xf000ć\x0001\x0001.\xf000븁\x0000\xfffeMais \xf000Ă\x0001\x0000 ne peut pas\xfffeavoir plus de quatre capacités.\xf000븁\x0000\xfffeEffacer une ancienne capacité pour\xfffe\xf000ć\x0001\x0001?
+Voulez-vous arrêter d'apprendre\xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 n'a pas appris \xf000ć\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 sort du moteur.
+Ce Pokémon va oublier la capacité\xfffe\xf000ć\x0001\x0001. Continuer?
+1, \xf000븂\x0001\x00142, et\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Tadaa!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 ne sait plus\xfffecomment utiliser \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeEt...\xf000븁\x0000
+\xf000Ă\x0001\x0000 apprend \xf000ć\x0001\x0002!
+\xf000Ă\x0001\x0000 a oublié \xf000ć\x0001\x0002.\xf000븁\x0000
+\xf000Ă\x0001\x0000 connaît déjà\xfffetout de ce moteur.\xf000븁\x0000
+\xf000Ă\x0001\x0000 est sorti du moteur.
+\xf000Ă\x0001\x0000 n'est pas entré\xfffedans le moteur.\xf000븁\x0000
+\xf000Ă\x0001\x0000 renonce malgré lui\xfffeà entrer dans le moteur...

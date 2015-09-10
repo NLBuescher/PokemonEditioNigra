@@ -1,0 +1,46 @@
+Ehi! Tu devi essere \xf000Ā\x0001\x0000!\xf000븁\x0000
+Fammi dare un'occhiata al tuo Pokédex.\xf000븁\x0000\xfffeVediamo un po'...\xfffeHai incontrato \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
+Ma guarda! Hai incontrato Klink!\xfffeNiente male davvero!\xf000븁\x0000
+Mmm... non hai ancora incontrato Klink.\xfffePeccato!\xf000븁\x0000\xfffePerò hai un Pokédex di tutto rispetto!\xf000븁\x0000
+Oh! Scusa, scusa! Per l'emozione ho\xfffedimenticato le buone maniere.\xf000븁\x0000\xfffePiacere, mi chiamo Gasparago Aralia.\xf000븁\x0000\xfffeProprio così! La persona che ti ha dato\xfffequesto Pokédex è mia figlia!\xf000븁\x0000\xfffeMi ha parlato molto di te.\xfffeSono proprio felice di incontrarti!\xf000븁\x0000
+In occasione di questo nostro incontro\xfffeaggiornerò il tuo Pokédex!\xf000븁\x0000
+Il Pokédex di \xf000Ā\x0001\x0000 è stato\xfffeaggiornato!
+Gasparago: Alcuni Pokémon possono avere\xfffeforme differenti.\xf000븁\x0000\xfffeOra potrai esaminare le forme che hai\xfffegià visto!\xf000븁\x0000\xfffeE dato che c'ero, ti ho aggiunto anche\xfffela funzione di ricerca!\xf000븁\x0000
+???: Prof. Aralia, allora chi è questo\xfffeAllenatore?\xf000븁\x0000
+Gasparago: Oh! Scusa, scusa! Facciamo\xfffele dovute presentazioni!\xf000븁\x0000\xfffeAnemone, ti presento \xf000Ā\x0001\x0000,\xfffeuna nuova conoscenza di mia figlia!\xf000븁\x0000\xfffeSta viaggiando per Unima per completare\xfffeil suo Pokédex.\xf000븁\x0000
+Anemone: Davvero? Allora immagino che\xfffeverrai a sfidarmi alla mia Palestra!\xf000븀\x0000\xfffeNon vedo l'ora!\xf000븁\x0000
+Gasparago: Hai sentito, \xf000Ā\x0001\x0000?\xfffeNon farla aspettare, ok?\xf000븁\x0000\xfffeVedrai che Palestra, roba da far girare\xfffela testa!\xf000븁\x0000
+Bene, Anemone. Fammi sapere se ci sono\xfffenovità!\xf000븁\x0000
+Anemone: Professore... il mio aereo è\xfffeun cargo!\xf000븁\x0000\xfffePuò trasportare solo cose, non persone!\xf000븁\x0000\xfffeE poi... le regioni di Kanto e Sinnoh non\xfffesono proprio dietro l'angolo!\xf000븁\x0000
+Gasparago: Suvvia! Un po' di elasticità!\xf000븁\x0000\xfffeBisogna aiutarsi l'un l'altro! Proprio\xfffecome si aiutano uomini e Pokémon!\xf000븁\x0000\xfffeIo vado allora. Alla prossima!\xf000븁\x0000
+Anemone: Uff!\xf000븁\x0000\xfffeNon riesco ancora a capacitarmi di come\xfffeuno così facilone sia potuto diventare un\xf000븀\x0000\xfffeprofessore di Pokémon di fama mondiale!\xf000븁\x0000
+Ascolta, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIn quanto Capopalestra, sono più che\xfffefelice se vuoi venire a sfidarmi.\xf000븁\x0000\xfffePrima, però, c'è una cosa di cui devo\xfffeoccuparmi.\xf000븁\x0000
+Ascolta, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIn quanto Capopalestra, sono più che\xfffefelice se vuoi venire a sfidarmi.\xf000븁\x0000\xfffePrima, però, c'è una cosa di cui devo\xfffeoccuparmi.\xf000븁\x0000
+Prima, mentre ero in volo sul mio cargo,\xfffeho notato qualcosa in cima alla\xf000븀\x0000\xfffeTorre Cielo.\xf000븁\x0000
+Credo fosse un Pokémon un po' malandato!\xf000븁\x0000\xfffeSe è davvero così, devo soccorrerlo!\xfffeScusa, ma devo andare a controllare!\xf000븁\x0000\xfffeVado alla Torre Cielo sul Percorso 7.\xfffeSe vuoi, puoi venire anche tu.\xf000븁\x0000
+Anemone?\xf000븁\x0000\xfffeDev'essersene andata da qualche parte,\xfffeuna volta tornata dal suo volo.\xf000븁\x0000\xfffeChe sia andata alla Torre Cielo, sul\xfffePercorso 7?
+N: \xf000븉\x0001\x0001Per dimostrare di essere i migliori,\xfffegli Allenatori fanno lotte in cui i loro\xf000븀\x0000\xfffePokémon rimangono feriti.\xf000븁\x0000\xfffeNon posso essere l'unico a pensare\xfffeche sia una cosa davvero crudele.\xf000븁\x0000\xfffeProverò a chiedere direttamente\xfffeal tuo Pokémon cosa ne pensa.\xf000븁\x0000\xfffeProprio così. Sono cresciuto circondato\xfffedai Pokémon e per me è più facile parlare\xf000븀\x0000\xfffecon loro che con gli esseri umani.\xf000븁\x0000\xfffeE poi i Pokémon non dicono mai bugie!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Dimmi, \xf000ā\x0001\x0000...\xf000븁\x0000\xfffeParlami un po' di \xf000Ā\x0001\x0001, il tuo\xfffeAllenatore.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Capisco... \xf000Ā\x0001\x0001 è di Soffiolieve\xfffee vive lì con la mamma.\xf000븁\x0000\xfffeOra è in viaggio per completare il Pokédex\xfffee vedere il mondo con i propri occhi...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Che sorpresa... pare che questo\xfffe\xf000ā\x0001\x0001 si fidi di te.\xf000븀\x0000\xfffeE non è poco!\xf000븁\x0000\xfffeSe tutti fossero come voi due, non\xfffeservirebbe più liberare in massa i Pokémon\xf000븀\x0000\xfffeper evitare che vengano sfruttati.\xf000븁\x0000\xfffeIl futuro di Pokémon e uomini sarebbe\xfffeal sicuro.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Ghecis ha sguinzagliato il Team Plasma\xfffealla ricerca di due pietre speciali:\xf000븀\x0000\xfffeil Chiarolite e lo Scurolite...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Quando un Pokémon leggendario abbandona\xfffela sua esistenza terrena, il suo corpo\xf000븀\x0000\xfffesi trasforma in una pietra in attesa che\xf000븀\x0000\xfffevenga al mondo un eroe...\xf000븁\x0000\xfffeRiporterò in vita un Pokémon drago e\xfffediventerò suo amico.\xf000븁\x0000\xfffeE verrò acclamato eroe in tutto il mondo\xfffee tutti mi obbediranno...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Il mio sogno è quello di cambiare il mondo\xfffesenza lottare.\xf000븁\x0000\xfffeSe si cerca di farlo con la forza, è\xfffeinevitabile crearsi dei nemici.\xf000븁\x0000\xfffeE a farne le spese sono sempre i Pokémon,\xfffesfruttati e feriti in lotta.\xf000븁\x0000\xfffeI Pokémon non sono esseri inferiori\xfffeda usare come ci pare e piace!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Un po' mi spiace che questo significhi\xfffeanche distruggere amicizie rispettose\xf000븀\x0000\xfffecome quella tra te e i tuoi Pokémon...\xf000븉\x0001\x0000\xf000븁\x0000
+Adoro gli aerei! Che linea! Un design\xfffeperfetto per volare!\xf000븁\x0000\xfffeUna macchina sublime, l'efficienza pura,\xfffeun meccanismo in cui nulla è superfluo!
+Qui dall'aeroporto di Ponentopoli\xfffedecollano solo aerei cargo.\xf000븁\x0000\xfffeIn fondo, se un Allenatore vuole volare\xfffebasta che usi la mossa Volo!
+Il nonno di Anemone era un aviatore\xfffeleggendario!\xf000븁\x0000\xfffeChi è Anemone? È il Capopalestra di qui!\xfffeEd è anche una fanciulla davvero gentile!
+Pokémon e uomini hanno unito le loro\xfffeforze per risanare terre aride, dove\xf000븀\x0000\xfffetutti potessero vivere in armonia.\xf000븁\x0000\xfffeQuesto spirito di collaborazione non\xfffecambierà mai!
+Certo che si può giocare sulla pista\xfffedi atterraggio, basta fare attenzione!\xf000븁\x0000\xfffeIl nostro cargo vola solo una volta\xfffeal giorno!
+Sembra che non siano poche le persone a\xfffecui il Team Plasma ha rapito un Pokémon...
+Le verdure migliori sono quelle cresciute\xfffesecondo natura.\xf000븁\x0000\xfffeUn ortaggio diventa più gustoso quando\xfffepuò approfittare di pioggia e sole!\xf000븁\x0000\xfffeNe è prova il fatto che ogni tanto li\xfffemangiano anche i Pokémon!
+Le verdure migliori sono quelle cresciute\xfffein serra!\xf000븁\x0000\xfffeTemperatura, umidità e concime tenuti\xfffesotto rigido controllo dai computer.\xf000븁\x0000\xfffeLa massima efficienza e un gusto che\xfffemeglio di così non si può!
+Ah! Hai trovato il nostro tesoro!\xf000븁\x0000
+L'hai trovatooo!\xf000븁\x0000
+Beh...\xf000븁\x0000\xfffeNon abbiamo Pokémon e volevamo tenere\xfffequella MT nascosta finché non ne avessimo\xf000븀\x0000\xfffeavuto uno.\xf000븁\x0000\xfffePerò, in effetti, è un po' uno spreco...\xfffeSe ti va, puoi usarla tu!\xf000븁\x0000\xfffeNoi ce ne faremo dare un'altra da\xfffeAnemone!\xf000븁\x0000
+Beh...\xf000븁\x0000\xfffeNon abbiamo Pokémon e volevamo tenere\xfffequella MT nascosta finché non ne avessimo\xf000븀\x0000\xfffeavuto uno.\xf000븁\x0000\xfffePerò, in effetti, è un po' uno spreco...\xfffeSe ti va, puoi usarla tu!\xf000븁\x0000\xfffeNoi ce ne faremo dare un'altra da\xfffeAnemone!\xf000븁\x0000
+Non ti preoccupare, usala tu!\xf000븁\x0000
+Ciao ciao!\xf000븁\x0000
+Ponentopoli\xfffeLa città dei fiori portati dal vento
+Servizio Cargo Ponentopoli\xfffeIl nostro motto è: “Veloce e sicuro!"
+Palestra di Ponentopoli\xf000븁\x0000\xfffe\xfffeCapopalestra: Anemone\xfffeLa signora del vento

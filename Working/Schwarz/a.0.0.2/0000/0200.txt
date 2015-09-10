@@ -1,0 +1,350 @@
+Empfang
+Zeichnen
+Kampf
+Tausch
+Zurück
+Reihumtausch
+
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 fragt nach dir.\xf000븂\x0001\x000f
+Verbindung wurde abgebrochen.
+Antwort von \xf000Ā\x0001\x0000 wird\xfffeerwartet...\xf000븂\x0001\x000f
+Verbindung wurde beendet.
+Du erhältst ein Angebot, den Trainer-\xfffepass von \xf000Ā\x0001\x0000 zu sehen.\xf000븁\x0000\xfffeMöchtest du auch deinen\xfffeTrainerpass zeigen?
+Das ist der Trainerpass von\xfffe\xf000Ā\x0001\x0000, wohnhaft in\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003,\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+Das ist der Trainerpass von\xfffe\xf000Ā\x0001\x0000, wohnhaft in\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Das ist der Trainerpass von\xfffe\xf000Ā\x0001\x0000, wohnhaft in\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+Das ist der Trainerpass von\xfffe\xf000Ā\x0001\x0000.\xf000븂\x0001<
+Warte auf den anderen Spieler.
+Du lehnst das Angebot ab.
+\xf000Ā\x0001\x0000 hat dich eingeladen,\xfffeetwas zu zeichnen.\xf000븁\x0000\xfffeMöchtest du dich dem anderen\xfffeSpieler anschließen und zeichnen?
+
+Du lehnst das Angebot ab.
+
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Einzelkampf\xfffeohne Einschränkungen?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Einzelkampf\xfffemit Handicap (Handicapkampf)?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Doppelkampf\xfffeohne Einschränkungen?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Doppelkampf\xfffemit Handicap (Handicapkampf)?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Dreierkampf\xfffeohne Einschränkungen?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Dreierkampf\xfffemit Handicap (Handicapkampf)?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Reihumkampf\xfffeohne Einschränkungen?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Reihumkampf\xfffemit Handicap (Handicapkampf)?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Multikampf\xfffeohne Einschränkungen?\xf000븁\x0000
+\xf000Ā\x0001\x0000 fordert dich zum Kampf\xfffeheraus.\xf000븁\x0000\xfffeHast du Interesse an einem Multikampf\xfffemit Handicap (Handicapkampf)?\xf000븁\x0000
+
+Du lehnst das Angebot ab.
+\xf000Ā\x0001\x0000 bietet dir einen\xfffeTausch an.\xf000븁\x0000\xfffeNimmst du das Angebot an?
+Der Tausch beginnt!\xf000븂\x0001<
+Du lehnst das Angebot ab.
+Zum Tauschen brauchst du mindestens\xfffezwei Pokémon.
+\xf000Ā\x0001\x0000 bietet dir einen\xfffeStatistiktausch an.\xf000븁\x0000\xfffeMöchtest du mit diesem Spieler\xfffeStatistiken tauschen?
+
+
+\xf000Ā\x0001\x0000 hat dich eingeladen, an\xfffeeinem Reihumtausch teilzunehmen.\xf000븁\x0000\xfffeMöchtest du an dem Reihumtausch\xfffeteilnehmen?
+
+Du lehnst das Angebot ab.
+Du besitzt kein Ei.\xfffeDie Einladung wurde abgelehnt.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeHier ist \xf000Ā\x0001\x0000!\xfffeWas würdest du gerne machen?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeHallo. Hier ist \xf000Ā\x0001\x0000!\xfffeMöchtest du etwas Bestimmtes?
+Oh! Entschuldige, aber ich\xfffemuss noch etwas erledigen.\xf000븀\x0000\xfffeEin andermal, okay?
+Hups! Tut mir leid, aber ich habe noch\xfffeetwas anderes zu tun.\xf000븀\x0000\xfffeDas nächste Mal, okay?
+Was möchtest du tun?
+Was möchtest du tun?
+...\xfffeDer Trainer scheint beschäftigt zu sein.
+...\xfffeDer Trainer scheint beschäftigt zu sein.
+Von \xf000Ā\x0001\x0000 kam keine Antwort...
+Von \xf000Ā\x0001\x0000 kam keine Antwort...
+Gut! Zum Gruß zeige ich\xfffedir meinen Trainerpass.
+Um mich vorzustellen, zeige ich dir\xfffemeinen Trainerpass.
+Nanu? Mein Trainerpass...\xfffeWo ist er denn nur?\xf000븁\x0000\xfffeSorry, ich zeige ihn dir später!
+Huch? Wo habe ich nur meinen\xfffeTrainerpass?!\xf000븁\x0000\xfffeSorry, ich zeige ihn dir später!
+Ich zeige zur Begrüßung meinen\xfffeTrainerpass.
+Wir zeigen uns die Trainerpässe,\xfffeum uns bekannt zu machen.
+Ich hoffe, ich lerne dich\xfffebesser kennen!
+Angenehm!\xfffeLass uns in Kontakt bleiben!
+Oh, möchtest du mit mir zeichnen?\xfffeGern. Einen Augenblick noch.
+Du willst mit mir zeichnen?\xfffeSicher. Einen Augenblick...
+
+
+Es tut mir leid, aber ich kann jetzt\xfffenicht. Ein andermal, okay?
+Tut mir leid, aber ich kann gerade nicht.\xfffeEin andermal, okay?
+\xf000Ā\x0001\x0000: Wir zeichnen gerade.\xf000븁\x0000\xfffeAch so! \xf000Ā\x0001\x0001, möchtest du mit\xfffeuns zusammen zeichnen?
+\xf000Ā\x0001\x0000: Wir zeichnen gerade.\xf000븁\x0000\xfffeOh, natürlich! \xf000Ā\x0001\x0001, möchtest\xfffedu mit uns zeichnen?
+Oh, in Ordnung!\xfffeGib mir einfach Bescheid, okay?
+Oh...\xfffeBitte komm jederzeit vorbei.
+Alles klar! Einen Augenblick!
+Alles klar! Einen Augenblick!
+Gut! Lass uns gemeinsam zeichnen!\xf000븂\x0001<
+Danke, dass du gewartet hast.\xfffeLass uns zeichnen.\xf000븂\x0001<
+Es tut mir leid, aber ich habe im\xfffeMoment viel zu tun.\xf000븀\x0000\xfffeEin andermal, okay?
+Tut mir leid, aber im Moment habe\xfffeich alle Hände voll zu tun.\xf000븀\x0000\xfffeEin andermal, in Ordnung?
+Der letzte Buchstabe deiner Zeichnung\xfffemuss der erste Buchstabe meiner\xf000븀\x0000\xfffeZeichnung sein?
+Wow!\xfffeDu bist echt gut!
+Du malst so lustige Gesichter.\xfffeMir tut schon alles weh vor Lachen.
+Hahaha!\xfffeWas ist das denn?!?
+Wow, bist du gut. Mal sehen, ob ich dich\xfffeimitieren kann.
+Ich liebe Zeichnen.\xfffeIch zeichne ja sooo gern.
+Äh... was ist das denn?\xfffeAch, das soll ICH sein?
+Ups! Ich kann nicht innerhalb\xfffeder Linien bleiben!
+Ein Kampf? Moment,\xfffeich brauche noch etwas Zeit.
+Ein Kampf? Moment,\xfffeich brauche noch etwas Zeit.
+Danke, dass du gewartet hast!\xfffeLass uns beginnen!\xf000븂\x0001<
+Tut mir leid, dass du warten musstest.\xfffeAuf geht's!\xf000븂\x0001<
+Entschuldige, aber meine Pokémon\xfffefühlen sich momentan nicht wohl.\xf000븀\x0000\xfffeLass uns ein andermal kämpfen!
+Es tut mir schrecklich leid, aber\xfffemeine Pokémon fühlen sich nicht\xf000븀\x0000\xfffebesonders wohl.\xf000븁\x0000\xfffeLass uns ein andermal kämpfen!
+\xf000Ā\x0001\x0000: Wir tragen gleich einen\xfffeMultikampf aus!\xf000븁\x0000\xfffeOh! Hast du vielleicht Lust mitzumachen,\xfffe\xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: Wir tragen gleich einen\xfffeMultikampf aus!\xf000븁\x0000\xfffeOh, ich weiß! Hast du vielleicht Lust,\xfffebei uns mitzumachen, \xf000Ā\x0001\x0001?
+Oh, in Ordnung!\xfffeGib mir einfach Bescheid, okay?
+Oh, verstehe...\xfffeAber du kannst jederzeit vorbeischauen!
+Na gut! Einen Augenblick!
+Na gut! Einen Augenblick!
+Danke, dass du gewartet hast. Dann kann\xfffeunser Multikampf ja beginnen!\xf000븂\x0001<
+Danke, dass du gewartet hast! Dann kann\xfffeunser Multikampf ja beginnen!\xf000븂\x0001<
+Oh, tut mir leid!\xfffeIch habe im Moment zu viel zu tun.\xf000븀\x0000\xfffeEin andermal, okay?
+Tut mir leid!\xfffeVielleicht beim nächsten Mal!
+
+
+Wow!\xfffeDu bist aber stark!
+Dieses Pokémon...\xfffeEs ist sehr gut trainiert!
+Du hast diese Attacke eingesetzt?\xfffeDas ist eine gute Strategie!
+Das ist es! Das ist jetzt\xfffegenau die richtige Attacke!
+Ich bin beeindruckt! So einen Kampfstil\xfffehabe ich noch nie zuvor gesehen.
+Wahnsinn! So einen Kampfstil habe ich\xfffenoch nie zuvor gesehen.
+Oh! Wie konntest du nur dieses\xfffePokémon in dieser Situation einsetzen?
+Dein Timing beim Pokémon-Wechsel war\xfffeexzellent!
+Du willst tauschen? Gern!\xfffeGib mir einen Augenblick Zeit.
+Ein Tausch? Gern. Gib mir nur einen\xfffeAugenblick.
+
+
+Tut mir leid. Ich habe gerade kein\xfffePokémon, das ich tauschen könnte.\xf000븁\x0000\xfffeEin andermal, okay?
+Es tut mir leid, aber ich habe keine\xfffePokémon, die ich tauschen könnte.\xf000븁\x0000\xfffeTauschen wir beim nächsten Mal, ja?
+Klasse! Dieses Pokémon\xfffewollte ich schon immer haben!
+Ich tausche gerade Pokémon.
+Endlich konnte ich durch einen Tausch mein\xfffelang ersehntes Pokémon bekommen.
+Endlich konnte ich durch einen Tausch mein\xfffelang ersehntes Pokémon bekommen.
+Du kannst nicht tauschen, wenn\xfffedu nur ein Pokémon bei dir hast.\xf000븁\x0000
+Du kannst nicht tauschen, wenn\xfffedu nur ein Pokémon bei dir hast.\xf000븁\x0000
+Melde dich bei mir, wenn du\xfffeetwas mit mir unternehmen willst!
+Melde dich bei mir, wenn du\xfffeetwas von mir willst!
+
+
+
+
+Es tut mir leid, aber ich habe im Moment\xfffezu viel zu tun.\xf000븀\x0000\xfffeEin andermal, okay?
+Tut mir leid!\xfffeVielleicht beim nächsten Mal!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reihumtausch? Aber natürlich!\xfffeIn Ordnung, eine Sekunde bitte!
+Reihumtausch? Natürlich!\xfffeGut, kannst du einen Moment warten?
+
+
+Es tut mir leid, aber ich habe im Moment\xfffezu viel zu tun. Ein andermal, okay?
+Tut mir leid!\xfffeVielleicht beim nächsten Mal!
+Du benötigst ein Ei, um an einem\xfffeReihumtausch teilnehmen zu können.\xf000븁\x0000
+Du benötigst ein Ei, um an einem\xfffeReihumtausch teilnehmen zu können.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Wir machen gleich einen\xfffeReihumtausch.\xf000븁\x0000\xfffeHey, \xf000Ā\x0001\x0001! Möchtest du auch\xfffebei unserem Reihumtausch mitmachen?
+\xf000Ā\x0001\x0000: Wir waren gerade mitten in\xfffeeinem Reihumtausch.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, möchtest du auch bei\xfffeeinem Reihumtausch mitmachen?
+Oh, in Ordnung!\xfffeGib mir einfach Bescheid, okay?
+Oh, verstehe...\xfffeAber du weißt ja, wo du mich findest!
+Alles klar! Einen Augenblick!
+Alles klar! Einen Augenblick!
+In Ordnung! Machen wir zusammen\xfffeeinen Reihumtausch!\xf000븂\x0001<
+Danke fürs Warten! Machen wir zusammen\xfffeeinen Reihumtausch!\xf000븂\x0001<
+Hoppla! Du hast offenbar gar kein Ei dabei!\xf000븁\x0000\xfffeKomm zurück, wenn du ein Ei hast!
+Wie, du hast kein Ei dabei?\xf000븁\x0000\xfffeBesorg dir ein Ei und komm dann zurück.
+Es tut mir leid, aber ich habe im Moment\xfffezu viel zu tun.\xf000븀\x0000\xfffeEin andermal, okay?
+Tut mir leid!\xfffeVielleicht beim nächsten Mal!
+Es gibt ein Ei in deinem Team, das\xfffenicht getauscht werden kann.
+Es gibt ein Ei in deinem Team, das\xfffenicht getauscht werden kann.
+Es gibt ein Ei in deinem Team, das\xfffenicht getauscht werden kann.\xf000븁\x0000
+Es gibt ein Ei in deinem Team, das\xfffenicht getauscht werden kann.\xf000븁\x0000
+Reihumtausche machen so viel Spaß!
+Wir machen Reihumtausche!
+Jetzt! Jetzt anhalten!
+Wah! Es hat sich schon wieder bewegt!
+Mein Ei ist super!
+Da wechselt das Ei, das ich haben\xfffewollte, den Besitzer...
+Klasse! Ich habe das Ei, das ich wollte!
+Hätte es dort angehalten, hätte ich\xfffeeine Beere bekommen.
+Willkommen im Konnex-Klub!\xf000븁\x0000\xfffeSag Bescheid, wenn ich dir mit\xfffeirgendwas behilflich sein kann!\xf000븁\x0000
+
+Welchen Themenbereich soll\xfffeich dir näher erklären?
+Es gibt 5 verschiedene Kampfarten.\xf000븁\x0000\xfffeBeim Einzelkampf schicken 2 Trainer\xfffeje 1 ihrer Team-Pokémon in den Kampf.\xf000븁\x0000\xfffeBeim Doppelkampf schicken 2 Trainer\xfffeje 2 ihrer Team-Pokémon in den Kampf.\xf000븁\x0000\xfffeBeim Dreierkampf schicken 2 Trainer\xfffeje 3 ihrer Team-Pokémon in den Kampf.\xf000븁\x0000\xfffeBeim Reihumkampf schicken 2 Trainer\xfffeje 3 Pokémon in den Kampf. 2 stehen\xf000븀\x0000\xfffesich dabei direkt gegenüber, während die\xf000븀\x0000\xfffeanderen beiden im Hintergrund auf ihren\xf000븀\x0000\xfffeEinsatz warten.\xf000븁\x0000\xfffeBeim Multikampf schicken 2 zweiköpfige\xfffeTrainergespanne je 2 Pokémon pro Team\xf000븀\x0000\xfffeins Geschehen und lassen sie gegen-\xf000븀\x0000\xfffeeinander kämpfen.\xf000븁\x0000
+Du kannst mit anderen Spielern Pokémon\xfffetauschen.\xf000븁\x0000\xfffeJe mehr Spieler du kennst, desto eher\xfffekönnte ein seltenes Pokémon dabei sein!\xf000븁\x0000
+
+Zu einem Reihumtausch bringt jeder ein\xfffeEi zum Tauschen mit anderen Spielern mit.\xf000븁\x0000\xfffeWelches Ei wirst du bekommen?\xfffeWelches Pokémon wird in diesem Ei sein?\xf000븀\x0000\xfffeDas ist so aufregend und macht Spaß!\xf000븁\x0000\xfffeBis zu 5 Spieler können teilnehmen.\xfffeVersuche es also mit deinen Freunden!\xf000븁\x0000
+Du kannst dich mit anderen Spielern\xfffetreffen, um zu zeichnen.\xf000븁\x0000\xfffeIhr könnt alle auf demselben Blatt\xfffearbeiten - und zwar gleichzeitig.\xf000븁\x0000\xfffeEine Zeichnung von Freunden ist ein\xfffewunderschönes Erinnerungsstück!\xf000븁\x0000\xfffeBis zu 5 Spieler können daran\xfffeteilnehmen, also versuche es mal mit\xf000븀\x0000\xfffedeinen Freunden!\xf000븁\x0000
+Die Chat-Funktion hilft dir, die richtigen\xfffeWorte zu finden, um das Aufsehen aller\xf000븀\x0000\xfffePersonen im Konnex-Klub zu erregen.\xf000븁\x0000\xfffeWas für eine Art Mensch bist du?\xfffeWas sind deine Wünsche und Träume?\xf000븁\x0000\xfffeTeile den Leuten mit, was in dir steckt!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KAMPF
+TAUSCH
+
+REIHUMTAUSCH
+ZEICHNEN
+CHAT
+ZURÜCK
+Mit \xf000Ā\x0001\x0000 sprechen...
+Oh! Entschuldige, aber ich\xfffemuss noch etwas erledigen.\xf000븀\x0000\xfffeEin andermal, okay?
+
+
+
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+¡Hola!
+H-e-l-l-o-!
+안녕하세요
+Zu zweit kämpfen
+Zu viert kämpfen
+Zurück
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+O.K.
+Regeln
+Zurück
+
+Keine Einschränkung
+Handicapkampf
+Aktiviert
+Deaktiviert
+Zurück
+Kampfart\xf000봅\x0001s: \xf000\xff00\x0001\x0002Einzelkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001s: \xf000\xff00\x0001\x0002Doppelkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001s: \xf000\xff00\x0001\x0002Dreierkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001s: \xf000\xff00\x0001\x0002Reihumkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001s: Multikampf
+Kampfregeln\xf000봅\x0001s: \xf000\xff00\x0001\x0002Uneingeschränkt\xf000\xff00\x0001\x0000
+Kampfregeln\xf000봅\x0001s: \xf000\xff00\x0001\x0002Handicapkampf\xf000\xff00\x0001\x0000
+Wunderwerfer\xf000봅\x0001s: \xf000\xff00\x0001\x0002Aktiviert\xf000\xff00\x0001\x0000
+Wunderwerfer\xf000봅\x0001s: \xf000\xff00\x0001\x0002Deaktiviert\xf000\xff00\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es wurden nicht alle Bedingungen erfüllt.\xfffeTeilnahme nicht möglich.
+Bitte warten...\xfffeB-Knopf: Abbrechen
+Bitte Pokémon zur Teilnahme wählen.\xf000븂\x0001<
+Bitte wähle 3 Pokémon aus, die\xfffeantreten sollen.\xf000븂\x0001<
+Bitte wähle 4 Pokémon aus, die\xfffeantreten sollen.\xf000븂\x0001<
+Bitte wähle 6 Pokémon aus, die\xfffeantreten sollen.\xf000븂\x0001<
+Bitte wähle bis zu 3 Pokémon, die\xfffeantreten sollen.\xf000븂\x0001<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An unbekannten Spielen kannst du\xfffenicht teilnehmen!
+Unterschiedliche Voraussetzungen.\xfffeEs kann kein Kampf stattfinden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abbruch.\xfffeBitte warten...\xf000븂\x0001<
+
+Der Kampf wird beendet.\xfffeEinverstanden?
+TEAM-POKÉMON
+KAMPFBOX-POKÉMON
+Der Trainer scheint beschäftigt zu sein.
+
+
+
+
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Normalpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Bronzepass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Kupferpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Silberpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Goldpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Weißpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAha, ein Schwarzpass!
+Du wirfst einen Blick auf den Trainerpass\xfffevon \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeOha, ein unbekannter Pass!

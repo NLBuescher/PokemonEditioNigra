@@ -1,0 +1,27 @@
+Bitte gib die Zugnummer ein.\xfffe(01-\xf000ȁ\x0001\x0000)\xf000븁\x0000
+Empfange Daten für Rang \xf000ȁ\x0001\x0001,\xfffeZugnummer \xf000ȁ\x0001\x0000.
+An diesem Zug kannst du dich bis zum\xfffenächsten Update nicht versuchen.\xf000븁\x0000
+Daten wurden empfangen.\xf000븁\x0000
+Möchtest du deine Herausforderung\xfffeabbrechen?
+Bitte gib den Rang des Zuges ein.\xfffe(01-10)\xf000븁\x0000
+Bitte gib die Zugnummer ein.\xfffe(01-\xf000ȁ\x0001\x0000)\xf000븁\x0000
+Deine Statistikdaten werden gesendet...\xfffeBitte das System nicht ausschalten.
+Die Daten wurden gesendet.\xf000븁\x0000
+Möchtest du das Herunterladen\xfffeder Daten abbrechen?
+
+
+
+Die Wi-Fi-Linie wird momentan gewartet.\xf000븁\x0000\xfffeVersuche es bitte später noch einmal.\xfffeFehler-Code: 13281\xf000븁\x0000
+Die Wi-Fi-Linie ist zurzeit überfüllt.\xf000븁\x0000\xfffeVersuche es bitte später noch einmal.\xfffeFehler-Code: 13282\xf000븁\x0000
+Die Wi-Fi-Linie ist zurzeit überfüllt.\xf000븁\x0000\xfffeVersuche es bitte später noch einmal.\xfffeFehler-Code: 13261\xf000븁\x0000
+Verbindung zur Wi-Fi-Linie nicht möglich.\xf000븁\x0000\xfffeKehre zur Rezeption zurück.\xfffeFehler-Code: 13262\xf000븁\x0000
+Verbindung zur Wi-Fi-Linie nicht möglich.\xf000븁\x0000\xfffeKehre zur Rezeption zurück.\xfffeFehler-Code: 13266\xf000븁\x0000
+Die Verbindung zur Wi-Fi-Linie wurde\xfffeabgebrochen.\xf000븁\x0000\xfffeKehre zur Rezeption zurück.\xfffeFehler-Code: 13264\xf000븁\x0000
+Die Verbindung zur Wi-Fi-Linie wurde\xfffeabgebrochen.\xf000븁\x0000\xfffeKehre zur Rezeption zurück.\xfffeFehler-Code: 13267\xf000븁\x0000
+Diese Nummer kann der Wi-Fi-Linie nicht\xfffezugeordnet werden.\xf000븀\x0000\xfffeFehler-Code: 13263\xf000븁\x0000
+
+Verbindungsfehler.\xfffeFehler-Code: 13267\xf000븁\x0000
+Offenbar gibt es ein Problem mit\xfffeden Pokémon.\xf000븁\x0000
+
+
+Verbindung wird gehalten.\xfffeBitte warte einen Moment...

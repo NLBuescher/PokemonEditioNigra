@@ -1,0 +1,80 @@
+Umfrage: Spielstil
+Umfrage: Der typische Spieler
+Umfrage: Meine Pokémon
+Umfrage: Wertvorstellungen
+Umfrage: Zwischenmenschliches
+Umfrage: Vorlieben
+Umfrage: Geschmäcker sind verschieden
+Umfrage: Schulalltag
+Umfrage: Freizeit
+Umfrage: Faszination Pokémon
+Finde heraus, wie Pokémon Schwarz und\xfffePokémon Weiß von den meisten gespielt wird.
+Finde heraus, wer der typische Spieler von\xfffePokémon Schwarze Edition / Weiße Edition ist.
+Finde heraus, welche Pokémon am beliebtesten\xfffesind und wie die Mehrheit mit ihnen Spaß hat.
+Finde heraus, welche Wertvorstellungen\xfffedie Mehrheit hat.
+Finde heraus, was den meisten bei zwischen-\xfffemenschlichen Beziehungen wichtig ist.
+Finde heraus, welche Vorlieben die Mehrheit\xfffez. B. beim Essen hat.
+Finde heraus, welchen Geschmack die Mehrheit\xfffehat, z. B. bei Musik oder Filmen.
+Finde heraus, wie die Mehrheit\xfffeihren Schulalltag erlebt.
+Finde heraus, wie die Mehrheit gern ihre\xfffeFreizeit verbringt.
+Finde heraus, was für die Mehrheit die\xfffespannendsten Aspekte an Pokémon sind.
+Welche Edition spielst du?
+Männlich oder weiblich?
+Kämpfen oder tauschen?
+Stadt oder Land?
+Was zieht dich an einem Partner an?
+Wovon hättest du gern mehr?
+Worauf achtest du bei einem Partner?
+Welche Art von Pokémon magst du?
+Was ist dein Starter-Pokémon?
+Wohin fährst du, um auszuspannen?
+Was ist das Beste an einem Schultag?
+Was ist dir das Wichtigste im Leben?
+Welche Jahreszeit magst du am liebsten?
+Welche Speisen magst du am liebsten?
+Was für Menschen magst du am liebsten?
+Was fasziniert am meisten an Pokémon?
+Welches Schulfach magst du am liebsten?
+Welches Schulfach magst du nicht so?
+Was wärst du bei Pokémon am liebsten?
+Was machst du an freien Tagen?
+Welche Musikrichtung magst du?
+Was siehst du im Fernsehen am liebsten?
+Welches Filmgenre magst du am liebsten?
+Welche Sportart magst du am liebsten?
+Was ist deine Lieblingsfarbe?
+Welches Hobby hast du?
+Welchen Beruf hast du?
+Welchen Arenaleiter magst du?
+Welchen Pokémon-Typ magst du?
+Wie lange spielst du das Spiel?
+Welche Edition spielen, das ist hier\xfffedie Frage.
+Spielen das Spiel mehr Jungs oder Mädchen,\xfffedas ist hier die Frage.
+Lieber mit den Pokémon kämpfen oder\xfffesie tauschen, das ist hier die Frage.
+Lieber in der Stadt oder auf dem Land\xfffeleben, das ist hier die Frage.
+Lieber einen intellektuellen oder sport-\xfffelichen Partner, das ist hier die Frage.
+Lieber mehr Zeit oder mehr Geld,\xfffedas ist hier die Frage.
+Äußerlichkeiten oder inneren Werten den\xfffeVorzug geben, das ist hier die Frage.
+Welche Art von Pokémon kommt am besten an,\xfffedas ist hier die Frage.
+Mit welchem Pokémon durchstarten,\xfffedas ist hier die Frage.
+Wohin an freien Tagen am besten fahren,\xfffedas ist hier die Frage.
+Was ist das Beste an einem Schultag,\xfffedas ist hier die Frage.
+Was ist am wichtigsten, Familie, Freunde\xfffeoder man selbst, das ist hier die Frage.
+Welche Jahreszeit ist die beliebteste,\xfffedas ist hier die Frage.
+Welche Geschmacksrichtung bei Speisen ist\xfffedie beliebteste, das ist hier die Frage.
+Welcher Typ Mensch wird bevorzugt,\xfffedas ist hier die Frage.
+Welcher Aspekt an Pokémon fasziniert\xfffeam meisten, das ist hier die Frage.
+Welches Schulfach macht am meisten Laune,\xfffedas ist hier die Frage.
+Welches Schulfach macht am wenigsten\xfffeLaune, das ist hier die Frage.
+Welchen Lebensweg einschlagen in der\xfffePokémon-Welt, das ist hier die Frage.
+Wie an einem freien Tag ausspannen,\xfffedas ist hier die Frage.
+Welche Musikrichtung ist die beliebteste,\xfffedas ist hier die Frage.
+Was ist im Fernsehen am beliebtesten,\xfffedas ist hier die Frage.
+Welches Filmgenre ist am beliebtesten,\xfffedas ist hier die Frage.
+Welche Sportart ist die beliebteste,\xfffedas ist hier die Frage.
+Welche Farbe ist die beliebteste,\xfffedas ist hier die Frage.
+Welches Hobby ist das beliebteste,\xfffedas ist hier die Frage.
+Welcher Beruf ist der häufigste,\xfffedas ist hier die Frage.
+Welcher Arenaleiter ist am populärsten,\xfffedas ist hier die Frage.
+Welcher Pokémon-Typ ist am beliebtesten,\xfffedas ist hier die Frage.
+Wie viele Stunden wird das Spiel gespielt,\xfffedas ist hier die Frage.

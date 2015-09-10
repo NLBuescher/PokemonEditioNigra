@@ -1,0 +1,59 @@
+Vindiou! C'est vous, les Dresseurs dont\xfffeInezia causait?\xf000븁\x0000\xfffeJ'suis le Champion de c'te ville: Bardane!\xfffeBon, on va pas s'faire la bise et tout.\xf000븁\x0000\xfffeOn a baissé le pont, mais la Team Truc\xfffeest entrée dans la ville!\xf000븁\x0000
+Tcheren: Qu'ils sont fatigants...\xf000븁\x0000\xfffeNous vous remercions d'avoir abaissé\xfffele pont...\xf000븁\x0000\xfffeMais serions-nous en partie responsables\xfffedans ce cas?\xf000븁\x0000
+Bardane: Bah, l'essentiel, c'est qu'vous\xfffesoyez là!\xf000븁\x0000\xfffeMais la Team Machin s'est infiltrée dans\xfffela ville.\xf000븁\x0000\xfffeJ'devrais pouvoir m'débrouiller tout\xfffeseul, mais un coup d'main\xf000븀\x0000\xfffes'rait pas de refus!\xf000븀\x0000\xfffeZ'êtes des super Dresseurs, non?\xf000븁\x0000
+D'ac, les p'tits?\xf000븁\x0000\xfffeQuand on aura r'trouvé ces voyous,\xfffej'm'occuperai de vot' cas à l'Arène!\xf000븀\x0000\xfffeFaut savoir donner pour recevoir, hein!\xf000븁\x0000
+Tcheren: Entendu.\xf000븁\x0000\xfffeMais il était inutile de nous enjoindre\xfffeà débusquer ces canailles!\xf000븁\x0000\xfffeFaire mordre la poussière à ces\xfffeépuisants imbéciles est un bon\xf000븀\x0000\xfffeentraînement de toute façon!\xf000븁\x0000
+\xf000Ā\x0001\x0000, je pars devant!\xf000븁\x0000
+Ghetis: Très cher Bardane.\xfffeJe vous présente mes hommages.\xf000븁\x0000\xfffeJe me nomme Ghetis, de la Team Plasma.\xf000븁\x0000\xfffeJe suis venu pour vous soulager de\xfffela présence de mes turbulents séides.\xf000븁\x0000
+Bardane: J'en veux pas d'vos excuses!\xf000븁\x0000\xfffeVos sales types, ils ont essayé de voler\xfffedes Pokémon aux honnêtes gens!\xf000븁\x0000
+Ghetis: Je crains que vous n'ayez commis\xfffeune légère erreur d'interprétation.\xf000븁\x0000\xfffeMes dévoués hommes libèrent les\xfffePokémon de leurs féroces tyrans.\xf000븁\x0000
+Bardane: Si vous l'dites!\xf000븁\x0000\xfffeBon, j'suis plutôt un type franc, et\xfffej'sais pas bien parler comme vous.\xf000븁\x0000\xfffeVous connaissez des jolis mots,\xfffemais bon...\xf000븁\x0000\xfffeÇa sent le pipeau, vos histoires!\xf000븁\x0000
+Ghetis: La Team Plasma nourrit un\xfffegrand intérêt pour votre bonne ville\xf000븀\x0000\xfffede Port Yoneuve.\xf000븁\x0000\xfffeJ'ose même croire que le nombre\xfffede mes gens qui s'y trouvent\xf000븀\x0000\xfffevous surprendrait sûrement...\xf000븁\x0000
+Bardane: J'sais pas si vous racontez\xfffedes salades ou pas, j'm'en fiche!\xf000븁\x0000\xfffeBah! Gagner sans devoir se battre,\xfffez'êtes fortiche, hein!\xf000븁\x0000\xfffeC'est bon, reprenez-les, vos zigues!\xf000븁\x0000
+Ghetis: Je reconnais bien là la sagacité\xfffedu Roi de la Mine!\xf000븁\x0000\xfffeVotre capacité à jauger une situation\xfffeen un instant et à prendre les bonnes\xf000븀\x0000\xfffedécisions n'est pas usurpée.\xf000븁\x0000\xfffeQuel redoutable homme d'affaires vous\xfffeêtes!\xf000븁\x0000\xfffeIl est temps de me retirer, accompagné\xfffepar mon conseiller...\xf000븁\x0000
+Lilien: Maître Ghetis...\xfffeQuelle munificence...\xf000븁\x0000
+Ghetis: Il suffit!\xf000븁\x0000\xfffeNe sommes-nous pas tous égaux,\xfffe7 Sages au service de notre Roi?\xf000븁\x0000\xfffeJe prends maintenant congé de vous,\xfffechers amis.\xf000븁\x0000\xfffeNous aurons certainement l'heur\xfffede nous rencontrer à nouveau.\xf000븁\x0000\xfffeEt que la paix soit avec vous.\xf000븁\x0000
+Bardane: J'suis désolé de vous faire\xfffeun coup pareil, les p'tits!\xf000븁\x0000\xfffeAlors que vous aviez r'trouvé\xfffeces affreux!\xf000븁\x0000\xfffeBah, pour m'excuser, on fait\xfffeun duel Pokémon?\xf000븁\x0000\xfffeJ'serai à l'Arène. Me faites pas\xfffetrop poireauter, hein!\xf000븁\x0000
+Tcheren: Nous avons pu éviter\xfffequ'un conflit n'éclate en plein\xf000븀\x0000\xfffecœur de la ville.\xf000븁\x0000\xfffeEt j'ai l'impression que ce Ghetis n'est\xfffepas aussi ordinaire qu'il le prétend.\xf000븁\x0000\xfffeVoyons... Je vais aller entraîner\xfffemes Pokémon.\xf000븁\x0000\xfffeJe refuse de perdre contre ce paysan\xfffede Bardane.\xf000븁\x0000\xfffeJe lui arracherai son Badge, prix\xfffede mon éclatante victoire à venir!\xf000븁\x0000
+
+M. Bardane est actuellement très occupé.\xfffeEssayez de repasser plus tard!
+Bianca: Eh oh!!!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Bianca: Euh... Hé!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Euh... dis... tu connais l'Arène\xfffede la ville?\xf000븁\x0000\xfffeQUOI?!? Tu en reviens, et tu as\xfffemême gagné le Badge?\xf000븀\x0000\xfffeC'est trop top génial!\xf000븁\x0000
+Non non non! Faut que j'arrête de\xfffem'exciter pour un oui ou pour un non!\xf000븁\x0000\xfffeMoi aussi, je suis un Dresseur!\xfffeEt je te lance un défi!\xf000븁\x0000
+Bianca: Ça faisait un bail qu'on avait\xfffepas fait un duel, hein!\xf000븁\x0000\xfffeT'es tellement super top balèze\xfffemaintenant!\xf000븁\x0000\xfffeMoi, je vaux pas grand-chose, alors\xfffej'ai du mal à trouver les mots, mais...\xf000븁\x0000\xfffeJe pense que tu comprends bien\xfffece que ressentent les Pokémon.\xf000븁\x0000\xfffeOh! J'ai failli oublier!\xfffeJ'ai quelque chose pour toi!\xf000븁\x0000
+Bianca: Papa m'a donné cette CS!\xfffeC'est pour pouvoir rentrer plus vite\xf000븀\x0000\xfffeà la maison!\xf000븁\x0000\xfffeHum... euh... Et si... OUI!\xfffeIl faudrait la donner à Tcheren aussi!\xf000븁\x0000\xfffeBon ben, \xf000Ā\x0001\x0000...\xfffeÀ plus!\xf000븁\x0000
+Que penses-tu du pont qui fait la fierté\xfffede cette ville?\xf000븁\x0000\xfffeSon élégante forme a aussi inspiré\xfffeson surnom: le Pont Dracaufeu.
+Je peux te poser une question?\xfffeT'as combattu le Conseil 4?\xf000븁\x0000\xfffeAh bon? On peut pas si on a pas\xfffe8 Badges?
+La mer...\xf000븁\x0000\xfffeLes larmes que j'ai versées seront\xfffepeut-être emportées jusqu'à Oliville...
+J'ai été forcé de relever le défi de\xfffeces escrocs de la Team Plasma.\xf000븁\x0000\xfffeJ'ai perdu, et ils m'ont pris\xfffemes Pokémon!!!
+Si je gagne, c'est grâce aux Pokémon.\xfffeSi je perds, c'est de ma faute.\xf000븁\x0000\xfffeSi on ne pense pas comme ça, on risque\xfffetrès vite de prendre la grosse tête.
+Pourquoi je me promène?\xfffeJ't'en pose des questions?\xf000븁\x0000\xfffePARCE QUE!!! J'aime ça, c'est tout.\xf000븁\x0000\xfffeSi seulement j'avais Surf... je pourrais\xfffeme balader partout avec mes Pokémon,\xf000븀\x0000\xfffemême sur l'eau!
+Près du Hangar Frigorifique, il y a des\xfffeenfants qui attrapent des Pokémon\xf000븀\x0000\xfffeet les entraînent.
+Le Pokémon de l'orage...\xfffeComme le Pokémon du vent...\xf000븁\x0000\xfffeIls sont tous les deux très capricieux\xfffeet ils se promènent un peu partout.
+Par-delà la mer...\xfffeOn trouve tant de gens et de Pokémon\xf000븀\x0000\xfffedifférents!
+Il y a un vieil excentrique sur la Route 6\xfffequi cherche les Pokémon légendaires.\xf000븁\x0000\xfffeTu devrais aller le voir,\xfffesi le cœur t'en dit!
+Les ponts, c'est trop bon!\xf000븁\x0000\xfffePourquoi? Mais c'est un symbole!\xfffeIls relient le monde!\xf000븁\x0000\xfffeHein? Y'a un type sur la Route 5\xfffequi dit la même chose?
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffePour faire chavirer le cœur de ma douce,\xfffej'ai étudié un nouveau type de combat\xf000븀\x0000\xfffePokémon.\xf000븁\x0000\xfffeEt ça s'appelle le Combat Trio.\xfffeTu veux en savoir plus?
+J'ai perdu! Zut, flûte et triple zut!\xfffeC'est dur de faire chavirer les cœurs...
+Dans un Combat Trio, tu te bats avec\xfffe3 Pokémon en même temps!\xf000븁\x0000\xfffeLa règle est simple...\xf000븁\x0000\xfffeFaut mettre K.O. tous les Pokémon\xfffeadverses!\xf000븁\x0000\xfffeVoilà, en gros.\xf000븁\x0000
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeT'es un Dresseur? Un Combat Trio,\xfffeça te dirait?
+Ton courage est admirable!\xf000븁\x0000\xfffeMais je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeJe suis toujours à fond!\xf000븁\x0000
+L'excitation ne s'éteint pas avec\xfffequelques gouttes de sueur!\xf000븁\x0000\xfffePour un Combat Trio, il faut\xfffe3 Pokémon, bon sang!
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeTu veux un tuyau?\xf000븁\x0000\xfffeLes défis, c'est le sel de la vie!\xfffeYeah baby!
+... La vache! J'pensais t'apprendre\xfffeun truc, mais c'est moi qui ai reçu\xf000븀\x0000\xfffeune leçon.\xf000븁\x0000\xfffeT'as du potentiel, j'te dis!\xf000븁\x0000\xfffeSi on comprend pas les Pokémon,\xfffeon peut pas gagner.\xf000븁\x0000\xfffeSi t'as envie de faire plus de Combats\xfffeTrio, tu peux faire un tour à Janusia.
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeFiler comme le vent sur ma mob,\xfffec'est tout moi. J'suis un bad boy!
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffePour faire chavirer le cœur de ma douce,\xfffej'ai étudié un nouveau type de combat\xf000븀\x0000\xfffePokémon.\xf000븁\x0000\xfffeEt ça s'appelle le Combat Rotatif.\xfffeTu veux en savoir plus?
+J'ai perdu! Zut, flûte et triple zut!\xfffeC'est dur de faire chavirer les cœurs...
+Dans un Combat Rotatif, tu te bats\xfffeavec 3 Pokémon en même temps!\xf000븁\x0000\xfffeUn Pokémon prend le devant, les 2 autres\xffferestent en arrière.\xf000븁\x0000\xfffeIl est possible d'échanger leur position\xfffeà chaque tour.\xf000븁\x0000\xfffeVoilà, en gros.\xf000븁\x0000
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeT'es un Dresseur? Un Combat Rotatif,\xfffeça te dirait?
+Ton courage est admirable!\xf000븁\x0000\xfffeMais je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeJe suis toujours à fond!\xf000븁\x0000
+L'excitation ne s'éteint pas avec\xfffequelques gouttes de sueur!\xf000븁\x0000\xfffePour un Combat Rotatif, il faut\xfffe3 Pokémon, bon sang!
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeTu veux un tuyau?\xf000븁\x0000\xfffeLes défis, c'est le sel de la vie!\xfffeYeah baby!
+... La vache! J'pensais t'apprendre\xfffeun truc, mais c'est moi qui ai reçu\xf000븀\x0000\xfffeune leçon.\xf000븁\x0000\xfffeT'as du potentiel, j'te dis!\xf000븁\x0000\xfffeSi on comprend pas les Pokémon,\xfffeon peut pas gagner.\xf000븁\x0000\xfffeSi t'as envie de faire plus de Combats\xfffeRotatifs, tu peux faire un tour\xf000븀\x0000\xfffeà Janusia.
+Je suis... le Play-Bad-Boy!\xfffeAussi connu sous le nom de Raphaël.\xf000븁\x0000\xfffeFiler comme le vent sur ma mob,\xfffec'est tout moi. J'suis un bad boy!
+Pont Yoneuve
+Bienvenue à Port Yoneuve!
+Port Yoneuve\xfffeMer et spirale commerciale!
+Marché de Port Yoneuve
+Arène de Port Yoneuve\xfffeChampion: Bardane\xf000븀\x0000\xfffeLe patron des (bas) fonds!

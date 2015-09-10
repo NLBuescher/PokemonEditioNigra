@@ -1,0 +1,24 @@
+Anzahl Pokémon
+Pokémon-Lv.
+Spezielle Pokémon
+Identische Pokémon
+Identische Items
+Wunderwerfer
+: Unbegrenzt
+: \xf000Ȁ\x0001\x0000
+: \xf000Ȁ\x0001\x0000 oder mehr
+: \xf000Ȁ\x0001\x0000 bis \xf000Ȁ\x0001\x0001
+: Unbegrenzt
+: AUF \xf000Ȃ\x0001\x0000 SETZEN
+: BIS MAX. \xf000Ȃ\x0001\x0000
+: \xf000Ȃ\x0001\x0000 ODER HÖHER
+: \xf000Ȃ\x0001\x0000 oder tiefer
+: \xf000Ȃ\x0001\x0000 ODER MEHR
+: Erlaubt
+: Verboten
+: Erlaubt
+: Verboten
+: Erlaubt
+: Verboten
+: Aktiviert
+: Deaktiviert

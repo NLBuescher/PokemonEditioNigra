@@ -1,0 +1,18 @@
+Wie lautet dein Name?
+Spitzname von \xf000ā\x0001\x0000?
+Name der Box?
+Wie heißt dein Rivale?
+Wie heißt dein Freund oder deine Freundin?
+Wie möchtest du andere Trainer grüßen,\xfffedie sich in Reichweite befinden?
+Wie möchtest du dich bei Trainern bedanken,\xfffedie sich in Reichweite befinden?
+Wie soll deine Nachricht an andere Trainer\xfffelauten, die sich in Reichweite befinden?
+Bitte gib einen Namen ein!
+Es können nur maximal vier Ziffern\xfffeeingegeben werden!
+
+
+
+
+Shiro*
+Kuro*
+⑭
+⑮

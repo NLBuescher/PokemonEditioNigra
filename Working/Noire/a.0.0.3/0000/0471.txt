@@ -1,0 +1,97 @@
+Bienvenue au Terminal Mondial!\xf000븁\x0000
+Voulez-vous utiliser la\xfffeconnexion Wi-Fi Nintendo?
+À bientôt, j'espère.
+
+Veuillez entrer.\xf000븁\x0000
+Au Terminal Mondial, vous pouvez utiliser\xfffela connexion Wi-Fi Nintendo pour échanger\xf000븀\x0000\xfffedes Pokémon ou faire des combats avec\xf000븀\x0000\xfffedes fans de Pokémon du monde entier!\xf000븁\x0000\xfffePour en savoir plus, consultez les\xfffeinformations de l'option en question.\xf000븁\x0000
+Nous ne sommes pas encore prêts.\xfffeVeuillez revenir plus tard!
+Au moins un de vos Pokémon ne peut pas\xfffeêtre pris.
+Erreur de communication...
+RENCONTRE ALÉATOIRE
+GTS
+CLICHÉS DU MUSICAL
+VIDÉOS DE COMBAT
+INFORMATIONS
+RETOUR
+Voulez-vous échanger un Pokémon\xfffeà la GTS?
+Avec la GTS, vous pouvez échanger des\xfffePokémon avec des fans de Pokémon\xf000븀\x0000\xfffedu monde entier!\xf000븁\x0000\xfffeIl y a 2 types d'échange avec la GTS:\xfffeGTS et Négociations GTS.\xf000븁\x0000\xfffeFaites attention: la manière d'échanger\xfffeest différente selon le type choisi.\xf000븁\x0000
+GTS
+NÉGOCIATIONS GTS
+INFORMATIONS
+RETOUR
+Voulez-vous faire un échange de\xfffePokémon au niveau mondial?
+ÉCHANGER
+INFORMATIONS
+RETOUR
+Vous pouvez faire un échange de\xfffePokémon de deux façons à la GTS.\xf000븁\x0000\xfffeVous pouvez déposer un Pokémon pour\xfffel'échanger ou en chercher un parmi\xf000븀\x0000\xfffeceux proposés.\xf000븁\x0000
+Voulez-vous des explications détaillées?
+On vous demandera de choisir le\xfffePokémon que vous voulez échanger.\xf000븁\x0000\xfffeEnsuite, on vous demandera quel Pokémon\xfffevous voulez en échange.\xf000븁\x0000\xfffeSi un autre joueur échange le Pokémon\xfffeque vous cherchez contre celui que\xf000븀\x0000\xfffevous proposez, l'échange aura lieu.\xf000븁\x0000
+Vous devez chercher parmi les Pokémon\xfffeque les autres Dresseurs proposent.\xf000븁\x0000\xfffeIl est toujours indiqué quel Pokémon\xfffeleur Dresseur souhaite recevoir.\xf000븁\x0000\xfffeSi vous en trouvez un que vous voulez,\xfffevous devez nous fournir le Pokémon\xf000븀\x0000\xfffesouhaité en échange.\xf000븁\x0000
+DÉPOSER POKÉMON?
+CHERCHER POKÉMON?
+J'AI COMPRIS!
+Voulez-vous ouvrir les négociations pour\xfffeun échange de Pokémon au niveau mondial?
+OUVRIR LES NÉGOCIATIONS
+INFORMATIONS
+RETOUR
+Avec les Négociations GTS,\xfffevous choisissez le Pokémon\xf000븀\x0000\xfffeque vous souhaitez échanger,\xf000븀\x0000\xfffeet précisez les conditions souhaitées.\xf000븁\x0000\xfffeQuand vous trouvez une personne\xffferépondant à vos conditions, vous\xf000븀\x0000\xfffepouvez effectuer l'échange avec elle.\xf000븁\x0000\xfffePour pouvoir échanger, vous devez avoir\xfffeau moins deux Pokémon.\xf000븁\x0000
+Voulez-vous des explications détaillées?
+Avec l'échange par négociations,\xfffevous choisissez 3 Pokémon que vous\xf000븀\x0000\xfffesouhaitez proposer à l'autre personne.\xf000븁\x0000\xfffeEnsuite, vous choisissez le Pokémon\xfffeque vous voulez parmi les 3\xf000븀\x0000\xfffequ'elle vous propose.\xf000븁\x0000
+Il y a 3 conditions d'échange:\xfffeNiveau souhaité, Pokémon souhaité,\xf000븀\x0000\xfffePokémon à échanger.\xf000븁\x0000\xfffeVous pouvez échanger votre Pokémon\xfffeavec une personne dont la demande\xf000븀\x0000\xffferemplit ces conditions.\xf000븁\x0000\xfffeVous pouvez aussi organiser un échange\xfffepar rendez-vous avec une personne\xf000븀\x0000\xfffeavec qui vous avez déjà échangé.\xf000븁\x0000
+L'échange par négociations, c'est quoi?
+Quelles sont les conditions d'échange?
+J'ai compris!
+Voulez-vous accéder au Magnéto VS?
+Ici, vous pouvez publier des Vidéos de\xfffecombat de vos Pokémon prises\xf000븀\x0000\xfffeavec le Magnéto VS.\xf000븁\x0000\xfffeVous pouvez aussi voir les Vidéos de\xfffecombat des autres Dresseurs.\xf000븁\x0000\xfffeLes vidéos sont triées par type de\xfffePokémon, lieu de combat, popularité, etc.\xf000븁\x0000\xfffeÀ chaque Vidéo de combat est assigné\xfffeun code à 12 chiffres.\xf000븁\x0000\xfffeDonnez ce code à vos amis pour qu'ils\xffferetrouvent facilement votre vidéo.\xf000븁\x0000
+VOIR
+INFORMATIONS
+RETOUR
+Voulez-vous accéder au Magnéto VS?
+Avec les Clichés du Musical, vous pouvez\xfffepublier les photos que vous avez prises\xf000븁\x0000\xfffeavec votre Magnéto VS au\xfffeMusic-Hall de Méanville.\xf000븁\x0000\xfffeVous pouvez aussi voir les photos prises\xfffepar les autres joueurs triées\xf000븀\x0000\xfffepar Pokémon.\xf000븁\x0000
+VOIR
+INFORMATIONS
+RETOUR
+Voulez-vous relever le défi\xfffed'une Rencontre Aléatoire?
+RELEVER LE DÉFI
+INFORMATIONS
+RETOUR
+Avec les Rencontres Aléatoires, vous\xfffepouvez faire des combats en ligne avec\xf000븀\x0000\xfffedes fans de Pokémon du monde entier.\xf000븁\x0000\xfffeIl y a cinq types de combat pour\xfffeles Rencontres Aléatoires:\xf000븀\x0000\xfffeSolo, Duo, Trio, Rotatif et Shooter.\xf000븁\x0000\xfffeIl y a deux modes de combat:\xfffeLibre et Rang.\xf000븁\x0000\xfffeEn mode Libre, n'importe\xfffequi peut participer.\xf000븁\x0000\xfffePour participer au mode Rang,\xfffeil faut regarder dans ses paramètres\xf000븀\x0000\xfffeSynchro-Jeu et se connecter à Internet\xf000븁\x0000\xfffepour enregistrer son ID de Synchro-Jeu\xfffesur la page d'accueil du\xf000븀\x0000\xfffePokémon Global Link:\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
+Voulez-vous des explications détaillées?
+À propos du mode Libre
+À propos du mode Rang
+Sur les règles spéciales
+J'ai compris!
+Avec le mode Libre, vous pouvez\xfffeaffronter librement des fans de\xf000븀\x0000\xfffePokémon du monde entier.\xf000븁\x0000\xfffeSi vos Pokémon sont assez forts,\xfffetentez l'expérience!\xf000븁\x0000
+Le mode Rang est destiné aux joueurs\xfffequi souhaitent perfectionner leurs\xf000븀\x0000\xfffeaptitudes aux combats de Pokémon.\xf000븁\x0000\xfffeConnectez-vous pour pouvoir combattre\xfffedes joueurs avec un Score de Rang\xf000븀\x0000\xfffeproche du vôtre.\xf000븁\x0000\xfffeVous débutez avec un Score de Rang de\xfffe1 500, qui augmente à chaque victoire\xf000븀\x0000\xfffeet diminue à chaque défaite.\xf000븁\x0000\xfffeUn Score de Rang élevé prouve votre\xfffequalité de Dresseur. Testez ce mode pour\xf000븀\x0000\xfffeconnaître votre niveau actuel!\xf000븁\x0000\xfffeAttention, vos résultats dans le mode\xfffeRang sont réinitialisés si vous vous\xf000븀\x0000\xfffeconnectez à la CWF Nintendo avec\xf000븀\x0000\xfffeune Nintendo DS différente.\xf000븁\x0000
+Il y a plusieurs règles spéciales\xfffeen Rencontre Aléatoire.\xf000븁\x0000\xfffeLes Pokémon de N. 51 et plus sont tous\xffferéduits au N. 50.\xf000븁\x0000\xfffeLes Pokémon ne sont pas appelés\xfffepar leur surnom.\xf000븁\x0000\xfffeIl y a une limite de temps pour choisir\xfffequels Pokémon vont combattre, et pour\xf000븀\x0000\xfffeleur donner des ordres au combat.\xf000븁\x0000\xfffeSi cette limite est dépassée, la capacité\xfffeutilisée sera choisie automatiquement.\xf000븁\x0000\xfffeLe combat a aussi une limite de temps.\xfffeSi cette limite est dépassée,\xf000븁\x0000\xfffele combat s'arrête et le vainqueur\xfffeest désigné par évaluation.\xf000븁\x0000
+Quel type de combat\xfffechoisissez-vous?
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIO
+COMBAT ROTATIF
+COMBAT SHOOTER
+RETOUR
+Voulez-vous relever le défi\xfffed'un Combat Solo?
+Voulez-vous relever le défi\xfffed'un Combat Duo?
+Voulez-vous relever le défi\xfffed'un Combat Trio?
+Voulez-vous relever le défi\xfffed'un Combat Rotatif?
+Voulez-vous relever le défi\xfffed'un Combat Shooter?
+OK
+VOIR LES RÈGLES
+RETOUR
+Pour un Combat Solo, il vous faut\xfffeentre 3 et 6 Pokémon.\xf000븁\x0000\xfffeAvant le combat, les joueurs\xfffese montrent leurs Pokémon,\xf000븀\x0000\xfffeen choisissent 3 et démarrent le combat.\xf000븁\x0000\xfffeVos Pokémon doivent tous être\xfffedifférents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeCertains Pokémon spéciaux et les Œufs\xfffene peuvent pas être utilisés.\xf000븁\x0000
+Pour un Combat Duo, il vous faut\xfffeentre 4 et 6 Pokémon.\xf000븁\x0000\xfffeAvant le combat, les joueurs\xfffese montrent leurs Pokémon,\xf000븀\x0000\xfffeen choisissent 4 et démarrent le combat.\xf000븁\x0000\xfffeVos Pokémon doivent tous être\xfffedifférents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeCertains Pokémon spéciaux et les Œufs\xfffene peuvent pas être utilisés.\xf000븁\x0000
+Pour un Combat Trio, il vous faut\xfffe6 Pokémon.\xf000븁\x0000\xfffeAvant le combat, les joueurs\xfffese montrent leurs Pokémon,\xf000븀\x0000\xfffeen choisissent 6 et démarrent le combat.\xf000븁\x0000\xfffeVos Pokémon doivent tous être\xfffedifférents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeCertains Pokémon spéciaux et les Œufs\xfffene peuvent pas être utilisés.\xf000븁\x0000
+Pour un Combat Rotatif, il vous faut\xfffeentre 4 et 6 Pokémon.\xf000븁\x0000\xfffeAvant le combat, les joueurs\xfffese montrent leurs Pokémon,\xf000븀\x0000\xfffeen choisissent 4 et démarrent le combat.\xf000븁\x0000\xfffeVos Pokémon doivent tous être\xfffedifférents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeCertains Pokémon spéciaux et les Œufs\xfffene peuvent pas être utilisés.\xf000븁\x0000
+Un Combat Shooter est un Combat Trio\xfffedans lequel on utilise le Shooter-Miracle.\xf000븁\x0000\xfffeIl vous faut 6 Pokémon.\xf000븁\x0000\xfffeAvant le combat, les joueurs\xfffese montrent leurs Pokémon,\xf000븀\x0000\xfffeen choisissent 6 et démarrent le combat.\xf000븁\x0000\xfffeVos Pokémon doivent tous être\xfffedifférents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeCertains Pokémon spéciaux et les Œufs\xfffene peuvent pas être utilisés.\xf000븁\x0000
+
+
+
+
+
+
+
+
+Oh oh...\xf000븁\x0000\xfffeIl n'y a plus de place ni dans votre\xfffeéquipe, ni dans les Boîtes.\xf000븁\x0000\xfffeFaites de la place dans votre équipe\xfffeou dans les Boîtes pour pouvoir\xf000븀\x0000\xfffeutiliser la GTS.\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeIl vous faut au moins 2 Pokémon dans\xfffevotre équipe pour utiliser la GTS!\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeIl vous faut au moins 2 Pokémon dans\xfffevotre équipe pour utiliser les\xf000븀\x0000\xfffeNégociations GTS!\xf000븁\x0000

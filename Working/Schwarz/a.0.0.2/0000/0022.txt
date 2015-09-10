@@ -1,0 +1,7 @@
+Das C-Gear einschalten und die\xfffeDrahtlosfunktionen aktivieren?
+Schließt du das System mit aktiviertem\xfffeC-Gear, schaltet es nicht in den Standby-\xfffeModus. Gib auf deinen Batteriestatus acht!
+Das C-Gear ausschalten und die\xfffeDrahtlosfunktionen deaktivieren?
+\xf000\xff00\x0001\x0001Achtung!\xf000\xff00\x0001\x0000\xfffeBitte schalte das C-Gear an Orten wie\xfffeFlugzeugen oder Krankenhäusern, wo\xfffeDrahtlosverbindungen verboten sind,\xfffestets aus!
+Das C-Gear kann nicht eingeschaltet werden.\xfffeDie drahtlose Verbindung ist deaktiviert\xfffe(AUS). Aktiviere die drahtlose Verbindung\xfffein den Systemeinstellungen (EIN).\xfffeFehler-Code: 50699
+JA
+NEIN

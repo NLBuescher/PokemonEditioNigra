@@ -1,0 +1,373 @@
+Stai per iniziare una conversazione.
+Qualcuno sta provando a parlare con te!
+A quanto pare ha da fare...
+Attendi un momento...
+La conversazione è stata interrotta.
+Sono stati più veloci di te.
+La comunicazione è stata interrotta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000봂\x0000Missione fallita!
+Numero di Passabilie ottenute: \xf000ȁ\x0001\x0000!\xf000븂\x0001Z
+\xf000봂\x0000Missione compiuta!
+Attendi, la missione sta per iniziare...
+
+Sembra che \xf000Ā\x0001\x0000 abbia varcato\xfffel'Intramondo per venire ad aiutarti...\xf000븁\x0000\xfffe... Oooh!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha lasciato uno strumento\xfffeper te!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La felicità si è accumulata e il livello di\xfffeNero dell'Intramondo è aumentato di \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+La felicità si è accumulata e il livello di\xfffeBianco dell'Intramondo è aumentato di \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Il Pokémon che ti si è avvicinato ha\xfffeemesso un verso molto tenero.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000
+Il Pokémon che ti si è avvicinato ha\xfffeemesso un verso feroce.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000
+Il Pokémon che ti si è avvicinato non ha\xfffeemesso alcun verso.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000
+--
+--
+--
+--
+--
+\xf000Ā\x0001\x0000: Eh eh eh... cattura riuscita!\xf000븁\x0000\xfffeCerto che non mi aspettavo di trovare\xfffePokémon in un posto simile...\xf000븀\x0000\xfffeEh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 usa \xf000Ĝ\x0001\x0002,\xfffeottenuto dall'Intralbero, su \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Perfetto, cattura riuscita!\xf000븁\x0000\xfffeCerto che non mi aspettavo di trovare\xfffePokémon in un posto simile...\xf000븀\x0000\xfffeEh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 usa \xf000Ĝ\x0001\x0002,\xfffeottenuto dall'Intralbero, su \xf000Ā\x0001\x0000!\xf000븁\x0000
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeSembra che voglia dirti qualcosa...
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeSembra che voglia dirti qualcosa...
+Non emette alcun verso.\xf000븁\x0000\xfffeSembra che voglia dirti qualcosa...
+--
+--
+--
+--
+--
+\xf000Ā\x0001\x0000: Eh? Che c'è? Stai cercando di\xfffedirmi qualcosa?
+\xf000Ā\x0001\x0000: Oooh, che strano! Che c'è?\xfffeStai cercando di dirmi qualcosa?
+
+
+
+
+
+--
+--
+--
+...!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: W-Wow, che potere incredibile!\xfffeGrazie mille, mi sarà molto d'aiuto!\xf000븁\x0000
+...!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: W-Wow, che potere incredibile!\xfffeGrazie mille, mi sarà molto d'aiuto!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+--
+--
+\xf000Ā\x0001\x0000: Forza! Non arrenderti!\xf000븁\x0000\xfffeSembra che sia nel bel mezzo di una lotta!
+\xf000Ā\x0001\x0000: Forza! Non arrenderti!\xf000븁\x0000\xfffeSembra che sia nel bel mezzo di una lotta!
+
+
+
+
+
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeAl momento sembra avere da fare...
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeAl momento sembra avere da fare...
+Non emette alcun verso.\xf000븁\x0000\xfffeAl momento sembra avere da fare...
+\xf000Ā\x0001\x0000: ...\xf000븁\x0000\xfffeAl momento sembra avere da fare...
+\xf000Ā\x0001\x0000: ...\xf000븁\x0000\xfffeAl momento sembra avere da fare...
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeChe vitalità!
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeChe vitalità!
+Non emette alcun verso.\xf000븁\x0000\xfffeChe vitalità!
+\xf000Ā\x0001\x0000: Ehilà, ti stai impegnando\xfffea fondo?
+\xf000Ā\x0001\x0000: Ehi, ciao! Stai dando il meglio\xfffedi te?
+
+
+
+
+
+
+
+
+
+
+--
+--
+--
+\xf000Ā\x0001\x0000: Aaaah!\xf000븁\x0000\xfffeS-Stavo dormendo, vero? Ma è tardissimo!\xfffeDevo scappare!\xf000븁\x0000\xfffeGrazie per avermi svegliato, accetta\xfffequesto regalo in segno di gratitudine!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Aaaah!\xf000븁\x0000\xfffeS-Stavo dormendo, vero? Ma è tardissimo!\xfffeDevo scappare!\xf000븁\x0000\xfffeGrazie per avermi svegliata, accetta\xfffequesto regalo in segno di gratitudine!\xf000븁\x0000
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 riceve \xf000Ĝ\x0001\x0002\xfffedal Pokémon!\xf000븁\x0000
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 riceve \xf000Ĝ\x0001\x0002\xfffedal Pokémon!\xf000븁\x0000
+Non emette alcun verso.\xf000븁\x0000\xfffeEeeh? All'improvviso ha iniziato a brillare!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 riceve \xf000Ĝ\x0001\x0002\xfffedal Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeHo pensato che questo ti sarebbe stato\xfffeutile durante la tua avventura e così\xf000븀\x0000\xfffete l'ho portato. Ecco, prendi!\xf000븁\x0000\xfffeAll'improvviso \xf000Ā\x0001\x0000 ha iniziato a\xfffebrillare!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeHo pensato che questo ti sarebbe stato\xfffeutile durante la tua avventura e così\xf000븀\x0000\xfffete l'ho portato. Ecco, prendi!\xf000븁\x0000\xfffeAll'improvviso \xf000Ā\x0001\x0000 ha iniziato a\xfffebrillare!\xf000븁\x0000
+--
+--
+--
+\xf000Ā\x0001\x0000: Ehilà, tutto bene?\xf000븁\x0000\xfffeGrazie ai Pokémon e a tutti i miei amici,\xfffeil mio viaggio procede alla perfezione!\xf000븁\x0000\xfffeEh? Come? Hai qualcosa per me?\xf000븁\x0000
+Grazie, mi sarà di grande aiuto!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 usa \xf000Ĝ\x0001\x0002,\xfffeottenuto dall'Intralbero, su \xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Ciao! Sei in viaggio anche tu?\xf000븁\x0000\xfffeGrazie ai Pokémon e a tutti i miei amici\xfffeil viaggio procede alla grande!\xf000븁\x0000\xfffeEh? Come? Hai qualcosa per me?\xf000븁\x0000
+Grazie, mi sarà di grande aiuto!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 usa \xf000Ĝ\x0001\x0002,\xfffeottenuto dall'Intralbero, su \xf000Ā\x0001\x0000.\xf000븁\x0000
+Sta emettendo un verso molto tenero!\xf000븁\x0000\xfffeHa l'aria sorpresa. Non si aspettava che\xfffequalcuno gli parlasse all'improvviso!
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeHa l'aria sorpresa. Non si aspettava che\xfffequalcuno gli parlasse all'improvviso!
+Non emette alcun verso.\xf000븁\x0000\xfffeHa l'aria sorpresa. Non si aspettava che\xfffequalcuno gli parlasse all'improvviso!
+\xf000Ā\x0001\x0000: Ehi, ciao! Sono venuto a\xfffetrovarti dall'Intramondo!\xf000븁\x0000\xfffeTi ho portato una cosa che ho preparato\xfffeapposta per te...\xf000븁\x0000\xfffeAspetta un attimo! Quando sono pronto\xfffevengo a parlarti!
+\xf000Ā\x0001\x0000: Ehi, ciao! Sono venuta a\xfffetrovarti dall'Intramondo!\xf000븁\x0000\xfffeTi ho portato una cosa che ho preparato\xfffeapposta per te...\xf000븁\x0000\xfffeAspetta un attimo! Quando sono pronta\xfffevengo a parlarti!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! In viaggio anche tu?\xf000븁\x0000\xfffeSe ti va di parlare di qualcosa vieni pure\xfffeda me senza fare complimenti!
+\xf000Ā\x0001\x0000: Ciao! In viaggio anche tu?\xf000븁\x0000\xfffeSe ti va di parlare di qualcosa vieni pure\xfffeda me senza fare complimenti!
+Sta emettendo un verso molto tenero.
+Sta emettendo un verso feroce.
+Non emette alcun verso.
+\xf000Ā\x0001\x0000: Spero che possa esserti utile\xfffedurante il viaggio! Ci vediamo!
+\xf000Ā\x0001\x0000: Spero che possa esserti utile\xfffedurante il viaggio! Ci vediamo!
+--
+--
+--
+...!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow, che potere incredibile!\xfffeGrazie mille, mi sarà molto d'aiuto!\xf000븁\x0000
+...!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow, che potere incredibile!\xfffeGrazie mille, mi sarà molto d'aiuto!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Sono venuto dall'Intramondo!\xf000븁\x0000\xfffeSenti, che ne diresti di una sfida?\xf000븁\x0000\xfffeDue Pokémon contro due, di livello\xfffe\xf000Ȃ\x0001\x0001 e con i PS al massimo!
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Sono venuta dall'Intramondo!\xf000븁\x0000\xfffeSenti, che ne diresti di una sfida?\xf000븁\x0000\xfffeDue Pokémon contro due, di livello\xfffe\xf000Ȃ\x0001\x0001 e con i PS al massimo!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Eh?\xf000븁\x0000\xfffeVuoi fare una sfida con due Pokémon\xfffeciascuno di livello \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeAspetta un attimo!
+\xf000Ā\x0001\x0000: Ciao! Eh?\xf000븁\x0000\xfffeVuoi fare una sfida con due Pokémon\xfffeciascuno di livello \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeAspetta un attimo!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Sono venuto dall'Intramondo!\xf000븁\x0000\xfffeSenti, che ne diresti di una sfida?\xf000븁\x0000\xfffeDue Pokémon contro due, di livello\xfffe\xf000Ȃ\x0001\x0001 e con i PS al massimo!
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Sono venuta dall'Intramondo!\xf000븁\x0000\xfffeSenti, che ne diresti di una sfida?\xf000븁\x0000\xfffeDue Pokémon contro due, di livello\xfffe\xf000Ȃ\x0001\x0001 e con i PS al massimo!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Tutto bene? Come?\xf000븁\x0000\xfffeVuoi fare una sfida con due Pokémon\xfffeciascuno di livello \xf000Ȃ\x0001\x0001?\xf000븀\x0000\xfffeAspetta un momento, per favore!
+\xf000Ā\x0001\x0000: Ciao! Tutto bene? Come?\xf000븁\x0000\xfffeVuoi fare una sfida con due Pokémon\xfffeciascuno di livello \xf000Ȃ\x0001\x0001?\xf000븀\x0000\xfffeAspetta un momento, per favore!
+--
+--
+--
+Bene, sono pronto... iniziamo!
+Bene, sono pronta... iniziamo!
+--
+--
+--
+Bene, sono pronto... iniziamo!
+Bene, sono pronta... iniziamo!
+--
+--
+--
+Fiuuu... certo che è stata una bella lotta!\xf000븁\x0000\xfffeGrazie per avere accettato la sfida, anche\xfffese te l'ho lanciata così all'improvviso!\xf000븁\x0000\xfffeAllora ci si vede!
+Fiuuu... certo che è stata una bella lotta!\xf000븁\x0000\xfffeGrazie per avere accettato la sfida, anche\xfffese te l'ho lanciata così all'improvviso!\xf000븁\x0000\xfffeAllora ci si vede!
+--
+--
+--
+Fiuuu... certo che è stata una bella lotta!\xf000븁\x0000\xfffeLottare contro di te è stato davvero\xfffeinteressante!\xf000븁\x0000\xfffeAllora ci si vede!
+Fiuuu... certo che è stata una bella lotta!\xf000븁\x0000\xfffeLottare contro di te è stato davvero\xfffeinteressante!\xf000븁\x0000\xfffeAllora ci si vede!
+--
+--
+--
+Capisco... va bene, alla prossima!
+Capisco... va bene, alla prossima!
+--
+--
+--
+Scusa! Purtroppo adesso non sono\xfffepronto...\xf000븁\x0000\xfffeLottiamo la prossima volta, quando sarò\xfffepreparato!
+Scusa! Purtroppo adesso non sono\xfffepronta...\xf000븁\x0000\xfffeLottiamo la prossima volta, quando sarò\xfffepreparata!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+--
+--
+\xf000Ā\x0001\x0000: Forza! Non arrenderti!\xf000븁\x0000\xfffeOooh, grazie! Vuoi darmi una mano?!\xf000븁\x0000\xfffeIl Pokémon di \xf000Ā\x0001\x0000 ha beneficiato\xfffedel Potere cura PS durante la lotta!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Forza! Non arrenderti!\xf000븁\x0000\xfffeOooh, grazie! Vuoi darmi una mano?!\xf000븁\x0000\xfffeIl Pokémon di \xf000Ā\x0001\x0000 ha beneficiato\xfffedel Potere cura PS durante la lotta!\xf000븁\x0000
+
+
+
+
+
+--
+--
+--
+...!\xf000븁\x0000\xfffeIl Pokémon di \xf000Ā\x0001\x0000 ha recuperato\xfffei PS!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oooh! Grazie mille! Ti sono\xfffedebitore...
+...!\xf000븁\x0000\xfffeIl Pokémon di \xf000Ā\x0001\x0000 ha recuperato\xfffei PS!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oooh! Grazie mille! Ti sono\xfffedebitrice...
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeSe ti trovi in difficoltà verrò subito\xfffead aiutarti!\xf000븁\x0000\xfffeOh, qualcuno mi chiama... devo andare,\xfffeci vediamo!
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeSe ti trovi in difficoltà verrò subito\xfffead aiutarti!\xf000븁\x0000\xfffeAh, qualcuno mi chiama... devo andare,\xfffeci vediamo!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Tutto bene? Quando sei\xfffecon me mi sento più al sicuro!\xf000븁\x0000\xfffeCome? Devi andar via? Ne hai di impegni, eh?\xfffeCi si vede in giro!
+\xf000Ā\x0001\x0000: Ciao! Come va? Quando sei\xfffecon me mi sento al sicuro!\xf000븁\x0000\xfffeCome? Devi andar via? Ne hai di impegni, eh?\xfffeAllora ci vediamo!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeSe ti trovi in difficoltà verrò subito\xfffead aiutarti!\xf000븁\x0000\xfffeLotta pure contro i Pokémon senza\xfffepreoccuparti!
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti. Vengo dall'Intramondo!\xf000븁\x0000\xfffeSe ti trovi in difficoltà verrò subito\xfffead aiutarti!\xf000븁\x0000\xfffeLotta pure contro i Pokémon senza\xfffepreoccuparti!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ehi, ciao! Quando sei con me\xfffemi sento più al sicuro!
+\xf000Ā\x0001\x0000: Ah, ciao! Quando sei con me\xfffemi sento al sicuro!
+
+
+
+
+
+
+
+
+
+
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeSembra che stia cercando qualcosa...
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeSembra che stia cercando qualcosa...
+Non emette alcun verso.\xf000븁\x0000\xfffeSembra che stia cercando qualcosa...
+\xf000Ā\x0001\x0000: Uaah! M-Mi hanno scoperto... \xfffeÈ il momento di tagliare la corda!
+\xf000Ā\x0001\x0000: Aaah! M-Mi hanno scoperta... \xfffeÈ il momento di tagliare la corda!
+Emetteva un verso molto tenero. Hai\xfffecatturato il Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+Emetteva un verso feroce. Hai catturato\xfffeil Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+Non emetteva alcun verso. Hai catturato\xfffeil Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+\xf000Ā\x0001\x0000: Eh? Un Pokémon da queste\xfffeparti? Che strano...\xf000븀\x0000\xfffeStai cercando qualcosa?
+\xf000Ā\x0001\x0000: Eh? Un Pokémon da queste\xfffeparti? Che strano...\xf000븀\x0000\xfffeStai cercando qualcosa?
+Emetteva un verso molto tenero. Hai\xfffecatturato il Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+Emetteva un verso feroce. Hai catturato\xfffeil Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+Non emetteva alcun verso. Hai catturato\xfffeil Pokémon...\xf000븁\x0000\xfffeMa è riuscito a fuggire approfittando\xfffedi un attimo di distrazione!
+\xf000Ā\x0001\x0000: Oh no, mi hanno scoperto!\xfffeP-Presto, è ora di darsela a gambe!
+\xf000Ā\x0001\x0000: Oh no, mi hanno scoperta!\xfffeP-Presto, è ora di darsela a gambe!
+Sta emettendo un verso molto tenero.\xf000븁\x0000\xfffeIl nemico è riuscito a prenderti!
+Sta emettendo un verso feroce.\xf000븁\x0000\xfffeIl nemico è riuscito a prenderti!
+Non emette alcun verso.\xf000븁\x0000\xfffeIl nemico è riuscito a prenderti!
+\xf000Ā\x0001\x0000: Eh eh eh... sono riuscito\xfffea prenderti!\xf000븀\x0000\xfffeAh! N-No, non scappare!
+\xf000Ā\x0001\x0000: Ah ah ah... sono riuscita\xfffea prenderti!\xf000븀\x0000\xfffeAh! N-No, non scappareee!
+
+
+
+
+
+Destinazione raggiunta!\xf000븁\x0000\xfffeGrat grat... grat grat!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha nascosto \xf000ĉ\x0001\x0001\xfffeinsieme a un bigliettino.\xf000븁\x0000\xfffeSarà una bella sorpresa per chi li troverà!
+Destinazione raggiunta!\xf000븁\x0000\xfffeGrat grat... grat grat!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha nascosto \xf000ĉ\x0001\x0001\xfffeinsieme a un bigliettino.\xf000븁\x0000\xfffeSarà una bella sorpresa per chi li troverà!
+Destinazione raggiunta!\xf000븁\x0000\xfffeGrat grat... grat grat!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha nascosto \xf000ĉ\x0001\x0001\xfffeinsieme a un bigliettino.\xf000븁\x0000\xfffeSarà una bella sorpresa per chi li troverà!
+Destinazione raggiunta!\xf000븁\x0000\xfffeGrat grat... grat grat!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha nascosto \xf000ĉ\x0001\x0001\xfffeinsieme a un bigliettino.\xf000븁\x0000\xfffeSarà una bella sorpresa per chi li troverà!
+Destinazione raggiunta!\xf000븁\x0000\xfffeGrat grat... grat grat!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha nascosto \xf000ĉ\x0001\x0001\xfffeinsieme a un bigliettino.\xf000븁\x0000\xfffeSarà una bella sorpresa per chi li troverà!
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti!\xf000븁\x0000\xfffeVengo per te dall'Intramondo.\xf000븁\x0000\xfffeAllora, è il momento di fare una piccola\xfffepausa dopo questo viaggio, non credi?\xf000븁\x0000\xfffeSai che adesso qui al Pokémon-Market\xfffelo strumento \xf000ĉ\x0001\x0001 è in offerta?\xf000븁\x0000\xfffePensa, sarà tuo per la modica cifra di...\xf000븁\x0000
+... $\xf000Ȅ\x0001\x0002! È un'offerta da non perdere!\xf000븁\x0000\xfffeOccasioni come questa non capitano tutti\xfffei giorni!\xf000븁\x0000\xfffeAllora, ti offro \xf000ĉ\x0001\x0001 a $\xf000Ȅ\x0001\x0002!\xfffeTi interessa?
+\xf000Ā\x0001\x0000: Ciao! Scusa, non volevo\xfffespaventarti!\xf000븁\x0000\xfffeVengo per te dall'Intramondo.\xf000븁\x0000\xfffeAllora, è il momento di fare una piccola\xfffepausa dopo questo viaggio, non credi?\xf000븁\x0000\xfffeSai che adesso qui al Pokémon-Market\xfffelo strumento \xf000ĉ\x0001\x0001 è in offerta?\xf000븁\x0000\xfffePensa, sarà tuo per la modica cifra di...\xf000븁\x0000
+... $\xf000Ȅ\x0001\x0002! È un'offerta da non perdere!\xf000븁\x0000\xfffeOccasioni come questa non capitano tutti\xfffei giorni!\xf000븁\x0000\xfffeAllora, ti offro \xf000ĉ\x0001\x0001 a $\xf000Ȅ\x0001\x0002!\xfffeTi interessa?
+--
+--
+--
+\xf000Ā\x0001\x0000: Ciao! Eh?! Come?\xf000븁\x0000\xfffeDavvero vuoi vendermi \xf000ĉ\x0001\x0001\xfffea $\xf000Ȅ\x0001\x0002?\xf000븁\x0000\xfffeDunque... che faccio? Un attimo, lasciamici\xfffepensare...
+\xf000Ā\x0001\x0000: Ciao! Eh?! Come?\xf000븁\x0000\xfffeDavvero vuoi vendermi \xf000ĉ\x0001\x0001\xfffea $\xf000Ȅ\x0001\x0002?\xf000븁\x0000\xfffeDunque... che faccio? Un attimo, lasciamici\xfffepensare...
+--
+--
+--
+Grazie mille! Allora prendi, \xf000ĉ\x0001\x0001\xfffeti appartiene adesso!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 riceve \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeBene, spero di incontrarti di nuovo\xfffedurante il viaggio! Alla prossima!
+Grazie mille! Allora prendi, \xf000ĉ\x0001\x0001\xfffeti appartiene adesso!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 riceve \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeBene, spero di incontrarti di nuovo\xfffedurante il viaggio! Alla prossima!
+--
+--
+--
+Ci sto! Vorrei \xf000ĉ\x0001\x0001, per favore!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 riceve \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Ooh, che affare! Grazie mille!
+Va bene! Vorrei \xf000ĉ\x0001\x0001, per favore!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 riceve \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Evviva! Ho l'impressione di\xfffeaver fatto un vero affare! Grazie mille!
+--
+--
+--
+Davvero? Pazienza, allora ci vediamo\xfffedi nuovo in giro!
+Davvero? Pazienza, allora ci vediamo\xfffedi nuovo in giro!
+--
+--
+--
+Mmm... credo che questa volta rinuncerò.\xf000븁\x0000\xfffeMi dispiace! Però fammi un fischio quando\xfffeavrai altri strumenti di buona qualità!
+Mmm... credo che questa volta rinuncerò.\xf000븁\x0000\xfffeMi dispiace! Però fammi un fischio quando\xfffeavrai altri strumenti di buona qualità!
+--
+--
+--
+E allora?!\xfffeA quanto pare sei a corto di contanti...\xf000븁\x0000\xfffePazienza, sarà per la prossima volta!\xfffeCi si vede in giro!
+E allora?!\xfffeA quanto pare sei a corto di contanti...\xf000븁\x0000\xfffePazienza, sarà per la prossima volta!\xfffeCi si vede in giro!
+--
+--
+--
+Ah! Scusa... mi ero deciso per l'acquisto,\xfffema a quanto pare sono al verde!\xf000븁\x0000\xfffeTorna ancora, la prossima volta non mi\xfffelascerò sfuggire l'occasione!
+Ah! Scusa... mi ero decisa per l'acquisto,\xfffema a quanto pare sono al verde!\xf000븁\x0000\xfffeTorna ancora, la prossima volta non mi\xfffelascerò sfuggire l'occasione!
+--
+--
+--
+E allora?!\xfffeA quanto pare la tua Borsa è piena...\xf000븁\x0000\xfffePazienza, sarà per la prossima volta!\xfffeCi si vede in giro!
+E allora?!\xfffeA quanto pare la tua Borsa è piena...\xf000븁\x0000\xfffePazienza, sarà per la prossima volta!\xfffeCi si vede in giro!
+--
+--
+--
+Ah! Scusa... mi ero deciso per l'acquisto,\xfffema purtroppo ho la Borsa piena!\xf000븁\x0000\xfffeTorna ancora a vendermi qualcos'altro!
+Ah! Scusa... mi ero decisa per l'acquisto,\xfffema purtroppo ho la Borsa piena!\xf000븁\x0000\xfffeTorna di nuovo, sono sicura che avrai\xfffequalche altro buon affare da propormi!
+
+
+
+
+
+
+
+
+

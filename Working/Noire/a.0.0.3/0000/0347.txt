@@ -1,0 +1,55 @@
+Euh...\xfffeJe suis qui, déjà?\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeVintudju, ça me revient!\xfffeJe suis l'Effaceur de Capacités!\xf000븁\x0000
+Tu viens me voir pour que j'aide tes\xfffePokémon à oublier des capacités?
+À quel Pokémon veux-tu que je fasse\xfffeoublier une capacité?\xf000븁\x0000
+Souviens-toi de moi si tu as quelques\xfffecapacités à faire oublier.
+Ce Pokémon ne connaît qu'une capacité,\xfffeil ne peut pas l'oublier...\xf000븁\x0000
+Tudju! Mais c'est un Œuf! Les Œufs ne\xfffeconnaissent aucune capacité.\xf000븁\x0000
+D'accord, très bien.\xfffeQuelle capacité doit être oubliée?\xf000븁\x0000
+Tudju! La capacité \xf000ć\x0001\x0000?\xfffeCette capacité doit être oubliée?
+Ça a parfaitement fonctionné!\xf000븁\x0000\xfffeTon Pokémon a totalement oublié\xfffela capacité \xf000ć\x0001\x0000.
+
+
+
+
+
+
+
+
+
+
+
+De quelle capacité \xf000Ă\x0001\x0000\xfffedoit-il se souvenir?\xf000븁\x0000
+Le Pokémon doit-il se souvenir de\xfffe\xf000ć\x0001\x0001?
+Renoncer à ce que \xf000Ă\x0001\x0000 se\xfffesouvienne de la capacité?
+\xf000Ă\x0001\x0000 se souvient de la\xfffecapacité oubliée \xf000ć\x0001\x0001!\xf000븁\x0000
+\xf000Ă\x0001\x0000 veut se souvenir de la\xfffecapacité \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeMais \xf000Ă\x0001\x0000 ne peut pas\xfffeapprendre plus de quatre capacités.\xf000븁\x0000\xfffeEffacer une capacité\xfffepour \xf000ć\x0001\x0001?
+1\xf000븂\x0001\x0014, 2\xf000븂\x0001\x0014, \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Tadaa!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 oublie \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeEt...\xf000븁\x0000
+\xf000Ă\x0001\x0000 se souvient de la\xfffecapacité oubliée \xf000ć\x0001\x0001!\xf000븁\x0000
+Renoncer à ce que le Pokémon se\xfffesouvienne de \xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 ne se souvient plus de la\xfffecapacité \xf000ć\x0001\x0001.\xf000븁\x0000
+\xf000Ā\x0001\x0000 donne une Écaillecœur\xfffeen échange.
+Ce Pokémon va oublier la capacité\xfffe\xf000ć\x0001\x0000. Continuer?
+On m'appelle Anamnésia!\xf000븁\x0000\xfffeJe connais toutes les capacités que les\xfffePokémon apprennent en grandissant.\xf000븁\x0000\xfffeJe peux leur rappeler celles qu'ils ont\xfffeoubliées contre une Écaillecœur.\xf000븁\x0000
+Dois-je remémorer une capacité à\xfffeun membre de ton équipe?
+C'est pour quel Pokémon?\xf000븁\x0000
+Reviens avec une Écaillecœur si tu veux\xfffeque je remémore une capacité\xf000븀\x0000\xfffeà un de tes Pokémon.
+C'est un Œuf!
+Il n'y a aucune capacité oubliée.
+
+POUVOIR
+PRÉCISION
+PP
+
+
+
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+
+---
+RETOUR
+APPRENDRE
+
+\xf000Ă\x0001\x0000
+N. \xf000Ȃ\x0001\x0000
+Capacité(s) apprise(s)

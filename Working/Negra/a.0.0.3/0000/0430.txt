@@ -1,0 +1,69 @@
+Cheren: ¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe¿Es verdad eso que dice la Prof.ª Encina\xfffede que nos va a dar un Pokémon?\xf000븁\x0000
+...\xfffeBel se retrasa...\xf000븁\x0000\xfffeEsta chica... ¡No va a cambiar nunca!\xf000븁\x0000
+Bel: ¡Perdón! ¡Perdón!\xfffeLlego tarde otra vez...\xf000븁\x0000
+Cheren: Bel, te conozco desde hace\xfffediez años y ya sé que vas a tu aire...\xf000븁\x0000\xfffe¡Pero es que hoy la Prof.ª Encina\xfffenos ha traído nuestros Pokémon!\xf000븁\x0000
+Bel: Vale, vale..., \xf000Ā\x0001\x0000,\xfffeCheren, os pido perdón.\xf000븁\x0000
+Bel: Hablando de Pokémon, ¿dónde están?\xf000븁\x0000\xfffeHan sido traídos a tu casa, \xf000Ā\x0001\x0000,\xfffeasí que tú debes elegir primero, ¿no?\xf000븁\x0000
+Cheren: ¡Claro!\xf000븁\x0000
+Nuestros Pokémon nos están esperando\xfffeen esa caja de regalo.\xf000븁\x0000\xfffeVenga, \xf000Ā\x0001\x0000, ¡da un paso adelante\xfffey abre la caja!\xf000븁\x0000\xfffeDate prisa... ¡que quiero ver mi Pokémon!
+Cheren: Pero ¿adónde vas sin abrir antes\xfffela caja de regalo?\xf000븁\x0000
+Cheren: ¿Podrías abrir la caja\xfffede regalo, por favor?\xf000븁\x0000\xfffeLos Pokémon tienen que estar impacientes\xfffepor conocernos.
+Bel: ¿Qué clase de Pokémon serán?
+¡\xf000Ā\x0001\x0000 abre la caja!\xf000븁\x0000
+Junto a esta carta, vais a\xfffeencontrar tres Pokémon.\xfffeDecidid entre vosotros con qué\xfffePokémon se queda cada uno,\xfffesin discutir ni pelear, ¿vale?\xfffe¡Nos vemos!\xfffe                        Prof.ª Encina
+
+
+
+\xf000봂\x0000\xf000ā\x0001\x0001 es un Pokémon de tipo Agua.
+\xf000봂\x0000\xf000ā\x0001\x0001 es un Pokémon de tipo Fuego.
+\xf000봂\x0000\xf000ā\x0001\x0001 es un Pokémon de tipo Planta.
+Elige un Pokémon.
+¿Te parece bien este Pokémon?
+¡Elegir este!
+SÍ
+NO
+¡\xf000Ā\x0001\x0000 ha obtenido un \xf000ā\x0001\x0001!
+Bel: ¡Bien!\xfffe¡Pues yo me quedo con este Pokémon!\xf000븀\x0000\xfffe¡Y Cheren con ese otro!\xf000븁\x0000
+Cheren: ¿Se puede saber por qué tienes\xfffeque decidir con cuál me quedo?\xf000븁\x0000\xfffeBueno, la verdad es que me gustaba\xfffe\xf000ā\x0001\x0001 desde el principio.\xf000븁\x0000
+Bel: Bueno, pues ya hemos elegido\xfffecada uno nuestro Pokémon.\xf000븁\x0000\xfffe¡Chicos, ya sé!\xfffe¿Qué os parece si echamos un combate?\xf000븁\x0000
+Cheren: Estooo... Bel, nuestros\xfffePokémon todavía son muy débiles.\xf000븁\x0000\xfffeAdemás, estamos dentro de casa...\xfffeAsí que será mejor que no.\xf000븁\x0000
+Bel: ¡No pasa nada! Nuestros Pokémon\xfffetodavía son muy débiles, ¿no?\xf000븁\x0000\xfffe¡Pues precisamente por eso deberíamos\xfffehacerles luchar, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe¡Que empiece el combate!\xf000븁\x0000
+
+Parece que la caja está vacía...
+
+
+
+
+
+Bel: ¡Uuuf!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000... ¡estoy segura de que\xfffevas a entrenar como nadie!\xf000븁\x0000\xfffeTengo esa corazonada.\xf000븁\x0000
+Bel: ¡Uuuf!\xf000븁\x0000\xfffeMe he quedado embelesada con los\xfffemovimientos de los Pokémon y no\xf000븀\x0000\xfffesé exactamente cómo he ganado...\xf000븁\x0000
+Cheren: Oh, oh...\xf000븁\x0000\xfffeBel, ¿qué tal si miras a tu alrededor?\xf000븁\x0000
+Bel: ¡Aaah!\xfffePero ¡¿qué...?!\xf000븁\x0000
+¡Los Pokémon son increíbles!\xfffe¡Con lo pequeños que son!\xf000븁\x0000\xfffe¡Qué bien que los haya visto en acción!\xf000븁\x0000\xfffeEsto...\xfffe\xf000Ā\x0001\x0000, ¡perdón por tu habitación!\xf000븁\x0000
+Cheren: Madre mía...\xfffe¡No tienes arreglo!\xf000븁\x0000\xfffe¡Mira la que has liado!\xfffeDéjame que cure a tu Pokémon...\xf000븁\x0000
+¡Cheren ha curado al Pokémon de Bel!
+\xf000Ā\x0001\x0000, déjame que cure\xfffea tu Pokémon también.\xf000븁\x0000
+¡Cheren ha curado al Pokémon\xfffede \xf000Ā\x0001\x0000!
+Cheren: Ganar un combate Pokémon\xfffesin que bajen los PS de tu Pokémon,\xf000븀\x0000\xfffees decir, su salud, es impresionante.\xf000븁\x0000\xfffeAunque los PP son otra historia...\xfffe¡Siempre disminuyen!\xf000븁\x0000
+Bel: ¡Oye, una cosita! ¿Por qué no le\xfffeechas un combate a Cheren también?\xf000븁\x0000\xfffeComo sabe mucho, seguro que podrá\xfffecombatir sin armar tanto jaleo como yo.\xf000븁\x0000
+Cheren: ¡Pues claro!\xf000븁\x0000\xfffeY, como sé un montón, la habitación no\xfffese ensuciará más de lo que ya está.\xf000븁\x0000\xfffeLo cierto es que no es justo que solo\xfffedos lo paséis bien echando\xf000븀\x0000\xfffeun combate Pokémon.\xf000븁\x0000
+
+
+
+
+Acepto el reto con mucho gusto.\xfffeSerá nuestro primer combate Pokémon.\xf000븁\x0000\xfffe¡Voy a hacer que te esfuerces y saques\xfffetodo tu potencial, \xf000ā\x0001\x0001!\xf000븁\x0000
+
+Cheren: No esperaba perder en nuestro\xfffeprimer combate, pero no importa.\xf000븁\x0000\xfffeSiento que por fin soy un Entrenador.\xf000븁\x0000\xfffeAhora tengo que pedir perdón a tu madre\xfffepor cómo ha quedado la habitación.\xf000븁\x0000
+Cheren: Esta sensación...\xfffeYa soy un Entrenador...\xf000븁\x0000\xfffePero antes de nada...\xf000븁\x0000\xfffeVoy a pedirle perdón a tu madre por\xfffecómo ha quedado la habitación.\xf000븁\x0000
+Bel: ¡Ah!\xfffe¡Yo también!\xf000븁\x0000
+¡Es una Wii!\xfffe¡Con su mando y todo!
+¡Es una Wii!\xfffe¡No tiene ni un rasguño, increíble!
+¡Es la televisión de plasma\xfffeque compró papá!
+¡Es la cama!\xf000븁\x0000\xfffe¡Huele genial, porque mamá\xfffeacaba de lavar las sábanas!
+¡La cama se ha quedado destrozadita!
+¡\xf000Ā\x0001\x0000 ha consultado el PC!\xf000븁\x0000\xfffeLo mínimo que tienes que saber es que,\xfffeen este mundo, los Pokémon viven junto\xf000븀\x0000\xfffea las personas.\xf000븁\x0000\xfffeA la gente que hace luchar a los Pokémon\xfffese les llama Entrenadores.
+¡Es un diploma por completar la Pokédex\xfffede la región de Teselia!\xf000븁\x0000
+¡Es un diploma por completar\xfffela Pokédex Nacional!\xf000븁\x0000
+¡Es un trofeo que certifica la victoria\xfffefrente al Jefe Individual del\xf000븀\x0000\xfffeMetro Batalla!
+¡Es un trofeo que certifica la victoria\xfffefrente al Jefe Doble del\xf000븀\x0000\xfffeMetro Batalla!
+¡Es un trofeo que certifica la victoria\xfffefrente al Jefe Múltiple del\xf000븀\x0000\xfffeMetro Batalla!

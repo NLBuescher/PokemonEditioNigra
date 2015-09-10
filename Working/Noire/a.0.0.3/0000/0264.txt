@@ -1,0 +1,20 @@
+\xf000Ā\x0001\x0000 utilise\xfffel'\xf000Ĝ\x0001\x0002!\xf000븁\x0000
+L'effet “\xf000Ĝ\x0001\x0002"\xfffes'est dissipé.
+L'effet “\xf000Ĝ\x0001\x0002"\xfffes'est dissipé.\xf000븁\x0000
+Vérification de l'état de l'Offri-Aura.\xf000븁\x0000
+\xf000\xff00\x0001\x0002Offri-Aura installée\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0002Offri-Aura(s) active(s)\xf000\xff00\x0001\x0000
+\xf000Ĝ\x0001\x0000
+\xf000Ĝ\x0001\x0000\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001:\xf000ȁ\x0001\x0002
+\xf000Ā\x0001\x0000 va rencontrer davantage\xfffede Pokémon sauvages!
+\xf000Ā\x0001\x0000 va rencontrer moins\xfffede Pokémon sauvages!
+Les Pokémon vont éclore des Œufs\xfffeplus rapidement!
+Les Pokémon vont se lier d'amitié plus\xffferapidement avec \xf000Ā\x0001\x0000.
+Les soldes ont commencé dans les\xfffeBoutiques Pokémon!
+Le \xf000Ă\x0001\x0001 de \xf000Ā\x0001\x0000\xffferécupère de l'énergie!
+Le \xf000Ă\x0001\x0001 de \xf000Ā\x0001\x0000\xffferécupère des PP!
+Les Pokémon de \xf000Ā\x0001\x0000 vont\xfffegagner davantage d'expérience!
+Les Pokémon de \xf000Ā\x0001\x0000 vont gagner\xfffemoins d'expérience!
+\xf000Ā\x0001\x0000 va recevoir davantage\xfffed'argent de poche!
+\xf000Ā\x0001\x0000 va attraper les Pokémon\xfffeplus facilement!
+Les Pokémon de \xf000Ā\x0001\x0000\xfffesont tous en pleine forme!

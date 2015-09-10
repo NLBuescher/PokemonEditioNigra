@@ -1,0 +1,15 @@
+Buongiorno, Allenatore!\xf000븁\x0000\xfffeUna pozione è sempre il miglior compagno\xfffedi viaggio!
+Che sfortuna! Avrei dovuto comprare\xfffemolte più Poké Ball!\xf000븁\x0000\xfffeMi sono lasciata scappare un Pokémon\xfffeche volevo catturare da tanto tempo.
+Ehi, tu!\xf000븁\x0000\xfffeDove ti piace di più giocare?\xfffeAll'aperto o a casa?
+Capisco, capisco!\xf000븁\x0000\xfffeE cosa ti incuriosisce di più?\xfffeQuello che tutti sanno...\xf000븀\x0000\xfffeO quello che non sa nessuno?
+Ah, ma dai!\xf000븁\x0000
+Mi sembri proprio una persona\xfffedi buon senso!
+Sei molto socievole!
+Sei davvero una persona curiosa!
+Sei una persona davvero tranquilla!
+Sei una persona poco curiosa...
+All'aperto
+A casa
+Nessuno dei due
+Quello che sanno tutti
+Quello che non sa nessuno

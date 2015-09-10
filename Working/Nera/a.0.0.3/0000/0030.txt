@@ -1,0 +1,16 @@
+Artemisio ha usato questo magazzino\xfffefino a due anni fa.\xf000븁\x0000\xfffeQuando ha un blocco dell'ispirazione\xfffetorna sempre qui, in questa città!
+Artemisio riesce ad essere al contempo\xfffeartista e Capopalestra di Austropoli.\xf000븀\x0000\xfffeÈ un vero modello per noi!
+Quello che hai lì con te è un Pokédex,\xfffevero?\xf000븁\x0000\xfffeWow, che forza!\xfffeQuindi stai collezionando Pokémon!\xf000븁\x0000\xfffeVoglio aiutarti anch'io!\xf000븁\x0000\xfffeDimmi un po', che Pokémon hai scelto\xfffeall'inizio?
+Snivy! Bene. Allora tieni, ti do questo!\xf000븁\x0000\xfffeSe lo fai tenere a un Pokémon, la potenza\xfffedelle mosse di tipo Erba aumenterà!\xf000븁\x0000
+Oshawott! Allora tieni, ti do questo!\xf000븁\x0000\xfffeSe lo fai tenere a un Pokémon, la potenza\xfffedelle mosse di tipo Acqua aumenterà!\xf000븁\x0000
+Tepig! Bene. Allora tieni, ti do questo!\xf000븁\x0000\xfffeSe lo fai tenere a un Pokémon la potenza\xfffedelle mosse di tipo Fuoco aumenterà!\xf000븁\x0000
+Ci sono un sacco di strumenti che hanno\xfffeeffetto se tenuti da un Pokémon!\xf000븁\x0000\xfffeProva a cercarli!\xf000븁\x0000\xfffeIn bocca al lupo! Fai del tuo meglio\xfffeper riempire il Pokédex!
+Snivy
+Oshawott
+Tepig
+Esci
+È Snivy?
+È Oshawott?
+È Tepig?
+Ehi, che Pokémon hai scelto all'inizio?
+Quando ti va di dirmelo,\xfffetorna a parlarmi!

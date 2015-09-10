@@ -1,0 +1,200 @@
+●●
+Un \xf000ā\x0001\x0000 sauvage apparaît!
+Un \xf000ā\x0001\x0000 et un \xf000ā\x0001\x0001\xfffesauvages apparaissent!
+Un \xf000ā\x0001\x0000 sauvage apparaît!
+Un \xf000ā\x0001\x0000 sauvage apparaît!
+Un \xf000ā\x0001\x0000 vu en rêve apparaît!
+Un \xf000ā\x0001\x0000 apparaît!
+Un combat est lancé par\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
+Un combat est lancé par \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 et\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003\xf000븀\x0000\xfffeveulent se battre!\xf000븁\x0000
+\xf000Ā\x0001\x0000 et \xf000Ā\x0001\x0001\xfffeveulent se battre!\xf000븁\x0000
+\xf000Ă\x0001\x0000! Go!
+\xf000Ă\x0001\x0000 et \xf000Ă\x0001\x0001! Go!
+\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001 et\xfffe\xf000Ă\x0001\x0002! Go!
+Un \xf000Ă\x0001\x0002 est envoyé par\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Un \xf000Ă\x0001\x0002 et un \xf000Ă\x0001\x0003\xfffesont envoyés par \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Un \xf000Ă\x0001\x0002, un \xf000Ă\x0001\x0003 et\xfffeun \xf000Ă\x0001\x0004 sont envoyés par\xf000븀\x0000\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0001 est envoyé par \xf000Ā\x0001\x0000!
+\xf000Ă\x0001\x0001 et \xf000Ă\x0001\x0002\xfffesont envoyés par \xf000Ā\x0001\x0000!
+\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002 et \xf000Ă\x0001\x0003\xfffesont envoyés par \xf000Ā\x0001\x0000!
+\xf000Ă\x0001\x0002 va être envoyé par\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001.\xf000븀\x0000\xfffeVoulez-vous changer de Pokémon?
+\xf000Ă\x0001\x0000! Fonce!
+En avant, \xf000Ă\x0001\x0000!
+Un dernier petit effort!\xfffeTiens bon, \xf000Ă\x0001\x0000!
+L'ennemi est faible!\xfffeAttaque, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000, on change!\xfffeReviens!
+Reviens, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000, ça suffit!\xfffeReviens!
+OK, \xf000Ă\x0001\x0000!\xfffeReviens!
+Bien, \xf000Ă\x0001\x0000!\xfffeReviens!
+Le \xf000Ă\x0001\x0002 est retiré par\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+\xf000Ă\x0001\x0001 est retiré par\xfffe\xf000Ā\x0001\x0000!
+Touché \xf000Ȁ\x0001\x0000 fois!
+\xf000Ā\x0001\x0000 utilise \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 utilise \xf000ĉ\x0001\x0001!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 utilise\xfffe\xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 a tiré l'objet \xf000ĉ\x0001\x0002\xfffesur \xf000Ă\x0001\x0001!
+Vous ne pouvez pas utiliser le\xfffeShooter-Miracle pour le moment!
+\xf000Ā\x0001\x0000 envoie son Pokémon à gauche!
+\xf000Ā\x0001\x0000 envoie son Pokémon à gauche!
+\xf000Ā\x0001\x0000 envoie son Pokémon à droite!
+\xf000Ā\x0001\x0000 envoie son Pokémon à droite!
+\xf000Č\x0001\x0000 a gagné \xf000Ȇ\x0001\x0001 points Exp.!
+\xf000Č\x0001\x0000 a gagné un bonus de\xfffe\xf000Ȇ\x0001\x0001 points Exp.!
+Vous avez battu \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 et\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003 ont perdu!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 a gagné!
+Égalité avec \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 a perdu!
+\xf000Ā\x0001\x0000 et \xf000Ā\x0001\x0001 ont perdu!
+\xf000Ā\x0001\x0000 a gagné!
+\xf000Ā\x0001\x0000 et \xf000Ā\x0001\x0001 ont gagné!
+Égalité avec \xf000Ā\x0001\x0000!
+Égalité avec \xf000Ā\x0001\x0000 et \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 n'a plus de Pokémon en forme!\xf000븁\x0000
+\xf000Ā\x0001\x0000 fait tomber \xf000Ȅ\x0001\x0001 $\xfffedans la panique!
+\xf000Ā\x0001\x0000 donne \xf000Ȅ\x0001\x0001 $ au vainqueur.
+...............\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 est hors-jeu!
+\xf000Ā\x0001\x0000 remporte \xf000Ȅ\x0001\x0001 $!
+\xf000Ā\x0001\x0000 obtient \xf000Ȅ\x0001\x0001 $!
+\xf000Č\x0001\x0000 monte au N. \xf000Ȃ\x0001\x0001!
+Oh, non!\xfffeLe Pokémon s'est libéré!
+Raaah!\xfffeÇa y était presque!
+Aaaaah!\xfffePresque!
+Mince!\xfffeÇa y était presque!
+Et hop!\xfffe\xf000ā\x0001\x0000 est attrapé!
+Les données de \xf000ā\x0001\x0000 sont\xfffeajoutées au Pokédex.
+Le Dresseur détourne la Ball!\xf000븁\x0000\xfffeVoler, c'est mal!
+Mais ça n'a aucun effet!
+Que doit faire \xf000Č\x0001\x0000?
+Que doit faire \xf000Ā\x0001\x0000?
+\xf000븉\x0001<Mais cela échoue!
+Vous prenez la fuite!
+Vous n'avez pas réussi à fuir.
+Fuite impossible!
+Le \xf000Ă\x0001\x0000 sauvage prend la fuite!
+On ne s'enfuit pas d'un\xfffecombat de Dresseurs!
+Voulez-vous abandonner et\xfffequitter le combat?
+C'est super efficace!
+Ce n'est pas très efficace...
+Il se blesse dans sa confusion.
+Coup critique!
+Mais il n'y a plus de PP pour cette capacité!
+\xf000Ā\x0001\x0000 vient au secours de \xf000Ă\x0001\x0001\xfffeet restaure ses PV!
+Les rayons du soleil brillent!
+Il commence à pleuvoir!
+Une tempête de sable se prépare!
+Il commence à grêler!
+Le brouillard devient épais...
+Les rayons du soleil s'affaiblissent!
+La pluie s'est arrêtée!
+La tempête de sable se calme!
+La grêle s'est arrêtée!
+Le brouillard s'est dissipé!
+Les effets de la météo se dissipent!
+La tempête de sable fait rage.
+Il y a un déluge de grêle.
+K.O. en un coup!
+\xf000ĉ\x0001\x0000 affaiblit \xf000ć\x0001\x0001!
+Avec \xf000ĉ\x0001\x0000, seule la capacité\xfffe\xf000ć\x0001\x0001 peut être utilisée!
+\xf000Č\x0001\x0000 ne peut utiliser que\xfffe\xf000ć\x0001\x0001!
+Les changements de stats ont tous été\xfffeannulés!
+Mais rien ne se passe!
+\xf000Ć\x0001\x0001 de\xfffe\xf000Ă\x0001\x0000
+Ampleur 4!
+Ampleur 5!
+Ampleur 6!
+Ampleur 7!
+Ampleur 8!
+Ampleur 9!
+Ampleur 10!
+Un grelot sonne!
+Une odeur apaisante flotte dans les airs!
+Les adversaires se partagent les dégâts!
+La puissance du feu est affaiblie!
+La puissance de l'électricité est affaiblie!
+Les dimensions faussées redeviennent\xfffenormales!
+La Gravité est intensifiée!
+La Gravité est revenue à la normale!
+Les Pokémon au combat seront K.O. dans\xfffe3 tours!
+Métronome lance \xf000ć\x0001\x0000!
+Force-Nature provoque \xf000ć\x0001\x0000.
+Une pluie de pièces!
+Trop faible pour créer un clone!
+Protection augmente la Défense de l'équipe!
+Protection augmente la Défense de l'équipe\xfffeennemie!
+Protection n'a plus d'effet sur l'équipe!
+Protection n'a plus d'effet sur l'équipe\xfffeennemie!
+Mur Lumière augmente la Défense Spéciale\xfffede l'équipe!
+Mur Lumière augmente la Défense Spéciale\xfffede l'équipe ennemie!
+Mur Lumière n'a plus d'effet sur l'équipe!
+Mur Lumière n'a plus d'effet sur l'équipe\xfffeennemie!
+Votre équipe est recouverte par un voile!
+L'équipe ennemie est recouverte par un\xfffevoile!
+Votre équipe n'est plus protégée par\xfffeRune Protect!
+L'équipe ennemie n'est plus protégée par\xfffeRune Protect!
+Votre équipe s'entoure de Brume!
+L'équipe ennemie s'entoure de Brume!
+La Brume de l'équipe s'est dissipée!
+La Brume de l'équipe ennemie s'est dissipée!
+Un Vent Arrière souffle sur votre équipe!
+Un Vent Arrière souffle sur l'équipe\xfffeennemie!
+Le Vent Arrière de votre équipe s'arrête!
+Le Vent Arrière de l'équipe ennemie\xfffes'arrête!
+L'Air Veinard immunise votre équipe contre\xfffeles coups critiques!
+L'Air Veinard immunise l'ennemi contre les\xfffecoups critiques!
+L'Air Veinard de votre équipe prend fin!
+L'Air Veinard de l'équipe ennemie prend fin!
+Des Picots s'éparpillent autour de votre\xfffeéquipe!
+Des Picots s'éparpillent autour de l'équipe\xfffeennemie!
+Il n'y a plus de Picots autour de votre\xfffeéquipe!
+Il n'y a plus de Picots autour de l'équipe\xfffeennemie!
+Des pics toxiques se répandent autour de\xfffevotre équipe!
+Des pics toxiques se répandent autour de\xfffel'équipe ennemie!
+Il n'y a plus de pics toxiques autour de\xfffevotre équipe!
+Il n'y a plus de pics toxiques autour de\xfffel'équipe ennemie!
+Des pierres pointues flottent en l'air\xfffeautour de votre équipe!
+Des pierres pointues flottent en l'air\xfffeautour de l'équipe ennemie!
+Les pierres pointues autour de votre équipe\xfffeont disparu!
+Les pierres pointues autour de l'équipe\xfffeennemie ont disparu!
+Votre équipe est protégée par Garde Large!
+L'équipe ennemie est protégée par\xfffeGarde Large!
+Votre équipe est protégée par Prévention!
+L'équipe ennemie est protégée par\xfffePrévention!
+Un arc-en-ciel apparaît dans votre ciel!
+Un arc-en-ciel apparaît dans le ciel\xfffede l'équipe ennemie!
+L'arc-en-ciel a disparu de votre ciel!
+L'arc-en-ciel a disparu du ciel de\xfffel'équipe ennemie!
+Votre équipe est cernée par une mer de feu!
+L'équipe ennemie est cernée par une\xfffemer de feu!
+La mer de feu autour de votre équipe\xfffea disparu!
+La mer de feu autour de l'équipe ennemie\xfffea disparu!
+Votre équipe est cernée par un marécage!
+L'équipe ennemie est cernée par un\xfffemarécage!
+Le marécage autour de votre équipe\xfffea disparu!
+Le marécage autour de l'équipe ennemie\xfffea disparu!
+Votre équipe est tendue et ne peut plus\xfffemanger de Baies!
+L'équipe ennemie est tendue et ne peut plus\xfffemanger de Baies!
+La Défense et la Défense Spéciale sont\xfffeinterverties!
+La Défense et la Défense Spéciale sont\xffferevenues à la normale!
+L'effet des objets tenus est neutralisé!
+L'effet des objets tenus est rétabli!
+\xf000ĉ\x0001\x0000 renforce \xf000ć\x0001\x0001!
+La limite de temps est dépassée!\xfffeFin du combat!
+Le combat est trop long.\xfffeFin de la retransmission!
+Mode Transe!
+Mode Normal!
+Les deux capacités se sont combinées!
+\xf000Č\x0001\x0000 n'obéit pas!
+\xf000Č\x0001\x0000 paresse!
+\xf000Č\x0001\x0000 tourne le dos!
+\xf000Č\x0001\x0000 fait semblant de ne rien\xffferemarquer!
+\xf000Č\x0001\x0000 ignore les ordres!
+\xf000Č\x0001\x0000 fait la sieste!
+\xf000Č\x0001\x0000 ignore les ordres et dort\xfffetoujours!
+Réinitialisation!
+Mais cet objet n'est pas utilisable\xfffesur cette cible!
+\xf000Č\x0001\x0000 est en Chute Libre!\xfffeCette action est impossible!
+Le combat se termine par un forfait.
+Métronome de (\xf000Ȁ\x0001\x0000) \xf000Ȃ\x0001\x0001: \xf000ć\x0001\x0002

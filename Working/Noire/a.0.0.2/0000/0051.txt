@@ -1,0 +1,16 @@
+Votre Compatibilité avec\xfffe\xf000Ā\x0001\x0000 est de...
+RÉSULTATS
+Échec de la reconnaissance tactile...\xfffeVeuillez suivre les instructions.
+Votre Compatibilité est de Rang I!\xfffeVous vous saluez à peine en vous croisant.
+Votre Compatibilité est de Rang H!\xfffeVous trouvez l'autre assez intéressant.
+Votre Compatibilité est de Rang G!\xfffeVous pourriez faire une balade ensemble.
+Votre Compatibilité est de Rang F!\xfffeAssez pour vous donner des surnoms.
+Votre Compatibilité est de Rang E!\xfffeUne belle amitié est née.
+Votre Compatibilité est de Rang D!\xfffeAssez pour vous appeler chaque week-end.
+Votre Compatibilité est de Rang C!\xfffeAssez pour partir en voyage ensemble.
+Votre Compatibilité est de Rang B!\xfffeLes autres doivent envier votre relation.
+Votre Compatibilité est de Rang A!\xfffeVous vous comprenez parfaitement.
+Votre Compatibilité est de Rang S!\xfffeLe destin semble vous rapprocher!
+\xf000Ā\x0001\x0000 a mis \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffedans la Poche \xf000\xff00\x0001\x0002MÉDICAMENTS\xf000\xff00\x0001\x0000.
+\xf000Ā\x0001\x0000 a mis \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffedans la Poche \xf000\xff00\x0001\x0002MÉDICAMENTS\xf000\xff00\x0001\x0000.
+Dommage!\xfffeLe Sac est plein.

@@ -1,0 +1,16 @@
+¡Camus utilizó este almacén hasta hace\xfffedos años!\xf000븁\x0000\xfffeCuando Camus pierde la inspiración,\xfffeviene a Ciudad Esmalte para encontrarla.
+¡Todos admiramos a Camus!\xf000븁\x0000\xfffe¡Es un artista como la copa de un pino y\xfffeLíder del Gimnasio de Ciudad Porcelana!
+Eso que llevas es una Pokédex, ¿verdad?\xfffe¡Hala! ¡Qué guay!\xf000븁\x0000\xfffe¡Estás reuniendo Pokémon! ¡Lo sabía!\xfffePues te voy a echar una mano.\xf000븁\x0000\xfffeDime, ¿cuál fue el Pokémon que elegiste\xfffeal principio?
+Un Snivy, ¿eh?\xfffe¡Pues toma esto!\xf000븁\x0000\xfffe¡Potencia los movimientos de tipo\xfffePlanta del Pokémon que lo lleve!\xf000븁\x0000
+Un Oshawott, ¿eh?\xfffe¡Pues toma esto!\xf000븁\x0000\xfffe¡Potencia los movimientos de tipo\xfffeAgua del Pokémon que lo lleve!\xf000븁\x0000
+Un Tepig, ¿eh?\xfffe¡Pues toma esto!\xf000븁\x0000\xfffe¡Potencia los movimientos de tipo\xfffeFuego del Pokémon que lo lleve!\xf000븁\x0000
+Hay muchos objetos con distintos efectos\xfffeque pueden llevar los Pokémon.\xf000븁\x0000\xfffe¡Así que no dejes de buscarlos!\xf000븁\x0000\xfffe¡Ánimo y que sigas llenando tu Pokédex!
+Snivy
+Oshawott
+Tepig
+SALIR
+¿Un Snivy?
+¿Un Oshawott?
+¿Un Tepig?
+Bien...\xfffe¿Qué Pokémon elegiste al principio?
+¡Cuando te apetezca decírmelo, solo\xfffetienes que venir a hablar conmigo!

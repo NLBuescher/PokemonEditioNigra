@@ -1,0 +1,18 @@
+Appuyez doucement sur l'écran tactile avec\xfffele pouce gauche en suivant le guide visuel.
+Synchronisation avec \xf000Ā\x0001\x0000\xfffeen cours de test...
+Ajoutez maintenant le pouce droit\xfffesur le deuxième guide visuel!
+Test terminé. Veuillez rapprocher votre\xfffeconsole de celle de votre partenaire.
+Test en cours. Veuillez ne pas éloigner\xfffevotre console de celle de votre partenaire.
+La communication infrarouge est établie!
+La connexion infrarouge ne fonctionne plus.\xfffeVeuillez rapprocher les consoles.
+
+
+
+
+S'il ne se produit aucune réaction lorsque\xfffevous touchez l'écran, veuillez réessayer.
+
+
+
+
+TEST DE SYNCHRONISATION
+Retirez vos doigts et réessayez en\xfffecommençant par la main gauche.

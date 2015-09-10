@@ -1,0 +1,6 @@
+OUI
+NON
+Oublier une capacité
+Garder les anciennes capacités!
+Abandonner \xf000ć\x0001\x0000!
+Ne pas abandonner \xf000ć\x0001\x0000!

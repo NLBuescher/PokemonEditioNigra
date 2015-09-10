@@ -1,0 +1,3 @@
+\xf000봂\x0000PROVA AUDIO
+Avvicinati al microfono e prova a\xfffeparlare.\xfffeSe l'audio funziona, il Pokémon si\xfffemetterà a cantare.
+\xf000봂\x0000 ESCI

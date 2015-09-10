@@ -1,0 +1,211 @@
+\xf000ȁ\x0001\x0001 \xf000ȁ\x0001\x0000 20\xf000ȁ\x0001\x0002
+
+
+◇ Maisello, Chicco e Spighetto, Capipalestra di Levantopoli, battuti da un Allenatore di Soffiolieve!
+◇ Aloé, Capopalestra di Zefiropoli, battuta da un Allenatore di Soffiolieve!
+◇ Artemisio, Capopalestra di Austropoli, battuto da un Allenatore di Soffiolieve!
+◇ Camelia, Capopalestra di Sciroccopoli, battuta da un Allenatore di Soffiolieve!
+◇ Rafan, Capopalestra di Libecciopoli, battuto da un Allenatore di Soffiolieve!
+◇ Anemone, Capopalestra di Ponentopoli, battuta da un Allenatore di Soffiolieve!
+◇ Silvestro, Capopalestra di Mistralopoli, battuto da un Allenatore di Soffiolieve!
+◇ Iris, Capopalestra di Boreduopoli, battuta da un Allenatore di Soffiolieve!
+◇ Aristide, Capopalestra di Boreduopoli, battuto da un Allenatore di Soffiolieve!
+◇ “Alleviamo i vostri Pokémon con amore e cura!" - Pensione Pokémon, Percorso 3 -
+◇ “Il meraviglioso destino iscritto nel nome." - Giudice Onomastico di Austropoli -
+◇ “Vuoi sapere cosa fanno e pensano gli altri intorno a te? Ci pensiamo noi a scoprirlo!" - Associazione Sondaggi di Austropoli -
+◇ “Corri e lotta! Il treno è inarrestabile!" - Metrò Lotta di Sciroccopoli -
+◇ “La strada per diventare una stella inizia qui." - Pokémon Musical di Sciroccopoli -
+◇ “Tutte le merci portate dalle onde e dal vento in vendita per te!" - Mercato di Libecciopoli -
+◇ “Il più grande centro commerciale di Unima! Ci trovi tutto!" - Magazzini Nove -
+◇ Levantopoli è rinfrescata dal venticello che spira dai boschi circostanti.
+◇ Gli scalini davanti all'ingresso delle case servono per evitare gli accumuli di neve.
+◇ Nella Palestra di Levantopoli si possono gustare lotte e pietanze.
+◇ I verdi giardini vi riempiranno il cuore di serenità.
+◇ Vicino alla città si trova una Pensione Pokémon frequentata da molti Allenatori.
+◇ Alla Scuola Allenatori si studiano i Pokémon a partire da zero.
+◇ Levantopoli è rinfrescata dal venticello che spira dai boschi circostanti.
+◇ Gli scalini davanti all'ingresso delle case servono per evitare gli accumuli di neve.
+◇ Nella Palestra di Levantopoli si possono gustare lotte e pietanze.
+◇ I pavimenti di pietra e i magazzini sono una particolarità di Zefiropoli.
+◇ Nel museo si studiano i Pokémon a partire dalle ossa.
+◇ La Palestra di Zefiropoli è un museo dedicato alle lotte e alla conoscenza.
+◇ In città vivono molti giovani artisti che hanno fatto dei magazzini il loro atelier.
+◇ I turisti vengono a visitare il museo e il quartiere dei magazzini.
+◇ Si possono ancora vedere i binari della ferrovia.
+◇ È la città in cui si radunano gli amanti dell'arte.
+◇ Il tema del museo è il confronto tra cultura e natura.
+◇ Molti artisti famosi sono nati a Zefiropoli.
+◇ Non perdetevi il Conostropoli, una specialità ancora poco conosciuta.
+◇ Da ogni molo partono navi dirette verso destinazioni diverse.
+◇ Austropoli è una città traboccante di stimoli, ma aspettate di vedere l'incredibile Palestra...
+◇ Si dice che la fontana centrale sia un luogo di incontro per le persone.
+◇ Ad Austropoli hanno aperto le loro gallerie artisti di tutto il mondo.
+◇ Austropoli è la prima città di Unima per numero di edifici, di negozi e di abitanti.
+◇ C'è una gran differenza tra le strade di Austropoli di giorno e di notte.
+◇ Ad Austropoli si trova un originale miscuglio di culture e cucine di diversi paesi.
+◇ C'è un posto in cui si fanno sondaggi sulle persone con cui si entra in contatto.
+◇ Si dice che a Sciroccopoli le lotte siano molte per via dell'atmosfera eccitante e stimolante che regna in città.
+◇ Un'accesa partita di tennis, un incandescente incontro di pallacanestro, il Campetto arde di euforia.
+◇ Si dice che il Metrò Lotta sia nato perché gli amanti sfegatati delle lotte erano anche appassionati di treni.
+◇ Sembra che al Teatro Musical di tanto in tanto ci siano dei talent-scout di Pokémon.
+◇ Allo stadio si radunano i campioni. Con un po' di fortuna è possibile incontrarli.
+◇ Le famose montagne russe corrono in un luogo inaspettato...
+◇ Un paesaggio da sogno, un'altezza mozzafiato, incontri mirabolanti... questo e altro sulla ruota panoramica!
+◇ Dalla Stazione Ruotadentata si può raggiungere Roteolia.
+◇ Benvenuti a Sciroccopoli, la città dei divertimenti!
+◇ Libecciopoli è una città portuale.
+◇ Una volta il mare era solcato da velieri sospinti dal vento.
+◇ Libecciopoli si è sviluppata grazie all'importazione di merci e alla pesca.
+◇ Nell'affollato mercato si trovano prodotti da tutto il mondo.
+◇ Tutte le case hanno tetti arancioni che risplendono al sole del tramonto.
+◇ Il Ponte Charizard che svetta nel cielo è uno spettacolo.
+◇ Nella zona del porto c'è un enorme Deposito Frigo.
+◇ Alcuni Pokémon trovano rifugio nel Deposito Frigo.
+◇ Libecciopoli è una città portuale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◇ Gli artigiani hanno lavorato alle decorazioni degli edifici per 100 anni.
+◇ Si dice che Boreduopoli sia la più antica città del mondo.
+◇ A Boreduopoli si fa ancora uso delle tecniche di una volta.
+◇ In questa città si formano ogni anno molti archeologi.
+◇ In questa città si può ascoltare della musica composta centinaia di anni fa.
+◇ Gli artigiani hanno lavorato alle decorazioni degli edifici per 100 anni.
+◇ Si dice che Boreduopoli sia la più antica città del mondo.
+◇ A Boreduopoli si fa ancora uso delle tecniche di una volta.
+◇ In questa città si formano ogni anno molti archeologi.
+◇ Si dice che gli edifici di questa città siano in grado di reggere il peso anche di 100 Pokémon di grandi dimensioni.
+◇ A Boreduopoli vengono sviluppate le più avanzate Poké Ball.
+◇ Gli edifici sono costruiti con i materiali più avanzati.
+◇ Boreduopoli è famosa per i suoi affidabilissimi sistemi di sicurezza.
+◇ L'avanzato sistema di comunicazione garantisce una vita confortevole.
+◇ Si dice che gli edifici di questa città siano in grado di reggere il peso anche di 100 Pokémon di grandi dimensioni.
+◇ A Boreduopoli vengono sviluppate le più avanzate Poké Ball.
+◇ Gli edifici sono costruiti con i materiali più avanzati.
+◇ Boreduopoli è famosa per i suoi affidabilissimi sistemi di sicurezza.
+◇ A Fortebrezza l'orario è un concetto molto approssimativo, perciò non ci sono orologi.
+◇ A Fortebrezza si smette di lavorare quando tramonta il sole.
+◇ Dal ponte si può abbracciare con lo sguardo tutta Fortebrezza.
+◇ Nel bosco in prossimità della città ci sono stati avvistamenti di un Pokémon misterioso.
+◇ Le strade e gli edifici di Fortebrezza sono tutti costruiti in pietra.
+◇ La città si anima dopo mezzogiorno.
+◇ Nei giorni sereni si vedono molte persone prendere il sole.
+◇ A Fortebrezza l'orario è un concetto molto approssimativo, perciò non ci sono orologi.
+◇ A Fortebrezza si smette di lavorare quando tramonta il sole.
+◇ Sulla sottile sabbia della spiaggia rimangono impronte ben definite.
+◇ Tutti vorrebbero una seconda casa a Spiraria.
+◇ Si dice che la bellezza del suono delle onde di Spiraria sia un tesoro da proteggere.
+◇ D'estate i turisti vengono a nuotare nel mare trasparente.
+◇ Alle spalle di Spiraria si staglia un'imponente scogliera.
+◇ Il mare è sempre calmo, quindi le case sorgono proprio sulla riva.
+◇ A Spiraria sono molto popolari gli sport acquatici.
+◇ Si dice che nel mare di Spiraria si trovino degli importanti resti.
+◇ Sulla sottile sabbia della spiaggia rimangono impronte ben definite.
+◇ La Foresta Bianca è un bosco abitato.
+◇ Qui vivono le persone che amano stare a contatto con la natura.
+◇ Le persone si prendono cura degli alberi in modo che la foresta continui a crescere.
+◇ Qui si riuniscono molti Alleva⒆⒇ attratti dalla natura rigogliosa.
+◇ In questa natura lussureggiante si incontrano molti Pokémon non comuni.
+◇ I Pokémon lasciano in giro degli strumenti che vengono considerati un dono della natura.
+◇ Molti vogliono vivere qui, quindi la popolazione è in costante evoluzione.
+◇ La Foresta Bianca è un bosco abitato.
+◇ Qui vivono le persone che amano stare a contatto con la natura.
+◇ La Città Nera è estremamente civilizzata e piena di enormi palazzi.
+◇ Ambisce a essere la città più sviluppata di Unima.
+◇ La popolazione continua a crescere e la città si sviluppa giorno dopo giorno.
+◇ Ci vivono numerosi Allenatori dallo spirito estremamente competitivo.
+◇ La città ha in corso un piano di sviluppo per il suo enorme mercato.
+◇ L'afflusso di persone genera un costante cambiamento delle mode e dei prodotti.
+◇ Molti vogliono vivere qui, quindi la popolazione è in costante evoluzione.
+◇ La Città Nera è estremamente civilizzata e piena di enormi palazzi.
+◇ Ambisce a essere la città più sviluppata di Unima.
+◇ È meta turistica di molti viaggiatori in cerca di siti archeologici.
+◇ Il deserto è vasto e impervio. Assicuratevi di esservi opportunamente preparati.
+◇ Attenzione alle tempeste di sabbia che imperversano ovunque nel deserto.
+◇ Al momento sono in corso le ricerche sul periodo di costruzione delle rovine.
+◇ Rimane un mistero il motivo per cui si sia estinta l'antica civiltà.
+◇ Ancora adesso la sabbia filtra all'interno del Castello Sepolto.
+◇ È meta turistica di molti viaggiatori in cerca di siti archeologici.
+◇ Il deserto è vasto e impervio. Assicuratevi di essere opportunamente preparati.
+◇ Attenzione alle tempeste di sabbia che imperversano ovunque nel deserto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sole
+ Neve
+ Pioggia
+ Tempesta di sabbia
+ Tempesta di sabbia
+ Tempesta di neve
+ Grandine
+ Nebbia
+ Raro fenomeno di cristalli di ghiaccio!
+ Temporale di eccezionale intensità!
+ Tempesta di eccezionale intensità!
+\xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 --- \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000 --- \xf000Ā\x0001\x0001 --- \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000 --- \xf000Ā\x0001\x0001 --- \xf000Ā\x0001\x0002 --- \xf000Ā\x0001\x0003
+◆ \xf000ą\x0001\x0000: attenzione, comparse massicce di Pokémon!
+
+
+
+
+
+
+
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000!
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000 e \xf000ā\x0001\x0001!
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001 e \xf000ā\x0001\x0002!
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002 e \xf000ā\x0001\x0003!
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003 e \xf000ā\x0001\x0004!
+◆ Complimenti per il posto ottenuto nella Sala d'Onore! \xf000Ā\x0001\x0006 ha vinto con \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004 e \xf000ā\x0001\x0005!

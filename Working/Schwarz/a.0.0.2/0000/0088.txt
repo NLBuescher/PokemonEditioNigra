@@ -1,0 +1,9 @@
+Es wird die Wörter vergessen, die\xfffees im Moment kennt. Einverstanden?
+Drücke den A-Knopf, dann\xfffesprich in das Mikrofon.\xf000븁\x0000
+\xf000Ă\x0001\x0000 hat neue Wörter gelernt!\xf000븁\x0000
+\xf000Ă\x0001\x0000 hat offenbar keine\xfffeneuen Wörter gelernt.\xf000븁\x0000
+
+
+Mikrofon wird vorbereitet...
+Ja
+Nein

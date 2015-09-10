@@ -1,0 +1,27 @@
+Das hier ist die Weichenstation. Von hier\xfffeaus kannst du die Kampfmetro benutzen.
+Die Kampfmetro!\xf000븁\x0000\xfffeWie der Name ja schon sagt, treten in\xfffedieser U-Bahn Trainer zu Kämpfen an.
+Die Kampfmetro hat insgesamt\xfffesieben Linien.\xf000븁\x0000\xfffeAber anfangs kannst du nur drei Linien\xfffebenutzen: Einzel-, Doppel- und Multilinie!
+Die Kampfmetro hat insgesamt\xfffesieben Linien.\xf000븁\x0000\xfffeAber um die Super-Linien zu benutzen,\xfffemusst du dich schon etwas anstrengen!
+Du, sag doch mal!\xf000븁\x0000\xfffeWie stellst du dich vor einem Kampf vor?\xfffeWas sagst du bei einem Sieg und was bei\xf000븀\x0000\xfffeeiner Niederlage? Verrate es mir bitte!
+Also, wie stellst du dich vor einem Kampf\xfffevor? Komm, verrate es mir!\xf000븁\x0000
+Also, was sagst du bei einer Niederlage?\xfffeKomm, verrate es mir!\xf000븁\x0000
+Also, was sagst du bei einem Sieg?\xfffeKomm, verrate es mir!\xf000븁\x0000
+Also, was sagst du, wenn du die Nr. 1\xfffegeworden bist? Komm, verrate es mir!\xf000븁\x0000
+Alles klar, danke!\xfffeVerstehe, „\xf000Ĝ\x0001\x0000“...
+Na ja, dann eben nicht.\xfffeWenn du nicht möchtest...
+Danke! Verrätst du mir auch den Rest?
+Verstehe. Danke!
+Trainerzitat
+Bei einem Sieg
+Bei einer Niederlage
+Endlich Nr. 1 geworden
+Ich sage gar nichts!
+Bahnsteig für die Einzellinie
+Bahnsteig für die Doppellinie
+Bahnsteig für die Multilinie
+Bahnsteig für die Wi-Fi-Linie
+Bahnsteig für die Super-Einzellinie
+Bahnsteig für die Super-Doppellinie
+Bahnsteig für die Super-Multilinie
+Bahnsteig für Züge nach Ferrula
+Vorübergehend außer Betrieb

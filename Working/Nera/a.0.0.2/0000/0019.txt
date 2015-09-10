@@ -1,0 +1,61 @@
+Vuoi salvare la tua ultima lotta come\xfffeVideo Lotta?
+
+
+L'ultima lotta non verrà registrata come\xfffeVideo Lotta. Vuoi procedere comunque?
+
+
+Vuoi sovrascrivere il Video Lotta\xfffeprecedente?
+
+
+Registrazione Video Lotta in corso.\xfffeNon spegnere la console.
+Il Video Lotta è stato salvato.
+Si è verificato un errore.\xfffeIl Video Lotta non è stato salvato.
+In attesa dell'altro giocatore.\xfffeAttendi.
+Impossibile registrare un video con\xfffequesto giocatore. Attendi.
+Impossibile registrare un video con\xfffequesto giocatore.
+Impossibile registrare questa lotta.
+Tempo rimasto:
+
+\xf000ȁ\x0001\x0001
+Video precedente
+Colosseo in Singolo\xfffeSenza restrizioni
+Colosseo in Singolo\xfffeLotta Pari
+Colosseo in Singolo\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Singolo\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Doppio\xfffeSenza restrizioni
+Colosseo in Doppio\xfffeLotta Pari
+Colosseo in Doppio\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Doppio\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Triplo\xfffeSenza restrizioni
+Colosseo in Triplo\xfffeLotta Pari
+Colosseo in Triplo\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Triplo\xfffeLotta Pari, Mirabilancere Sì
+Colosseo a Rotazione\xfffeSenza restrizioni
+Colosseo a Rotazione\xfffeLotta Pari
+Colosseo a Rotazione\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo a Rotazione\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Multipla\xfffeSenza restrizioni
+Colosseo in Multipla\xfffeLotta Pari
+Colosseo in Multipla\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Multipla\xfffeLotta Pari, Mirabilancere Sì
+Metrò Lotta\xfffein Singolo
+Metrò Lotta\xfffein Doppio
+Metrò Lotta\xfffein Multipla
+Abbinamento a Caso - Libero\xfffein Singolo
+Abbinamento a Caso - Libero\xfffein Doppio
+Abbinamento a Caso - Libero\xfffein Triplo
+Abbinamento a Caso - Libero\xfffea Rotazione
+Abbinamento a Caso - Libero\xfffecon Lancio
+Abbinamento a Caso - Punteggio\xfffein Singolo
+Abbinamento a Caso - Punteggio\xfffein Doppio
+Abbinamento a Caso - Punteggio\xfffein Triplo
+Abbinamento a Caso - Punteggio\xfffea Rotazione
+Abbinamento a Caso - Punteggio\xfffecon Lancio
+Gara in Singolo\xfffeMirabilancere No
+Gara in Singolo\xfffeMirabilancere Sì
+Gara in Doppio\xfffeMirabilancere No
+Gara in Doppio\xfffeMirabilancere Sì
+Gara in Triplo\xfffeMirabilancere No
+Gara in Triplo\xfffeMirabilancere Sì
+Gara a Rotazione\xfffeMirabilancere No
+Gara a Rotazione\xfffeMirabilancere Sì

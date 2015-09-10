@@ -1,0 +1,373 @@
+Du eröffnest das Gespräch.
+Jemand hat dich angesprochen!
+Der andere Spieler scheint beschäftigt\xfffezu sein...
+Bitte warte einen Augenblick...
+Das Gespräch mit dem anderen Spieler\xfffewurde abgebrochen.
+Ein anderer Spieler war schneller als du.
+Die Verbindung wurde unterbrochen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000봂\x0000Mission fehlgeschlagen...
+Du erhältst \xf000ȁ\x0001\x0000 Transferorb(s)!\xf000븂\x0001Z
+\xf000봂\x0000Mission erfolgreich!
+Bitte warte einen Augenblick, bis\xfffedie Mission beginnt...
+
+\xf000Ā\x0001\x0000 ist offenbar aus der\xfffeKontaktebene angereist, um dir zu helfen!\xf000븁\x0000\xfffeSieh mal einer an!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hat ein hilfreiches Item\xfffefür dich hinterlassen!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die gesammelten Glücksgefühle erhöhen den\xfffe◇Schwarz-Level der Kontaktebene um \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Die gesammelten Glücksgefühle erhöhen den\xfffe◆Weiß-Level der Kontaktebene um \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Miep, miep!\xf000븁\x0000\xfffeNanu? Das Pokémon, das erschienen ist,\xfffebeginnt plötzlich zu leuchten!\xf000븁\x0000
+Groaaarrr!\xf000븁\x0000\xfffeNanu? Das Pokémon, das erschienen ist,\xfffebeginnt plötzlich zu leuchten!\xf000븁\x0000
+!!!\xfffe...\xf000븁\x0000\xfffeNanu? Das Pokémon, das erschienen ist,\xfffebeginnt plötzlich zu leuchten!\xf000븁\x0000
+-
+-
+-
+-
+-
+\xf000Ā\x0001\x0000: Hehehe! Erwischt!\xf000븁\x0000\xfffeAber mal ganz im Ernst, hier trifft man\xfffeeigentlich nicht alle Tage Pokémon an...\xf000븁\x0000\xfffeNanu?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 wendet die vom Kontaktbaum\xfffeerhaltene \xf000Ĝ\x0001\x0002 auf\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 an!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Klasse! Erwischt!\xf000븁\x0000\xfffeAber hier trifft man eigentlich nur\xfffesehr selten Pokémon an...\xf000븁\x0000\xfffeNanu?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 wendet die vom Kontaktbaum\xfffeerhaltene \xf000Ĝ\x0001\x0002 auf\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 an!\xf000븁\x0000
+Miep, miep!\xf000븁\x0000\xfffeEs scheint deine Aufmerksamkeit auf sich\xfffeziehen zu wollen!
+Pfrrr! Pfrrr!\xf000븁\x0000\xfffeEs scheint deine Aufmerksamkeit auf sich\xfffeziehen zu wollen!
+... ... ...\xf000븁\x0000\xfffeEs scheint deine Aufmerksamkeit auf sich\xfffeziehen zu wollen!
+-
+-
+-
+-
+-
+\xf000Ā\x0001\x0000: Hm? Was ist denn los?\xfffeWillst du, dass ich mich um dich kümmere?
+\xf000Ā\x0001\x0000: Uff, wie ungewöhnlich!\xf000븁\x0000\xfffeWas ist denn los? Willst du, dass ich mich\xfffeum dich kümmere?
+
+
+
+
+
+-
+-
+-
+!!!\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow! Diese Kraft!\xfffeEinfach unglaublich!\xf000븁\x0000\xfffeVielen Dank! Das hilft mir ungemein weiter!\xf000븁\x0000
+!!!\xfffe...\xf000븁\x0000\xfffeWow! Diese Kraft!\xfffeEinfach unglaublich!\xf000븁\x0000\xfffeVielen Dank! Das hilft mir ungemein weiter!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Los, es geht doch!\xfffeJa, genau so! Du schaffst es!\xf000븁\x0000\xfffeDa scheint gerade ein Kampf im Gang\xfffezu sein...
+\xf000Ā\x0001\x0000: Los, es geht doch!\xfffeJa, genau so! Du schaffst es!\xf000븁\x0000\xfffeDa scheint gerade ein Kampf im Gang\xfffezu sein...
+
+
+
+
+
+Miep?! Miiiep?!?\xf000븁\x0000\xfffeEs ist wohl besser, wenn du jetzt\xfffenicht störst...
+Groarrr?! Groaaarrr?!?\xf000븁\x0000\xfffeEs ist wohl besser, wenn du jetzt\xfffenicht störst...
+?!\xfffe...\xf000븁\x0000\xfffeEs ist wohl besser, wenn du jetzt\xfffenicht störst...
+\xf000Ā\x0001\x0000: ...\xfffe...\xf000븁\x0000\xfffeDer Trainer scheint beschäftigt zu sein.
+\xf000Ā\x0001\x0000: ...\xfffe...\xf000븁\x0000\xfffeDer Trainer scheint beschäftigt zu sein.
+Miep! Miiiep!\xf000븁\x0000\xfffeDa scheint jemand richtig in Fahrt zu sein!
+Groar! Groaaarrr!\xf000븁\x0000\xfffeDa scheint jemand richtig in Fahrt zu sein!
+...\xf000븁\x0000\xfffeDa scheint jemand richtig in Fahrt zu sein!
+\xf000Ā\x0001\x0000: Tagchen!\xfffeLegst du dich auch schön ins Zeug?
+\xf000Ā\x0001\x0000: Hehehe!\xfffeLegst du dich auch schön ins Zeug?
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: ...\xfffeHUCH?!\xf000븁\x0000\xfffeIch muss wohl kurz weggenickt sein...\xfffeOh, ich sollte mich auch so langsam\xf000븀\x0000\xfffemal auf den Weg machen!\xf000븁\x0000\xfffeDanke, dass du mich aufgeweckt hast!\xfffeHier, nimm dies als Dankeschön!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...\xfffeHUCH?!\xf000븁\x0000\xfffeIch muss wohl kurz weggenickt sein...\xfffeOh, ich sollte mich auch so langsam\xf000븀\x0000\xfffemal auf den Weg machen!\xf000븁\x0000\xfffeDanke, dass du mich aufgeweckt hast!\xfffeHier, nimm dies als Dankeschön!\xf000븁\x0000
+Miep, miep!\xf000븁\x0000\xfffeNanu?\xf000븁\x0000\xfffeDas Pokémon, das erschienen ist,\xfffefängt plötzlich an zu leuchten!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 erhält \xf000Ĝ\x0001\x0002\xfffevon ihm!\xf000븁\x0000
+Groaaar!\xf000븁\x0000\xfffeNanu?\xf000븁\x0000\xfffeDas Pokémon, das erschienen ist,\xfffefängt plötzlich an zu leuchten!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 erhält \xf000Ĝ\x0001\x0002\xfffevon ihm!\xf000븁\x0000
+!!!\xfffe...\xf000븁\x0000\xfffeNanu?\xf000븁\x0000\xfffeDas Pokémon, das erschienen ist,\xfffefängt plötzlich an zu leuchten!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 erhält \xf000Ĝ\x0001\x0002\xfffevon ihm!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hallöchen! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeIch dachte mir, ich könnte dir vielleicht\xfffeein bisschen unter die Arme greifen.\xf000븁\x0000\xfffeDeswegen habe ich dir auch das hier\xfffeaus der Kontaktebene mitgebracht.\xf000븁\x0000\xfffeNimm ruhig!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 fängt plötzlich an zu leuchten!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hallöchen! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeIch dachte mir, ich könnte dir vielleicht\xfffeein bisschen unter die Arme greifen.\xf000븁\x0000\xfffeDeswegen habe ich dir auch das hier\xfffeaus der Kontaktebene mitgebracht.\xf000븁\x0000\xfffeNimm ruhig!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 fängt plötzlich an zu leuchten!\xf000븁\x0000
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Alles fit?\xf000븁\x0000\xfffeDank meiner Pokémon und meiner Freunde\xfffewird es mir auf dieser Reise nie langweilig!\xf000븁\x0000\xfffeWie, wo, was? Sag bloß, du willst mir etwas\xfffeschenken!\xf000븁\x0000
+Vielen Dank! Damit hilfst du mir sehr!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 wendet vom Kontaktbaum\xfffeerhaltene \xf000Ĝ\x0001\x0002 auf\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 an!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Tag! Bist du auch auf Reisen?\xf000븁\x0000\xfffeDank meiner Pokémon und meiner Freunde\xfffewird es mir unterwegs nie langweilig!\xf000븁\x0000\xfffeWie bitte? Du willst mir etwas schenken?\xf000븁\x0000
+Vielen Dank! Das ist eine große Hilfe!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 wendet vom Kontaktbaum\xfffeerhaltene \xf000Ĝ\x0001\x0002 auf\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000 an!\xf000븁\x0000
+Miep?! Miiiep?!\xf000븁\x0000\xfffeEs wirkt verdutzt. Offenbar hat es nicht\xfffedamit gerechnet, angesprochen zu werden.
+Groar?! Groarrr?!?\xf000븁\x0000\xfffeEs wirkt verdutzt. Offenbar hat es nicht\xfffedamit gerechnet, angesprochen zu werden.
+???\xfffe...\xf000븁\x0000\xfffeEs wirkt verdutzt. Offenbar hat es nicht\xfffedamit gerechnet, angesprochen zu werden.
+\xf000Ā\x0001\x0000: Oh, guten Tag!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWarte mal eben, ich habe da etwas\xfffefür dich vorbereitet...\xf000븁\x0000\xfffeEinen Augenblick, ich spreche dich gleich\xfffeselbst noch mal an!
+\xf000Ā\x0001\x0000: Oh, guten Tag!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWarte mal eben, ich habe da etwas\xfffefür dich vorbereitet...\xf000븁\x0000\xfffeEinen Augenblick, ich spreche dich gleich\xfffeselbst noch mal an!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hi! Wie geht's, wie steht's?\xfffeBefindest du dich auch auf einer Reise?\xf000븁\x0000\xfffeWenn du etwas mit mir bequatschen willst,\xfffekannst du mich ungehemmt ansprechen!
+\xf000Ā\x0001\x0000: Hi! Wie geht's, wie steht's?\xfffeBefindest du dich auch auf einer Reise?\xf000븁\x0000\xfffeWenn du etwas mit mir bequatschen willst,\xfffekannst du mich ungehemmt ansprechen!
+Miiiep!
+Miiiep! Miiiep!
+!!!\xfffe...
+\xf000Ā\x0001\x0000: Ich hoffe, diese Kraft\xfffeerleichtert dir deine Reise ein wenig!\xf000븀\x0000\xfffeMan sieht sich!
+\xf000Ā\x0001\x0000: Ich hoffe, diese Kraft\xfffeerleichtert dir deine Reise ein wenig!\xf000븀\x0000\xfffeMan sieht sich!
+-
+-
+-
+!!!\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow! Diese Kraft!\xfffeEinfach unglaublich!\xf000븁\x0000\xfffeVielen Dank! Das hilft mir ungemein weiter!\xf000븁\x0000
+!!!\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Wow! Diese Kraft!\xfffeEinfach unglaublich!\xf000븁\x0000\xfffeVielen Dank! Das hilft mir ungemein weiter!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo, du! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeTut mir leid, wenn ich dich so überfalle,\xfffeaber hättest du Lust auf einen Kampf?\xf000븁\x0000\xfffeWir würden beide mit je zwei Pokémon aus\xfffeunseren Teams und mit vollen KP starten.\xf000븀\x0000\xfffeDas Handicap läge bei Lv. \xf000Ȃ\x0001\x0001!
+\xf000Ā\x0001\x0000: Hallo, du! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeTut mir leid, wenn ich dich so überfalle,\xfffeaber hättest du Lust auf einen Kampf?\xf000븁\x0000\xfffeWir würden beide mit je zwei Pokémon aus\xfffeunseren Teams und mit vollen KP starten.\xf000븀\x0000\xfffeDas Handicap läge bei Lv. \xf000Ȃ\x0001\x0001!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Alles klar bei dir?\xf000븁\x0000\xfffeWie meinen? Du möchtest, dass wir zwei\xfffeunserer Team-Pokémon mit einem\xf000븀\x0000\xfffeHandicap von Lv. \xf000Ȃ\x0001\x0001 gegeneinander\xf000븀\x0000\xfffekämpfen lassen? Hm, gib mir eine Sekunde!
+\xf000Ā\x0001\x0000: Hallo! Alles klar bei dir?\xf000븁\x0000\xfffeWie meinen? Du möchtest, dass wir zwei\xfffeunserer Team-Pokémon mit einem\xf000븀\x0000\xfffeHandicap von Lv. \xf000Ȃ\x0001\x0001 gegeneinander\xf000븀\x0000\xfffekämpfen lassen? Hm, gib mir eine Sekunde!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo, du! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeTut mir leid, wenn ich dich so überfalle,\xfffeaber hättest du Lust auf einen Kampf?\xf000븁\x0000\xfffeWir würden beide mit je zwei Pokémon aus\xfffeunseren Teams und mit vollen KP starten.\xf000븀\x0000\xfffeDas Handicap läge bei Lv. \xf000Ȃ\x0001\x0001!
+\xf000Ā\x0001\x0000: Hallo, du! Ich hoffe, ich\xfffehabe dich nicht allzu sehr erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeTut mir leid, wenn ich dich so überfalle,\xfffeaber hättest du Lust auf einen Kampf?\xf000븁\x0000\xfffeWir würden beide mit je zwei Pokémon aus\xfffeunseren Teams und mit vollen KP starten.\xf000븀\x0000\xfffeDas Handicap läge bei Lv. \xf000Ȃ\x0001\x0001!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Alles klar bei dir?\xf000븁\x0000\xfffeWie meinen? Du möchtest, dass wir zwei\xfffeunserer Team-Pokémon mit einem\xf000븀\x0000\xfffeHandicap von Lv. \xf000Ȃ\x0001\x0001 gegeneinander\xf000븀\x0000\xfffekämpfen lassen? Gib mir eine Sekunde!
+\xf000Ā\x0001\x0000: Hallo! Alles klar bei dir?\xf000븁\x0000\xfffeWie meinen? Du möchtest, dass wir zwei\xfffeunserer Team-Pokémon mit einem\xf000븀\x0000\xfffeHandicap von Lv. \xf000Ȃ\x0001\x0001 gegeneinander\xf000븀\x0000\xfffekämpfen lassen? Gib mir eine Sekunde!
+-
+-
+-
+Alles klar! Dann mal los!
+Alles klar! Dann mal los!
+-
+-
+-
+Alles klar! Dann mal los!
+Alles klar! Dann mal los!
+-
+-
+-
+Puh! Mann, war das ein guter Kampf!\xf000븁\x0000\xfffeTut mir leid, dass ich dich damit so\xfffeüberfallen habe. Aber vielen Dank!\xf000븀\x0000\xfffeBis die Tage!
+Puh! Mann, war das ein guter Kampf!\xf000븁\x0000\xfffeTut mir leid, dass ich dich damit so\xfffeüberfallen habe. Aber vielen Dank!\xf000븀\x0000\xfffeBis die Tage!
+-
+-
+-
+Hui! Das war ein ausgezeichneter Kampf!\xf000븁\x0000\xfffeEs hat richtig Spaß gemacht, gegen dich\xfffezu kämpfen!\xf000븁\x0000\xfffeBis zum nächsten Mal!
+Hui! Das war ein ausgezeichneter Kampf!\xf000븁\x0000\xfffeEs hat richtig Spaß gemacht, gegen dich\xfffezu kämpfen!\xf000븁\x0000\xfffeBis zum nächsten Mal!
+-
+-
+-
+Oh, klar! Das verstehe ich natürlich.\xfffeEin anderes Mal vielleicht!
+Oh, klar! Das verstehe ich natürlich.\xfffeEin anderes Mal vielleicht!
+-
+-
+-
+Entschuldigung, du hast mich gerade leider\xfffeauf dem falschen Fuß erwischt...\xf000븁\x0000\xfffeAber wenn ich das nächste Mal genügend\xfffevorbereitet bin, können wir gern kämpfen!
+Entschuldigung, du hast mich gerade leider\xfffeauf dem falschen Fuß erwischt...\xf000븁\x0000\xfffeAber wenn ich das nächste Mal genügend\xfffevorbereitet bin, können wir gern kämpfen!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Los, brat ihm eins über!\xfffeGib alles, was du hast!\xf000븁\x0000\xfffeOh, willst du mir etwa helfen?\xfffeVielen Dank! Das kommt gerade richtig!\xf000븁\x0000\xfffeKP-Heilkraft (Kampf) wird auf die Pokémon\xfffevon \xf000Ā\x0001\x0000 angewendet!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Los, brat ihm eins über!\xfffeGib alles, was du hast!\xf000븁\x0000\xfffeOh, willst du mir etwa helfen?\xfffeVielen Dank! Das kommt gerade richtig!\xf000븁\x0000\xfffeKP-Heilkraft (Kampf) wird auf die Pokémon\xfffevon \xf000Ā\x0001\x0000 angewendet!\xf000븁\x0000
+
+
+
+
+
+-
+-
+-
+!!!\xfffe...\xf000븁\x0000\xfffeDie KP der Pokémon von \xf000Ā\x0001\x0000\xfffewurden aufgefrischt!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oh, vielen Dank!\xfffeDas ist eine große Hilfe!
+!!!\xfffe...\xf000븁\x0000\xfffeDie KP der Pokémon von \xf000Ā\x0001\x0000\xfffewurden aufgefrischt!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Klasse, vielen Dank!\xfffeDas hilft mir echt weiter!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe doch schwer,\xfffeich habe dich nicht erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWenn du mal in der Patsche steckst,\xfffekomme ich sofort zu Hilfe geeilt!\xf000븁\x0000\xfffeOh, hoppla! Da ruft jemand nach mir!\xfffeBis demnächst!
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe doch schwer,\xfffeich habe dich nicht erschreckt!\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWenn du mal in der Patsche steckst,\xfffekomme ich sofort zu Hilfe geeilt!\xf000븁\x0000\xfffeOha! Da ruft jemand nach mir!\xfffeBis demnächst!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hey, guten Tag!\xf000븁\x0000\xfffeSolange ich dich in meiner Nähe habe,\xfffefühle ich mich überall sicher.\xf000븁\x0000\xfffeWie, du musst gehen? Du scheinst einen\xfffesehr vollen Terminkalender zu haben.\xf000븁\x0000\xfffeNa ja, dann eben bis demnächst!
+\xf000Ā\x0001\x0000: Hihi! Guten Tag!\xf000븁\x0000\xfffeSolange du in der Nähe bist, fallen\xfffeirgendwie sofort alle Ängste von mir ab.\xf000븁\x0000\xfffeAch, du musst schon weg? Du scheinst\xfffeja alle Hände voll zu tun zu haben...\xf000븁\x0000\xfffeNa ja, dann eben bis demnächst!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe, ich habe\xfffedich nicht allzu sehr erschreckt?\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWenn du in Gefahr bist, komme ich sofort,\xfffeum dir zu helfen!\xf000븁\x0000\xfffeStürze dich einfach unbesorgt mit deinen\xfffePokémon ins Gefecht!
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe, ich habe\xfffedich nicht allzu sehr erschreckt?\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeWenn du in Gefahr bist, komme ich sofort,\xfffeum dir zu helfen!\xf000븁\x0000\xfffeStürze dich einfach unbesorgt mit deinen\xfffePokémon ins Gefecht!
+-
+-
+-
+\xf000Ā\x0001\x0000: Oh, hallo!\xf000븁\x0000\xfffeSolange ich dich in meiner Nähe habe,\xfffefühle ich mich überall sicher.
+\xf000Ā\x0001\x0000: Hallihallo!\xf000븁\x0000\xfffeSolange du in der Nähe bist, fallen\xfffeirgendwie sofort alle Ängste von mir ab.
+
+
+
+
+
+
+
+
+
+
+Miep! Miiiep!\xf000븁\x0000\xfffeEs scheint nach etwas zu suchen.
+Groar! Groooarrr!\xf000븁\x0000\xfffeEs scheint nach etwas zu suchen.
+!!!\xfffe...\xf000븀\x0000\xfffeEs scheint nach etwas zu suchen.
+\xf000Ā\x0001\x0000: Ah! Du hast mich gefunden!\xfffeNichts wie weg!
+\xf000Ā\x0001\x0000: Ah! Du hast mich gefunden!\xfffeNichts wie weg!
+Miep! Miiiep!\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+Groar! Groooarrr!\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+!!!\xfffe...\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+\xf000Ā\x0001\x0000: Nanu, ein Pokémon? Hier?\xfffeDas sieht man auch nicht alle Tage!\xf000븀\x0000\xfffeOb es wohl nach etwas sucht?
+\xf000Ā\x0001\x0000: Nanu, ein Pokémon? Hier?\xfffeDas sieht man auch nicht alle Tage!\xf000븀\x0000\xfffeOb es wohl nach etwas sucht?
+Miep! Miiiep!\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+Groar! Groooarrr!\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+!!!\xfffe...\xf000븁\x0000\xfffeDu hast es gefangen!\xf000븁\x0000\xfffeAber offenbar hast du es verschreckt.\xfffeEs ist wieder entwischt...
+\xf000Ā\x0001\x0000: Oh nein! Ich bin aufgeflogen!\xfffeRette sich, wer kann!
+\xf000Ā\x0001\x0000: Oh nein! Ich bin aufgeflogen!\xfffeRette sich, wer kann!
+Miep! Miiiep!\xf000븁\x0000\xfffeEs hat dich gefangen!
+Groar! Groooarrr!\xf000븁\x0000\xfffeEs hat dich gefangen!
+!!!\xfffe...\xf000븁\x0000\xfffeEs hat dich gefangen!
+\xf000Ā\x0001\x0000: Hahaha!\xfffeJetzt habe ich dich erwischt!\xf000븁\x0000\xfffeOh, warte! Lauf nicht weg!
+\xf000Ā\x0001\x0000: Hihihi!\xfffeJetzt habe ich dich erwischt!\xf000븁\x0000\xfffeOh, warte! Lauf nicht weg!
+
+
+
+
+
+Du hast das Ziel erreicht!\xf000븁\x0000\xfffe... ... ...\xfffeKritzel, kritzel!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hinterlässt zusammen mit\xfffedem Item \xf000ĉ\x0001\x0001 eine Nachricht als\xf000븀\x0000\xfffeÜberraschung für den Finder!
+Du hast das Ziel erreicht!\xf000븁\x0000\xfffe... ... ...\xfffeKritzel, kritzel!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hinterlässt zusammen mit\xfffedem Item \xf000ĉ\x0001\x0001 eine Nachricht als\xf000븀\x0000\xfffeÜberraschung für den Finder!
+Du hast das Ziel erreicht!\xf000븁\x0000\xfffe... ... ...\xfffeKritzel, kritzel!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hinterlässt zusammen mit\xfffedem Item \xf000ĉ\x0001\x0001 eine Nachricht als\xf000븀\x0000\xfffeÜberraschung für den Finder!
+Du hast das Ziel erreicht!\xf000븁\x0000\xfffe... ... ...\xfffeKritzel, kritzel!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hinterlässt zusammen mit\xfffedem Item \xf000ĉ\x0001\x0001 eine Nachricht als\xf000븀\x0000\xfffeÜberraschung für den Finder!
+Du hast das Ziel erreicht!\xf000븁\x0000\xfffe... ... ...\xfffeKritzel, kritzel!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 hinterlässt zusammen mit\xfffedem Item \xf000ĉ\x0001\x0001 eine Nachricht als\xf000븀\x0000\xfffeÜberraschung für den Finder!
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe, du hast dich\xfffenicht allzu sehr erschreckt?\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeGut, dann kommen wir gleich mal zur Sache.\xfffeWie wäre es mit einer Pause von den\xf000븀\x0000\xfffeStrapazen deiner anstrengenden Reise?\xf000븁\x0000\xfffeIch verkaufe im Rahmen einer Sonderaktion\xfffedes Pokémon-Supermarktes das Item\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001 zu einem Spottpreis!\xf000븁\x0000\xfffeWie viel genau, möchtest du wissen?\xfffeNa, dann halt dich besser mal gut fest!\xf000븁\x0000
+Läppische \xf000Ȅ\x0001\x0002 $ musst du hinblättern\xfffeund schon gehört das Item dir!\xf000븁\x0000\xfffeDiese Chance darfst du dir auf keinen\xfffeFall entgehen lassen!\xf000븁\x0000\xfffeWas sagst du, \xf000Ȅ\x0001\x0002 $ für das Item\xfffe\xf000ĉ\x0001\x0001 ist fast geschenkt, oder?
+\xf000Ā\x0001\x0000: Hallo! Ich hoffe, du hast dich\xfffenicht allzu sehr erschreckt?\xf000븁\x0000\xfffeIch bin aus der Kontaktebene angereist,\xfffeum dir einen Besuch abzustatten!\xf000븁\x0000\xfffeGut, dann kommen wir gleich mal zur Sache.\xfffeWie wäre es mit einer Pause von den\xf000븀\x0000\xfffeStrapazen deiner anstrengenden Reise?\xf000븁\x0000\xfffeIch verkaufe im Rahmen einer Sonderaktion\xfffedes Pokémon-Supermarktes das Item\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001 zu einem Spottpreis!\xf000븁\x0000\xfffeWie viel genau, möchtest du wissen?\xfffeNa, dann halt dich besser mal gut fest!\xf000븁\x0000
+Läppische \xf000Ȅ\x0001\x0002 $ musst du hinblättern\xfffeund schon gehört das Item dir!\xf000븁\x0000\xfffeSo eine Chance darfst du dir auf keinen\xfffeFall entgehen lassen, oder?\xf000븁\x0000\xfffeWas sagst du, \xf000Ȅ\x0001\x0002 $ für das Item\xfffe\xf000ĉ\x0001\x0001 ist fast geschenkt, oder?
+-
+-
+-
+\xf000Ā\x0001\x0000: Hallo! Was, im Ernst?!\xf000븁\x0000\xfffeDu willst mir das Item \xf000ĉ\x0001\x0001\xfffeverkaufen? Für \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeHm, lass mich mal überlegen...\xfffeDas ist keine leichte Entscheidung...
+\xf000Ā\x0001\x0000: Hallo! Was, im Ernst?!\xf000븁\x0000\xfffeDu willst mir das Item \xf000ĉ\x0001\x0001\xfffeverkaufen? Für \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeHm, lass mich mal überlegen...\xfffeDas ist keine leichte Entscheidung...
+-
+-
+-
+Vielen Dank! Hier hast du dein Item:\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 erhält das Item \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeBis bald! Vielleicht kreuzen sich unsere\xfffeWege ja irgendwann mal wieder!
+Vielen Dank! Hier hast du dein Item:\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 erhält das Item \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeBis bald! Vielleicht kreuzen sich unsere\xfffeWege ja irgendwann mal wieder!
+-
+-
+-
+In Ordnung, ich habe mich entschieden!\xfffeIch kaufe dir ein Exemplar des Items\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001 ab!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 erhält das Item \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Hehe, das war ein echtes\xfffeSchnäppchen! Vielen Dank!
+In Ordnung, ich habe mich entschieden!\xfffeIch kaufe dir ein Exemplar des Items\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0001 ab!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 erhält das Item \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Hihi, das war ein echtes\xfffeSchnäppchen! Vielen Dank!
+-
+-
+-
+Oh, in Ordnung. Ich verstehe.\xf000븁\x0000\xfffeIch hoffe, wir laufen einander irgendwann\xfffemal wieder über den Weg!
+Oh, in Ordnung. Ich verstehe.\xf000븁\x0000\xfffeIch hoffe, wir laufen einander irgendwann\xfffemal wieder über den Weg!
+-
+-
+-
+Hm... ich befürchte, ich muss dein\xfffeAngebot ausschlagen.\xf000븁\x0000\xfffeTut mir echt leid. Aber sag mir bitte auf\xfffejeden Fall Bescheid, wenn du mal wieder\xf000븀\x0000\xfffeirgendwas Tolles im Angebot hast!
+Hm... ich glaube, ich gebe mein Geld lieber\xfffefür etwas anderes aus.\xf000븁\x0000\xfffeTut mir echt leid! Aber sag mir bitte\xfffeBescheid, wenn du mal wieder irgendwas\xf000븀\x0000\xfffeTolles im Angebot hast, ja?
+-
+-
+-
+Nanu? Mich beschleicht das Gefühl,\xfffedass du gar nicht genug Geld dabei hast!\xf000븀\x0000\xfffeNa gut, dann eben ein anderes Mal.\xf000븁\x0000\xfffeBis bald! Vielleicht sieht man sich ja\xfffeirgendwo mal wieder!
+Huch? Warum habe ich nur das Gefühl,\xfffedass du gar nicht genug Geld dabei hast?\xf000븀\x0000\xfffeSo kommen wir aber nicht ins Geschäft!\xf000븁\x0000\xfffeBis die Tage! Vielleicht sieht man sich ja\xfffeirgendwo mal wieder!
+-
+-
+-
+Oh, tut mir leid... ich hätte dir das Item\xfffewirklich sofort abgekauft, aber ich merke\xf000븀\x0000\xfffegerade, dass ich nicht genug Geld habe...\xf000븁\x0000\xfffeKomm doch bitte ein anderes Mal wieder, ja?\xfffeIch hätte das Item schon ganz gern!
+Oh, tut mir leid... ich hätte dir das Item\xfffewirklich sofort abgekauft, aber ich merke\xf000븀\x0000\xfffegerade, dass ich nicht genug Geld habe...\xf000븁\x0000\xfffeVersuch's doch demnächst noch einmal!\xfffeIch kaufe dir das Item auf jeden Fall ab!
+-
+-
+-
+Nanu? Offenbar hast du nicht mehr\xfffegenügend Platz in deinem Beutel...\xf000븀\x0000\xfffeNa gut, dann eben das nächste Mal!\xf000븁\x0000\xfffeIch würde mich freuen, wenn wir uns\xfffeirgendwo mal wieder über den Weg laufen!
+Nanu? Offenbar hast du nicht mehr\xfffegenügend Platz in deinem Beutel...\xf000븀\x0000\xfffeNa gut, dann eben das nächste Mal!\xf000븁\x0000\xfffeIch würde mich freuen, wenn wir uns\xfffeirgendwo mal wieder über den Weg laufen!
+-
+-
+-
+Oh, entschuldige... ich wollte gerade zur\xfffeGeldbörse greifen, als ich gemerkt habe,\xf000븀\x0000\xfffedass mein Beutel voll ist!\xf000븁\x0000\xfffeDu kannst aber gern wiederkommen,\xfffewenn du etwas anderes im Angebot hast!
+Oh, entschuldige... fast hätte ich\xfffezugeschlagen, aber ich merke gerade,\xf000븀\x0000\xfffedass mein Beutel voll ist!\xf000븁\x0000\xfffeWenn du demnächst noch so ein tolles\xfffeAngebot hast, kannst du aber sicher\xf000븀\x0000\xfffedarauf zählen, dass ich es dir abkaufe!
+
+
+
+
+
+
+
+
+

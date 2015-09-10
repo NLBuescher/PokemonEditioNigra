@@ -1,0 +1,111 @@
+Création de la sauvegarde en cours.
+Veuillez patienter.
+
+
+Hellooo!{CLEAR}
+
+Bienvenue dans le monde des Pokémon!{CLEAR}
+
+
+Mon nom est Keteleeria,{CLEAR}
+
+mais tout le monde m'appelle
+Professeur Pokémon.{CLEAR}
+
+
+Eh oui! Ce monde est peuplé de créatures
+mystérieuses appelées “Pokémon".{CLEAR}
+
+
+Les Pokémon ont tous des pouvoirs,
+une apparence et un habitat particuliers.{CLEAR}
+
+Ils vivent en paix avec les humains.
+Ils se complètent, s'entraident,{ADDLINE}
+et il leur arrive même de faire{ADDLINE}
+de grandes choses ensemble!{CLEAR}
+
+Les combats de Pokémon, par exemple,
+sont très populaires,{CLEAR}
+
+et permettent d'approfondir les liens
+entre un Dresseur et son équipe Pokémon.{CLEAR}
+
+Et donc moi, justement, j'étudie
+ces fameux Pokémon.{CLEAR}
+
+
+Bon, j'en ai fini avec mon monologue...
+Parle-moi un peu de toi!{CLEAR}
+
+
+Es-tu un garçon, ou une fille?{CLEAR}
+
+
+Un garçon, c'est bien ça?{CLEAR}
+
+
+Une fille, c'est bien ça?{CLEAR}
+
+
+Et quel est ton nom?{CLEAR}
+
+
+{NAME}, c'est ça?{CLEAR}
+
+
+{NAME}, c'est juste?{CLEAR}
+
+
+OUI
+
+
+NON
+
+
+{NAME}, quel joli nom!
+C'est super trognon!{CLEAR}
+
+
+Bien, laisse-moi te présenter
+tes meilleurs amis!{CLEAR}
+
+
+Ce garçon, c'est Tcheren.{CLEAR}
+
+Il est un peu spécial, mais
+il a un bon fond.{CLEAR}
+
+
+Cette fille, c'est Bianca.{CLEAR}
+
+Elle est très gentille, et puis,
+elle fait de son mieux...{CLEAR}
+
+
+Une fine équipe, n'est-ce pas?{CLEAR}
+
+Et comme j'ai confiance en vous trois, je
+vais vous confier à chacun un Pokémon.{ADDLINE}
+J'espère que vous en prendrez bien soin!{CLEAR}
+
+
+{NAME}!!!{CLEAR}
+
+Dès que tu auras choisi le Pokémon qui va
+devenir ton plus fidèle compagnon de{ADDLINE}
+voyage, ton aventure va commencer.{CLEAR}
+
+Tu vas rencontrer des centaines de
+Pokémon, et une foule de gens avec{ADDLINE}
+des opinions et des idées très variées.{CLEAR}
+
+J'espère que tu retireras quelque chose
+d'unique de toutes ces rencontres,{CLEAR}
+
+et qu'elles te feront grandir...
+C'est l'objectif principal de ce voyage.{CLEAR}
+
+Bon, trêve de bavardage, en
+route pour le monde des Pokémon!{ADDLINE}
+C'est parti mon kiki!!!{CLEAR}

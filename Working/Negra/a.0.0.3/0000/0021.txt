@@ -1,0 +1,90 @@
+Cheren: Sígueme.\xf000븁\x0000
+Si sigues todo recto por aquí,\xfffellegarás al Centro Pokémon.\xf000븁\x0000\xfffeY si quieres puedes usar esto.\xf000븁\x0000
+Cheren: Las Bayas Atania pueden\xfffedespertar a tus Pokémon\xf000븀\x0000\xfffesi se han quedado dormidos.\xf000븁\x0000\xfffeY te daré otro consejo:\xf000븁\x0000\xfffeLa Líder del Gimnasio de Ciudad Esmalte\xfffeutiliza Pokémon de tipo Normal.\xf000븁\x0000\xfffeLo mejor sería que usaras algún\xfffePokémon de tipo Lucha.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Yo... quiero presenciar\xfffealgo que nadie ha visto jamás.\xf000븁\x0000\xfffeLos ideales de los Pokémon\xfffeencerrados en las Poké Balls.\xf000븁\x0000\xfffeLa verdad revelada sobre aquellos\xfffeque se hacen llamar Entrenadores.\xf000븁\x0000\xfffeY un futuro donde los Pokémon\xfffepuedan vivir en plenitud.\xf000븁\x0000\xfffeSeguro que compartes mi visión...\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Yo... quiero presenciar\xfffealgo que nadie ha visto jamás.\xf000븁\x0000\xfffeLa verdad revelada sobre los Pokémon\xfffeencerrados en las Poké Balls.\xf000븁\x0000\xfffeLos ideales de aquellos que se hacen\xfffellamar Entrenadores.\xf000븁\x0000\xfffeY un futuro donde los Pokémon\xfffepuedan vivir en plenitud.\xf000븁\x0000\xfffeSeguro que compartes mi visión...\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Perfecto.\xf000븁\x0000\xfffeEn ese caso, déjame comprobar si puedes\xfffeayudarnos a mis amigos y a mí a hacer\xf000븀\x0000\xffferealidad ese sueño.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Mmm...\xfffeQué decepción...\xf000븁\x0000\xfffePero quiero comprobar si podrías\xfffeayudarnos a mis amigos y a mí\xf000븀\x0000\xfffea hacer realidad ese sueño.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Con los amigos que tengo ahora,\xfffeno puedo salvar a todos los Pokémon...\xf000븁\x0000\xfffeNo puedo descifrar la fórmula\xfffepara cambiar el mundo...\xf000븁\x0000\xfffeNecesito más poder...\xfffeUno capaz de disuadir a cualquiera...\xf000븉\x0001\x0000\xf000븁\x0000
+
+Ya sé de dónde puedo obtener\xfffela fuerza que necesito.\xf000븁\x0000\xfffe¡De Reshiram, el Pokémon legendario\xfffeque ayudó al gran héroe a construir\xf000븀\x0000\xfffela región de Teselia!\xf000븁\x0000\xfffe¡Me convertiré en un héroe\xfffey también en tu amigo!\xf000븁\x0000
+Ya sé de dónde puedo obtener\xfffela fuerza que necesito.\xf000븁\x0000\xfffe¡De Zekrom, el Pokémon legendario\xfffeque ayudó al gran héroe a construir\xf000븀\x0000\xfffela región de Teselia!\xf000븁\x0000\xfffe¡Me convertiré en un héroe\xfffey también en tu amigo!\xf000븁\x0000
+???: ¡Hey! ¡Aloe!\xfffe¿Has encontrado un Fósil interesante?\xf000븁\x0000
+Aloe: ¡Pero bueno! ¿Ya te has vuelto\xfffea quedar sin inspiración?\xf000븁\x0000
+¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe¡Aquí donde lo ves, este es Camus,\xfffeel Líder del Gimnasio de Ciudad Porcelana!\xf000븁\x0000
+Camus: No, solo venía a cambiar de aires.\xfffePero estás muy seria. ¿Ha pasado algo?\xf000븁\x0000
+Aloe: ¡Que nos han robado en el museo!\xfffe¡Eso ha pasado!\xf000븁\x0000
+Bel: Eh, oye, \xf000Ā\x0001\x0000.\xfffe¿Qué hacéis todos aquí?\xf000븁\x0000
+Cheren: Eh... \xf000Ā\x0001\x0000...\xfffe¿Hay algún problema?\xf000븁\x0000
+Aloe: ¡Huy, pero no me digas!\xfffeEstos churumbeles... ¿son tus amiguitos?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeBel y Cheren...\xfffe¡Entrenadores, por supuestísimo!\xf000븁\x0000\xfffePues, entonces, vamos a dividirnos.\xfffeYo iré por aquí.\xf000븁\x0000
+Y vosotros, chavales, Cheren y Bel...\xfffe¡quedaos en el museo!\xf000븁\x0000
+¡Camus y \xf000Ā\x0001\x0000, vosotros\xfffebuscaréis por el Bosque Azulejo!\xf000븁\x0000\xfffe¿Os parece?\xf000븁\x0000\xfffeCamus, tú le harás de guía, ¿vale?\xf000븁\x0000\xfffe¡Pues, hala, cuento con vosotros!\xf000븁\x0000
+Camus: Bueno, bueno...\xfffeTe llamabas... \xf000Ā\x0001\x0000, ¿no?\xf000븁\x0000\xfffePues andando. \xfffeA pararles los pies a esos ladrones.\xf000븁\x0000
+Camus: Bueno, bueno...\xfffeAsí que te llamas \xf000Ā\x0001\x0000, ¿verdad?\xf000븁\x0000\xfffePues andando.\xfffeA pararles los pies a esos ladrones.\xf000븁\x0000
+Bel: ¡Ah, \xf000Ā\x0001\x0000!\xfffe¡Llévate esto!\xf000븁\x0000\xfffe¡Es un Zahorí que me\xfffeha prestado Oryza!\xf000븁\x0000
+¡Si usas el Zahorí, podrás localizar\xfffeobjetos que no se ven a simple vista!\xf000븁\x0000
+Cheren: No sé qué está pasando, pero\xfffecreo que debería vigilar el museo.\xf000븁\x0000
+Bel: ¡Sí, yo también!\xf000븁\x0000
+Aloe: Parece que los del Equipo Plasma\xfffeno están aquí, pero no pueden haber ido\xf000븀\x0000\xfffemuy lejos.\xf000븁\x0000\xfffeTú... ¡ve ahora mismo a peinar\xfffeel Bosque Azulejo!
+Hace tiempo, todo esto eran fábricas y\xfffealmacenes abandonados, hasta que\xf000븀\x0000\xfffeun puñado de jóvenes entusiastas\xf000븀\x0000\xfffeempezó a usarlos como talleres.\xf000븁\x0000\xfffeY así fue como nació la actual\xfffeCiudad Esmalte.
+En este almacén...\xfffevenden cosas chulísimas.
+Esto era un simple almacén, y\xfffemira lo animado que está ahora...\xf000븀\x0000\xfffe¡Cómo cambian las cosas con el tiempo!
+¡Ciudad Esmalte es un sitio de categoría\xfffedonde todos quieren vivir!\xf000븁\x0000\xfffe¡Y también es una ciudad muy valorada\xfffepor su relativa tranquilidad!
+¿Qué te parece el sonido de mi acordeón?
+Ciudad Esmalte\xfffeEl esmalte es la octava maravilla.
+Café Alma\xfffeLos miércoles, ¡barra libre!
+Gimnasio Pokémon de Ciudad Esmalte\xfffeLíder del Gimnasio: Aloe\xf000븀\x0000\xfffeUna madraza nata.
+Prof.ª Encina: Mirto me lo ha contado.\xfffe\xf000Ā\x0001\x0000, parece que la cosa es seria.\xf000븁\x0000
+Aloe: ¿Y esto?\xf000븁\x0000
+Bel: Pues...\xf000븁\x0000\xfffeUna piedra antigua que he encontrado\xfffeen la Zona Desierto.\xf000븁\x0000
+Aloe: Sí, eso parece. Pero, en realidad,\xfffees un Pokémon de tipo Dragón, ¿a que sí?\xf000븁\x0000
+Carrasco Encina: Mmm...\xf000븁\x0000\xfffeCuando estuve investigando en\xfffela Torre Duodraco, encontré otro\xf000븀\x0000\xfffeelemento que databa de la misma\xf000븀\x0000\xfffeépoca que este Orbe Oscuro.\xf000븁\x0000
+Carrasco Encina: Mmm...\xf000븁\x0000\xfffeCuando estuve investigando en\xfffela Torre Duodraco, encontré otro\xf000븀\x0000\xfffeelemento que databa de la misma\xf000븀\x0000\xfffeépoca que este Orbe Claro.\xf000븁\x0000
+Prof.ª Encina: Sí, precisamente\xfffelo he estado investigando.\xf000븁\x0000
+Aloe: Por supuesto.\xf000븁\x0000
+Bel: Sí, pues...\xf000븁\x0000\xfffeMenos mal que los del Equipo Plasma no se\xfffefijaron en el Orbe cuando vinieron.\xf000븁\x0000
+Aloe: Tienes razón.\xf000븁\x0000\xfffeAl fin y al cabo, si robaron el Cráneo\xfffede Dragón, fue con la intención de\xf000븀\x0000\xffferesucitar al legendario Pokémon dragón.\xf000븁\x0000
+Bueno. Toma esto, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Mirto: ¡Espera un momento, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Si te llevas el Orbe Oscuro, ten presente\xfffeque, si a mí me ocurriera algo, tendrías\xf000븀\x0000\xfffeque ir a luchar contra N.\xf000븁\x0000\xfffe¿Estás de acuerdo?
+Si te llevas el Orbe Claro, ten presente\xfffeque, si a mí me ocurriera algo, tendrías\xf000븀\x0000\xfffeque ir a luchar contra N.\xf000븁\x0000\xfffe¿Estás de acuerdo?
+Mirto: De acuerdo. Ya has tomado\xfffetu decisión. Puedes llevártelo.\xf000븁\x0000
+Mirto: Entonces, ¿vas a permitir que\xfffeN consiga separar a Pokémon y\xf000븀\x0000\xfffeEntrenadores en ese mundo\xf000븀\x0000\xfffeque tanto anhela?
+Mirto: ¿De verdad?\xfffe¡Por favor! ¡Te lo suplico!\xf000븁\x0000\xfffe¡Llévate el Orbe y guárdalo para usarlo\xfffeen última instancia!
+Mirto: Lo lamento.\xfffeSiento que te estoy obligando.\xf000븁\x0000\xfffe¡Por favor, llévatelo y úsalo en caso de\xfffeque debas proteger este mundo donde\xf000븀\x0000\xfffeconvivimos humanos y Pokémon!\xf000븁\x0000
+Aloe: Claro...\xf000븁\x0000\xfffePiensa que este Orbe Oscuro puede\xfffeayudarnos en caso de apuros a luchar\xf000븀\x0000\xfffepor un futuro ideal para nosotros y\xf000븀\x0000\xfffepara los Pokémon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, ¡guárdalo como oro en paño!\xf000븁\x0000
+Aloe: Claro...\xf000븁\x0000\xfffePiensa que este Orbe Claro puede\xfffeayudarnos en caso de apuros a luchar\xf000븀\x0000\xfffepor un futuro verdadero para nosotros\xf000븀\x0000\xfffey para los Pokémon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, ¡guárdalo como oro en paño!\xf000븁\x0000
+Carrasco Encina: Y exactamente...\xf000븁\x0000\xfffe¿qué hay que hacer para despertar al\xfffePokémon de tipo Dragón con este Orbe?
+¿Eh?
+...
+Pueees...
+Aloe: ¡Ya sé!\xfffePodemos preguntárselo a ellos.\xf000븁\x0000
+Mirto: Claro, ellos lo sabrán.\xf000븁\x0000
+¡\xf000Ā\x0001\x0000!\xfffe¡Hay que ir a Ciudad Caolín!\xf000븁\x0000\xfffeEn el Gimnasio, su Líder usa Pokémon\xfffede tipo Dragón.\xf000븁\x0000\xfffeSeguramente sabrá cómo hacerlo.\xf000븁\x0000\xfffe¡Me adelantaré y te esperaré allí!\xfffe¡Hasta la vista!\xf000븁\x0000
+Prof.ª Encina: ¡Claro!\xf000븁\x0000\xfffe¡Si hay alguien que puede saberlo,\xfffees Iris!\xf000븁\x0000
+Prof.ª Encina: ¡Claro!\xf000븁\x0000\xfffe¡Si hay alguien que puede saberlo,\xfffees Lirio!\xf000븁\x0000
+Carrasco Encina: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeQuiero que no olvides nunca que a tu lado\xfffetendrás siempre a un Pokémon.\xf000븁\x0000
+Prof.ª Encina: Nosotros volveremos al\xfffeLaboratorio a investigar todo lo que\xf000븀\x0000\xfffepodamos sobre el Pokémon de tipo Dragón\xf000븀\x0000\xfffey a ver si hay algún modo de despertarlo.\xf000븁\x0000
+Aloe: ¡No te preocupes!\xf000븁\x0000\xfffe¡Si descubrimos algo, iremos\xfffecorriendo a contártelo!\xf000븁\x0000
+Aloe: ¡No te preocupes!\xf000븁\x0000\xfffe¡Si descubrimos algo, iremos\xfffecorriendo a contártelo!
+Bel: Vaya... No sabía que la cosa\xfffefuera tan grave.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, ¿sabes dónde está\xfffeCiudad Caolín?\xf000븁\x0000\xfffeSi sales de Ciudad Teja atravesando\xfffeel Puente Axial, es lo primero que ves.\xf000븁\x0000\xfffeY, si no te aclaras con mi explicación o no\xfffete acuerdas, ¡echa un vistazo al Mapa!\xf000븁\x0000
+Bel: Vaya... No sabía que la cosa\xfffefuera tan grave.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, ¿sabes dónde está\xfffeCiudad Caolín?\xf000븁\x0000\xfffeSi sales de Ciudad Teja atravesando\xfffeel Puente Axial, es lo primero que ves.\xf000븁\x0000\xfffeY, si no te aclaras con mi explicación o no\xfffete acuerdas, ¡echa un vistazo al Mapa!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

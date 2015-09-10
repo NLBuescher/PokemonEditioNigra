@@ -1,0 +1,32 @@
+
+
+Tcheren: Professeur Keteleeria,\xfffepardon de vous avoir fait attendre.\xf000븁\x0000
+Keteleeria: Je peux commencer mes\xfffeexplications!\xf000븁\x0000\xfffeLorsque vous rencontrez un Pokémon,\xfffela page correspondante de votre Pokédex\xf000븀\x0000\xfffeest automatiquement créée.\xf000븁\x0000\xfffeEn capturant le Pokémon, vous\xfffeobtiendrez des informations encore\xf000븀\x0000\xfffeplus détaillées!\xf000븁\x0000\xfffeEt comme un bon exemple vaut mieux\xfffequ'un long discours, je vais capturer\xf000븀\x0000\xfffeun Pokémon sous vos yeux.\xf000븁\x0000\xfffeAttention les mirettes!\xf000븁\x0000
+Keteleeria: Vous avez vu?\xfffeL'idée est d'affaiblir le Pokémon.\xf000븁\x0000\xfffeUn Pokémon en pleine forme est\xfffetrès difficile à capturer!\xf000븁\x0000\xfffeAutant que possible, faites en sorte que\xfffevos Pokémon endorment ou paralysent\xf000븀\x0000\xfffecelui que vous voulez attraper.\xf000븁\x0000\xfffeEt comme je suis très généreuse,\xfffevoici des Poké Balls en cadeau!\xf000븁\x0000
+
+Keteleeria: Les Poké Balls permettent de\xfffecapturer les Pokémon, et ensuite de les\xf000븀\x0000\xfffetransporter partout!\xf000븁\x0000\xfffeBien, je pars devant à Arabelle.\xfffeÀ tout à l'heure!\xf000븁\x0000
+Tcheren: Elle a oublié de dire que les\xfffePokémon jaillissaient des hautes herbes.\xf000븁\x0000
+Sur ce, je pars à Arabelle moi aussi.\xf000븁\x0000
+Bianca: Euh... Bonne idée!\xf000븁\x0000\xfffeEt puis, si on va pas à la prochaine\xfffeville, on pourra pas acheter\xf000븀\x0000\xfffed'autres Poké Balls.\xf000븁\x0000
+Bianca: Une seconde!\xf000븁\x0000\xfffeEuh...\xfffe\xf000Ā\x0001\x0000, Tcheren!\xf000븁\x0000\xfffeJ'ai eu une bonne, euh... idée!\xf000븁\x0000
+Tcheren: Ne restons pas plantés là!\xfffeLe Professeur attend.\xf000븁\x0000
+Bianca: Mais, euh! Écoutez un peu!\xf000븁\x0000\xfffeEt si on faisait une compétition sur le\xfffenombre de Pokémon qu'on capture?\xf000븁\x0000\xfffeEn incluant le Pokémon que le Professeur\xfffenous a donné, celui qui a le plus de\xf000븀\x0000\xfffePokémon a gagné!\xf000븁\x0000
+Tcheren: Bianca... Mais c'est une vraie\xfffebonne idée! Et intéressante en plus!\xf000븁\x0000\xfffeQui plus est, nous remplirions plus de\xfffepages, ce qui aiderait le Professeur...\xf000븁\x0000\xfffeFormidable! Bien, et s'il faut guérir les\xfffePokémon avant d'arriver à Arabelle,\xf000븀\x0000\xfffechacun n'a qu'à rentrer chez soi.\xf000븁\x0000
+Bianca: \xf000ā\x0001\x0000 et moi, on va faire\xfffeun malheur, c'est sûr!\xf000븁\x0000
+Tcheren: \xf000Ā\x0001\x0000, tu veux te mesurer\xfffeà Bianca?\xf000븁\x0000\xfffeJ'ai 2 Pokémon, comme elle.
+Bianca: Alors, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeOn compare qui a le plus de Pokémon?
+Bianca: Bon...\xfffeJe t'attends ici alors.\xf000븁\x0000
+Bianca: Quoi?! \xf000Ȁ\x0001\x0000 Pokémon?!\xf000븁\x0000\xfffeC'est trop top génial!\xfffeJ'en ai le cœur qui bat à toute\xf000븀\x0000\xfffevitesse! Toi aussi, hein?\xf000븁\x0000
+Bianca: Alors, euh... tu as...\xfffelaisse-moi compter...\xf000븁\x0000\xfffe2 Pokémon avec toi!\xfffeC'est super! On est tous pareils!\xf000븁\x0000
+Bianca: HEEEIN?!\xfffeT'as toujours que ton \xf000ā\x0001\x0000?\xf000븁\x0000\xfffeMais si t'attrapes pas d'autres Pokémon,\xfffeton \xf000ā\x0001\x0000 va s'ennuyer, non?\xf000븁\x0000
+Tcheren: Tant que j'y pense, en\xfffeconsultant le Pokédex, il est possible\xf000븀\x0000\xfffede vérifier le nombre de Pokémon\xf000븀\x0000\xfffevus ou capturés jusqu'à présent.\xf000븁\x0000\xfffeSur ce, cap sur Arabelle!\xfffeLe Professeur attend.\xf000븁\x0000
+
+Le Vokit sonne.
+\xf000Ā\x0001\x0000 décroche.\xf000븁\x0000
+Tcheren: C'est pas tout ça...\xfffeJe pars devant.\xf000븁\x0000
+Ton équipe Pokémon est-elle\xfffeen pleine forme?\xf000븁\x0000\xfffeSur la route, la santé de tes Pokémon\xffferisque d'être mise à rude épreuve.\xf000븁\x0000\xfffeAlors, je te donne ceci!\xfffeMets-le dans la Poche MÉDICAMENTS\xf000븀\x0000\xfffede ton Sac.\xf000븁\x0000
+Quand les Pokémon perdent des PV, ils ont\xfffemoins de chances de gagner un combat.\xf000븁\x0000\xfffeAlors ne les surmène pas, et pense à\xfffeles faire se reposer!
+Les Pokémon sont tapis dans\xfffeles hautes herbes.\xf000븀\x0000\xfffeN'est-ce pas?\xf000븁\x0000\xfffeDonc si tu veux en combattre, voire\xfffeen attraper, il suffit de marcher\xf000븀\x0000\xfffedans les hautes herbes!
+Route 1
+Route 1
+Conseils aux Dresseurs!\xf000븁\x0000\xfffe\xfffeNe soyez pas timides, parlez aux gens\xfffeque vous rencontrez!\xf000븁\x0000\xfffeIls ont tous des choses utiles à\xfffevous apprendre!

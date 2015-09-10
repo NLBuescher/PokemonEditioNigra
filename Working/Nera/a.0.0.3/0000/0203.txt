@@ -1,0 +1,40 @@
+...\xf000븁\x0000\xfffeDi qua.\xf000븁\x0000
+...\xf000븁\x0000\xfffeAbbiamo portato l'Allenatore.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Grazie.\xf000븁\x0000\xfffeQuelli erano due del Trio Oscuro.\xf000븁\x0000\xfffeFanno parte del Team Plasma e sono\xfffestati reclutati da Ghecis in persona.\xf000븁\x0000\xfffeA proposito, sembra che siano stati loro\xfffead ostruire l'entrata di questa cava con\xf000븀\x0000\xfffela tela di Galvantula.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001La Cava Pietrelettrica... mi piace\xfffemolto questo luogo.\xf000븁\x0000\xfffeLa scienza può affannarsi quanto vuole\xfffea cercare di spiegare il fenomeno della\xf000븀\x0000\xfffeelettricità, ma la verità è che in questo\xf000븀\x0000\xfffeluogo il legame con i Pokémon è lampante!\xf000븁\x0000\xfffeSe non ci fossero gli esseri umani sarebbe\xfffeil mio posto preferito.\xf000븁\x0000\xfffeMa ora veniamo a noi. Ti ho scelto...\xfffeQuesto non ti sorprende?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Ovviamente. Chi non si sorprenderebbe?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Tsè...\xf000븁\x0000\xfffeNon puoi certo sorprenderti se non\xfffecapisci di cosa sto parlando.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Ho parlato di voi a Ghecis.\xf000븁\x0000\xfffeE lui ha chiesto subito al Trio Oscuro di\xffferaccogliere informazioni in proposito.\xf000븁\x0000\xfffeCosì ho scoperto che Komor persegue\xfffeingenuamente l'ideale di diventare forte.\xf000븁\x0000\xfffeMentre Belle conosce la triste verità:\xfffenon tutti possono diventarlo.\xf000븁\x0000\xfffeInvece tu non sembri tendere verso alcun\xfffeestremo, sei in posizione neutra.\xf000븁\x0000\xfffeLa cosa mi fa piacere.\xf000븁\x0000\xfffePiù avanti troverai ad aspettarti il Team\xfffePlasma.\xf000븁\x0000\xfffeGhecis vuole mettere alla prova le tue\xfffecapacità di Allenatore.\xf000븉\x0001\x0000\xf000븁\x0000
+Ehi!\xf000븁\x0000
+Senti!\xf000븁\x0000
+Belle: \xf000Ā\x0001\x0000, senti!\xf000븁\x0000\xfffeSe spingi le rocce fluttuanti, si muovono.\xf000븁\x0000
+Giusto, Prof.ssa Aralia?\xf000븁\x0000
+Aralia: Esatto! Come va, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Come al solito, questo luogo è saturo di\xfffeelettricità, come piace tanto ai Pokémon!\xf000븁\x0000\xfffePer questo alcune rocce, eccessivamente\xfffecariche, reagiscono fluttuando nell'aria.\xf000븁\x0000\xfffeAd ogni modo, non tutte le rocce possono\xfffeessere spostate.\xf000븁\x0000
+Mio padre mi ha chiesto di fare delle\xfffericerche su Klink, un Pokémon simile\xf000븀\x0000\xfffea piccoli ingranaggi.\xf000븁\x0000\xfffeVisto che mi occupo dell'origine dei\xfffePokémon, mi ha affibbiato anche\xf000븀\x0000\xfffequest'altro compito.\xf000븁\x0000\xfffeUn po' se ne approfitta, ma a dire il vero\xfffea me piace molto studiare!\xf000븁\x0000\xfffeAh, \xf000Ā\x0001\x0000, prendi questo prima che\xfffemi dimentichi!\xf000븁\x0000
+Aralia: Se dai Fortunuovo a un Pokémon,\xfffeaumentano un po' i Punti Esperienza\xf000븀\x0000\xfffea fine lotta!\xf000븁\x0000\xfffeSe i Pokémon si rafforzano, ti sarà più\xfffefacile completare il Pokédex!
+Aralia: \xf000Ā\x0001\x0000! A che punto sei con\xfffeil Pokédex?\xf000븁\x0000\xfffePer riempirlo devi cercare di incontrare\xfffequanti più Pokémon possibile!
+Belle: Sto facendo la guardia del corpo\xfffedella Prof.ssa Aralia!\xf000븁\x0000\xfffeBeh, non credo che ne abbia bisogno, ma è\xfffeimportante proteggere le persone a cui\xf000븀\x0000\xfffesi vuole bene!
+Aralia: Ciao! Hai trovato qualcosa?\xf000븁\x0000\xfffeIo ho quasi finito di raccogliere i dati di\xfffecui avevo bisogno.\xf000븁\x0000
+Questa cava esiste dall'antichità.\xf000븁\x0000\xfffeMa la prima testimonianza della presenza\xfffedi Klink risale a 100 anni fa. Non c'è\xf000븀\x0000\xfffealcuna traccia prima di allora.\xf000븁\x0000\xfffeMa certo!\xf000븁\x0000\xfffePossiamo concludere che Klink è comparso\xfffeall'improvviso 100 anni fa!\xf000븁\x0000
+Da dove vengono i Pokémon e dove vanno?\xf000븁\x0000\xfffeSe riuscissimo a scoprirlo, rinsalderemmo\xfffeancora di più il nostro legame con loro.\xf000븀\x0000\xfffeNe sono sicura!\xf000븁\x0000
+Belle: Senti, \xf000Ā\x0001\x0000! I Pokémon sono\xfffecreature proprio misteriose!\xf000븁\x0000\xfffePerché esseri così meravigliosi accettano\xfffedi stare in nostra compagnia?
+Aralia: Da dove vengono i Pokémon e dove\xfffevanno?\xf000븁\x0000\xfffeSe riuscissimo a scoprirlo, rinsalderemmo\xfffeancora di più il nostro legame con loro.\xf000븀\x0000\xfffeNe sono sicura!
+Belle: Spero di catturare molti Pokémon\xfffeanche qui! Un bel viaggio è fatto di tanti\xf000븀\x0000\xfffeincontri, no?
+...\xf000븁\x0000\xfffeDi qua.\xf000븁\x0000
+...\xf000븁\x0000\xfffePiù avanti ci sono delle scale.\xf000븁\x0000\xfffeLì ti aspetta il Team Plasma.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Al fondersi e confondersi di valori\xfffediversi, il mondo si va tingendo di tinte\xf000븀\x0000\xfffefosche. Non posso permetterlo!\xf000븁\x0000\xfffeLa separazione tra Pokémon e uomini sarà\xfffenetta, come tra bianco e nero.\xf000븁\x0000\xfffeSolo in questo modo i Pokémon potranno\xfffediventare esseri completi.\xf000븁\x0000\xfffeQuesto è il mio sogno! Un sogno che devo\xffferealizzare a tutti i costi!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! Ce l'hai anche tu un sogno?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Mi rallegro. Avere dei sogni è una cosa\xfffemeravigliosa.\xf000븁\x0000\xfffeTi sfido a dimostrarmi quanto tieni al tuo\xfffesogno.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Chi non ha sogni non può capirmi!\xf000븁\x0000\xfffePeccato... adesso però dovrò darti\xfffeuna lezione!\xf000븉\x0001\x0000\xf000븁\x0000
+
+N: \xf000븉\x0001\x0001Ma perché?\xf000븁\x0000\xfffeCon il cuore pesante mi sono calato nei\xfffepanni di Allenatore per sfidarti e\xf000븀\x0000\xfffene ho riportato solo una sconfitta.\xf000븁\x0000\xfffeCome farò ora a proseguire nella ricerca\xfffedella verità?\xf000븁\x0000\xfffeNon sono degno dell'amicizia di un Pokémon\xfffeleggendario!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Ma perché?\xf000븁\x0000\xfffeCon il cuore pesante mi sono calato nei\xfffepanni di Allenatore per sfidarti e\xf000븀\x0000\xfffene ho riportato solo una sconfitta.\xf000븁\x0000\xfffeCome farò ora a proseguire nella\xfffericerca degli ideali?\xf000븁\x0000\xfffeNon sono degno dell'amicizia di un Pokémon\xfffeleggendario!\xf000븉\x0001\x0000\xf000븁\x0000
+Belle: \xf000Ā\x0001\x0000!\xf000븁\x0000
+Ponentopoli è vicina.\xf000븁\x0000
+Aralia: L'udito di Belle è sorprendente.\xf000븁\x0000\xfffeHa sentito la tua voce da molto lontano!\xf000븁\x0000\xfffeMa dimmi, \xf000Ā\x0001\x0000, chi è l'Allenatore\xfffeche è qui con te?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Sei Aralia, giusto?\xf000븁\x0000\xfffeClassifichi i Pokémon secondo le regole\xfffedecise dagli uomini, senza mettere\xf000븀\x0000\xfffeneanche in dubbio il legame tra Allenatori\xf000븀\x0000\xfffee Pokémon.\xf000븁\x0000\xfffeCredi di capire tutto, vero?\xf000븁\x0000\xfffeIl tuo Pokédex non serve a niente. Che\xfffecosa pensi di ottenere?\xf000븉\x0001\x0000\xf000븁\x0000
+Aralia: Oh, quanto astio...\xf000븁\x0000\xfffeTu hai il tuo modo di pensare.\xf000븁\x0000\xfffeMa anch'io ho il mio e non vale meno del\xfffetuo.\xf000븁\x0000\xfffeOgni singola persona dovrebbe decidere\xfffeda sola come vivere insieme ai Pokémon.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Ma in questo modo gli esseri umani\xfffemalvagi fanno soffrire i Pokémon.\xf000븁\x0000\xfffeNon posso chiudere gli occhi di fronte a\xfffetanta stoltezza!\xf000븉\x0001\x0000\xf000븁\x0000
+Aralia: Non mi aspetto che capisca e cambi\xfffeidea da un momento all'altro.\xf000븁\x0000\xfffeMa spero che un po' alla volta comprenda\xfffei sentimenti di tutti noi.\xf000븁\x0000
+Bene, io continuerò a raccogliere altri\xfffedati.\xf000븁\x0000\xfffePer approfondire la nostra amicizia con i\xfffePokémon è importante conoscerli un po'\xf000븀\x0000\xfffepiù da vicino!\xf000븁\x0000
+Belle: Allora, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeVisto che sono la guardia del corpo della\xfffeProf.ssa Aralia, me ne vado con lei!\xf000븁\x0000

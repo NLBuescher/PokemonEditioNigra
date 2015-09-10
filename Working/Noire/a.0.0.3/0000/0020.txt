@@ -1,0 +1,38 @@
+Tcheren: Si un Pokémon se fait\xfffeempoisonner, ses PV vont diminuer\xf000븀\x0000\xfffependant tout le temps qu'il se battra.\xf000븁\x0000\xfffeCe qui veut dire que s'il est\xffferetiré du combat...\xf000븁\x0000
+Ah! \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeOn est venu se frotter au\xfffeChampion d'Arène?
+Il était là à disserter sur les types\xfffedes Pokémon...\xf000븁\x0000\xfffeOn dirait que vous vous êtes\xfffemanqués de peu.\xf000븁\x0000
+Un Dresseur devient plus fort en\xfffepratiquant. Donc en combattant!\xf000븁\x0000\xfffeEt défier les Champions d'Arène est\xfffepar conséquent la meilleure méthode\xf000븀\x0000\xfffepour s'améliorer.\xf000븁\x0000
+Puisque l'on parle de pratiquer,\xfffe\xf000Ā\x0001\x0000, que dirais-tu d'un duel?\xf000븁\x0000\xfffeJ'aimerais m'assurer de l'importance\xfffedes objets en combat...
+Tcheren: \xf000Ā\x0001\x0000,\xfffeque dirais-tu d'un duel?\xf000븁\x0000\xfffeJ'aimerais m'assurer de l'importance\xfffedes objets en combat...
+Je désire ardemment faire ce test pour\xfffeles objets.\xf000븁\x0000\xfffeJ'attendrai donc que tu aies fini tes\xfffepréparatifs.
+Tcheren: Jusqu'à quel point les objets\xfffesont-ils efficaces?\xf000븁\x0000\xfffeJusqu'où peut-on se battre sans eux?\xfffeTelle est la question...\xf000븁\x0000\xfffeQuoi qu'il en soit, battons-nous avec\xfffetenue, nous sommes en intérieur!\xf000븁\x0000
+Tcheren: J'en étais sûr, la maîtrise\xfffedes objets est un art subtil!\xf000븁\x0000\xfffePour ta peine, \xf000Ā\x0001\x0000,\xfffevoici une Baie.\xf000븁\x0000
+Tcheren: En faisant tenir une Baie à un\xfffePokémon, celui-ci peut la manger pendant\xf000븀\x0000\xfffele combat et reprendre des forces.\xf000븁\x0000\xfffePar contre, il serait incapable\xfffed'utiliser seul un objet fabriqué\xf000븀\x0000\xfffepar les humains, comme une Potion.\xf000븁\x0000\xfffeSur ce, je te souhaite bonne chance!\xf000븁\x0000
+Je suis transi d'amour pour les Pokémon.\xfffeAlors je veux mieux les connaître!\xf000븁\x0000\xfffeHeureusement, l'École de Dresseurs est\xfffelà pour étancher cette soif de savoir!
+Les Pokémon ont de drôles de pouvoirs:\xfffeles capacités spéciales!\xf000븁\x0000\xfffeIl y a plein d'effets différents, mais la\xfffeplupart sont utiles au combat.
+Il y a une technique spéciale:\xfffel'interruption d'évolution!\xf000븁\x0000\xfffeTu veux en savoir plus?\xfffeBon, je lis:\xf000븁\x0000\xfffe“Au moment où le Pokémon est en train\xfffed'évoluer, appuyer sur le bouton B\xf000븀\x0000\xfffesurprend le Pokémon\xf000븀\x0000\xfffeet l'empêche d'évoluer."
+Certaines capacités ne peuvent être\xfffeapprises qu'avec des CT.\xf000븁\x0000\xfffeOn peut les utiliser à volonté, c'est bien\xfffepratique.\xf000븁\x0000\xfffeEt si une capacité te déçoit, tu n'as\xfffequ'à essayer une autre CT!
+J'aimerais bien tester tes connaissances\xfffesur les altérations de statut.\xf000븀\x0000\xfffeDis, je peux?
+Bon. Alors... question!\xf000븁\x0000\xfffeL'objet qui permet de guérir un Pokémon\xfffeempoisonné, c'est lequel?
+Antidote
+Anti-Para
+Réveil
+Trop fort!\xf000븁\x0000\xfffeC'est la bonne réponse!\xfffeQuestion suivante, alors.\xf000븁\x0000
+L'objet qui guérit un Pokémon paralysé,\xfffec'est...\xf000븁\x0000\xfffeAnti-Para, bien sûr, mais...\xf000븁\x0000\xfffeCelui qui réveille un Pokémon endormi,\xfffec'est lequel?
+Trop trop fort!\xf000븁\x0000\xfffeEncore une bonne réponse!\xf000븁\x0000\xfffeTu t'y connais trop en altérations\xfffede statut. Alors tiens, cadeau!\xf000븁\x0000
+Total Soin, comme son nom l'indique,\xfffeguérit n'importe quelle altération!
+Si tu veux tester tes connaissances,\xfffeil suffit de me le demander!
+Eh non!\xf000븁\x0000\xfffeDésolé, c'est faux.\xfffeRéessaye quand tu voudras!
+Sur le tableau sont détaillées les\xfffealtérations de statut dont peuvent\xf000븀\x0000\xfffesouffrir les Pokémon en combat.\xf000븁\x0000
+Laquelle consulter?
+Empoisonné, votre Pokémon perd\xffferégulièrement des PV tant qu'il se bat.\xf000븁\x0000\xfffeLe poison ne se dissipe pas, même\xfffeune fois le combat terminé.\xf000븁\x0000\xfffeL'Antidote guérit cette altération.\xf000븁\x0000
+La paralysie réduit la Vitesse et peut\xfffeempêcher de lancer une attaque.\xf000븁\x0000\xfffeElle dure même après le combat.\xfffeL'Anti-Para sert à la guérir.\xf000븁\x0000
+Endormi, votre Pokémon ne peut pas\xfffecombattre.\xf000븁\x0000\xfffeIl arrive qu'un Pokémon endormi\xfffese réveille de lui-même,\xf000븁\x0000\xfffesinon il continuera à dormir même\xfffeune fois le combat fini.\xf000븁\x0000\xfffeUtilisez un Réveil pour le réveiller.\xf000븁\x0000
+Une brûlure réduit non seulement\xfffel'Attaque d'un Pokémon, mais diminue\xf000븀\x0000\xfffeaussi petit à petit ses PV.\xf000븁\x0000\xfffeCette altération perdure même après\xfffeun combat.\xf000븁\x0000\xfffeUn Anti-Brûle est le remède parfait.\xf000븁\x0000
+Si votre Pokémon est gelé, il ne\xfffepourra plus rien faire.\xf000븁\x0000\xfffeIl arrive qu'un Pokémon se dégèle de\xfffelui-même, sinon il restera gelé\xf000븀\x0000\xfffemême une fois le combat fini.\xf000븁\x0000\xfffeL'Antigel réchauffera votre Pokémon!\xf000븁\x0000
+Poison
+Paralysie
+Sommeil
+Brûlure
+Gel
+Quitter

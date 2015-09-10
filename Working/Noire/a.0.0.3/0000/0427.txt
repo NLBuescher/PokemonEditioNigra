@@ -1,0 +1,10 @@
+Un \xf000ā\x0001\x0000 gambade joyeusement!
+Le \xf000ā\x0001\x0000 a l'air ravi\xfffede rencontrer \xf000Ā\x0001\x0001!\xf000븁\x0000
+Le \xf000ā\x0001\x0000 a l'air d'avoir très envie\xfffede rejoindre l'équipe de \xf000Ā\x0001\x0001...\xf000븁\x0000
+Souhaitez-vous le prendre\xfffedans votre équipe?
+Voulez-vous que le \xf000ā\x0001\x0000 aille\xfffeau fond de la forêt?
+Le fond de la forêt est plein.\xfffeLe \xf000ā\x0001\x0000 n'a pas pu y aller!
+Voulez-vous que le \xf000ā\x0001\x0000 aille\xfffedans une clairière?
+Les clairières sont pleines!\xfffeLe \xf000ā\x0001\x0000 n'a pas pu y aller!
+Le \xf000ā\x0001\x0000 est allé\xfffeau fond de la forêt!\xf000븁\x0000
+Le \xf000ā\x0001\x0000 est allé\xfffedans une clairière!\xf000븁\x0000

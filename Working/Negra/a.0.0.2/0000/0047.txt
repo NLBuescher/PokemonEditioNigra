@@ -1,0 +1,18 @@
+Coloca el pulgar de la mano izquierda sobre\xfffela marca que aparece en la pantalla táctil.
+Sincronizando con \xf000Ā\x0001\x0000...
+Coloca el pulgar de la mano derecha sobre\xfffela otra marca que aparece en la pantalla.
+Fin del Test. Establece la comunicación\xfffepor infrarrojos con el otro Entrenador.
+Test en progreso...\xfffeNo interrumpas la comunicación.
+¡Se ha establecido la comunicación\xfffepor infrarrojos!
+Se ha interrumpido la comunicación.\xfffeReanuda la comunicación por infrarrojos.
+
+
+
+
+Si no se produce ninguna respuesta al\xfffetocar la pantalla, vuelve a intentarlo.
+
+
+
+
+TEST DE SINCRONIZACIÓN
+Retira los dedos de la pantalla y vuelve a\xfffeintentarlo empezando con la mano izquierda.

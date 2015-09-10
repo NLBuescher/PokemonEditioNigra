@@ -1,0 +1,21 @@
+\xf000Ā\x0001\x0000
+ID \xf000Ȅ\x0001\x0000
+Pulsante A: Conferma\xfffePulsante B: Annulla
+Va bene questo gruppo?
+Vuoi annullare Girauovo?
+Girauovo verrà annullato.
+Un giocatore si è ritirato.
+Non c'è nessun partecipante.\xfffeGirauovo verrà annullato.
+Attendi...\xfffePulsante B: Annulla
+Un giocatore si è ritirato.\xfffeGirauovo verrà annullato.
+Vuoi annullare Girauovo?
+Girauovo verrà annullato.
+
+Girauovo è stato annullato!\xfffeSi ritorna alla Sala Contatto.
+Se il capogruppo si ritira, il gruppo\xfffeverrà sciolto. Vuoi continuare?
+\xf000Ā\x0001\x0000 ha lasciato il gruppo.
+Il capogruppo \xf000Ā\x0001\x0000 ha lasciato\xfffeil gruppo che verrà ora sciolto.
+Alla ricerca di Girauovo!
+Girauovo in corso!
+SÌ
+NO

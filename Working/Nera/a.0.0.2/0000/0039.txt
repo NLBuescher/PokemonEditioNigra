@@ -1,0 +1,50 @@
+SINCROGIOCO
+
+
+Vuoi salvare il gioco?
+SÌ
+NO
+Salvataggio in corso.\xfffeNon spegnere la console.
+Vuoi avviare la configurazione della Nintendo\xfffeWi-Fi Connection?
+Il Pokémon sarà messo a dormire.\xfffeNon spegnere la console.
+
+Vuoi svegliare il Pokémon?
+Il Pokémon sarà svegliato.\xfffeNon spegnere la console.
+\xf000Ă\x0001\x0000 ha riaperto gli occhi!
+Attendi...
+\xf000Ă\x0001\x0000 ha preso sonno!
+
+L'energia del Sincrogioco è esaurita.\xfffePer ricaricarla è necessario un giorno.
+Non sta ancora sognando.
+
+Nei Box non ci sono Pokémon da mettere\xfffea dormire.
+Ora sta sognando.
+Non hai recuperato il frammento di sogno\xfffedella volta precedente!\xf000븁\x0000\xfffeSe svegli il Pokémon, avrai a disposizione\xfffeun nuovo frammento di sogno, ma quello\xf000븀\x0000\xfffeprecedente sarà perduto per sempre.\xf000븁\x0000\xfffeVuoi davvero svegliare il Pokémon?
+Livelli che \xf000Ă\x0001\x0000 ha acquisito: \xf000ȁ\x0001\x0001.
+L'aspetto del C-Gear è cambiato.\xfffeI programmi del Musical sono cambiati.\xfffeL'aspetto del Pokédex è cambiato.
+L'aspetto del C-Gear è cambiato.
+I programmi del Musical sono cambiati.
+L'aspetto del Pokédex è cambiato.
+L'aspetto del C-Gear è cambiato.\xfffeI programmi del Musical sono cambiati.
+I programmi del Musical sono cambiati.\xfffeL'aspetto del Pokédex è cambiato.
+L'aspetto del C-Gear è cambiato.\xfffeL'aspetto del Pokédex è cambiato.
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13201)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13202)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13203)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13204)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13205)
+Il servizio non è più disponibile.\xfffe\xfffe(Codice errore: 13206)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13207)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13208)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13209)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13210)
+Connessione non riuscita.\xfffeIl server sta registrando un alto\xfffevolume di traffico. Riprova più tardi.\xfffe\xfffe(Codice errore: 13211)
+Il server è in fase di manutenzione.\xfffePer saperne di più, consulta il sito\xfffedel Pokémon Global Link:\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffe(Codice errore: 13212)
+Puoi giocare su Internet con i sogni \xfffedei Pokémon messi a dormire!
+Per giocare con i sogni dei Pokémon devi\xffferegolare le impostazioni del Sincrogioco.
+Per i dettagli sulle impostazioni\xfffedel Sincrogioco consulta il manuale\xfffedi istruzioni.
+\xf000Ă\x0001\x0000 ha riaperto gli occhi!
+Esiste già un salvataggio e non puoi\xfffecrearne un altro.\xf000븁\x0000\xfffeConsulta il manuale di istruzioni per\xfffeulteriori informazioni.\xf000븁\x0000\xfffePremi Su + SELECT + Pulsante B nello\xfffeschermo del titolo per cancellare\xf000븀\x0000\xfffeil salvataggio esistente.
+L'ID Sincrogioco è stato creato.\xfffe\xfffePuoi modificare l'ID Sincrogioco sopra\xffferiportato accedendo al menu di avvio\xfffee poi alle impostazioni del Sincrogioco.
+Potrai sfruttare al massimo il Sincrogioco\xffferegolando ulteriori parametri dal sito del\xfffePokémon Global Link:\xfffehttp://www.pokemon-gl.com\xfffe\xfffePer i dettagli, consulta il manuale di\xfffeistruzioni.
+Il Box è pieno!\xf000븁\x0000\xfffeDevi creare almeno uno spazio nel Box\xfffeper svegliare il Pokémon.

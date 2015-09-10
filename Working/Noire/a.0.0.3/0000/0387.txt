@@ -1,0 +1,20 @@
+Tcheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffePlus un pas!\xf000븁\x0000
+Watson et le Professeur m'ont dit que\xfffetu te dirigeais vers la Ligue?
+Tcheren: J'ai relativement confiance en\xfffeGoyah.\xf000븁\x0000\xfffeMais si jamais il perdait, c'est à toi\xfffequ'incomberait la tâche de vaincre\xf000븀\x0000\xfffele leader de la Team Plasma, N.\xf000븁\x0000\xfffeAlors, j'ai besoin de savoir...\xfffesi tu es à la hauteur de cette tâche!\xf000븁\x0000
+Tcheren: Tu n'as pas besoin de me\xfffecacher des choses!\xf000븁\x0000\xfffeJe sais que tu risques de devoir\xfffeaffronter le leader ennemi.\xf000븁\x0000\xfffeIl faut que je sache si tu peux\xffferemplir cette mission!\xf000븁\x0000
+Tcheren: Tu es incroyable.\xfffeJe le pense sincèrement.\xf000븁\x0000\xfffeLaisse-moi soigner ton équipe,\xfffeavant de continuer.\xf000븁\x0000
+Tcheren soigne l'équipe Pokémon\xfffede \xf000Ā\x0001\x0000.
+Tcheren: Il est certain que maintenant,\xfffeje ne t'arrive pas à la cheville.\xf000븁\x0000\xfffeMais si je peux faire quoi que ce soit\xfffepour t'aider dans ton dernier comb...?!\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeJe peux rien faire d'autre, alors,\xfffevoilà, prends, c'est pour toi!\xf000븁\x0000
+Bianca: C'est amusant, hein?\xfffeOn était séparés, et là...\xf000븁\x0000
+Tcheren: Amusant? Mais...!\xfffeRéveille-toi! À un moment pareil, tu...\xf000븁\x0000
+Bianca: Tcheren, il faut savoir rigoler,\xfffehein!\xf000븁\x0000\xfffeC'est pas avec ta tête d'enterrement\xfffeque ça va changer quelque chose.\xf000븁\x0000\xfffeDepuis qu'on a rencontré des Pokémon,\xfffeon est tous partis en voyage, et il s'est\xf000븀\x0000\xfffepassé plein de trucs!\xf000븁\x0000\xfffeOn a tous changé, différemment.\xf000븁\x0000\xfffeVouloir et pouvoir, c'est pas pareil,\xfffehein!\xf000븁\x0000\xfffeCe voyage, il m'a appris quelque chose.\xfffeAlors je suis bien contente!\xf000븁\x0000
+Tcheren: Ah...?\xf000븁\x0000\xfffeC'est vrai que nous avons\xfffedes talents différents...\xf000븁\x0000\xfffeIl serait bon de pouvoir les\xfffemettre à profit...\xf000븁\x0000
+
+Tcheren: Chacun a son idéal\xfffeou sa réalité.\xf000븁\x0000\xfffeMais le plus important reste\xfffede s'entraider. Car c'est naturel.\xf000븁\x0000\xfffeLes Pokémon doivent rester aux côtés\xfffedes hommes!\xf000븀\x0000\xfffeJ'en ai la conviction, maintenant.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! S'il devait vous arriver\xfffequelque chose, à toi ou à Goyah,\xf000븀\x0000\xfffeje veux pouvoir vous aider moi aussi.\xf000븁\x0000\xfffeJe vais aller m'entraîner encore.\xfffeEn attendant, ne fais pas de bêtises!\xf000븁\x0000
+Bianca: Il est parti!\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xfffeMoi aussi je veux aider!\xf000븁\x0000\xfffeEuh... Je pense que... Euh...\xfffeMince... Euh...\xf000븁\x0000\xfffeJ'arrive pas à dire quelque chose\xfffed'intelligent, zut!\xf000븁\x0000\xfffeEuh... Euuuh...\xfffeBon courage!\xf000븁\x0000
+Je suis impressionné que tu aies pu\xfffeparcourir tout ce chemin.\xf000븁\x0000\xfffeEn gage de mon admiration, je te\xfffedélivre ceci.\xf000븁\x0000
+Une Pierre Nuit.\xf000븁\x0000\xfffeElle permet de faire évoluer certains\xfffePokémon.\xf000븁\x0000\xfffeJe l'ai utilisée sur le Funécire que\xfffej'avais attrapé à la Tour des Cieux.
+Route 10
+Point de contrôle des Badges\xfffeLes portes s'ouvrent sur l'Histoire!

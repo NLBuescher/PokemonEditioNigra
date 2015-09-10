@@ -1,0 +1,8 @@
+KP
+Angriff
+Verteidigung
+Initiative
+Sp. Ang.
+Sp. Ver.
+
+

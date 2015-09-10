@@ -1,0 +1,69 @@
+Keine Verbindung zur Nintendo\xfffeWi-Fi Connection möglich.\xfffe\xfffeBesuche support.nintendo.com\xfffeoder lies die Software-Anleitung,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Entweder ist die Nintendo Wi-Fi\xfffeConnection ausgelastet oder\xfffeder Service steht momentan\xfffenicht zur Verfügung. Versuche es\xfffespäter noch einmal. Besuche\xfffesupport.nintendo.com, um weitere\xfffeHilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Diese Nintendo Wi-Fi Connection ID\xfffewar längere Zeit inaktiv und wurde\xfffedaher gelöscht.\xfffe\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Der Nintendo Wi-Fi Connection\xfffeService für diesen Titel wurde\xfffeeingestellt.\xfffeBesuche support.nintendo.com, um\xfffeeine Liste der Titel einzusehen,\xfffedie Nintendo Wi-Fi Connection\xfffeunterstützen. \xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Der Access Point ist ausgelastet.\xfffeDerzeit ist keine Verbindung\xfffemöglich. Bitte versuche es später\xfffenoch einmal.\xfffeBesuche support.nintendo.com, um\xfffeweitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Kein Access Point in Reichweite.\xfffeVersuche es bitte näher an einem\xfffeAccess Point noch einmal.\xfffe\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Kein kompatibler Access Point in\xfffeReichweite. Überprüfe bitte deine\xfffeVerbindungseinstellungen und\xfffeversuche es noch einmal.\xfffe\xfffeBesuche support.nintendo.com, um\xfffeweitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Keine Verbindung zum Nintendo\xfffeWi-Fi USB Connector möglich.\xfffeBestätige die Verbindungs-\xfffeeinstellungen im Setup der\xfffeNintendo Wi-Fi Connection.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Keine Verbindung zur Nintendo\xfffeWi-Fi Connection möglich.\xfffeBestätige die Verbindungs-\xfffeeinstellungen und versuche es erneut.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Es erfolgt keine Rückmeldung.\xfffeEntweder wurde die Verbindung\xfffegetrennt oder du wurdest aus dem\xfffeAdressbuch des Spielers\xfffeentfernt.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Fehler bei der Datenübertragung.\xfffeDie Verbindung zur Nintendo Wi-Fi\xfffeConnection wurde unterbrochen.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Fehler bei der Datenübertragung.\xfffe\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Download fehlgeschlagen.\xfffe\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Fehler bei der Datenübertragung.\xfffeDie Verbindung zur Nintendo Wi-Fi\xfffeConnection wurde unterbrochen.
+Fehler bei der Datenübertragung.\xfffe\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.
+Aufgrund eines Fehlers kann keine\xfffeVerbindung zur Nintendo Wi-Fi Connection\xfffehergestellt werden. Bitte schalte das\xfffeSystem aus und versuche es erneut.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Deine Nintendo Wi-Fi Connection-Nutzerdaten\xfffewurden eventuell gelöscht. Überprüfe bitte\xfffedas Setup der Nintendo Wi-Fi Connection.
+Eine Verbindung zur Nintendo Wi-Fi\xfffeConnection herstellen?
+Die Nintendo Wi-Fi Connection sieht dein\xfffeSystem und die DS-Karte als Einheit an.\xfffeSollen die Nintendo Wi-Fi Connection-\xfffeNutzerdaten dieses Systems auf der\xfffeDS-Karte gespeichert werden und soll eine\xfffeVerbindung zur Nintendo Wi-Fi Connection\xfffehergestellt werden?
+Die Nintendo Wi-Fi Connection-Nutzerdaten\xfffefür dieses System wurden auf der DS-Karte\xfffegespeichert. Verwende von jetzt an bitte\xfffeausschließlich dieses System, um eine\xfffeVerbindung zur Nintendo Wi-Fi Connection\xfffeherzustellen.
+Keine Verbindung zur Nintendo Wi-Fi\xfffeConnection möglich. Nintendo Wi-Fi\xfffeConnection-Nutzerdaten des Systems\xfffeund der DS-Karte stimmen nicht überein.
+Sollen die Nintendo Wi-Fi Connection-\xfffeNutzerdaten, die auf dieser DS-Karte\xfffegespeichert sind, aktualisiert werden?\xfffeDurch Aktualisierung der Nintendo Wi-Fi\xfffeConnection-Nutzerdaten gehen vorherige,\xfffezur Nutzung der Nintendo Wi-Fi Connection\xfffeverwendete Einstellungen verloren.
+Möchtest du eine Verbindung zur\xfffeNintendo Wi-Fi Connection herstellen,\xfffeum die Nintendo Wi-Fi Connection-\xfffeNutzerdaten zu aktualisieren?\xfffeWarnung:\xfffeAlle Freundescodes im Adressbuch sowie\xfffedeine Ergebnisse aus dem Bewertungsmodus\xfffedes Zufallsmatches werden dabei gelöscht.
+Verbinde mit Nintendo Wi-Fi Connection...\xfffeBitte warten!
+
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+Verbindung zur Nintendo Wi-Fi\xfffeConnection wird abgebrochen.
+Die Verbindung zur Nintendo Wi-Fi\xfffeConnection wurde unterbrochen.\xf000븂\x0001d
+JA
+NEIN
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+
+Bitte konfiguriere deine Verbindungs-\xfffeeinstellungen unter der Option\xfffe„Internet“ in den Einstellungen.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.
+
+Bitte akzeptiere den Vertrag zur\xfffeNutzung der DSi-Internet-Services\xfffein den Systemeinstellungen, um\xfffediese Funktion nutzen zu können.\xfffeFehler-Code: 50599
+\xf000봂\x0000MIT NINTENDO WFC VERBINDEN
+\xf000봂\x0000VON NINTENDO WFC TRENNEN
+Fehler bei der Datenübertragung.\xfffeDie Verbindung zur Nintendo Wi-Fi\xfffeConnection wurde getrennt.\xfffe\xfffeSoll erneut versucht werden, eine\xfffeVerbindung zur Nintendo Wi-Fi\xfffeConnection herzustellen?
+Warnung:\xfffeDamit steigst du aus dem aktuellen\xfffeWi-Fi-Turnier aus.\xfffe\xfffeMöchtest du dennoch\xfffeaktualisieren?
+Die drahtlose Verbindung ist\xfffedeaktiviert (AUS). Aktiviere die\xfffedrahtlose Verbindung in den\xfffeSystemeinstellungen (EIN).\xfffeFehler-Code: 50699
+Die Verbindung zum Gegenüber\xfffewurde getrennt.
+Fehler bei der Datenübertragung.\xfffeBitte schalte das System aus.
+Deine Nintendo Wi-Fi Connection-Nutzerdaten\xfffewurden eventuell gelöscht. Überprüfe bitte\xfffedeine Verbindungseinstellungen unter der\xfffeOption "Internet" in den System-\xfffeeinstellungen.\xfffe\xfffeBesuche support.nintendo.com, um weitere\xfffeHilfe zu erhalten.
+Die Nintendo Wi-Fi Connection sieht dein\xfffeNintendo DSi-System und deine Speicherdaten\xfffeals Einheit an. Sollen die Nintendo Wi-Fi\xfffeConnection-Nutzerdaten dieses Nintendo\xfffeDSi-Systems in den Speicherdaten abgelegt\xfffewerden und soll eine Verbindung zur Nintendo\xfffeWi-Fi Connection hergestellt werden?
+Die Nintendo Wi-Fi Connection-Nutzerdaten\xfffefür dieses Nintendo DSi-System wurden in den\xfffeSpeicherdaten abgelegt. Verwende von jetzt\xfffean bitte ausschließlich dieses Nintendo\xfffeDSi-System, um eine Verbindung zur Nintendo\xfffeWi-Fi Connection herzustellen.
+Keine Verbindung zur Nintendo Wi-Fi\xfffeConnection möglich. Nintendo Wi-Fi\xfffeConnection-Nutzerdaten des Nintendo\xfffeDSi-Systems und die Speicherdaten\xfffestimmen nicht überein.
+Sollen die Nintendo Wi-Fi Connection-\xfffeNutzerdaten, die in den Speicherdaten\xfffeabgelegt sind, aktualisiert werden?\xfffeDurch Aktualisierung der Nintendo Wi-Fi\xfffeConnection-Nutzerdaten gehen vorherige,\xfffezur Nutzung der Nintendo Wi-Fi Connection\xfffeverwendete Einstellungen verloren.
+Keine Verbindung zur Nintendo Wi-Fi\xfffeConnection möglich. Besuche\xfffesupport.nintendo.com oder lies die\xfffeNintendo DSi-Bedienungsanleitung,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Diese Nintendo Wi-Fi Connection ID war\xfffelängere Zeit inaktiv und wurde daher\xfffegelöscht. Besuche support.nintendo.com\xfffeoder lies die Nintendo DSi-Bedienungs-\xfffeanleitung, um weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Kein kompatibler Access Point in Reichweite.\xfffeBitte überprüfe die Verbindungs-\xfffeeinstellungen unter der Option „Internet“\xfffein den Systemeinstellungen und versuche\xfffees erneut. Besuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Keine Verbindung zur Nintendo Wi-Fi\xfffeConnection möglich. Bitte überprüfe die\xfffeVerbindungseinstellungen unter der Option\xfffe„Internet“ in den Systemeinstellungen und\xfffeversuche es erneut. Besuche\xfffesupport.nintendo.com, um weitere Hilfe zu\xfffeerhalten.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Aufgrund eines Fehlers kann keine\xfffeVerbindung zur Nintendo Wi-Fi Connection\xfffehergestellt werden. Führe einen Reset des\xfffeSystems aus und versuche es erneut.\xfffeFehler-Code: \xf000Ȅ\x0001\x0000
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13201
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13202
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13203
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13204
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13205
+Der gewünschte Dienst steht\xfffenicht mehr zur Verfügung.\xfffeFehler-Code: 13206
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13207
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13208
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13209
+
+Ein Server-Fehler ist aufgetreten.\xfffeDer Verbindungsaufbau ist fehlgeschlagen.\xfffeBitte warte einen Augenblick und versuche\xfffees später noch einmal.\xfffeFehler-Code: 13211
+Der Server wird zurzeit gewartet.\xfffeDetails zu den Wartungsarbeiten erhältst\xfffedu auf der Internetseite des Pokémon\xfffeGlobal Links:\xfffehttp://www.pokemon-gl.com\xfffeFehler-Code: 13212
+Ein Fehler ist aufgetreten.\xfffeVerbindung zur Nintendo Wi-Fi Connection\xfffewird abgebrochen.
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13280
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13281
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13282
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13283

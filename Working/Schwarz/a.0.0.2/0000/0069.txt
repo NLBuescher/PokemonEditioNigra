@@ -1,0 +1,43 @@
+Kontaktbaum von \xf000Ā\x0001\x0000
+MISSION ANNEHMEN
+TRANSFERKRAFT ANNEHMEN
+ZUSTAND EINSEHEN
+Es ist bereits eine Mission im Gang.
+Gesamtlevel des Kontaktbaumes: \xf000Ȃ\x0001\x0000
+
+
+◆Weiß-Level: \xf000ȃ\x0001\x0000
+◇Swz.-Lv.: \xf000ȃ\x0001\x0000
+Einsetzbare Transferkräfte: \xf000ȃ\x0001\x0000
+Kontaktebenenaufenthalt: \xf000ȁ\x0001\x0000 St. \xf000ȁ\x0001\x0001 Min.
+Abgeschlossene Missionen: \xf000Ȅ\x0001\x0000
+Status des Kontaktbaumes
+MISSION STARTEN
+MISSION IM GANG
+Die Mission wurde gestartet!\xf000븂\x0001Z
+Eine andere Mission läuft bereits!
+Wähle eine von 6 Missionen...
+Wähle eine Mission...
+Diese Mission ist nicht anwählbar, wenn 3\xfffeSpielwelten miteinander verbunden sind.
+Abenteurer in der Kontaktebene geortet.\xfffeDu kannst keine Mission annehmen.
+Über manche anwählbare Missionen\xfffekannst du einem Freund helfen.\xf000븁\x0000\xfffeStarte hierfür eine Unterstützungsmission.
+Das ist nicht der richtige Missionstyp!\xf000븁\x0000\xfffeWähle zunächst bitte eine\xfffeUnterstützungsmission aus.
+
+
+
+
+
+
+JA
+NEIN
+Möchtest du diese Transferkraft vom\xfffeKontaktbaum in Empfang nehmen?
+
+VERFÜGBARE TRANSFERKRÄFTE
+Du hast \xf000Ĝ\x0001\x0000 vom\xfffeKontaktbaum in Empfang genommen!\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000 wurde in dein C-Gear\xfffeeingespeist.
+KRAFT ANNEHMEN
+Bitte wähle eine Transferkraft, die du vom\xfffeKontaktbaum erhalten möchtest.
+TRANSFERKRAFT IN DEINEM BESITZ
+Noch keine Transferkraft erhalten...
+Benötigte Orbs: \xf000ȃ\x0001\x0000
+\xf000봂\x0000◆ Erhältlich ab Weiß-Level von \xf000Ȃ\x0001\x0000 ◆\xfffe\xfffeAktuelle Levelstände\xfffe◇ Schwarz-Level: \xf000Ȃ\x0001\x0002 ◆ Weiß-Level: \xf000Ȃ\x0001\x0001
+\xf000봂\x0000◇ Erhältlich ab Schwarz-Level von \xf000Ȃ\x0001\x0000 ◇\xfffe\xfffeAktuelle Levelstände\xfffe◇ Schwarz-Level: \xf000Ȃ\x0001\x0002 ◆ Weiß-Level: \xf000Ȃ\x0001\x0001

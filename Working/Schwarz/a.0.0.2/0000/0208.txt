@@ -1,0 +1,255 @@
+
+
+\xf000Ă\x0001\x0000 wurde nicht getauscht.\xf000븁\x0000
+\xf000Ă\x0001\x0000 ist offenbar geflohen...\xf000븁\x0000
+Ein Pokémon suchen oder anbieten?
+Was soll mit \xf000Ă\x0001\x0000 geschehen?
+Willst du \xf000Ă\x0001\x0000 annehmen?
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+Welche Art von Pokémon suchst du?
+Wähle aus, welches Pokémon du willst.
+Wähle das Geschlecht.
+Wähle den Level.
+Wähle aus, welches Pokémon du suchst.
+Dein Wunsch-Pokémon wird gesucht...
+Leider nichts gefunden!
+Suche abbrechen?
+Gegen das Pokémon dieses\xfffeTrainers tauschen?
+Wähle das zu tauschende Pokémon.
+Was soll mit \xf000Ă\x0001\x0000 geschehen?
+
+
+Wähle das Pokémon zum Anbieten.
+\xf000Ă\x0001\x0000 anbieten?
+Bist du damit einverstanden?
+Überprüfe GTS-Status...
+Die Ballkapsel wird entfernt.\xfffeEinverstanden?
+Dieses Pokémon kann nicht zum Tausch\xfffeangeboten werden.\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13266\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13267\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13268\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13269\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13270\xf000븁\x0000
+Dieses Pokémon kann nicht angeboten\xfffewerden. Fehler-Code: 13271\xf000븁\x0000
+Ein Ei kann nicht zum Tausch\xfffeangeboten werden.\xf000븁\x0000
+
+Deine Boxen sind voll.\xfffeDu kannst kein Pokémon empfangen.\xf000븁\x0000
+Tauschpartner gefunden!
+
+Berühre „WÄHLEN“, um fortzufahren.
+Bitte ändere die Bedingungen.
+Bitte warte einen Moment.
+Dein Team ist voll. Du kannst kein\xfffePokémon erhalten, das einen Brief hält.\xf000븁\x0000
+In deinem Team ist kein Platz mehr.
+Es hat ein besonderes Band. Es kann\xfffenicht zum Tausch angeboten werden.\xf000븁\x0000
+GTS-Überprüfung fehlgeschlagen.
+\xf000봂\x0000GLOBALE TAUSCHSTATION
+\xf000봂\x0000BERICHT
+\xf000봂\x0000POKÉMON ANBIETEN
+\xf000봂\x0000POKÉMON SUCHEN
+\xf000봂\x0000BEENDEN
+
+
+
+
+
+ANBIETER
+
+
+
+
+
+ZURÜCKNEHMEN
+SO LASSEN
+JA
+NEIN
+NAME
+
+POKÉMON
+
+GESCHLECHT
+
+LEVEL
+
+SUCHEN
+\xf000봂\x0000ZURÜCK
+WÄHLEN
+
+
+
+ITEM
+
+
+
+GESUCHT
+
+
+
+ORT
+\xf000Ĥ\x0001\x0008
+\xf000ĥ\x0001\x0009
+
+
+
+BERICHT
+TAUSCH
+ZURÜCK
+
+
+TEAM-POKÉMON
+
+
+
+
+
+BERICHT
+ABLEGEN
+ZURÜCK
+GESUCHT
+
+
+POKÉMON ANBIETEN
+
+Lv.
+\xf000Ȃ\x0001\x0003
+Lv. \xf000Ȃ\x0001\x0003
+ZURÜCK
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+EGAL
+⑭
+⑮
+\xf000봂\x0000ZURÜCK
+EGAL
+BIS LV. 9
+LV. 10 PLUS
+LV. 20 PLUS
+LV. 30 PLUS
+LV. 40 PLUS
+LV. 50 PLUS
+LV. 60 PLUS
+LV. 70 PLUS
+LV. 80 PLUS
+LV. 90 PLUS
+LV. 100
+
+
+
+
+
+
+
+Leider wurde es bereits mit einem\xfffeanderen Trainer getauscht.\xf000븁\x0000
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+
+Die GTS wird momentan gewartet.\xfffeVersuche es bitte später noch einmal.\xf000븁\x0000
+Die GTS ist momentan überfüllt.\xf000븁\x0000\xfffeVersuche es bitte später noch einmal.\xfffeFehler-Code: 13261\xf000븁\x0000
+Suche fehlgeschlagen...
+Fehler bei der Datenübertragung.\xf000븁\x0000\xfffeBesuche support.nintendo.com,\xfffeum weitere Hilfe zu erhalten.
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13272\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13275\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13263\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13265\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13264\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13273\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13281\xf000븁\x0000
+Fehler bei der Datenübertragung.\xfffeBesuche support.nintendo.com,\xf000븁\x0000\xfffeum weitere Hilfe zu erhalten.\xfffeFehler-Code: 13282\xf000븁\x0000
+Es konnte keine Verbindung zur\xfffeGTS hergestellt werden.\xf000븁\x0000
+Die Verbindung zur GTS wurde getrennt.\xfffeFehler-Code: 13262\xf000븁\x0000
+Die Verbindung zur GTS wurde getrennt.\xfffeFehler-Code: 13274\xf000븁\x0000
+Die Verbindung wurde getrennt.
+Die Verbindung wird neu aufgebaut.
+EGAL
+LV. 1 BIS 10
+LV. 11 BIS 20
+LV. 21 BIS 30
+LV. 31 BIS 40
+LV. 41 BIS 50
+LV. 51 BIS 60
+LV. 61 BIS 70
+LV. 71 BIS 80
+LV. 81 BIS 90
+LV. 91 BIS 100
+
+ORT
+
+EGAL
+ ALLE
+\xf000봂\x0000ZURÜCK
+Bitte wähle einen Ort für das Pokémon.
+
+
+Dieses Pokémon kann nicht getauscht\xfffewerden, solang es dieses Item trägt!\xf000븁\x0000
+OT
+
+
+
+
+
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GTS
+GTS\xfffePOKÉMON TAUSCHEN
+GTS\xfffeBERICHT
+GTS\xfffePOKÉMON ANBIETEN
+GTS\xfffePOKÉMON SUCHEN
+ZURÜCK
+\xf000Ȁ\x0001\x0000
+/

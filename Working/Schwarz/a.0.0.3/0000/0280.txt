@@ -1,0 +1,33 @@
+Der Baum sieht aus, als ob er\xfffezerschnitten werden könnte.\xf000븁\x0000\xfffeMöchtest du Zerschneider einsetzen?
+\xf000Ă\x0001\x0000 setzt\xfffeZerschneider ein.\xf000븁\x0000
+Der Baum sieht aus, als ob er\xfffezerschnitten werden könnte!
+
+
+
+Ein Pokémon kann diesen Felsen\xfffevielleicht bewegen.\xf000븁\x0000\xfffeMöchtest du Stärke einsetzen?
+
+Ein Pokémon kann diesen Felsen\xfffevielleicht bewegen.
+Stärke ermöglicht es,\xfffeFelsen zu bewegen.
+\xf000Ă\x0001\x0000 setzt Stärke ein.\xf000븁\x0000
+Stärke von \xf000Ă\x0001\x0000 ermöglicht es,\xfffeFelsen zu bewegen.
+
+Das Wasser ist tiefblau.\xfffeMöchtest du Surfer einsetzen?
+\xf000Ă\x0001\x0000 setzt Surfer ein.\xf000븁\x0000
+Surfer kann nicht eingesetzt werden,\xfffewenn dich jemand begleitet.
+
+
+
+
+
+
+
+Ein riesiger Wasserfall.\xfffeMöchtest du Kaskade einsetzen?
+\xf000Ă\x0001\x0000 setzt Kaskade ein.\xf000븁\x0000
+Eine Wasserwand stürzt\xfffemit Getöse in die Tiefe.
+
+\xf000Ă\x0001\x0000 setzt Blitz ein.\xf000븁\x0000
+\xf000Ă\x0001\x0000 setzt Teleport ein!\xf000븁\x0000
+\xf000Ă\x0001\x0000 setzt Schaufler ein!\xf000븁\x0000
+Das Meer ist sehr tief! Ein Pokémon\xfffekönnte dennoch hinabtauchen.
+Das Meer ist sehr tief!\xfffeMöchtest du Taucher einsetzen?
+\xf000Ă\x0001\x0000 setzt Taucher ein!\xf000븁\x0000

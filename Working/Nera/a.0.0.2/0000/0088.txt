@@ -1,0 +1,9 @@
+Dimenticherà l'espressione che conosce.\xfffeVa bene?
+Premi il pulsante A e quindi parla nel\xfffemicrofono.\xf000븁\x0000
+\xf000Ă\x0001\x0000 ha imparato una nuova\xfffeespressione!\xf000븁\x0000
+\xf000Ă\x0001\x0000 non ha imparato una nuova\xfffeespressione!\xf000븁\x0000
+
+
+Preparazione microfono...
+SÌ
+NO

@@ -1,0 +1,20 @@
+\xf000Ā\x0001\x0000 verwendet Transferkraft\xfffe\xf000Ĝ\x0001\x0002!\xf000븁\x0000
+Die Wirkung von \xf000Ĝ\x0001\x0002\xfffelässt nach.
+Die Wirkung von \xf000Ĝ\x0001\x0002\xfffelässt nach.\xf000븁\x0000
+Überprüfe Transferkraft-Status...\xf000븁\x0000
+\xf000\xff00\x0001\x0002Installierte Transferkraft\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0002Aktive Transferkraft\xf000\xff00\x0001\x0000
+\xf000Ĝ\x0001\x0000
+\xf000Ĝ\x0001\x0000\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001:\xf000ȁ\x0001\x0002
+\xf000Ā\x0001\x0000 trifft auf mehr\xfffewilde Pokémon!
+\xf000Ā\x0001\x0000 trifft auf weniger\xfffewilde Pokémon!
+Pokémon schlüpfen schneller\xfffeaus ihren Eiern!
+Die Pokémon von \xf000Ā\x0001\x0000\xfffewerden schneller zutraulich!
+Im Pokémon-Supermarkt beginnt\xfffeder Ausverkauf!
+Die KP des \xf000Ă\x0001\x0001 von \xf000Ā\x0001\x0000\xfffewurden wieder aufgefrischt!
+Die AP des \xf000Ă\x0001\x0001 von \xf000Ā\x0001\x0000\xfffewurden wieder aufgefrischt!
+Die Pokémon von \xf000Ā\x0001\x0000\xfffeerhalten mehr Erfahrungspunkte!
+Die Pokémon von \xf000Ā\x0001\x0000\xfffeerhalten weniger Erfahrungspunkte!
+\xf000Ā\x0001\x0000 bekommt nach Kämpfen\xfffemehr Preisgeld!
+\xf000Ā\x0001\x0000 fällt es leichter,\xfffePokémon zu fangen!
+Alle Pokémon von \xf000Ā\x0001\x0000\xfffehaben sich erholt!

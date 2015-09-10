@@ -1,0 +1,27 @@
+Entrez le numéro du Train (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Réception des données\xfffedu Rang \xf000ȁ\x0001\x0001, Train numéro \xf000ȁ\x0001\x0000...
+Vous ne pouvez pas monter dans ce train\xfffeavant la prochaine mise à jour.\xf000븁\x0000
+Les données ont été reçues!\xf000븁\x0000
+Voulez-vous abandonner?
+Entrez le Rang du Train pour afficher\xfffeles données (01-10).\xf000븁\x0000
+Entrez le numéro du Train (01-\xf000ȁ\x0001\x0000).\xf000븁\x0000
+Envoi de vos données...
+Vos données ont été envoyées.\xf000븁\x0000
+Annuler le téléchargement des données?
+
+
+
+Le Train Wi-Fi est en cours de maintenance.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13281)\xf000븁\x0000
+Le Train Wi-Fi connaît en ce moment\xfffeun trafic trop important.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13282)\xf000븁\x0000
+Le Train Wi-Fi est surchargé.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13261)\xf000븁\x0000
+Impossible de se connecter au Train Wi-Fi.\xf000븁\x0000\xfffeRetour à la réception.\xfffe(Code d'erreur: 13262)\xf000븁\x0000
+Le Train Wi-Fi est en cours de maintenance.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13266)\xf000븁\x0000
+La communication avec le Train Wi-Fi\xfffea été coupée.\xf000븁\x0000\xfffeRetour à la réception.\xfffe(Code d'erreur: 13264)\xf000븁\x0000
+La communication avec le Train Wi-Fi\xfffea été coupée.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13267)\xf000븁\x0000
+Ce numéro n'est pas valide pour\xfffele Train Wi-Fi.\xf000븁\x0000\xfffe(Code d'erreur: 13263)\xf000븁\x0000
+
+Une erreur est survenue\xfffelors de la communication.\xf000븁\x0000\xfffe(Code d'erreur: 13267)\xf000븁\x0000
+Il semblerait y avoir un problème\xfffeavec vos Pokémon.\xf000븁\x0000
+
+
+En attente de communication.\xfffeVeuillez patienter quelques instants...

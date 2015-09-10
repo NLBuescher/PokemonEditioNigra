@@ -1,0 +1,140 @@
+USA
+BUTTA
+ASSEGNA
+DAI
+
+OK
+SCENDI
+
+ESCI
+
+
+
+
+
+
+
+GUARDA
+
+ANNULLA
+
+
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hai selezionato lo strumento \xf000ĉ\x0001\x0000!
+
+
+
+Non puoi far tenere a un Pokémon\xfffelo strumento \xf000ĉ\x0001\x0000!
+
+
+
+
+
+Quanti strumenti \xf000ĉ\x0001\x0000 vuoi\xfffebuttare?
+Hai buttato \xf000Ȃ\x0001\x0001 unità di \xf000ĉ\x0001\x0000!
+Vuoi buttare \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Sembra quasi di sentire l'eco delle\xfffeparole della Prof.ssa Aralia:\xf000븀\x0000\xfffe“\xf000Ā\x0001\x0000! C'è un luogo e un tempo\xf000븀\x0000\xfffeper ogni cosa. Non è il momento, ora!"
+Non puoi scendere dalla Bici qui.
+Sembra quasi di sentire l'eco delle\xfffeparole della Prof.ssa Aralia:\xf000븀\x0000\xfffe“\xf000Ā\x0001\x0000! C'è un luogo e un tempo\xf000븀\x0000\xfffeper ogni cosa. Non è il momento, ora!"
+
+Hai attivato una Macchina Tecnica.
+Hai attivato una Macchina Nascosta.
+Contiene la mossa \xf000ć\x0001\x0000! Desideri\xfffeinsegnarla a un Pokémon?
+\xf000Ā\x0001\x0000 usa \xf000ĉ\x0001\x0001!
+È ancora attivo il repellente usato prima.
+
+
+
+
+\xf000봂\x0000MT\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+
+\xf000봂\x0000MN\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+
+
+
+
+
+\xf000ĉ\x0001\x0000? Peccato! Non posso comprare\xfffequesto strumento.
+\xf000ĉ\x0001\x0000? In che quantità?
+Posso darti $\xf000Ȇ\x0001\x0000. Va bene?
+Affare fatto! Ecco i tuoi $\xf000Ȇ\x0001\x0001!
+Soldi
+$\xf000Ȇ\x0001\x0000
+
++ $\xf000Ȇ\x0001\x0000
+
+
+
+
+
+PP 
+POTENZA
+PRECISIONE
+CATEGORIA
+\xf000ȁ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+
+
+
+
+
+
+TIPO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+SÌ
+NO
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+La tasca è vuota.
+
+
+Strumenti riordinati!
+\xf000Ē\x0001\x0000

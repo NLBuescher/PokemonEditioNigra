@@ -1,0 +1,17 @@
+BOÎTE AUX LETTRES
+
+
+
+
+LIRE
+EFFACER
+DONNER
+RETOUR
+Que faire avec la Lettre de\xfffe\xf000Ā\x0001\x0000?
+Le message sera perdu.\xfffeContinuer?
+Le message a été effacé.
+Faire tenir la Lettre à un Pokémon?
+La Lettre a été mise dans le Sac\xfffeet son message a été effacé.
+Le Sac est plein.\xfffeLa Lettre a été jetée.
+OUI
+NON

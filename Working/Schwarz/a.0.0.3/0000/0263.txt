@@ -1,0 +1,13 @@
+Schutz wirkt nicht mehr...
+Hier scheint nichts zu sein...
+Aus irgendeinem Grund ist\xfffeder Lockduft verschwunden...
+Du hast ein Pokémon geangelt!\xf000븁\x0000
+Da beißt nichts an...\xf000븁\x0000
+Zu schnell eingezogen...\xf000븁\x0000
+Zu langsam eingezogen...\xf000븁\x0000
+\xf000Ā\x0001\x0000 wird in die\xfffeKontaktebene teleportiert!\xf000븁\x0000
+Du kannst dich von hier aus nicht\xfffein die Kontaktebene teleportieren!
+Teleport nicht möglich, da bereits eine\xfffeMission in der Kontaktebene im Gange ist.
+Du bist gerade mit jemand anderem\xfffeverbunden und kannst dich daher nicht\xf000븀\x0000\xfffein die Kontaktebene teleportieren!
+Du nimmst an einer Mission in der Kontakt-\xfffeebene teil. Nach Missionsabschluss\xf000븀\x0000\xfffekehrst du wieder hierher zurück!\xf000븁\x0000\xfffeDu wirst nun in die Kontaktebene des\xfffeanderen Spielers teleportiert!\xf000븁\x0000
+Die Verbindung wurde getrennt.

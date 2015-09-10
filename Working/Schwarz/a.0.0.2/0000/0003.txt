@@ -1,0 +1,140 @@
+EINSETZEN
+MÜLL
+REGISTRIEREN
+GEBEN
+
+O.K.
+LAUFEN
+
+ZURÜCK
+
+
+
+
+
+
+
+PRÜFEN
+
+AUFHEBEN
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000ĉ\x0001\x0000 ausgewählt.\xfffeWas soll damit geschehen?
+
+
+
+\xf000ĉ\x0001\x0000 kann keinem Pokémon\xfffezum Tragen gegeben werden.
+
+
+
+
+
+Wie viele \xf000ĉ\x0001\x0000\xfffesollen in den Müll wandern?
+\xf000Ȃ\x0001\x0001 Exemplar(e) des Items\xfffe\xf000ĉ\x0001\x0000 wurde(n) weggeworfen.
+Willst du wirklich \xf000Ȃ\x0001\x0001 Exemplar(e)\xfffedes Items \xf000ĉ\x0001\x0000 wegwerfen?
+Prof. Esche sagt immer...\xfffe„\xf000Ā\x0001\x0000, dies ist weder der\xf000븀\x0000\xffferechte Ort noch die rechte Zeit dafür!“
+Du kannst hier nicht vom Rad steigen.
+Prof. Esche sagt immer...\xfffe„\xf000Ā\x0001\x0000, dies ist weder der\xf000븀\x0000\xffferechte Ort noch die rechte Zeit dafür!“
+
+Eine TM wurde aktiviert.
+Eine VM wurde aktiviert.
+Sie enthält\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffe\xf000ć\x0001\x0000 einem\xfffePokémon beibringen?
+\xf000Ā\x0001\x0000 setzt\xfffe\xf000ĉ\x0001\x0001 ein.
+Aber Schutz wirkt doch\xfffenoch!
+
+
+
+
+\xf000봂\x0000Nr. \xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
+
+\xf000봂\x0000VM\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
+
+
+
+
+
+\xf000ĉ\x0001\x0000? Es tut mir leid, aber\xfffedas kann ich nicht kaufen.
+\xf000ĉ\x0001\x0000?\xfffeWie viele verkaufst du?
+Dafür gebe ich dir \xf000Ȇ\x0001\x0000 $.\xfffeBist du einverstanden?
+\xf000ĉ\x0001\x0000 im Tausch gegen\xfffe\xf000Ȇ\x0001\x0001 $ übergeben.
+Geld
+\xf000Ȇ\x0001\x0000 $
+
++ \xf000Ȇ\x0001\x0000 $
+
+
+
+
+
+AP
+STÄRKE
+GENAU.
+KATEGORIE
+\xf000ȁ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+
+
+
+
+
+
+TYP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+JA
+NEIN
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+Nicht vorhanden.
+
+
+So, jetzt ist alles aufgeräumt!
+\xf000Ē\x0001\x0000

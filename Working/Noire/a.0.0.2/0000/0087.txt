@@ -1,0 +1,24 @@
+
+
+Voulez-vous créer des données\xfffepour utiliser la Synchro-Jeu?
+Création des données.\xfffeVeuillez patienter.
+OUI
+NON
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Veuillez utiliser un ordinateur pour\xfffeaccéder au site du Pokémon Global Link\xfffeet entrer votre ID de Synchro-Jeu.\xfffeLa Synchro-Jeu sera ainsi paramétrée.\xfffe\xfffehttp://www.pokemon-gl.com
+ID de Synchro-Jeu édité.\xfffe\xfffeVous pouvez vérifier ce code à tout\xfffemoment dans le menu principal à la\xffferubrique “PARAMÈTRES SYNCHRO-JEU".
+Veuillez utiliser un ordinateur pour\xfffeaccéder au site du Pokémon Global Link\xfffeet entrer votre ID de Synchro-Jeu.\xfffeLa Synchro-Jeu sera ainsi paramétrée.\xfffe\xfffehttp://www.pokemon-gl.com
+ID de Synchro-Jeu
+Sauvegarde de l'ID de Synchro-Jeu.
+Une erreur s'est produite sur le serveur.\xfffeVeuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13201)
+Une erreur s'est produite sur le serveur.\xfffeVeuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13202)
+Une erreur de communication\xfffes'est produite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13203)
+Une erreur de communication\xfffes'est produite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13204)
+Une erreur s'est produite sur le serveur.\xfffeVeuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13205)
+Le service pour ce logiciel a été \xfffeinterrompu. \xfffe(Code d'erreur: 13206)
+Une erreur de communication\xfffes'est produite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13207)
+Une erreur s'est produite sur le serveur.\xfffeVeuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13208)
+Une erreur de communication\xfffes'est produite. Veuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13209)
+Une erreur s'est produite sur le serveur.\xfffeVeuillez réessayer.\xfffeSi le problème persiste, veuillez\xfffevous reporter à la rubrique\xfffe“En cas de problème" du mode d'emploi.\xfffe(Code d'erreur: 13210)
+Le serveur est surchargé. \xfffeLa connexion a échoué.\xfffeVeuillez réessayer ultérieurement.\xfffe(Code d'erreur: 13211)
+Le serveur est en cours de maintenance.\xfffeVeuillez visiter le site\xfffedu Pokémon Global Link\xfffepour plus de renseignements.\xfffehttp://www.pokemon-gl.com\xfffe(Code d'erreur: 13212)

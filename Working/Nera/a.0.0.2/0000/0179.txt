@@ -1,0 +1,36 @@
+CONTINUA
+NUOVO GIOCO
+DONO SEGRETO
+IMPOSTAZIONI NINTENDO WFC
+GARA DI LOTTA
+OPZIONI SINCROGIOCO
+TRASFERITORE
+PROVA AUDIO
+
+Tempo: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+Pokédex: \xf000Ȃ\x0001\x0000
+Medaglie: \xf000ȁ\x0001\x0000
+\xf000Ā\x0001\x0000
+
+
+
+\xf000ą\x0001\x0000
+La comunicazione wireless è disattivata.\xf000븁\x0000\xfffePer attivarla, vai alle Impostazioni\xfffedella console. \xf000븀\x0000\xfffe(Codice errore: 50699)
+Funzionalità wireless limitata dal filtro\xfffefamiglia.
+
+ATTENZIONE!
+Grazie alla funzionalità wireless è possibile\xfffesfruttare tutte le potenzialità di questo\xfffegioco, ma è necessario disattivarla se ti\xfffetrovi in ambienti in cui non è consentito\xfffeutilizzarla, come ospedali o aerei.\xfffePuoi farlo anche durante il gioco,\xfffedallo schermo del C-Gear.
+ATTENZIONE!
+Sono presenti dati di gioco salvati.\xfffeSe ora inizi un'avventura, non potrai\xfffesalvarla.\xfffeVuoi cominciare lo stesso una nuova\xfffeavventura?
+Pulsante A: Comincia l'avventura
+Pulsante B: Indietro
+Vuoi effettuare il collegamento?
+Così non potrai utilizzare le funzioni\xfffedel C-Gear. Vuoi procedere comunque?
+I dati di gioco sono stati cancellati\xfffeperché erano danneggiati.
+È stato cancellato un Video Lotta.
+I dati sull'aspetto del C-Gear sono stati\xfffecancellati!
+I dati sugli Esami di Lotta sono\xfffestati cancellati!
+I dati sui programmi del Pokémon Musical\xfffesono stati cancellati!
+I dati sull'aspetto del Pokédex sono stati\xfffecancellati!
+I dati sui Pokémon entrati nella Sala\xfffed'Onore sono stati cancellati!
+I dati sui Doni Segreti ricevuti sono stati\xfffecancellati!

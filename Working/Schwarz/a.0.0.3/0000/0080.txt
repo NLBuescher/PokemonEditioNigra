@@ -1,0 +1,16 @@
+Siege am Stück: \xf000ȃ\x0001\x0000\xf000븁\x0000\xfffeAls Nächstes folgt Waggon Nr. \xf000Ȁ\x0001\x0001.\xfffeMit den Kämpfen fortfahren?
+Fortfahren
+Aufzeichnen
+Ausruhen
+Zurückziehen
+Möchtest du dich von den Kämpfen\xfffezurückziehen?
+Möchtest du speichern und\xfffedas Spiel beenden?
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Möchtest du das bestehende Kampfvideo\xfffelöschen und den letzten Kampf speichern?
+Warte auf Antwort des Freundes...
+
+Du hast „Zurückziehen“ gewählt. Du\xfffeziehst dich damit von den Kämpfen zurück.
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Der Kampf von \xf000Ā\x0001\x0000 wurde\xfffeals Kampfvideo gespeichert.
+Möchtest du deinen letzten Kampf\xfffeals Kampfvideo speichern?
+Bereit für Übertragung...

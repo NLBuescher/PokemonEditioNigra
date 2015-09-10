@@ -1,0 +1,121 @@
+\xf000봂\x0000ABBINAMENTO A CASO - LIBERO
+\xf000봂\x0000ABBINAMENTO A CASO - PUNTEGGIO
+\xf000봂\x0000LOTTA IN SINGOLO
+\xf000봂\x0000LOTTA IN DOPPIO
+\xf000봂\x0000LOTTA IN TRIPLO
+\xf000봂\x0000LOTTA A ROTAZIONE
+\xf000봂\x0000LOTTA CON LANCIO
+\xf000봂\x0000Record di \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000PUNTEGGIO:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000TOTALE LOTTE:
+\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
+\xf000봃\x0001\x0000LOTTE VINTE:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000LOTTE PERSE:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0004/\xf000ȃ\x0001\x0003
+POKÉMON REGISTRATI
+POKÉMON REGISTRATI
+POKÉMON REGISTRATI
+LUOGO DI ORIGINE
+SALUTO
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Ricezione dati in corso.\xfffeAttendi...
+In quale modalità di Abbinamento a Caso vuoi\xfffelottare?
+La modalità Abbinamento a Caso - Libero\xfffeverrà avviata.\xf000븁\x0000
+LIBERO
+PUNTEGGIO
+ESCI
+Vuoi uscire dall'Abbinamento a Caso?
+SÌ
+NO
+Ricerca avversario in corso.
+Avversario trovato!
+Hai deciso di interrompere la ricerca\xfffedi un avversario?
+Fai la tua scelta.
+Invio dati in corso.\xfffeAttendi...
+Vuoi continuare la lotta?
+Vuoi uscire dall'Abbinamento a Caso?
+Salvataggio in corso.\xfffeNon spegnere la console.
+La modalità Abbinamento a Caso - Punteggio\xfffeverrà avviata.\xf000븁\x0000
+In attesa del server.\xfffeAttendi...
+Comunicazione in corso.\xfffeAttendi...
+
+
+
+PARTECIPA
+REGOLE
+ESCI
+
+
+SÌ
+NO
+Ricerca dati di gara in corso.
+L'ID Sincrogioco non è registrato\xfffenel Pokémon Global Link.\xf000븁\x0000\xfffeRegola le impostazioni del Sincrogioco\xfffee usa un computer collegato a Internet\xf000븀\x0000\xfffeper registrarti sul sito del Pokémon\xf000븀\x0000\xfffeGlobal Link.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000
+
+Non è stata trovata alcuna gara a cui puoi\xfffepartecipare.\xf000븁\x0000\xfffeNon puoi partecipare due volte alla stessa\xfffeGara di Lotta.\xf000븁\x0000
+Aggiornamento Certificato Partecipante.\xfffeNon spegnere la console.
+Al momento non c'è alcuna gara a cui puoi\xfffepartecipare.\xf000븁\x0000
+Per partecipare alle Gare Wi-Fi devi prima\xfffeaggiornare il Certificato Partecipante.\xf000븁\x0000\xfffeVuoi sovrascrivere il tuo Certificato\xfffePartecipante attuale?
+Il Certificato Partecipante verrà\xfffeaggiornato per partecipare alle\xf000븀\x0000\xfffeGare Wi-Fi.\xf000븁\x0000\xfffeI Box Lotta delle gare precedenti\xfffeverranno cancellati.\xf000븁\x0000\xfffeVuoi sovrascrivere il Certificato\xfffePartecipante attuale?
+Non puoi partecipare alle gare senza\xfffeaggiornare il Certificato Partecipante.\xf000븁\x0000\xfffeVuoi annullare l'aggiornamento?\xfffe
+
+Non è stato possibile aggiornare\xfffeil Certificato Partecipante.
+Per questa gara verranno registrati\xfffei Pokémon del Box Lotta.\xf000븁\x0000\xfffeAttenzione!\xfffeUna volta registrati, i Pokémon non\xf000븀\x0000\xfffepossono essere cambiati fino al termine\xf000븀\x0000\xfffedella gara.\xf000븁\x0000\xfffeVuoi procedere alla registrazione\xfffedei Pokémon del Box Lotta?
+SÌ
+NO
+Vuoi annullare la registrazione?
+Vuoi interrompere l'iscrizione alla gara?
+Invio dati in corso.\xfffeNon spegnere la console.
+È stato riscontrato un problema con i\xfffePokémon che hai selezionato.\xf000븀\x0000\xfffeLa tua partecipazione sarà annullata.\xf000븁\x0000
+Iscrizione alla gara completata!\xf000븁\x0000
+Le condizioni di partecipazione alla gara\xfffenon sono state soddisfatte.\xf000븁\x0000\xfffeConsulta le regole della gara per creare\xfffeun set di Pokémon idoneo nel Box Lotta.\xf000븁\x0000
+Gara Wi-Fi di Lotta Pokémon!\xfffeScegli un'opzione.
+Lotta
+Abbandona la gara
+Esci
+Vuoi interrompere la gara?
+
+Il periodo di svolgimento è scaduto.\xfffeLa gara termina qui.\xf000븁\x0000
+Registrazione del Box Lotta annullata.\xf000븁\x0000
+Al momento non sei iscritto ad alcuna\xfffegara.\xf000븁\x0000
+Se abbandoni, non potrai più partecipare\xfffea questa gara.\xf000븁\x0000\xfffeVuoi abbandonare?
+Vuoi abbandonare definitivamente questa\xfffegara?
+Ricerca avversario in corso.
+
+Avversario trovato!
+Il Risultato della lotta è stato inviato\xfffeal server.\xf000븁\x0000\xfffeIl calcolo del Punteggio richiederà un po'\xfffedi tempo.\xf000븁\x0000\xfffeUna volta terminato il calcolo, vedrai\xfffei Punteggi aggiornati quando cercherai\xf000븀\x0000\xfffeun avversario.\xf000븁\x0000
+
+Ricezione dati in corso.\xfffeAttendi...
+Conferma dei dati di gara in corso.
+Gara di Lotta Pokémon Wi-Fi!\xfffeVuoi continuare la lotta?
+Lotta
+Abbandona la gara
+Esci
+Al momento non sono in corso gare a cui\xfffestai partecipando.\xf000븁\x0000\xfffeControlla il calendario.\xf000븁\x0000
+Non c'è alcun Pokémon nel Box Lotta.\xf000븁\x0000\xfffeConsulta le regole della gara per creare\xfffeun set di Pokémon idoneo.\xf000븁\x0000
+
+L\xf000Ȃ\x0001\x0000
+♂
+♀
+
+Iscrizione alla gara completata!\xfffeOra registra la tua squadra di Pokémon.
+Iscrizione alla gara completata!\xfffeIl Box Lotta non è aperto a cambiamenti.
+Se abbandoni, non potrai più partecipare\xfffea questa gara.\xf000븁\x0000\xfffeVuoi abbandonare?
+
+Abbandono della gara in corso.\xfffeNon spegnere la console.
+Registrazione del Box Lotta annullata.\xf000븁\x0000
+Questa gara è terminata.
+Hai abbandonato la gara in corso.
+I dati del Certificato Partecipante non\xfffesono stati trovati.\xf000븁\x0000
+La console e/o la scheda di gioco non\xfffecorrispondono a quelle registrate\xf000븀\x0000\xfffeall'iscrizione.\xf000븁\x0000\xfffeL'iscrizione a questa gara è stata\xfffeannullata.\xf000븁\x0000
+Se abbandoni, non potrai più partecipare\xfffea questa gara.\xf000븁\x0000\xfffeVuoi abbandonare?
+Vuoi abbandonare definitivamente questa\xfffegara?
+Hai abbandonato la gara.\xf000븁\x0000
+INDIETRO
+ABBANDONA GARA
+SÌ
+NO
+È stato riscontrato un problema con i\xfffePokémon che hai selezionato.\xf000븀\x0000\xfffeLa tua partecipazione sarà annullata.\xf000븁\x0000

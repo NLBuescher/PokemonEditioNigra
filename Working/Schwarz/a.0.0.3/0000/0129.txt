@@ -1,0 +1,9 @@
+Ich bin Lilias Trainerin!\xf000븁\x0000\xfffeDabei war Lilia eigentlich\xfffeschon immer stärker als ich!
+Draco Meteor, die Attacke,\xfffedie uns Lysander lehrt,\xf000븀\x0000\xfffeist die stärkste Drachen-Attacke!\xf000븁\x0000\xfffeAllerdings sinkt nach ihrem Einsatz\xfffeder Spezial-Angriffs-Wert dramatisch.
+Draco Meteor, die Attacke,\xfffedie uns Lilia lehrt,\xf000븀\x0000\xfffeist die stärkste Drachen-Attacke!\xf000븁\x0000\xfffeAllerdings sinkt nach ihrem Einsatz\xfffeder Spezial-Angriffs-Wert dramatisch.
+Abnehmen leicht gemacht!\xf000븁\x0000\xfffeMachst du dir Sorgen über das Gewicht\xfffedeines Pokémon, gib ihm das hier mit!\xf000븁\x0000
+Trägt ein Pokémon den Leichtstein bei\xfffesich, wiegt es nur noch die Hälfte!\xf000븁\x0000\xfffeDamit kannst du den gewichtsabhängigen\xfffeSchaden von Attacken wie Fußkick oder\xf000븀\x0000\xfffeStrauchler reduzieren.
+Ich habe da ein Item, mit dem ich nicht\xfffeviel anzufangen weiß. Möchtest du\xf000븀\x0000\xfffees haben?
+Schon klar. Ich würd's mir auch nicht\xfffeabnehmen...
+Du weißt sicher etwas damit anzufangen!\xfffeHier, es gehört jetzt dir!\xf000븁\x0000
+Gibst du deinem Pokémon das Item\xfffeZielscheibe, treffen Gegner es auch\xf000븀\x0000\xfffemit Attacken, gegenüber deren Typ\xf000븀\x0000\xfffees ansonsten unempfindlich wäre.\xf000븁\x0000\xfffeJetzt trifft z. B. eine Attacke vom Typ\xfffeNormal ein Geist-Pokémon usw.\xf000븁\x0000\xfffeDas Item ist zwar echt schwer zu\xfffehandhaben, aber kann sehr nützlich\xf000븀\x0000\xfffesein!

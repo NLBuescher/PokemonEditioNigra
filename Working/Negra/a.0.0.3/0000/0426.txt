@@ -1,0 +1,37 @@
+Soy el Encargado de la Guardería.\xf000븁\x0000\xfffeAquí cuidamos de los Pokémon\xfffede algunos Entrenadores.\xf000븁\x0000\xfffeSi quieres que nos ocupemos de alguno,\xfffehabla con mi mujer.
+¡Ah, eres tú! Me alegro de verte.\xfffe\xf000Ă\x0001\x0000 está estupendamente.
+¡Ah, eres tú! Me alegro de verte.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001\xfffeestán estupendamente.\xf000븁\x0000\xfffeDiría que se llevan fenomenal.
+¡Ah, eres tú! Me alegro de verte.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001\xfffeestán estupendamente.\xf000븁\x0000\xfffeDiría que se llevan bastante bien.
+¡Ah, eres tú! Me alegro de verte.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001\xfffeestán estupendamente.\xf000븁\x0000\xfffeAunque no parece que se compenetren\xfffemucho.
+¡Ah, eres tú! Me alegro de verte.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 y \xf000Ă\x0001\x0001\xfffeestán estupendamente.\xf000븁\x0000\xfffeAunque parece que prefieren estar\xfffecon otros Pokémon.
+¡Ah, eres tú!\xf000븁\x0000\xfffeHemos cuidado de tus Pokémon y ¡vaya\xfffesorpresa que nos hemos llevado!\xf000븁\x0000\xfffe¡Tus Pokémon tenían un Huevo!\xf000븁\x0000\xfffeTodavía no sabemos de dónde\xfffelo han sacado.\xf000븁\x0000\xfffe¿Lo quieres?
+El Encargado de la Guardería le ha dado\xfffeel Huevo a \xf000Ā\x0001\x0000.
+¡Cuídalo bien!
+No tienes suficiente sitio.\xfffeVuelve cuando tengas espacio.
+Me lo quedo para siempre.\xfffe¿O lo quieres tú?
+Muy bien, entonces me lo quedaré yo.\xfffe¡Gracias y adiós!
+Soy la Encargada de la Guardería.\xfffePodemos ocuparnos de tus Pokémon.\xf000븁\x0000\xfffe¿Quieres que cuidemos de alguno?
+Soy la Encargada de la Guardería.\xfffePodemos ocuparnos de tus Pokémon.\xf000븁\x0000\xfffe¿Qué quieres hacer?
+Muy bien.\xfffeVuelve cuando quieras.
+¡Ah, estás aquí!\xfffeMi marido te estaba buscando.
+Si me dejas ese último Pokémon,\xfffe¿cómo vas a combatir?\xf000븁\x0000\xfffeVuelve en otra ocasión.
+¿Qué Pokémon quieres que cuidemos?\xf000븁\x0000
+Pero vamos a ver...\xfffe¡Esto es solo un Huevo!
+Muy bien. Cuidaremos de tu \xf000Ă\x0001\x0000\xfffedurante un tiempo.\xf000븁\x0000
+Vuelve dentro de unos días.\xfffeNo tengas prisa.
+Podemos cuidar a dos de tus Pokémon.\xfffe¿Quieres que nos ocupemos de otro?
+Tu Pokémon está estupendamente.\xfffe¿Quieres llevártelo ya?
+Tu \xf000ā\x0001\x0000 ha subido de nivel.\xfffeAhora tiene \xf000ȁ\x0001\x0001 más.\xf000븁\x0000
+Si quieres llevarte tu \xf000ā\x0001\x0000,\xfffetendrás que pagar \xf000Ȅ\x0001\x0001 $.
+No tienes bastante dinero.
+\xf000Ā\x0001\x0001 ha recogido a \xf000ā\x0001\x0000\xfffede la Guardería.\xf000븁\x0000
+¿Quieres llevarte el otro también?
+¿Eh? A ver, a ver.\xf000븁\x0000\xfffeSi me dejas ese Pokémon aquí,\xfffesolo te quedarás con uno.\xf000븁\x0000\xfffeSerá mejor que atrapes alguno más.\xfffeVamos, digo yo.
+
+DEJAR
+RECUPERAR
+SALIR
+
+\xf000ā\x0001\x0000♂　Nv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000♀　Nv. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000　Nv. \xf000Ȃ\x0001\x0001

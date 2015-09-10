@@ -1,0 +1,121 @@
+\xf000봂\x0000ZUFALLSMATCH (FREIER MODUS)
+\xf000봂\x0000ZUFALLSMATCH (BEWERTUNGSMODUS)
+\xf000봂\x0000EINZELKAMPF
+\xf000봂\x0000DOPPELKAMPF
+\xf000봂\x0000DREIERKAMPF
+\xf000봂\x0000REIHUMKAMPF
+\xf000봂\x0000WERFERKAMPF
+\xf000봂\x0000STATISTIKEN VON \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000BEWERTUNG:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000BESTRITTENE KÄMPFE:
+\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
+\xf000봃\x0001\x0000SIEGE:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000NIEDERLAGEN:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002.\xf000ȁ\x0001\x0001.\xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0005.\xf000ȁ\x0001\x0004.\xf000ȃ\x0001\x0003
+Registrierte Pokémon
+Registrierte Pokémon
+Registrierte Pokémon
+WOHNORT
+GRUSS
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Empfange Daten.\xfffeBitte warte einen Augenblick...
+Bitte entscheide dich für einen Modus.
+Zufallsmatch (Freier Modus)\xfffewird gestartet!\xf000븁\x0000
+Frei
+Mit Bewertung
+Zurück
+Zufallsmatch-Modus beenden?
+Ja
+Nein
+Suche Gegner...
+Gegner gefunden!
+Soll die Gegnersuche abgebrochen werden?
+Bitte triff eine Wahl.
+Datenübertragung im Gang.\xfffeBitte warte einen Augenblick...
+Möchtest du weiterkämpfen?
+Zufallsmatch-Modus beenden?
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Ein Zufallsmatch (Bewertungsmodus)\xfffewird gestartet!\xf000븁\x0000
+Warte auf Antwort vom Server.\xfffeEinen Augenblick bitte...
+Warte auf Kommunikation.\xfffeEinen Augenblick bitte...
+
+
+
+Teilnehmen
+Info
+Zurück
+
+
+JA
+NEIN
+Suche nach Turnierdaten...
+Es liegt keine beim Pokémon Global Link\xffferegistrierte Spielsynchro ID vor.\xf000븁\x0000\xfffeRichte die Funktionen der Spielsynchro\xfffeein und registriere dich über einen\xf000븀\x0000\xfffeComputer mit Internetzugang auf der\xf000븀\x0000\xfffeInternetseite des Pokémon Global Links.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
+
+Es wurde kein Turnier gefunden,\xfffean dem du teilnehmen kannst.\xf000븁\x0000\xfffeAn Turnieren, für die du bereits einmal\xfffeangemeldet warst, kannst du kein zweites\xf000븀\x0000\xfffeMal teilnehmen.\xf000븁\x0000
+Digitale Ausweisdaten werden erneuert.\xfffeBitte schalte das System nicht ab.
+Zurzeit werden keine Turniere abgehalten,\xfffean denen du teilnehmen kannst.\xf000븁\x0000
+Vor der Teilnahme an einem Wi-Fi-Turnier\xfffemüssen deine digitalen Ausweisdaten\xf000븀\x0000\xfffeerneuert werden.\xf000븁\x0000\xfffeSollen die bisherigen Daten wirklich\xfffeüberschrieben werden?
+Deine digitalen Ausweisdaten werden für\xfffedie Teilnahme an einem Wi-Fi-Turnier\xf000븀\x0000\xfffeaktualisiert.\xf000븁\x0000\xfffeDie letzte Turnieranmeldung deiner\xfffeKampfbox wird dabei aufgehoben.\xf000븁\x0000\xfffeSollen deine digitalen Ausweisdaten\xfffetrotzdem überschrieben werden?
+Wenn du deine digitalen Ausweisdaten\xfffenicht aktualisierst, kannst du auch an\xf000븀\x0000\xfffekeinem Turnier teilnehmen.\xf000븁\x0000\xfffeMöchtest du den Aktualisierungsvorgang\xfffewirklich abbrechen?
+
+Die digitalen Ausweisdaten konnten\xfffenicht aktualisiert werden.
+Die Pokémon in deiner Kampfbox werden\xfffenun zum Turnier angemeldet.\xf000븁\x0000\xfffeVorsicht!\xfffeNach der Anmeldung ist es bis zum Ausstieg\xf000븀\x0000\xfffeaus dem Turnier nicht mehr möglich, die\xf000븀\x0000\xfffeZusammenstellung der Kampfbox zu ändern.\xf000븁\x0000\xfffeSollen die Pokémon in deiner Kampfbox\xfffewirklich zum Turnier angemeldet werden?
+Ja
+Nein
+Doch nicht anmelden?
+Soll die Anmeldung abgebrochen werden?
+Datenübertragung im Gang...\xfffeBitte schalte das System nicht ab.
+Es gibt ein Problem mit deinen Pokémon.\xfffeDie Teilnahme ist nicht möglich.\xf000븁\x0000
+Turnieranmeldung abgeschlossen!\xf000븁\x0000
+Es wurden noch nicht alle Bedingungen\xfffefür die Teilnahme am Turnier erfüllt.\xf000븁\x0000\xfffeÜberprüfe noch einmal die Turnierregeln\xfffeund fülle deine Kampfbox dementsprechend\xf000븀\x0000\xfffemit Pokémon.\xf000븁\x0000
+Willkommen beim Wi-Fi-Turnier!\xfffeWas möchtest du tun?
+Kämpfen
+Aussteigen
+Zurück
+Willst du das Turnier verlassen?
+
+Die Teilnahmefrist ist abgelaufen.\xfffeVerlasse das Turnier wieder.\xf000븁\x0000
+Die Pokémon aus deiner Kampfbox\xfffewurden wieder abgemeldet.\xf000븁\x0000
+Du bist momentan für kein\xfffeTurnier angemeldet.\xf000븁\x0000
+Wenn du aus einem Turnier aussteigst,\xfffekannst du nicht erneut daran teilnehmen.\xf000븁\x0000\xfffeMöchtest du wirklich aussteigen?
+Du meldest dich vom Turnier ab.\xfffeBist du dir ganz sicher?
+Warte auf Gegner...
+
+Gegner gefunden!
+Die Ergebnisse des Kampfes wurden\xfffean den Server weitergeleitet.\xf000븁\x0000\xfffeBis die Bewertung errechnet werden kann,\xfffedauert es allerdings eine Weile.\xf000븁\x0000\xfffeSobald die Bewertung errechnet wurde,\xfffewird sie auf deinem Ausweis aktualisiert.\xf000븁\x0000
+
+Empfange Daten.\xfffeBitte warte einen Augenblick...
+Überprüfe Turnierdaten...
+Willkommen beim Wi-Fi-Turnier!\xfffeMöchtest du weiterkämpfen?
+Kämpfen
+Aussteigen
+Zurück
+Das Turnier, zu dem du dich angemeldet\xfffehast, wird aktuell nicht abgehalten.\xf000븁\x0000\xfffeBitte überprüfe noch einmal, wann genau\xfffedas gewünschte Turnier ausgetragen wird.\xf000븁\x0000
+Deine Kampfbox ist leer.\xf000븁\x0000\xfffeBitte überprüfe die Regeln des Turniers\xfffeund fülle deine Kampfbox mit der\xf000븀\x0000\xfffebenötigten Anzahl an Pokémon.\xf000븁\x0000
+
+L\xf000Ȃ\x0001\x0000
+♂
+♀
+
+Du nimmst an diesem Turnier teil.\xfffeBitte Pokémon anmelden.
+Du nimmst an diesem Turnier teil.\xfffeDie Kampfbox ist nun verriegelt.
+Wenn du aus einem Turnier aussteigst,\xfffekannst du nicht erneut daran teilnehmen.\xf000븁\x0000\xfffeMöchtest du wirklich aussteigen?
+
+Turnierausstieg...\xfffeBitte schalte das System nicht ab.
+Die Kampfbox wurde wieder abgemeldet.\xf000븁\x0000
+Dieses Turnier wurde beendet.
+Du bist frühzeitig aus diesem Turnier\xfffeausgestiegen.
+Keine digitalen Ausweisdaten vorhanden.\xf000븁\x0000
+Du spielst nicht mit demselben System,\xfffeüber das du dich mit dieser Karte für\xf000븀\x0000\xfffedas Turnier angemeldet hast.\xf000븁\x0000\xfffeDamit scheidest du automatisch\xfffeaus dem Turnier aus.\xf000븁\x0000
+Wenn du aus einem Turnier aussteigst,\xfffekannst du nicht erneut daran teilnehmen.\xf000븁\x0000\xfffeMöchtest du wirklich aussteigen?
+Du meldest dich nun von diesem Turnier ab.\xfffeBist du dir ganz sicher?
+Du wurdest von dem Turnier abgemeldet.\xf000븁\x0000
+Zurück
+Abmelden
+Ja
+Nein
+Es gibt ein Problem mit deinen Pokémon.\xfffeDie Teilnahme ist nicht möglich.\xf000븁\x0000

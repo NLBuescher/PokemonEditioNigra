@@ -1,0 +1,90 @@
+Cheren: Komm, mir nach!\xf000븁\x0000
+Wenn du hier schnurstracks weitergehst,\xfffefindest du das Pokémon-Center.\xf000븁\x0000\xfffeOh, und wo wir gerade dabei sind...\xfffeHier, vielleicht hilft dir das ja weiter.\xf000븁\x0000
+Cheren: Gib diese Maronbeere einem\xfffedeiner Pokémon und es wacht sofort\xf000븀\x0000\xfffewieder auf, wenn es von einem Gegner\xf000븀\x0000\xfffein den Schlaf gelullt wurde!\xf000븁\x0000\xfffeUnd jetzt noch ein kleiner Tipp:\xf000븁\x0000\xfffeDie Arenaleiterin von Septerna City\xfffekämpft mit Pokémon vom Typ Normal.\xf000븁\x0000\xfffeWenn du mit Kampf-Pokémon gegen\xfffesie in den Ring steigst, hast du also\xf000븀\x0000\xfffeganz eindeutig die Nase vorn!\xf000븁\x0000
+N: \xf000븉\x0001\x0001Mein Anliegen ist es, Dinge zu sehen,\xfffedie anderen Leuten verborgen bleiben:\xf000븁\x0000\xfffeIch möchte die Wünsche der Pokémon in\xfffeihren Pokébällen sehen...\xf000븁\x0000\xfffeIch will den wahren Sinn des\xfffeTrainer-Daseins erkennen...\xf000븁\x0000\xfffeUnd ich will eine Zukunft sehen, in der die\xfffePokémon glücklich und zufrieden sind.\xf000븁\x0000\xfffeDiesen Wunsch teilst du doch mit mir,\xfffenicht wahr?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Mein Anliegen ist es, Dinge zu sehen,\xfffedie anderen Leuten verborgen bleiben:\xf000븁\x0000\xfffeIch möchte wissen, wie sich die Pokémon\xfffewirklich in ihren Pokébällen fühlen...\xf000븁\x0000\xfffeIch will wissen, was für eine Art Trainer\xfffesich die Pokémon wirklich wünschen...\xf000븁\x0000\xfffeIch will den wahren Sinn des\xfffeTrainer-Daseins erkennen...\xf000븁\x0000\xfffeUnd ich will eine Zukunft sehen, in der die\xfffePokémon glücklich und zufrieden sind.\xf000븁\x0000\xfffeDiesen Wunsch teilst du doch mit mir,\xfffenicht wahr?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Ich verstehe. Dann erlaube mir,\xfffean deinem Beispiel zu überprüfen, ob es\xf000븀\x0000\xfffemir zusammen mit meinen Freunden möglich\xf000븀\x0000\xfffeist, einen Blick auf eine solche Zukunft\xf000븀\x0000\xfffezu erhaschen.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Hm... von dir hatte ich mir eigentlich\xfffeeine andere Antwort erhofft.\xf000븁\x0000\xfffeErlaube mir und meinen Freunden, dich\xfffezu prüfen und dir einen Einblick in\xf000븀\x0000\xfffeeine solche Zukunft zu ermöglichen.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Mit den Freunden, die mich im Moment\xfffeumgeben, könnte ich niemals alle Pokémon\xf000븀\x0000\xfffein die Freiheit führen...\xf000븁\x0000\xfffeNoch komme ich nicht auf die Formel, mit\xfffeder sich das Los der Welt ändern ließe...\xf000븁\x0000\xfffeWas ich brauche, ist Macht...\xf000븁\x0000\xfffeEine Macht, mit der ich die ganze Welt\xfffeauf meine Seite bringen kann...\xf000븉\x0001\x0000\xf000븁\x0000
+
+Und ich weiß auch schon genau, wer diese\xfffeMacht für mich bereithält...\xf000븁\x0000\xfffeReshiram, das Legendäre Pokémon, das\xfffeeinst zusammen mit dem Helden die\xf000븀\x0000\xfffeEinall-Region schuf!\xf000븁\x0000\xfffeIch selbst werde zum Helden aufsteigen\xfffeund wir beide werden Freunde sein!\xf000븁\x0000
+Und ich weiß auch schon genau, wer diese\xfffeMacht für mich bereithält...\xf000븁\x0000\xfffeZekrom, das Legendäre Pokémon, das\xfffeeinst zusammen mit dem Helden die\xf000븀\x0000\xfffeEinall-Region gründete!\xf000븁\x0000\xfffeIch selbst werde zum Helden aufsteigen\xfffeund wir beide werden Freunde sein!\xf000븁\x0000
+???: Tag, Aloe! Na, wie sieht's aus?\xf000븁\x0000\xfffeIn letzter Zeit irgendwelche brauchbaren\xfffeFossilien in die Finger bekommen?\xf000븁\x0000
+Aloe: Was machst du denn hier? Steckst\xfffedu mal wieder in einer Schaffenskrise?\xf000븁\x0000
+Darf ich vorstellen, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeDieser Knabe hört auf den Namen Artie.\xfffeMan sieht es ihm vielleicht nicht an, aber\xf000븀\x0000\xfffeer ist der Arenaleiter von Stratos City!\xf000븁\x0000
+Artie: Nanu? Welche Laus ist dir\xfffedenn über die Leber gelaufen?\xf000븁\x0000\xfffeDu wirkst irgendwie so... so aufgewühlt!\xfffeGibt's irgendeinen Grund dafür?\xf000븁\x0000
+Aloe: Und ob es den gibt!!\xf000븁\x0000\xfffeEins unserer Ausstellungsstücke\xfffewurde gestohlen!\xf000븁\x0000
+Bell: Sag mal, \xf000Ā\x0001\x0000, was ist das\xfffedenn hier für ein Massenauflauf?\xf000븁\x0000
+Cheren: Gibt's hier irgendwelche\xfffeProbleme, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Aloe: Wen haben wir denn da?\xfffeKennst du diese zwei Racker?\xf000븀\x0000\xfffeSind das Freunde von dir?\xf000븁\x0000\xfffeBell und Cheren heißen sie also...\xfffeAch, die beiden sind also Trainer?\xf000븁\x0000\xfffeDann teilen wir uns am besten auf!\xfffeIch werde mich in dieser Richtung\xf000븀\x0000\xfffeumsehen.\xf000븁\x0000
+Und jetzt zu euch beiden.\xf000븁\x0000\xfffeEuch würde ich darum bitten, hier im\xfffeMuseum zu bleiben, Cheren und Bell!\xf000븁\x0000
+Artie und \xf000Ā\x0001\x0000, ihr durchkämmt\xfffebitte zusammen den Ewigenwald!\xf000븁\x0000\xfffeAlles klar? Artie, ich zähle auf dich,\xfffegeh du bitte voran!\xf000븁\x0000\xfffeSo weit, so gut. Ich zähle auf euch!\xf000븁\x0000
+Artie: Gut, gut... \xf000Ā\x0001\x0000 lautete\xfffedein Name, stimmt's?\xf000븁\x0000\xfffeDann machen wir uns mal auf die Socken!\xf000븁\x0000\xfffeDa draußen warten ein paar Diebe darauf,\xfffevon uns gefasst zu werden!\xf000븁\x0000
+Artie: Gut, gut... \xf000Ā\x0001\x0000 lautete\xfffedein Name, stimmt's?\xf000븁\x0000\xfffeDann machen wir uns mal auf die Socken!\xf000븁\x0000\xfffeDa draußen warten ein paar Diebe darauf,\xfffevon uns gefasst zu werden!\xf000븁\x0000
+Bell: Halt, \xf000Ā\x0001\x0000!\xfffeHier, nimm das bitte mit!\xf000븁\x0000\xfffeDieses Itemradar habe ich von\xfffeVivian bekommen!\xf000븁\x0000
+Mithilfe dieses Itemradars kannst du\xfffeItems finden, die du mit bloßem Auge\xf000븀\x0000\xfffesonst übersehen würdest.\xf000븁\x0000
+Cheren: Ihr wollt also, dass ich erst\xfffeeinmal nur das Museum bewache, richtig?\xf000븁\x0000
+Bell: Ich bleibe auch hier!\xf000븁\x0000
+Aloe: Hier treiben sich diese Gauner von\xfffeTeam Plasma offenbar nicht mehr herum,\xf000븀\x0000\xfffeaber trotzdem können wir die Gegend\xf000븀\x0000\xfffenicht unbeaufsichtigt lassen.\xf000븁\x0000\xfffeBitte geh und dreh mir jeden Stein im\xfffeEwigenwald um!
+Irgendwann begannen ein paar inspirierte\xfffejunge Hüpfer, diese heruntergekommene\xf000븀\x0000\xfffeKleiderfabrik und die dazugehörigen\xf000븀\x0000\xfffeLagerhallen als Ateliers zu verwenden.\xf000븁\x0000\xfffeUnd so ward Septerna City, auch bekannt\xfffeals die Stadt der Künste, geboren!
+Ich muss schon sagen, im Inneren dieser\xfffeLagerhalle gibt's tolle Sachen zu kaufen!
+Ich hätte mir niemals träumen lassen,\xfffedass eine einfache, alte Lagerhalle so\xf000븀\x0000\xfffeviele Menschen anziehen würde...\xf000븀\x0000\xfffeTja, man lernt wohl nie aus!
+Septerna City ist ein echt angesagtes\xfffeStädtchen. Hier würde ich gern wohnen!\xf000븁\x0000\xfffeDie Stadt besitzt genau das richtige Maß\xfffean Schlichtheit, um schon wieder als\xf000븀\x0000\xfffeschick zu gelten!
+Na, wie gefällt dir der Klang meines\xfffeAkkordeons?
+Septerna City\xf000븁\x0000\xfffe\xfffeEin schicke Stadt für junge Leute
+Café Lagerhaus\xf000븁\x0000\xfffe\xfffeLeckeres Mittwochsmenü!
+Pokémon-Arena von Septerna City\xf000븁\x0000\xfffe\xfffeLeiterin: Aloe\xfffeMutti macht sie alle!
+Prof. Esche: Lauro hat mich bereits\xfffeüber alles aufgeklärt.\xf000븁\x0000\xfffeDa bist du ja in einen ordentlichen\xfffeSchlamassel geraten, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Aloe: Redest du hiervon?\xf000븁\x0000
+Bell: Das...\xf000븁\x0000\xfffeDas ist doch der alte Stein, der im\xfffeWüstenresort gefunden wurde!\xf000븁\x0000
+Aloe: Genau. Aber hat er tatsächlich\xfffeetwas mit den Drachen-Pokémon zu tun?\xf000븁\x0000
+Eberhard Esche: Gewiss...\xf000븁\x0000\xfffeBei meinen Nachforschungen über die\xfffeDrachenstiege habe ich herausgefunden,\xf000븀\x0000\xfffedass in ihr Materialien verbaut wurden,\xf000븀\x0000\xfffedie auf dieselbe Epoche hinweisen, aus\xf000븀\x0000\xfffeder auch dieser Dunkelstein stammt.\xf000븁\x0000
+Eberhard Esche: Gewiss...\xf000븁\x0000\xfffeBei meinen Nachforschungen über die\xfffeDrachenstiege habe ich herausgefunden,\xf000븀\x0000\xfffedass in ihr Materialien verbaut wurden,\xf000븀\x0000\xfffedie auf dieselbe Epoche hinweisen, aus\xf000븀\x0000\xfffeder auch dieser Lichtstein stammt.\xf000븁\x0000
+Prof. Esche: Das waren eigentlich\xfffemeine Nachforschungen.\xf000븁\x0000
+Aloe: Wow, das war echt gute Arbeit!\xf000븁\x0000
+Bell: Aber dann... dann können wir ja\xfffewirklich von Glück reden, dass Team\xf000븀\x0000\xfffePlasma vorhin nicht auf diesen alten\xf000븀\x0000\xfffeStein aufmerksam wurde, oder?\xf000븁\x0000
+Aloe: Das kannst du laut sagen!\xf000븁\x0000\xfffeWir können jetzt wohl ganz sicher davon\xfffeausgehen, dass diese Halunken den\xf000븀\x0000\xfffeDrakoschädel gestohlen haben,\xf000븀\x0000\xfffeweil sie vorhatten, das legendäre\xf000븀\x0000\xfffeDrachen-Pokémon wiederzuerwecken!\xf000븁\x0000
+Na gut, \xf000Ā\x0001\x0000. Dann nimm\xfffedu jetzt den...\xf000븁\x0000
+Lauro: Einen Augenblick, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Wenn du den Dunkelstein an dich nimmst,\xfffebedeutet dies, dass du dich N zum Kampf\xf000븀\x0000\xfffestellen musst, wenn mir etwas zustößt.\xf000븁\x0000\xfffeBist du dir darüber im Klaren?
+Wenn du den Lichtstein an dich nimmst,\xfffebedeutet dies, dass du dich N zum Kampf\xf000븀\x0000\xfffestellen musst, wenn mir etwas zustößt.\xf000븁\x0000\xfffeBist du dir darüber im Klaren?
+Lauro: Das nehme ich als Beweis für\xfffedeine Entschlossenheit.\xf000븁\x0000\xfffeGut, dann pass mir schön darauf auf.\xfffeHier, nimm!\xf000븁\x0000
+Lauro: Heißt... heißt das, du willst hier\xfffewarten, bis Ns Traum von einer Welt, in\xf000븀\x0000\xfffeder Pokémon und Trainer voneinander\xf000븀\x0000\xfffegetrennt ihr Dasein fristen, wahr wird?
+Lauro: Es tut mir aufrichtig leid, aber\xfffeich muss dich trotzdem darum bitten!\xf000븁\x0000\xfffeBitte nimm den Stein an dich, für den\xfffeFall der Fälle!
+Lauro: Du musst mir mein aufdringliches\xfffeVerhalten verzeihen.\xf000븁\x0000\xfffeBitte beschütze diese Welt, in der uns\xfffeMenschen ein Zusammenleben mit den\xf000븀\x0000\xfffePokémon vergönnt ist, wenn es darauf\xf000븀\x0000\xfffeankommt!\xf000븁\x0000
+Aloe: Ich verstehe...\xf000븁\x0000\xfffeDer Dunkelstein birgt also die Macht,\xfffeden Pokémon und uns im Notfall\xf000븀\x0000\xfffedie Chance auf eine vollkommene\xf000븀\x0000\xfffeZukunft zu bewahren.\xf000븁\x0000\xfffeVersprich mir, gut darauf achtzugeben!\xf000븁\x0000
+Aloe: So ist das also...\xf000븁\x0000\xfffeDann birgt der Lichtstein also die\xfffeMacht, den Pokémon und uns im Notfall\xf000븀\x0000\xfffedie Chance auf eine vollkommene\xf000븀\x0000\xfffeZukunft zu bewahren.\xf000븁\x0000\xfffeVersprich mir, gut darauf achtzugeben!\xf000븁\x0000
+Eberhard Esche: ...\xf000븁\x0000\xfffeUnd wie bewerkstelligen wir nun, dass aus\xfffedem Stein das Drachen-Pokémon erwacht?
+Wie meinen?
+...
+Na ja, also...
+Aloe: Ich hab's! Warum fragen wir nicht\xfffeeinfach einen Experten?\xf000븁\x0000
+Lauro: Aber ja! Ich weiß genau,\xfffewen du meinst!\xf000븁\x0000
+\xf000Ā\x0001\x0000, ich werde mich auf den\xfffeWeg nach Twindrake City machen.\xf000븁\x0000\xfffeDer Arenaleiter dort kämpft mit\xfffeDrachen-Pokémon. Vielleicht kann\xf000븀\x0000\xfffeman uns dort ja weiterhelfen?\xf000븁\x0000\xfffeIch gehe schon einmal voraus und\xfffewarte dann dort auf dich! Bis bald!\xf000븁\x0000
+Prof. Esche: Natürlich, ihr habt recht!\xf000븁\x0000\xfffeEs ist gut möglich, dass Lilia aus\xfffeTwindrake City etwas weiß!\xf000븁\x0000
+Prof. Esche: Natürlich, ihr habt recht!\xf000븁\x0000\xfffeEs ist gut möglich, dass Lysander aus\xfffeTwindrake City etwas weiß!\xf000븁\x0000
+Eberhard Esche: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeVergiss bitte niemals, dass deine\xfffePokémon stets an deiner Seite sind!\xf000븁\x0000
+Prof. Esche: Wir begeben uns dann zurück\xfffeins Labor, um uns über das\xf000븀\x0000\xfffeDrachen-Pokémon schlau zu machen.\xf000븀\x0000\xfffeWir werden prüfen, ob es eine Methode\xf000븀\x0000\xfffegibt, mit der man es wiedererwecken kann.\xf000븁\x0000
+Aloe: Nur keine Angst!\xf000븁\x0000\xfffeWenn du in eine Klemme geraten solltest,\xfffeeilen wir dir sofort zu Hilfe!\xf000븁\x0000
+Aloe: Nur keine Angst!\xf000븁\x0000\xfffeWenn du in eine Klemme geraten solltest,\xfffeeilen wir dir sofort zu Hilfe!
+Bell: Viel mehr, als dass die Situation\xfffeoffenbar ziemlich angespannt ist, habe\xf000븀\x0000\xfffeich ehrlich gesagt nicht mitbekommen...\xf000븁\x0000\xfffeWeißt du eigentlich, wie du nach Twindrake\xfffeCity gelangst, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeWenn du von Nevaio City aus die\xfffeZylinderbrücke überquerst, bist du\xf000븀\x0000\xfffeschon so gut wie dort.\xf000븁\x0000\xfffeWenn dir meine Wegbeschreibung aber\xfffenoch nicht reicht, dann wirf am besten\xf000븀\x0000\xfffeeinfach einen Blick auf deine Karte!\xf000븁\x0000
+Bell: Viel mehr, als dass die Situation\xfffeoffenbar ziemlich angespannt ist, habe\xf000븀\x0000\xfffeich ehrlich gesagt nicht mitbekommen...\xf000븁\x0000\xfffeWeißt du eigentlich, wie du nach Twindrake\xfffeCity gelangst, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeWenn du von Nevaio City aus die\xfffeZylinderbrücke überquerst, bist du\xf000븀\x0000\xfffeschon so gut wie dort.\xf000븁\x0000\xfffeWenn dir meine Wegbeschreibung aber\xfffenoch nicht reicht, dann wirf am besten\xf000븀\x0000\xfffeeinfach einen Blick auf deine Karte!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

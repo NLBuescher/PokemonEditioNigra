@@ -1,0 +1,111 @@
+NOM
+
+CARACTÈRE
+POKÉDEX
+ARGENT
+Nº ID
+TEMPS DE JEU
+DÉBUT DE L'AVENTURE
+PANTHÉON Nº 1
+CONNEXIONS
+COMBATS EN LINK
+VICTOIRES EN LINK
+DÉFAITES EN LINK
+ÉCHANGES EN LINK
+POKÉMON RENCONTRÉS
+DRESSEURS AFFRONTÉS
+PERSONNES CROISÉES
+TEST DE COMPATIBILITÉ
+OFFRI-AURAS
+PARTICIPATION AU MUSIC-HALL
+RECORD POKÉ FRET
+RECORD TEST COMBAT
+
+:
+--/--/----  --:--
+
+
+
+
+
+
+Hardi
+Solo
+Brave
+Rigide
+Mauvais
+Assuré
+Docile
+Relax
+Malin
+Lâche
+Timide
+Pressé
+Sérieux
+Jovial
+Naïf
+Modeste
+Doux
+Discret
+Pudique
+Foufou
+Calme
+Gentil
+Malpoli
+Prudent
+Bizarre
+
+\xf000Ȇ\x0001\x0000 $
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000  \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
+\xf000Ȃ\x0001\x0000
+CHAMPIONS D'OGOESSE:\xfffeRachid, Noa et Armando
+Le Trio qui fait le tri!
+“Le truc essentiel des combats Pokémon,\xfffec'est de bien connaître les types! Pigé?"
+CHAMPION DE MAILLARD:\xfffeAloé
+Une mama dans toute sa splendeur!
+“La curiosité est le sel de la vie.\xfffeSans elle, tout devient fade!"
+CHAMPION DE VOLUCITÉ:\xfffeArtie
+Artiste et combattant entomologiste!
+“Oui, toi aussi, ressens l'inspiration!\xfffeGoûte à la beauté des Pokémon Insecte!"
+CHAMPION DE MÉANVILLE:\xfffeInezia
+Sa beauté est éblouissante!
+“Épanouis-toi, et brille de mille feux\xfffepour ceux qui t'entourent!"
+CHAMPION DE PORT YONEUVE:\xfffeBardane
+Le patron des (bas) fonds!
+“Faut vivre à fond avec ses Pokémon,\xfffej'te l'dis!"
+CHAMPION DE PARSEMILLE:\xfffeCarolina
+L'acrobate des cieux
+“Tout le monde a le sourire quand\xfffetu regardes depuis le ciel!"
+CHAMPION DE FLOCOMBE:\xfffeZhu
+Le masque de givre
+“Contrôler sa froideur et sa rage pour\xfffequ'elles coexistent et se conjuguent."
+CHAMPION DE JANUSIA:\xfffeWatson
+Le maire spartiate
+“Jeune Dresseur, au cœur si pur...\xfffecontinue à croître en force!"
+CHAMPION DE JANUSIA:\xfffeIris
+La fille qui danse avec les dragons
+“Tu rigoles pas! Mais c'était bien!\xfffeJe t'oublierai jamais!"
+BADGE TRIPLE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 20.
+
+BADGE BASIQUE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 30.
+
+BADGE ÉLYTRE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 40.
+
+BADGE VOLT:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 50.
+
+BADGE SISMIQUE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 60.
+
+BADGE JET:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 70.
+
+BADGE STALACTITE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir par les\xfffePokémon jusqu'au niveau 80.
+
+BADGE MYTHE:\xfffeObtenu le \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000.
+Permet de se faire obéir\xfffede n'importe quel Pokémon.

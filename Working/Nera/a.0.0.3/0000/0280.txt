@@ -1,0 +1,33 @@
+L'albero si può abbattere con la mossa\xfffeTaglio. Vuoi usarla adesso?
+\xf000Ă\x0001\x0000 usa Taglio!\xf000븁\x0000
+Quest'albero si potrebbe abbattere con\xfffela mossa giusta...
+
+
+
+È un masso enorme, ma forse un Pokémon\xfffepotrebbe aiutarti a spostarlo.\xf000븁\x0000\xfffeVuoi usare la mossa Forza?
+
+È un masso enorme, ma forse un Pokémon\xfffepotrebbe aiutarti a spostarlo.
+Forza permette di spostare i massi!
+\xf000Ă\x0001\x0000 usa Forza!\xf000븁\x0000
+Adesso puoi spostare i massi grazie alla\xfffemossa Forza di \xf000Ă\x0001\x0000!
+
+L'acqua ha un colore azzurro intenso.\xfffeVuoi usare la mossa Surf?
+\xf000Ă\x0001\x0000 usa Surf!\xf000븁\x0000
+Non puoi usare Surf quando c'è qualcuno\xfffecon te.
+
+
+
+
+
+
+
+C'è un'enorme cascata d'acqua. Vuoi\xfffeusare la mossa Cascata?
+\xf000Ă\x0001\x0000 usa Cascata!\xf000븁\x0000
+L'acqua che cade giù produce un fragore\xfffeassordante.
+
+\xf000Ă\x0001\x0000 usa Flash!\xf000븁\x0000
+\xf000Ă\x0001\x0000 usa Teletrasporto!\xf000븁\x0000
+\xf000Ă\x0001\x0000 usa Fossa!\xf000븁\x0000
+Il mare è molto profondo! Forse si può\xfffeusare una mossa per immergersi.
+Il mare è molto profondo! Vuoi usare\xfffela mossa Sub?
+\xf000Ă\x0001\x0000 usa Sub!\xf000븁\x0000

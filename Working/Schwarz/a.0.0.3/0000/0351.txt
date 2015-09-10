@@ -1,0 +1,21 @@
+Der Viso-Caster klingelt.
+\xf000Ā\x0001\x0000 nimmt den Anruf an.\xf000븁\x0000
+Mutter: \xf000Ā\x0001\x0000.\xf000븁\x0000
+Endlich habe ich dich eingeholt...\xfffeDu bist ja schon weit gekommen!\xf000븁\x0000\xfffeProf. Esche sagte mir,\xfffedass du wahrscheinlich auf\xf000븀\x0000\xfffedem Weg nach Orion City bist.\xf000븁\x0000\xfffeIch habe übrigens noch ein Geschenk\xfffefür dich, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeHier, probier sie am besten gleich mal an.\xf000븁\x0000
+\xf000Ā\x0001\x0000 erhält\xfffe\xf000\xff00\x0001\x0002Turbotreter\xf000\xff00\x0001\x0000!
+Wenn du in die Turbotreter schlüpfst,\xfffebist du in null Komma nichts am Ziel.\xf000븁\x0000\xfffeHör kurz mal zu, ich lese aus der\xfffeGebrauchsanleitung vor.\xf000븁\x0000\xfffeDa steht...\xf000븁\x0000\xfffe„Halte den B-Knopf gedrückt\xfffeund du kannst schneller rennen\xf000븀\x0000\xfffeals je zuvor. Ziehe deine Turbotreter\xf000븀\x0000\xfffean und renne, bis dir die Puste ausgeht!“\xf000븁\x0000\xfffeIch hatte sie nach dem Kauf verlegt\xfffeund dann beim Aufräumen wiedergefunden.\xf000븁\x0000\xfffeJa, es schadet eben nicht, hin und wieder\xfffemal aufzuräumen.\xf000븁\x0000
+\xf000Ā\x0001\x0000, du bist nicht allein,\xfffedas weißt du doch hoffentlich, oder?\xf000븁\x0000\xfffeDein Pokémon-Team ist stets an deiner \xfffeSeite und auch auf deine Freunde\xf000븀\x0000\xfffeist jederzeit Verlass!\xf000븁\x0000\xfffeUnd vergiss deine Mutter nicht, die \xfffedich immer in ihrem Herzen trägt.\xf000븁\x0000\xfffeAlso dann, ich wünsche dir viel\xfffeGlück und Erfolg auf deiner Reise!\xf000븁\x0000
+Bell: Hey! \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bell: Hey, \xf000Ā\x0001\x0000!\xfffeBleib doch mal eben stehen!\xf000븁\x0000
+Bell: Na los!\xfffeLass uns kämpfen!\xf000븁\x0000\xfffeMein kürzlich gefangenes Pokémon ist\xfffeauch schon etwas stärker geworden.\xf000븁\x0000\xfffeFangen wir an!\xf000븁\x0000
+Bell: Puh!\xf000븁\x0000\xfffeDu bist wirklich stark,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIch werde meine Pokémon auch stärker\xfffetrainieren, um nicht mehr zu verlieren.\xf000븀\x0000\xfffeAlso dann, bis bald!\xf000븁\x0000
+Hey, du!\xf000븁\x0000\xfffeIch habe etwas ganz Tolles vor!\xfffeWillst du nicht zusehen?
+Klasse, dann schau mal gut zu!!\xf000븁\x0000
+Hepp!!
+Hah! Hast du das gesehen?!\xf000븁\x0000\xfffeDu kannst hier runterspringen und den\xfffeWeg abkürzen. Nicht schlecht, oder?!
+Na schön. Aber ich hoffe, du genierst\xfffedich nicht einfach nur!
+Wenn du mal nicht kämpfen willst, weil\xfffedeine Pokémon angeschlagen sind,\xf000븀\x0000\xfffesolltest du auf den Wegen bleiben,\xf000븀\x0000\xfffeda Pokémon nur im hohen Gras angreifen.
+Trainerkämpfe sind eine ernste Sache,\xfffevor der man nicht weglaufen kann!
+Route 2
+Route 2
+Tipps für Trainer!\xf000븁\x0000\xfffe\xfffePokémon, die an Kämpfen teilnehmen,\xfffeerhalten Erfahrungspunkte!\xf000븁\x0000\xfffeDaher solltest du deine Pokémon viele\xfffeKämpfe bestreiten lassen, damit sie\xf000븀\x0000\xfffean Erfahrung und Stärke gewinnen!

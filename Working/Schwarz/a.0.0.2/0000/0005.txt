@@ -1,0 +1,372 @@
+KAMPFVIDEOS
+KAMPFMETRO
+ZUFALLSMATCH
+BEENDEN
+ZURÜCK
+MEIN VIDEO
+ANDERE VIDEOS
+VIDEOS LÖSCHEN
+\xf000봂\x0000Video von \xf000Ā\x0001\x0000
+LEER
+\xf000ȃ\x0001\x0000
+Kampf
+\xf000봂\x0000Video-Nr.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Video-Nr.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000Profil von \xf000Ā\x0001\x0000
+
+Geboren im \xf000ƀ\x0001\x0000
+\xf000봂\x0000WOHNORT
+\xf000봂\x0000TRAINERZITAT
+
+
+
+
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+
+VIDEO VON \xf000Ā\x0001\x0000
+MEIN VIDEO LÖSCHEN
+ANDERE VIDEOS LÖSCH.
+
+
+SUCHE NACH WERTUNG
+
+NEUESTEN 30
+DETAILSUCHE
+NACH VIDEO-NR. SUCH.
+NACH EINRICHT. SUCHEN
+NACH POKÉMON SUCHEN
+DEINEN ORT SUCHEN
+KÄMPFE VIA LINK
+KAMPFMETRO
+FOTO SENDEN
+FOTOS ANSEHEN
+SENDEN
+Wähle aus, welches Pokémon du sehen willst.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SICHERN
+KAMPFVIDEO\xfffeANSEHEN
+
+DIE NEUESTEN 30 KAMPFVIDEOS
+TOP-KAMPFVIDEOS VON LINKKÄMPFEN
+TOP-KAMPFVIDEOS AUS DER KAMPFMETRO
+LISTE VON KAMPFVIDEOS AUS\xfffeDEN SUCHERGEBNISSEN
+
+Wo soll das Kampfvideo von\xfffe\xf000Ā\x0001\x0000 gespeichert werden?
+
+Kampfvideo von \xf000Ā\x0001\x0000 wird gelöscht.\xfffeEinverstanden?
+KAMPFVIDEOS ANSEHEN
+KAMPFVIDEO SENDEN
+
+
+
+NACH EINRICHT. SUCHEN
+NACH POKÉMON SUCHEN
+DEINEN ORT SUCHEN
+O.K.!
+Bitte die Video-Nummer eingeben.
+Bitte Einrichtung wählen.
+Bitte Pokémon wählen.
+Bitte Suchkriterien festlegen.
+Es wurden keine Suchkriterien festgelegt.
+Durchsuche Kampfvideos...
+Keine Übereinstimmung bei den Kampfvideos...
+Sende das Kampfvideo...
+Das Kampfvideo wurde gesendet!
+\xf000봂\x0000PROFIL ANSEHEN
+\xf000봂\x0000PROFIL SCHLIESSEN
+
+Bitte Suchkriterien festlegen.
+Nicht bestimmt
+
+Selbes Kampfvideo nicht mehrmals sendbar.\xfffeTouchscreen berühren, um fortzufahren.
+Du hast deinen Wohnort nicht registriert.
+Kein Kampfvideo zum Senden vorhanden.
+\xf000ȁ\x0001\x0000
+
+KAMPFMETRO
+
+\xf000봂\x0000EINZELLINIE
+\xf000봂\x0000DOPPELLINIE
+\xf000봂\x0000MULTILINIE
+\xf000봂\x0000Wi-Fi-LINIE
+\xf000봂\x0000KAMPFMETRO
+\xf000봂\x0000SUPER-EINZELLINIE
+\xf000봂\x0000SUPER-DOPPELLINIE
+\xf000봂\x0000SUPER-MULTILINIE
+Wähle, welche Statistik du sehen möchtest.
+VORHER:
+REKORD:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000 
+
+\xf000봃\x0001\x0000Folgesiege
+Multi mit Trainer
+Multi mit Freund
+Rang
+Aktueller Rekord
+\xf000봂\x0000Statistik für die Wi-Fi-Linie
+AKTUELL:
+\xf000봂\x0000BEWERTUNG VON \xf000Ā\x0001\x0000
+\xf000봂\x0000STATISTIKEN (BEWERTUNGSMODUS)
+\xf000봂\x0000STATISTIKEN (FREIER MODUS)
+\xf000봂\x0000GEW.
+\xf000봂\x0000VERL.
+\xf000봃\x0001\x0000EINZEL:
+\xf000봃\x0001\x0000DOPPEL:
+\xf000봃\x0001\x0000DREIER:
+\xf000봃\x0001\x0000REIHUM:
+\xf000봃\x0001\x0000WERFER:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000BEWERTUNG
+\xf000봂\x0000JA
+\xf000봂\x0000NEIN
+JA
+NEIN
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+Kolosseum, Einzel\xfffeKeine Einschränkungen
+Kolosseum, Einzel\xfffeHandicapkampf
+Kolosseum, Einzel\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Einzel\xfffeHandicapkampf mit Werfer
+Kolosseum, Doppel\xfffeKeine Einschränkungen
+Kolosseum, Doppel\xfffeHandicapkampf
+Kolosseum, Doppel\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Doppel\xfffeHandicapkampf mit Werfer
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen
+Kolosseum, Dreierkampf\xfffeHandicapkampf
+Kolosseum, Dreierkampf\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Dreierkampf\xfffeHandicapkampf mit Werfer
+Kolosseum, Reihum\xfffeKeine Einschränkungen
+Kolosseum, Reihum\xfffeHandicapkampf
+Kolosseum, Reihum\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Reihum\xfffeHandicapkampf mit Werfer
+Kolosseum, Multi\xfffeKeine Einschränkungen
+Kolosseum, Multi\xfffeHandicapkampf
+Kolosseum, Multi\xfffeKeine Einschränkungen, mit Werfer
+Kolosseum, Multi\xfffeHandicapkampf mit Werfer
+Kampfmetro, Einzel
+Kampfmetro, Doppel
+Kampfmetro, Multi
+Zufallsmatch (Frei),\xfffeEinzel
+Zufallsmatch (Frei),\xfffeDoppel
+Zufallsmatch (Frei),\xfffeDreierkampf
+Zufallsmatch (Frei),\xfffeReihum
+Zufallsmatch (Frei),\xfffeWerferkampf
+Zufallsmatch (Bewertet),\xfffeEinzel
+Zufallsmatch (Bewertet),\xfffeDoppel
+Zufallsmatch (Bewertet),\xfffeDreierkampf
+Zufallsmatch (Bewertet),\xfffeReihum
+Zufallsmatch (Bewertet),\xfffeWerferkampf
+Turnier, Einzel\xfffeOhne Werfer
+Turnier, Einzel\xfffeMit Werfer
+Turnier, Doppel\xfffeOhne Werfer
+Turnier, Doppel\xfffeMit Werfer
+Turnier, Dreierkampf\xfffeOhne Werfer
+Turnier, Dreierkampf\xfffeMit Werfer
+Turnier, Reihum\xfffeOhne Werfer
+Turnier, Reihum\xfffeMit Werfer
+01: Kolosseum, Einzel\xfffe     Ohne Werfer
+02: Kolosseum, Einzel\xfffe     Mit Werfer
+03: Kolosseum, Doppel\xfffe     Ohne Werfer
+04: Kolosseum, Doppel\xfffe     Mit Werfer
+05: Kolosseum, Dreierkampf\xfffe     Ohne Werfer
+06: Kolosseum, Dreierkampf\xfffe     Mit Werfer
+07: Kolosseum, Reihum\xfffe     Ohne Werfer
+08: Kolosseum, Reihum\xfffe     Mit Werfer
+09: Kolosseum, Multi\xfffe     Ohne Werfer
+10: Kolosseum, Multi\xfffe     Mit Werfer
+11: Kampfmetro, Einzel
+12: Kampfmetro, Doppel
+13: Kampfmetro, Multi
+14: Zufallsmatch, Einzel
+15: Zufallsmatch, Doppel
+16: Zufallsmatch, Dreierkampf
+17: Zufallsmatch, Reihum
+18: Zufallsmatch, Werferkampf
+19: Kampfturnier
+20: Kampfpalais\xfffe      Multi
+21: Kampfarkaden\xfffe      Einzel
+22: Kampfarkaden\xfffe      Doppel
+23: Kampfarkaden\xfffe      Multi
+\xf000봂\x0000HIER BERÜHREN!
+Soll die Verbindung zur Nintendo Wi-Fi\xfffeConnection wirklich beendet werden?
+
+Fehler bei der Authentifizierung.\xfffeVerbindungsaufbau fehlgeschlagen.
+Diese Daten sind bereits registriert.\xfffeBerühre den Touchscreen, um fortzufahren.
+Es gibt offenbar ein Problem mit den\xfffeMusical-Schnappschuss-Daten.
+Es gibt offenbar ein Problem mit dem\xfffePokémon des Musical-Schnappschusses.
+Es gibt offenbar ein Problem\xfffemit den Profil-Daten.
+Ein Fehler ist aufgetreten.\xfffeTouchscreen berühren, um fortzufahren.
+
+Fehler bei der Authentifizierung.\xfffeVerbindungsaufbau fehlgeschlagen.
+Es gibt offenbar ein Problem\xfffemit den ausgewählten Pokémon.
+Es ist ein Fehler aufgetreten.\xfffeTouchscreen berühren, um fortzufahren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fehler bei der Authentifizierung.\xfffeVerbindungsaufbau fehlgeschlagen.
+Diese Daten sind bereits registriert.\xfffeBerühre den Touchscreen, um fortzufahren.
+Es gibt offenbar ein Problem\xfffemit dem Kampfvideo.
+Es gibt offenbar ein Problem\xfffemit dem Kampfvideo.
+Es gibt offenbar ein Problem\xfffemit den Profil-Daten.
+Es gibt offenbar ein Problem mit\xfffeden Kampfvideo-Pokémon.
+Es ist ein Fehler aufgetreten.\xfffeTouchscreen berühren, um fortzufahren.
+
+Fehler bei der Authentifizierung.\xfffeVerbindungsaufbau fehlgeschlagen.
+Es gibt offenbar ein Problem\xfffemit den Suchkriterien.
+Es gibt offenbar ein Problem\xfffemit den Suchkriterien.
+Suche fehlgeschlagen...
+
+Fehler bei der Authentifizierung.\xfffeVerbindungsaufbau fehlgeschlagen.
+Keine Übereinstimmung bei den Kampfvideos.
+Dieses Kampfvideo kannst\xfffedu dir nicht ansehen.
+Der Empfang des Kampfvideos\xfffeist fehlgeschlagen.
+
+
+
+
+
+Ein Fehler ist aufgetreten.\xfffeFehler-Code: 10601
+Ein Fehler ist aufgetreten.\xfffeFehler-Code: 10602
+Ein Fehler ist aufgetreten.\xfffeFehler-Code: 10603
+Ein Fehler ist aufgetreten.\xfffeFehler-Code: 10604
+Keine Verbindung möglich.\xfffeFehler-Code: 10605
+Es ist ein Fehler aufgetreten.\xfffeFehler-Code: 10606
+Keine Verbindung möglich.\xfffeFehler-Code: 10607
+Es ist ein Fehler aufgetreten.\xfffeFehler-Code: 10608
+Es ist ein Fehler aufgetreten.\xfffeFehler-Code: 10609
+Es erfolgt keine Rückmeldung.\xfffeFehler-Code: 10610
+Es erfolgt keine Rückmeldung.\xfffeFehler-Code: 10611
+Es erfolgt keine Rückmeldung.\xfffeFehler-Code: 10612
+Verbindung wurde unterbrochen.\xfffeFehler-Code: 10613
+Keine Verbindung möglich.\xfffeFehler-Code: 10614
+
+
+
+
+
+
+
+Die Verbindung zum Server wurde getrennt.\xfffeTouchscreen berühren, um fortzufahren.
+
+
+Es sind keine Speicherdaten vorhanden.
+
+
+
+
+
+
+Speicherdaten konnten nicht\xfffegelöscht werden...
+Ein Kampfvideo kann nur einmal gespeichert\xfffewerden. Fortfahren: Touchscreen berühren.
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Empfange Ranglisten-Daten...
+Sende Speicherinformationen...
+Speichervorgang abgeschlossen.\xfffeFortfahren: Touchscreen berühren.
+Kampfvideo von \xf000Ā\x0001\x0000 wird gelöscht.\xfffeEinverstanden?
+Diese Daten wirklich löschen?
+Lösche Daten... Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Daten wurden gelöscht.\xfffeFortfahren: Touchscreen berühren.
+Sende Musical-Schnappschuss-Daten...
+Empfange Musical-Schnappschuss-Daten...
+Sende deine Box-Daten...
+Empfange Box-Daten...
+Es gibt kein Foto, das du schicken kannst!\xfffeNimm an einem Pokémon-Musical teil!
+Selbe Daten nicht mehrmals sendbar.\xfffeTouchscreen berühren, um fortzufahren.
+Empfange Kampfvideos...
+Keine passenden Daten gefunden.
+Keine passenden Musical-Schnappschuss-\xfffeDaten gefunden.
+Dein Kampfvideo wurde gesendet.\xfffeVideo-Nr.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Das Spiel wird gespeichert, bevor\xfffedu dir ein Kampfvideo ansehen kannst.
+Lösche Daten... speichere eine Menge Daten.\xfffeBitte das System nicht ausschalten.
+Speichere eine Menge Daten...\xfffeBitte das System nicht ausschalten.
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Keine Ranglisten-Daten vorhanden...\xfffeTouchscreen berühren, um fortzufahren.
+Möchtest du dein Kampfvideo senden?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kuro*

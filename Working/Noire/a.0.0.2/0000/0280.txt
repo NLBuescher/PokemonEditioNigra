@@ -1,0 +1,627 @@
+???
+Master Balls
+Hyper Balls
+Super Balls
+Poké Balls
+Safari Balls
+Filet Balls
+Scuba Balls
+Faiblo Balls
+Bis Balls
+Chrono Balls
+Luxe Balls
+Honor Balls
+Sombre Balls
+Soin Balls
+Rapide Balls
+Mémoire Balls
+Potions
+Antidotes
+Anti-Brûle
+Antigels
+Réveils
+Anti-Para
+Guérisons
+Potions Max
+Hyper Potions
+Super Potions
+Total Soins
+Rappels
+Rappels Max
+Eaux Fraîches
+Sodas Cool
+Limonades
+Laits Meumeu
+Poudrénergies
+Racinénergies
+Poudres Soin
+Herbes Rappel
+Huiles
+Huiles Max
+Élixirs
+Max Élixirs
+Lava Cookies
+Jus de Baie
+Cendresacrées
+PV Plus
+Protéines
+Fers
+Carbones
+Calciums
+Super Bonbons
+PP Plus
+Zincs
+PP Max
+Vieux Gâteaux
+Défense Spéc
+Muscle +
+Attaque +
+Défense +
+Vitesse +
+Précision +
+Spécial +
+Déf. Spé. +
+Poképoupées
+Queues Skitty
+Flûtes Bleues
+Flûtes Jaunes
+Flûtes Rouges
+Flûtes Noires
+Flûteblanches
+Sels Tréfonds
+Co. Tréfonds
+Tessons Rouges
+Tessons Bleus
+Tessons Jaunes
+Tessons Verts
+Superepousses
+Max Repousses
+Cordes Sortie
+Repousses
+Pierresoleils
+Pierres Lune
+Pierres Feu
+Pierrefoudres
+Pierres Eau
+Pierreplantes
+Petits Champis
+Gros Champis
+Perles
+Grandes Perles
+Pouss.Étoile
+Morc. Étoile
+Pépites
+Écaillecœurs
+Miels
+Fertipousses
+Fertihumides
+Fertistables
+Fertiglus
+Foss. Racine
+Foss. Griffe
+Nautiles
+Fossiles Dôme
+Vieux Ambres
+Foss. Armure
+Foss. Crâne
+Os Rares
+Pierres Éclat
+Pierres Nuit
+Pierres Aube
+Pierres Ovales
+Clés de Voûte
+Orbes Platinés
+???
+???
+???
+Modules Aqua
+Modules Choc
+Modules Pyro
+Modules Cryo
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Chococœurs
+Orbes Adamants
+Orbes Perlés
+Lettres Salut
+Lettres Fan
+Lettres Invit
+Lettres Merci
+Let. Demande
+Lettres Avis
+Let. Réponse
+Lettres PontS
+Lettres PontY
+Lettres PontF
+Lettres PontH
+Lettres PontI
+Baies Ceriz
+Baies Maron
+Baies Pêcha
+Baies Fraive
+Baies Willia
+Baies Mepo
+Baies Oran
+Baies Kika
+Baies Prine
+Baies Sitrus
+Baies Figuy
+Baies Wiki
+Baies Mago
+Baies Gowav
+Baies Papaya
+Baies Framby
+Baies Remu
+Baies Nanab
+Baies Repoi
+Baies Nanana
+Baies Grena
+Baies Alga
+Baies Qualot
+Baies Lonme
+Baies Résin
+Baies Tamato
+Baies Siam
+Baies Mangou
+Baies Rabuta
+Baies Tronci
+Baies Kiwan
+Baies Palma
+Baies Stekpa
+Baies Durin
+Baies Myrte
+Baies Chocco
+Baies Pocpoc
+Baies Parma
+Baies Ratam
+Baies Nanone
+Baies Pomroz
+Baies Kébia
+Baies Jouca
+Baies Cobaba
+Baies Yapap
+Baies Panga
+Baies Charti
+Baies Sédra
+Baies Fraigo
+Baies Lampou
+Baies Babiri
+Baies Zalis
+Baies Lichii
+Baies Lingan
+Baies Sailak
+Baies Pitaye
+Baies Abriko
+Baies Lansat
+Baies Frista
+Baies Enigma
+Baies Micle
+Baies Chérim
+Baies Jaboca
+Baies Pommo
+Poudreclaires
+Herbeblanches
+Brac. Macho
+Multi Exp
+Vives Griffes
+Grelots Zen
+Herbes Mental
+Band. Choix
+Roches Royales
+Poudres Arg.
+Pièces Rune
+Runes Purif.
+Rosées Âme
+Dents Océan
+Écailleocéans
+Boules Fumée
+Pierres Stase
+Bandeaux
+Œufs Chance
+Lentilscopes
+Peaux Métal
+Restes
+Écailledracos
+Ballelumières
+Sables Doux
+Pierres Dures
+Grains Miracl
+Lunet.Noires
+Ceint.Noires
+Aimants
+Eaux Mystiques
+Becs Pointus
+Pics Venin
+Glacéternels
+Runes Sort
+Cuillertordus
+Charbons
+Crocs Dragon
+Mouch. Soie
+Améliorators
+Grelots Coque
+Encens Mer
+Encens Doux
+Poings Chance
+Poudres Métal
+Masses Os
+Bâtons
+Foul. Rouges
+Foul. Bleus
+Foul. Roses
+Foul. Verts
+Foul. Jaunes
+Loupes
+Band. Muscle
+Lunet. Sage
+Ceintures Pro
+Lumargiles
+Orbes Vie
+Herbes Pouv.
+Orbes Toxiques
+Orbes Flammes
+Poudres Vite
+Ceint. Force
+Lentil. Zoom
+Métronomes
+Balles Fer
+Ralentiqueues
+Nœuds Destin
+Boues Noires
+Roches Glace
+Roches Lisses
+Roches Chaudes
+Roches Humides
+Accro Griffes
+Mouch. Choix
+Piquants
+Poign. Pouv.
+Ceint. Pouv.
+Lent. Pouv.
+Band. Pouv.
+Chaînes Pouv.
+Poids Pouv.
+Carapaces Mue
+Grosseracines
+Lunet. Choix
+Plaques Flam
+Plaques Hydro
+Plaques Volt
+Plaques Herbe
+Plaques Glace
+Plaques Poing
+Plaques Toxic
+Plaques Terre
+Plaques Ciel
+Plaquesprits
+Plaquinsects
+Plaques Roc
+Plaques Fantô
+Plaques Draco
+Plaques Ombre
+Plaques Fer
+Bizar.Encens
+Encens Roc
+Encens Plein
+Encens Vague
+Encens Fleur
+Encens Veine
+Encens Purs
+Protecteurs
+Électiriseurs
+Magmariseurs
+CD Douteux
+Tissus Fauche
+Grif. Rasoir
+Crocs Rasoir
+CT01
+CT02
+CT03
+CT04
+CT05
+CT06
+CT07
+CT08
+CT09
+CT10
+CT11
+CT12
+CT13
+CT14
+CT15
+CT16
+CT17
+CT18
+CT19
+CT20
+CT21
+CT22
+CT23
+CT24
+CT25
+CT26
+CT27
+CT28
+CT29
+CT30
+CT31
+CT32
+CT33
+CT34
+CT35
+CT36
+CT37
+CT38
+CT39
+CT40
+CT41
+CT42
+CT43
+CT44
+CT45
+CT46
+CT47
+CT48
+CT49
+CT50
+CT51
+CT52
+CT53
+CT54
+CT55
+CT56
+CT57
+CT58
+CT59
+CT60
+CT61
+CT62
+CT63
+CT64
+CT65
+CT66
+CT67
+CT68
+CT69
+CT70
+CT71
+CT72
+CT73
+CT74
+CT75
+CT76
+CT77
+CT78
+CT79
+CT80
+CT81
+CT82
+CT83
+CT84
+CT85
+CT86
+CT87
+CT88
+CT89
+CT90
+CT91
+CT92
+CS01
+CS02
+CS03
+CS04
+CS05
+CS06
+???
+???
+Explorakits
+Sacs Butin
+Livres Règles
+Poké Radars
+Cartes Points
+Journaux
+Boîtes Sceaux
+Coffrets Mode
+Sacs Sceaux
+Registres Ami
+Clés Centrale
+Vieux Grigris
+Clés Galaxie
+Chaînes Rouges
+Cartes
+Cherche VS
+Boîtes Jetons
+Cannes
+Super Cannes
+Méga Cannes
+Kwakarrosoirs
+Boîtes Poffin
+Bicyclettes
+Clés Chambre
+Lettres Chen
+Lun'Ailes
+Cartes Membre
+Flûtes Azur
+Passes Bateau
+Passeconcours
+Pierres Magma
+Colis
+Bons 1
+Bons 2
+Bons 3
+Clés Stockage
+Potionsecrets
+Magnétos VS
+Gracidées
+Clés Secrètes
+Btes Noigrume
+Carnets Zarbi
+Plante-Baies
+Cherch'Objets
+Cartes Bleues
+Queueramolos
+Glas Transp.
+Cartes Magn.
+Clés Sous-Sol
+Carapuce à O
+Écaillerouges
+Objets perdus
+Passes Train
+Parties Mach.
+Argent'Ailes
+Arcenci'Ailes
+Œufs Mystère
+Noigrumes Rge
+Noigrumes Blu
+Noigrumes Jne
+Noigrumes Ver
+Noigrumes Ros
+Noigrumes Blc
+Noigrumes Noi
+Speed Balls
+Niveau Balls
+Appât Balls
+Masse Balls
+Love Balls
+Copain Balls
+Lune Balls
+Compét'Balls
+Parc Balls
+Albums Photo
+Lecteurs GB
+Glas Tempête
+Bonbons Rage
+Cartes Mémo01
+Cartes Mémo02
+Cartes Mémo03
+Cartes Mémo04
+Cartes Mémo05
+Cartes Mémo06
+Cartes Mémo07
+Cartes Mémo08
+Cartes Mémo09
+Cartes Mémo10
+Cartes Mémo11
+Cartes Mémo12
+Cartes Mémo13
+Cartes Mémo14
+Cartes Mémo15
+Cartes Mémo16
+Cartes Mémo17
+Cartes Mémo18
+Cartes Mémo19
+Cartes Mémo20
+Cartes Mémo21
+Cartes Mémo22
+Cartes Mémo23
+Cartes Mémo24
+Cartes Mémo25
+Cartes Mémo26
+Cartes Mémo27
+Orbes Verts
+Poké Écrins
+Orbes Rouges
+Orbes Bleus
+Mystécristaux
+Bel'Écailles
+Évolurocs
+Pierrallégées
+Casques Bruts
+Ballons
+Cartons Rouges
+Pts de Mire
+B. Étreinte
+Bulbes
+Piles
+Boutons Fuite
+Joyaux Feu
+Joyaux Eau
+Joyaux Électr
+Joyaux Plante
+Joyaux Glace
+Joyaux Combat
+Joyaux Poison
+Joyaux Sol
+Joyaux Vol
+Joyaux Psy
+Joyaux Insect
+Joyaux Roche
+Joyaux Spectr
+Joyaux Dragon
+Joyaux Ténèbr
+Joyaux Acier
+Joyaux Normal
+Ailes Santé
+Ailes Force
+Ailes Armure
+Ailes Esprit
+Ailes Mental
+Ailes Sprint
+Jolies Ailes
+Foss. Plaque
+Foss. Plume
+Passes Liberté
+Offrisphères
+Rêve Balls
+Poképlumets
+Boîtes Parure
+Crânes Dragons
+Champis Suaves
+Maxi Pépites
+Perles Triples
+Morc. Comète
+Vieux Sous
+Vieux Écus
+Vieux Ducats
+Vieux Vases
+Vieux Bijoux
+Vieux Santons
+Vieux Tortils
+Glaces Volute
+Muscle 2
+Vitesse 2
+Atq. Spé. 2
+Déf. Spé. 2
+Défense 2
+Attaque 2
+Précision 2
+Vitesse 3
+Atq. Spé. 3
+Déf. Spé. 3
+Défense 3
+Attaque 3
+Précision 3
+Vitesse 6
+Atq. Spé. 6
+Déf. Spé. 6
+Défense 6
+Attaque 6
+Précision 6
+Appels CapSpé
+Jette Objets
+Appels Objet
+Réamorçages
+Muscle 3
+Galets Blancs
+Galets Noirs
+CT93
+CT94
+CT95
+Vokits
+???
+Courriers 1
+Courriers 2
+Courriers 3
+Vokits

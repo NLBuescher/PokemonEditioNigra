@@ -1,0 +1,10 @@
+C'è un Distributore! Quale bibita vuoi?
+È uscita una lattina di \xf000ĉ\x0001\x0000!\xf000븁\x0000
+Tombola! È uscita una lattina in più di\xfffe\xf000ĉ\x0001\x0000!\xf000븁\x0000
+I soldi non bastano...
+Acquisto annullato!
+Vuoi comprare un'altra lattina?
+Acqua Fresca\xf000봃\x0001\x0001$200
+Gassosa\xf000봃\x0001\x0001$300
+Lemonsucco\xf000봃\x0001\x0001$350
+Annulla

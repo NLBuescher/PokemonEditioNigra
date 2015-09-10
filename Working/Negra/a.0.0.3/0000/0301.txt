@@ -1,0 +1,106 @@
+N: \xf000븉\x0001\x0001Deseo ver un mundo habitado\xfffeúnicamente por Pokémon.\xf000븁\x0000\xfffeVerlos libres de los humanos\xfffey dueños de su propia fuerza.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Bien... ¡Ha llegado la hora\xfffede librar el duelo final!\xf000븁\x0000\xfffe¡Estoy preparado! Y, aunque eso implique\xfffehacer daño a mis amigos Pokémon,\xf000븀\x0000\xfffe¡tengo fe absoluta en mi victoria!\xf000븁\x0000\xfffeImagino que tú también la tienes,\xfffepuesto que has llegado hasta aquí.\xf000븁\x0000\xfffe¡Acércate y demuéstramelo!\xfffe¡¡En guardia!!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Deseo ver un mundo habitado\xfffeúnicamente por Pokémon.\xf000븁\x0000\xfffeVerlos libres de los humanos\xfffey dueños de su propia fuerza.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Bien... ¡Ha llegado la hora\xfffede librar el duelo final!\xf000븁\x0000\xfffe¡Estoy preparado! Y, aunque eso implique\xfffehacer daño a mis amigos Pokémon,\xf000븀\x0000\xfffe¡tengo fe absoluta en mi victoria!\xf000븁\x0000\xfffeImagino que tú también la tienes,\xfffepuesto que has llegado hasta aquí.\xf000븁\x0000\xfffe¡Acércate y demuéstramelo!\xfffe¡¡En guardia!!\xf000븉\x0001\x0000\xf000븁\x0000
+
+
+N: \xf000븉\x0001\x0001Has llegado hasta aquí con la intención\xfffede combatir contra mí, y, aun así,\xf000븀\x0000\xfffeZekrom no ha despertado.\xf000븁\x0000\xfffeTal vez aún no te reconozca como héroe.\xf000븁\x0000\xfffe¡Qué decepción! Ahora que empezabas\xfffea caerme bien...\xf000븁\x0000\xfffeY yo que había visto en ti a alguien que\xfffelibraba sus combates sin perder\xf000븀\x0000\xfffeel aprecio y respeto por sus Pokémon...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Has llegado hasta aquí con la intención\xfffede combatir contra mí, y, aun así,\xf000븀\x0000\xfffeReshiram no ha despertado.\xf000븁\x0000\xfffeTal vez aún no te reconozca como héroe.\xf000븁\x0000\xfffe¡Qué decepción! Ahora que empezabas\xfffea caerme bien...\xf000븁\x0000\xfffeY yo que había visto en ti a alguien\xfffeque libraba sus combates sin perder\xf000븀\x0000\xfffeel aprecio y respeto por sus Pokémon...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Me he estado engañando a mí mismo\xfffetodo este tiempo!\xf000븁\x0000\xfffe¡Es evidente que jamás nos entenderíamos\xfffepor más que combatiéramos!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Tienes dos opciones!\xf000븁\x0000\xfffePuedes librar un combate en vano contra\xfffemí por la persecución de los ideales...\xf000븁\x0000\xfffeo puedes luchar a mi lado por un nuevo\xfffemundo donde los Pokémon puedan\xf000븀\x0000\xfffevivir libres de los humanos.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Me he estado engañando a mí mismo\xfffetodo este tiempo!\xf000븁\x0000\xfffe¡Es evidente que jamás nos entenderíamos\xfffepor más que combatiéramos!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Tienes dos opciones!\xf000븁\x0000\xfffePuedes librar un combate en vano contra\xfffemí por la persecución de la verdad...\xf000븁\x0000\xfffeo puedes luchar a mi lado por un nuevo\xfffemundo donde los Pokémon puedan\xf000븀\x0000\xfffevivir libres de los humanos.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Ven a mí, Reshiram!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Ven a mí, Zekrom!\xf000븉\x0001\x0000\xf000븁\x0000
+El Orbe Oscuro... ¡ha comenzado\xfffea agitarse dentro de tu Bolsa!
+El Orbe Claro... ¡ha comenzado\xfffea agitarse dentro de tu Bolsa!
+N: \xf000븉\x0001\x0001¡Tu Orbe Oscuro!\xf000븁\x0000\xfffeEs decir... ¡Zekrom!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡Tu Orbe Claro!\xf000븁\x0000\xfffeEs decir... ¡Reshiram!\xf000븉\x0001\x0000\xf000븁\x0000
+Un aura misteriosa rodea el Orbe Oscuro\xfffey se transforma en energía pura\xf000븀\x0000\xfffede gran poder...\xf000븁\x0000\xfffeY ahora...\xf000븁\x0000\xfffe¡¡se libera!!
+Un aura misteriosa rodea el Orbe Claro\xfffey se transforma en energía pura\xf000븀\x0000\xfffede gran poder...\xf000븁\x0000\xfffeY ahora...\xf000븁\x0000\xfffe¡¡se libera!!
+N: \xf000븉\x0001\x0001Reshiram y Zekrom... eran\xfffeuno solo, un único Pokémon.\xf000븁\x0000\xfffeLas dos caras de la misma moneda.\xf000븁\x0000\xfffeDos Pokémon que surgen para apoyar\xfffea un humano al que consideran un héroe.\xf000븁\x0000\xfffeEntiendo... Así que tú también...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Zekrom y Reshiram... eran\xfffeuno solo, un único Pokémon.\xf000븁\x0000\xfffeLas dos caras de la misma moneda.\xf000븁\x0000\xfffeDos Pokémon que surgen para apoyar\xfffea un humano al que consideran un héroe.\xf000븁\x0000\xfffeEntiendo... Así que tú también...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Te voy a transmitir lo que\xfffeestá diciendo.\xf000븁\x0000\xfffe“¡Quiero combatir contigo!\xfffe¡Gánate mi amistad!"\xf000븁\x0000\xfffePretende comprobar hasta qué punto\xfffeeres capaz de defender los ideales\xf000븀\x0000\xfffedespués de haber llegado hasta aquí.\xf000븁\x0000\xfffeYo también quiero conocer tu fuerza...\xf000븁\x0000\xfffe¡Bien! ¡Intenta atrapar a Zekrom\xfffey sumarlo a tu causa!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Te voy a transmitir lo que\xfffeestá diciendo.\xf000븁\x0000\xfffe“¡Quiero combatir contigo!\xfffe¡Gánate mi amistad!"\xf000븁\x0000\xfffePretende comprobar hasta qué punto\xfffeeres capaz de perseguir la verdad\xf000븀\x0000\xfffedespués de haber llegado hasta aquí.\xf000븁\x0000\xfffeYo también quiero conocer tu fuerza...\xf000븁\x0000\xfffe¡Bien! ¡Intenta atrapar a Reshiram\xfffey sumarlo a tu causa!\xf000븉\x0001\x0000\xf000븁\x0000
+¡¡GROAAAR!!
+¡¡GRUAAAR!!
+¡Zekrom te está retando con la mirada\xfffea que intentes atraparlo!
+¡Reshiram te está retando con la\xfffemirada a que intentes atraparlo!
+N: \xf000븉\x0001\x0001Entiendo...\xf000븁\x0000\xfffeDice que le prestará su poder al héroe\xfffeque defiende los ideales.\xf000븁\x0000\xfffeZekrom parece haber reconocido\xfffetu fuerza y ha decidido acompañarte.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Entiendo...\xf000븁\x0000\xfffeDice que le prestará su poder al héroe\xfffeque defiende la verdad.\xf000븁\x0000\xfffeReshiram parece haber reconocido\xfffetu fuerza y ha decidido acompañarte.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Bueno...\xf000븁\x0000\xfffeNo hay honor en vencer a un equipo\xfffePokémon que está agotado.\xf000븉\x0001\x0000\xf000븁\x0000
+¡N ha curado al equipo Pokémon\xfffede \xf000Ā\x0001\x0000!
+N: \xf000븉\x0001\x0001¡Puedo ver el futuro!\xf000븁\x0000\xfffe¡Mi victoria será aplastante!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...\xfffe...\xf000븁\x0000\xfffeReshiram y yo hemos perdido.\xf000븁\x0000\xfffe¿Significa eso que tus convicciones\xfffeo ideales nos han superado?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...\xfffe...\xf000븁\x0000\xfffeZekrom y yo hemos perdido.\xf000븁\x0000\xfffe¿Significa eso que tus convicciones\xfffeo tu verdad nos han superado?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Zekrom y Reshiram...\xf000븁\x0000\xfffeCada uno ha elegido a un héroe...\xfffe¿Cómo es posible tal cosa?\xf000븁\x0000\xfffe¿Querrá decir eso que ambos héroes,\xfffetanto el defensor de los ideales\xf000븀\x0000\xfffecomo el paladín de la verdad,\xf000븀\x0000\xfffetienen razón?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001No lo entiendo...\xf000븁\x0000\xfffeQuizás no se trate de negar\xfffeel pensamiento diferente,\xf000븀\x0000\xfffesino de integrarlo y combinar ambos...\xf000븀\x0000\xfffecomo en una reacción química...\xf000븁\x0000\xfffe¿Es esa la fórmula para\xfffecambiar el mundo?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Reshiram y Zekrom...\xf000븁\x0000\xfffeCada uno ha elegido a un héroe...\xfffe¿Cómo es posible tal cosa?\xf000븁\x0000\xfffe¿Querrá decir eso que ambos héroes,\xfffetanto el paladín de la verdad\xf000븀\x0000\xfffecomo el defensor de los ideales,\xf000븀\x0000\xfffetienen razón?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001No lo entiendo...\xf000븁\x0000\xfffeQuizás no se trate de negar\xfffeel pensamiento diferente,\xf000븀\x0000\xfffesino de integrarlo y combinar ambos...\xf000븀\x0000\xfffecomo en una reacción química...\xf000븁\x0000\xfffe¿Es esa la fórmula para\xfffecambiar el mundo?\xf000븉\x0001\x0000\xf000븁\x0000
+Ghechis: ¿Y tú te apellidas Armonia\xfffecomo yo?\xf000븁\x0000\xfffe¡Mocoso pusilánime!\xf000븁\x0000
+Ghechis: Fui yo quien hace tiempo\xfffeinculcó en N el anhelo por la verdad\xf000븀\x0000\xfffey la obsesión por invocar\xf000븀\x0000\xfffeal Pokémon legendario...\xf000븁\x0000\xfffe¡Para gobernar con puño de hierro\xfffea MI gran Equipo Plasma!\xf000븁\x0000\xfffe¡Y controlar a las aterradas masas!\xfffe¡Estaba a punto de conseguirlo!\xf000븁\x0000
+Ghechis: Fui yo quien hace tiempo\xfffeinculcó en N el anhelo por los ideales\xf000븀\x0000\xfffey la obsesión por invocar\xf000븀\x0000\xfffeal Pokémon legendario...\xf000븁\x0000\xfffe¡Para gobernar con puño de hierro\xfffea MI gran Equipo Plasma!\xf000븁\x0000\xfffe¡Y controlar a las aterradas masas!\xfffe¡Estaba a punto de conseguirlo!\xf000븁\x0000
+Pero tu obsesión por enfrentarte\xfffeal otro Pokémon legendario\xf000븀\x0000\xfffepara luchar por tus convicciones\xf000븀\x0000\xfffey comprobar tu valía como héroe...\xf000븀\x0000\xfffe¿en qué ha resultado?\xf000븁\x0000\xfffe¡En la derrota más vulgar y humillante\xfffede tu vida!\xf000븁\x0000\xfffeMucho me temo que haberte criado\xfffeentre Pokémon te ha trastornado.\xf000븁\x0000
+¡\xf000Ā\x0001\x0000! Ni en mis más descabelladas\xfffepredicciones habría concebido que un\xf000븀\x0000\xfffePokémon legendario pudiera elegirte.\xf000븁\x0000
+¡Pero mi objetivo sigue intacto!\xfffe¡Inamovible!\xf000븁\x0000\xfffe¡Deseo el control absoluto\xfffesobre el mundo!\xf000븁\x0000\xfffe¡Manipular los corazones de\xfffelos ignorantes humanos!\xf000븁\x0000\xfffePara ello he nombrado a N señor\xfffedel Equipo Plasma.\xf000븁\x0000\xfffeAhora tú conoces toda la verdad\xfffey por eso...\xf000븁\x0000\xfffe¡debo eliminarte!\xf000븁\x0000
+Cheren: ¿Controlar el mundo?\xf000븁\x0000\xfffe¿Pero vuestro objetivo no era\xfffeliberar a los Pokémon?\xf000븁\x0000
+Ghechis: Esa fue la falacia que empleé\xfffepara crear el Equipo Plasma.\xf000븁\x0000\xfffe¿Cómo iba a querer liberar a unos seres\xfffepotencialmente tan útiles como ellos?\xf000븁\x0000\xfffeOs mostraré hasta qué punto puede uno\xfffeampliar sus capacidades manipulando\xf000븀\x0000\xfffea los Pokémon.\xf000븁\x0000\xfffe¡Por ese motivo yo y solo yo debo ser\xfffequien los controle!\xf000븁\x0000
+Mirto: ¡¿Pero cómo puedes ser\xfffetan retorcido?!\xf000븁\x0000
+Ghechis: No me importa lo que pienses.\xf000븁\x0000\xfffeUn Pokémon, aunque lo consideréis\xfffeuna divinidad, no deja de ser lo que es,\xf000븀\x0000\xfffeun simple y mero Pokémon.\xf000븁\x0000\xfffe¡Él te habrá elegido, \xf000Ā\x0001\x0000,\xfffepero no eres más que un ser infeliz!\xf000븁\x0000\xfffe¡Voy a disfrutar contemplando\xfffela desesperación en tu rostro!\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡\xf000Ā\x0001\x0000!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¡\xf000Ā\x0001\x0000!\xf000븉\x0001\x0000\xf000븁\x0000
+Ghechis: ¡No importa cuántos vengan ni lo\xfffeque hagan! ¡Nadie podrá detenerme!\xf000븁\x0000
+Cheren: ¡Es intolerable!\xf000븁\x0000\xfffe¡Solo buscas el poder para tu beneficio!\xfffe¡Por puro egoísmo!
+Mirto: ¡Cómo te has aprovechado\xfffede la ingenuidad de N!
+N: \xf000븉\x0001\x0001¿Mi fórmula... era incorrecta?\xf000븉\x0001\x0000
+Groaaar...
+Gruaaar...
+Ghechis: ¿Qué significa esto?\xf000븁\x0000\xfffe¡Yo soy un hombre perfecto!\xfffe¡El creador del Equipo Plasma!\xf000븁\x0000\xfffe¡¿Ha fracasado por completo\xfffemi plan de cambiar el mundo?!\xf000븁\x0000
+Mirto: ¿Y bien, N?\xf000븁\x0000\xfffe¿Sigues pensando que habría que\xfffeseparar a humanos y Pokémon?\xf000븁\x0000
+Ghechis: ¡Ja, ja, ja!\xf000븁\x0000\xfffeLa única utilidad que ha tenido N...\xfffe¡ha sido la de servir en bandeja de plata\xf000븀\x0000\xfffeal Pokémon legendario!\xf000븁\x0000\xfffe¡A mí, que no puedo ser un héroe!\xf000븁\x0000\xfffePodría decirse que N es una mera\xfffecreación mía.\xf000븁\x0000\xfffeUna carcasa desprovista de alma.\xf000븁\x0000\xfffe¿Creéis que vuestras palabras pueden\xfffeconvencer a semejante criatura?\xf000븁\x0000
+Cheren: ¡Mirto, cuanto más escucho\xfffea este tipo, más me fastidia!\xf000븁\x0000\xfffe¡Él sí que no tiene corazón!\xf000븁\x0000
+Mirto: Desde luego.\xfffeEs despreciable.\xf000븁\x0000
+N...\xf000븁\x0000\xfffeSeguro que ahora te planteas\xfffemuchas cosas.\xf000븁\x0000\xfffePero no tienes que dejar que Ghechis\xfffete manipule.\xf000븁\x0000\xfffeTú has actuado por propia voluntad,\xfffeno porque nadie te haya inculcado\xf000븀\x0000\xfffela búsqueda de la verdad.\xf000븁\x0000\xfffe¡Por eso has sido capaz de invocar\xfffeal Pokémon legendario!\xf000븁\x0000
+N...\xf000븁\x0000\xfffeSeguro que ahora te planteas\xfffemuchas cosas.\xf000븁\x0000\xfffePero no tienes que dejar que Ghechis\xfffete manipule.\xf000븁\x0000\xfffeTú has actuado por propia voluntad,\xfffeno porque nadie te haya inculcado\xf000븀\x0000\xfffela búsqueda de los ideales.\xf000븁\x0000\xfffe¡Por eso has sido capaz de invocar\xfffeal Pokémon legendario!\xf000븁\x0000
+N: \xf000븉\x0001\x0001Pero... ¡no tengo lo que hace falta\xfffepara ser un héroe!\xf000븉\x0001\x0000\xf000븁\x0000
+Mirto: ¿Quién sabe?\xf000븁\x0000\xfffeYo creo que ahora la pregunta es qué\xfffepiensas hacer junto a ese Pokémon\xf000븀\x0000\xfffelegendario.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Sí, pero... ¡hemos estado luchando\xfffepor nuestras convicciones!\xf000븁\x0000\xfffeEntonces, ¿por qué...?\xf000븉\x0001\x0000\xf000븁\x0000
+Mirto: Escúchame, N.\xf000븁\x0000\xfffeQue no hayamos podido convencernos\xfffelos unos a los otros no implica que\xf000븀\x0000\xfffehaya una imperfección.\xf000븁\x0000\xfffePiensa que, normalmente, en toda lucha,\xfffeninguno de los dos bandos posee\xf000븀\x0000\xfffepor sí mismo la razón absoluta.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Quiero comentarte una cosa.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Cuando tú y yo nos conocimos en Pueblo\xfffeTerracota, le oí decir algo a tu Pokémon\xf000븀\x0000\xfffeque me causó un tremendo impacto.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Lo que dijo fue que te apreciaba.\xfffe¡Que quería estar contigo!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001No podía comprenderlo.\xf000븁\x0000\xfffe¡Que un Pokémon pudiera sentir aprecio\xfffepor un humano!\xf000븁\x0000\xfffe¡Era algo que yo nunca había visto!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Y, desde aquel momento, cuanto más\xfffeavanzaba en mi viaje, más vacilaban\xf000븀\x0000\xfffemis convicciones.\xf000븁\x0000\xfffe¡No hacía más que ver humanos y Pokémon\xfffeque se entendían y se ayudaban!\xf000븁\x0000\xfffeFue por eso que quise combatir contigo,\xfffepara poner a prueba mis creencias.\xf000븁\x0000\xfffeQuería medirme contra alguien con\xfffela fuerza y la pureza de un héroe.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Yo no comprendía a los Pokémon,\xfffeo mejor dicho, solo comprendía a algunos.\xf000븁\x0000\xfffeNo puedo compararme contigo, que has\xfffeconocido y trabado amistad con tantos.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001El Campeón me ha perdonado.\xf000븁\x0000\xfffeAhora debo decidir por mí mismo\xfffequé es lo que quiero hacer.\xf000븉\x0001\x0000\xf000븁\x0000
+¡\xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000븉\x0001\x0001Dijiste que tenías un sueño,\xfffey ahora... ¡se cumplirá!\xf000븁\x0000\xfffe¡Los sueños y los ideales tienen poder\xfffepara cambiar el mundo!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000! ¡Tú podrás hacerlo!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001¡Debes permitirte el lujo de soñar!\xfffe¡Y para ello debes perseguir tus ideales!\xf000븁\x0000\xfffe¡Así llegará el día en que tus sueños\xfffese harán realidad!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Dijiste que tenías un sueño,\xfffey ahora... ¡se cumplirá!\xf000븁\x0000\xfffe¡Podrás hacer realidad tus más\xfffefabulosos sueños!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000! ¡Tú podrás hacerlo!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001¡Debes permitirte el lujo de soñar!\xfffe¡Mantente firme en tus creencias!\xf000븁\x0000\xfffe¡Así llegará el día en que tus sueños\xfffese harán realidad!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Bueno, pues...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001¡Hasta la vista!\xf000븉\x0001\x0000\xf000븁\x0000
+
+
+
+
+
+
+
+N: \xf000븉\x0001\x0001¡Recuerda bien lo que te digo!\xf000븁\x0000\xfffe¡Zekrom se rebelará contra ti\xfffesi careces de ideales!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001¡Recuerda bien lo que te digo!\xf000븁\x0000\xfffe¡Reshiram te calcinará en el acto\xfffesi no posees un corazón sincero!\xf000븉\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+¿Quieres sacar a \xf000ā\x0001\x0001 de la Caja\xfffee incluirlo en tu equipo?
+¿Seguro que no quieres sacar a\xfffe\xf000ā\x0001\x0001 de la Caja?
+¿Qué Pokémon quieres devolver al PC?\xf000븁\x0000
+¿Quieres dejar a \xf000Ă\x0001\x0002?
+¡\xf000ā\x0001\x0001 se ha unido a tu equipo!

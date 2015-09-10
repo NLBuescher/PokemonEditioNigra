@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+USA
+OK
+ESCI
+MODIFICA
+AGGIUNGI NUOVO MESSAGGIO
+SCEGLI
+CANCELLA
+ESCI
+- Lista di messaggi registrati -\xfffeScegli il messaggio da usare!
+Scegli il tipo di messaggio e le parole\xfffeda inserire!
+Scegli le parole da inserire!
+- Modalità gruppo -\xfffeScegli le parole o le espressioni da\xfffequesto gruppo.
+- Modalità alfabetica -\xfffeInserisci le prime lettere della parola\xfffeper restringere il campo di ricerca!
+- Modalità alfabetica -\xfffeScegli una parola tra quelle filtrate!
+- Modalità gruppo -\xfffeScegli il gruppo di parole da inserire\xfffenella posizione scelta!

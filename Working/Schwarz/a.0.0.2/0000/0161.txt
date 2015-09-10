@@ -1,0 +1,47 @@
+Bewirkt, dass man etwas leichter\xfffewilden Pokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass man viel leichter wilden\xfffePokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass man sehr viel leichter\xfffewilden Pokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass man etwas seltener\xfffewilden Pokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass man viel seltener\xfffewilden Pokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass man sehr viel seltener\xfffewilden Pokémon begegnet. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass Eier beim Laufen etwas\xfffeschneller schlüpfen. Die Wirkung hält\xfffe3 Minuten an.
+Bewirkt, dass Eier beim Laufen viel\xfffeschneller schlüpfen. Die Wirkung hält\xfffe3 Minuten an.
+Bewirkt, dass Eier beim Laufen sehr viel\xfffeschneller schlüpfen. Die Wirkung hält\xfffe3 Minuten an.
+Bewirkt, dass sich Pokémon etwas\xfffeleichter mit dir anfreunden. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass sich Pokémon viel\xfffeleichter mit dir anfreunden. Die Wirkung\xfffehält 3 Minuten an.
+Bewirkt, dass sich Pokémon sehr viel\xfffeleichter mit dir anfreunden. Die Wirkung\xfffehält 3 Minuten an.
+Artikel im Pokémon-Supermarkt werden\xfffeum 10 % ihres Preises reduziert.\xfffeDie Wirkung hält 3 Minuten an.
+Artikel im Pokémon-Supermarkt werden\xfffeum 25 % ihres Preises reduziert.\xfffeDie Wirkung hält 3 Minuten an.
+Artikel im Pokémon-Supermarkt werden\xfffeum 50 % ihres Preises reduziert.\xfffeDie Wirkung hält 3 Minuten an.
+Frischt umgehend einige KP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Frischt umgehend viele KP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Frischt umgehend sehr viele KP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Frischt umgehend einige AP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Frischt umgehend viele AP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Frischt umgehend sehr viele AP des an\xfffeder Spitze des Teams stehenden\xfffePokémon auf.
+Erhöht die Anzahl der nach einem Kampf\xfffeerhaltenen E.-Punkte leicht.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht die Anzahl der nach einem Kampf\xfffeerhaltenen E.-Punkte stark.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht die Anzahl der nach einem Kampf\xfffeerhaltenen E.-Punkte drastisch.\xfffeDie Wirkung hält 3 Minuten an.
+Verringert die Anzahl der nach einem\xfffeKampf erhaltenen E.-Punkte leicht.\xfffeDie Wirkung hält 3 Minuten an.
+Verringert die Anzahl der nach einem\xfffeKampf erhaltenen E.-Punkte stark.\xfffeDie Wirkung hält 3 Minuten an.
+Verringert die Anzahl der nach einem\xfffeKampf erhaltenen E.-Punkte drastisch.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht das nach einem Kampf\xfffeerhaltene Preisgeld leicht.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht das nach einem Kampf\xfffeerhaltene Preisgeld stark.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht das nach einem Kampf\xfffeerhaltene Preisgeld drastisch.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht die Wahrscheinlichkeit,\xfffeein Pokémon zu fangen, leicht.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht die Wahrscheinlichkeit,\xfffeein Pokémon zu fangen, stark.\xfffeDie Wirkung hält 3 Minuten an.
+Erhöht die Wahrscheinlichkeit,\xfffeein Pokémon zu fangen, drastisch.\xfffeDie Wirkung hält 3 Minuten an.
+Bewirkt, dass Eier beim Laufen sehr viel\xfffeschneller schlüpfen. Die Wirkung hält\xfffe30 Minuten an.
+Alle Artikel im Pokémon-Supermarkt\xfffewerden um 50 % reduziert.\xfffeDie Wirkung hält 30 Minuten an.
+Bewirkt, dass sich Pokémon sehr viel\xfffeleichter mit dir anfreunden. Die Wirkung\xfffehält 30 Minuten an.
+Erhöht die Anzahl der nach einem Kampf\xfffeerhaltenen E.-Punkte drastisch.\xfffeDie Wirkung hält 30 Minuten an.
+Erhöht das nach einem Kampf\xfffeerhaltene Preisgeld drastisch.\xfffeDie Wirkung hält 30 Minuten an.
+Erhöht die Wahrscheinlichkeit,\xfffeein Pokémon zu fangen, drastisch.\xfffeDie Wirkung hält 30 Minuten an.
+Heilt alle Team-Pokémon des Empfängers\xfffevollständig.
+Eier schlüpfen beim Laufen sehr viel\xfffeschneller. Die Wirkung hält 60 Minuten an.
+Alle Artikel im Pokémon-Supermarkt\xfffewerden um 50 % reduziert.\xfffeDie Wirkung hält 60 Minuten an.
+Bewirkt, dass sich Pokémon sehr viel\xfffeleichter mit dir anfreunden. Die Wirkung\xfffehält 60 Minuten an.
+Erhöht die Anzahl der nach einem Kampf\xfffeerhaltenen E.-Punkte drastisch.\xfffeDie Wirkung hält 60 Minuten an.
+Erhöht das nach einem Kampf\xfffeerhaltene Preisgeld drastisch.\xfffeDie Wirkung hält 60 Minuten an.
+Erhöht die Wahrscheinlichkeit,\xfffeein Pokémon zu fangen, drastisch.\xfffeDie Wirkung hält 60 Minuten an.
+

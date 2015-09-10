@@ -1,0 +1,15 @@
+Pansage, Pansear e Panpour sono tre\xfffePokémon che si evolvono usando una\xf000븀\x0000\xfffepietra speciale!\xf000븁\x0000\xfffeQuale dei tre vorresti far evolvere?
+Per far evolvere Pansage ti serve una\xfffePietrafoglia.\xf000븁\x0000
+Per far evolvere Pansear ti serve una\xfffePietrafocaia.\xf000븁\x0000
+Per far evolvere Panpour ti serve una\xfffePietraidrica.\xf000븁\x0000
+Forse già lo sai, ma lascia che ti dia un\xfffeconsiglio!\xf000븁\x0000\xfffeQuando un Pokémon si evolve, la sua forza\xfffeaumenta, ma al contempo impara nuove\xf000븀\x0000\xfffemosse con più difficoltà.\xf000븁\x0000\xfffeCiò vale in particolare per quei Pokémon\xfffeche si evolvono grazie a una pietra.\xf000븁\x0000\xfffePer cui puoi decidere se far imparare loro\xfffeuna mossa prima di farli evolvere, o se\xf000븀\x0000\xfffeusare una MT dopo l'evoluzione.\xf000븁\x0000\xfffeTienilo bene a mente e prendi la giusta\xfffedecisione!
+Pansage
+Pansear
+Panpour
+Esci
+Pansage?
+Pansear?
+Panpour?
+Tra Pansage, Pansear e Panpour,\xfffequale vorresti provare a far evolvere?
+Lo so, non è facile scegliere!\xfffeVieni a parlarmi quando hai deciso!
+Stringi il pugno e alza il pollice!\xfffePerfetto! È il segno per l'OK!

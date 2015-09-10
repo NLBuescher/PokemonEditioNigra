@@ -1,0 +1,560 @@
+-
+Ein Hieb mit den Vorderbeinen\xfffeoder dem Schweif.
+Gute Möglichkeit, einen Volltreffer\xfffezu landen.
+Trifft das Ziel 2- bis 5-mal hintereinander\xfffemit einem Duplexhieb.
+Trifft das Ziel 2- bis 5-mal hintereinander\xfffemit kräftigen Hieben.
+Ein unglaublich kräftiger Hieb.
+Das Ziel wird mit Münzen beworfen. Das\xfffeGeld wird nach dem Kampf aufgesammelt.
+Feuriger Schlag, der dem Ziel eventuell\xfffeVerbrennungen zufügt.
+Ein eisiger Schlag, der das Ziel\xfffeeventuell einfriert.
+Ein elektrischer Schlag, der das Ziel\xfffeeventuell paralysiert.
+Das Ziel wird mit scharfen\xfffeKlauen zerkratzt.
+Umklammert das Ziel mit großen,\xfffekräftigen Zangen.
+Kräftige Scheren-Attacke. Führt beim\xfffeZiel sofort zum K.O.
+Eine Attacke, die über zwei Runden\xfffegeht. Hohe Volltrefferquote.
+Ein wilder Kampftanz, der den eigenen\xfffeAngriffs-Wert stark erhöht.
+Ein Basisangriff mit Schere oder Klaue.\xfffeDamit können kleine Bäume gefällt werden.
+Trifft das Ziel mit einem Windstoß\xfffedurch einen Flügelschlag.
+Trifft das Ziel mit ausgebreiteten\xfffeFlügeln.
+Weht das Ziel weg und ersetzt es durch ein\xfffeanderes Pokémon. In der Wildnis endet\xfffeder Kampf.
+Steigt in Runde 1 empor und trifft das\xfffeZiel in Runde 2. Ermöglicht Flug in\xfffejede bekannte Stadt.
+Umklammert und quetscht das\xfffeZiel über 2 bis 5 Runden.
+Schlag mit einem langen Schweif,\xfffeeiner Ranke oder Ähnlichem.
+Peitschenähnlicher Schlag mit Ranken.
+Stampfen mit dem Fuß. Das Ziel\xfffeschreckt eventuell zurück.
+Der Anwender tritt in einer Runde\xfffezweimal schnell zu.
+Das Ziel wird mit einem extrem\xfffeheftigen Tritt angegriffen.
+Der Angreifer hüpft hoch und tritt zu.\xfffeBei Misserfolg schadet er sich selbst.
+Heftiger Tritt aus einer schnellen\xfffeDrehbewegung. Lässt das Ziel\xfffeeventuell zurückschrecken.
+Senkt Genauigkeit des Zieles,\xfffeindem ihm Sand ins Gesicht\xfffegeworfen wird.
+Rammt das Ziel mit einer Kopfnuss.\xfffeZiel schreckt eventuell zurück.
+Spießt das Ziel mit einem spitzem\xfffeHorn auf.
+Spießt das Ziel 2- bis 5-mal mit spitzem\xfffeHorn oder Schnabel auf.
+K.O.-Attacke, die ein Horn als\xfffeBohrer einsetzt.
+Trifft das Ziel mit vollem\xfffeKörpereinsatz.
+Trifft das Ziel mit vollem\xfffeKörpereinsatz. Bewirkt\xfffeeventuell Paralyse.
+Umwickelt das Ziel über 4 bis 5 Runden\xfffemit Ranken oder Ähnlichem und fügt\xfffeihm Schaden zu.
+Rücksichtslose Attacke, bei der sich\xfffeder Angreifer selbst leicht verletzt.
+Attacke über 2 bis 3 Runden,\xfffedie den Angreifer verwirrt.
+Lebensgefährlicher Angriff, bei dem\xfffesich der Angreifer selbst verletzt.
+Hieb mit dem Schweif. Senkt die\xfffeVerteidigung des Gegners.
+Angriff mit Giftstachel. Das Ziel\xfffewird eventuell vergiftet.
+Stacheln an den Vorderbeinen\xfffetreffen das Ziel zweimal.\xfffeZiel wird eventuell vergiftet.
+Spitze Nadeln treffen das Ziel\xfffe2- bis 5-mal hintereinander.
+Gegnerischer Verteidigungs-Wert wird\xfffedurch angsteinflößenden Blick gesenkt.
+Beißt zu und lässt das Ziel\xfffeeventuell zurückschrecken.
+Der Anwender nimmt den Gegner\xfffefür sich ein und senkt dessen\xfffeAngriffs-Wert.
+Verjagt das Ziel und ersetzt es\xfffedurch ein anderes Pokémon.\xfffeBeendet den Kampf in der Wildnis.
+Ein Lied, das das Ziel in tiefen\xfffeSchlaf versetzt.
+Ausstoß bizarrer Schallwellen.\xfffeDas Ziel wird verwirrt.
+Das Ziel wird von einer Schockwelle\xfffegetroffen, die stets 20 KP Schaden\xfffeanrichtet.
+Die zuletzt eingesetzte Attacke\xfffedes Zieles wird für mehrere Runden\xfffeblockiert.
+Versprüht ätzende Flüssigkeit, die\xfffeeventuell die Spezial-Verteidigung\xfffedes Zieles senkt.
+Schwache Feuer-Attacke, durch die das\xfffeZiel eventuell Verbrennungen erleidet.
+Starke Feuer-Attacke, durch die das\xfffeZiel eventuell Verbrennungen\xfffeerleidet.
+Anwender schützt das Team mit einem\xfffeNebel. Verhindert Statussenkungen\xfffefür fünf Runden.
+Das Ziel wird mit Wasser bespritzt.
+Spritzt eine Menge Wasser mit\xfffeHochdruck auf das Ziel.
+Eine Welle bricht über alle Pokémon in der\xfffeNähe des Anwenders herein. Macht Surfen\xfffemöglich.
+Das Ziel wird von einem Eisstrahl\xfffegetroffen und friert eventuell ein.
+Ein Schneesturm wütet, der das\xfffeZiel einfrieren kann.
+Feuert einen Strahl ab, der das\xfffeZiel verwirren kann.
+Versprüht Blasen, die eventuell den\xfffeInitiative-Wert des Zieles senken.
+Regenbogenfarbener Strahl,\xfffeder eventuell den Angriffs-Wert\xfffedes Zieles senkt.
+Starke Attacke, die den Angreifer\xfffezwingt, eine Runde auszusetzen.
+Greift das Ziel mit dem Schnabel\xfffeoder Horn an.
+Korkenzieherangriff, bei dem der\xfffeSchnabel als Bohrer dient.
+Harte Körperattacke, bei der sich\xfffeder Angreifer selbst leicht verletzt.
+Tritt, der das Ziel umwirft. Je schwerer\xfffedas Ziel ist, desto mehr Schaden fügt\xfffeihm die Attacke zu.
+Kontert physischen Treffer und fügt dem\xfffeGegner das Doppelte des Schadens zu,\xfffeden der Anwender erlitten hat.
+Ziel wird mit der Kraft der Gravitation\xfffeumgeworfen. Richtet Schaden gemäß Level\xfffedes Angreifers an.
+Das Ziel wird extrem stark getroffen.\xfffeMacht Verschieben von Felsen möglich.
+Attacke, die die Hälfte des\xfffeSchadens absorbiert.
+Attacke, die die Hälfte des\xfffeSchadens absorbiert.
+Ziel wird bepflanzt und verliert jede\xfffeRunde KP, die ein Pokémon aus dem\xfffeTeam des Anwenders heilen.
+Der Körper wächst. Dadurch steigen\xfffeAngriff und Spezial-Angriff.
+Trifft das Ziel mit Blättern.\xfffeHohe Volltrefferquote.
+Absorbiert Licht in Runde 1.\xfffeIn Runde 2 erfolgt der Angriff.
+Verstreut giftigen Puder auf das Ziel.
+Verstreut lähmenden Puder.
+Verstreut Schlafpuder, der das\xfffeZiel eventuell in Schlaf versetzt.
+Angriff mit Blütenblättern für 2 bis 3\xfffeRunden. Angreifer wird verwirrt.
+Umwickelt Gegner in der Nähe mit\xfffeFäden aus dem Mund und senkt\xfffeden Initiative-Wert.
+Stößt eine wutgeladene Schockwelle aus,\xfffedie stets 40 KP Schaden anrichtet.
+Das Ziel wird für 4 bis 5 Runden in\xfffeeinem Feuerkreis gefangen.
+Eine Elektro-Attacke, die das\xfffeZiel eventuell paralysiert.
+Eine starke Elektro-Attacke, die das\xfffeZiel eventuell paralysiert.
+Ein schwacher Stromstoß, der\xfffedas Ziel paralysiert.
+Eine verheerende Elektro-Attacke,\xfffedie das Ziel eventuell paralysiert.
+Das Ziel wird mit einem kleinen\xfffeStein beworfen.
+Ein mächtiges Beben, das die anderen\xfffePokémon in der Nähe des Anwenders\xfffetrifft.
+Das Ziel wird in eine Erdspalte\xfffegeworfen. Ist die Attacke erfolgreich,\xfffeführt sie zu einem K.O.
+In Runde 1 eingraben und in Runde 2 an-\xfffegreifen. Macht Flucht aus Höhlen möglich.
+Vergiftet das Ziel mit einem potenten\xfffeToxin schwer. Vergiftung wird von Runde\xfffezu Runde stärker.
+Das Ziel wird von schwacher\xfffetelekinetischer Energie getroffen\xfffeund eventuell verwirrt.
+Starke Psycho-Attacke, die eventuell die\xfffeSpezial-Verteidigung des Zieles senkt.
+Hypno-Attacke, die das Ziel\xfffein Schlaf versetzt.
+Anwender aktiviert Kräfte, die tief in\xfffeseinem Inneren schlummern, und\xfffesteigert so seinen Angriffs-Wert.
+Entspannt den Körper, um den\xfffeInitiative-Wert stark zu steigern.
+Sehr schneller Angriff mit\xfffeErstschlaggarantie.
+Erhöht Angriff des Anwenders, wenn \xfffedieser getroffen wird, solange die\xfffeAttacke aktiviert ist.
+Flieht sofort vor wilden Pokémon.\xfffeWarp zum letzten Pokémon-Center.
+Das Ziel sieht eine Illusion. Richtet\xfffeSchaden gemäß dem Level des\xfffeAnwenders an.
+Kopiert die zuvor ausgeführte Attacke\xfffedes Zieles. Kann im Kampf bis zur\xfffeAuswechslung verwendet werden.
+Stößt einen Schrei aus, um die\xfffeVerteidigung des Zieles stark\xfffezu senken.
+Erzeugt durch schnelle Bewegungen\xfffeEbenbilder, um den Fluchtwert zu erhöhen.
+Eine Selbstheilung. KP des Anwenders\xfffewerden um 50 % des maximalen Wertes\xfffeaufgefüllt.
+Stärkt die Muskulatur und\xfffeerhöht den Verteidigungs-Wert.
+Anwender schrumpft, um seinen\xfffeFluchtwert stark zu erhöhen.
+Senkt Genauigkeit des Zieles mit\xfffeRauch, Tinte oder Ähnlichem.
+Ein fieser Strahl, der das Ziel\xfffeverwirrt.
+Rückzug in den harten Panzer.\xfffeErhöht den Verteidigungs-Wert.
+Verbirgt Schwächen durch Einrollen und\xfffehebt gleichzeitig den Verteidigungs-Wert.
+Erzeugt eine Barriere, die den\xfffeVerteidigungs-Wert stark erhöht.
+Erzeugt eine Lichtwand und senkt Schaden\xfffedurch Spezial-Angriffe für fünf Runden.
+Erzeugt einen dunklen Nebel. Alle\xfffeVeränderungen der Statuswerte der\xfffeKampfteilnehmer werden annulliert.
+Eine mysteriöse Wand, die fünf Runden den\xfffeSchaden von physischen gegnerischen\xfffeTreffern reduziert.
+Anwender atmet ein und bündelt Kraft.\xfffeDie Volltrefferquote steigt dadurch.
+Erträgt zwei Runden Angriffe und schlägt\xfffedann mit dem doppelten Wert des erlittenen\xfffeSchadens zurück.
+Bewegt Finger, um das Gehirn zu\xfffestimulieren. Wählt zufällig eine\xfffeAttacke aus.
+Kopiert die letzte Attacke des\xfffeZieles und greift es an.
+Anwender sprengt sich, richtet\xffferundum Riesenschaden an und\xfffewird dabei besiegt.
+Ein großes Ei wird auf das Ziel\xfffeabgefeuert, um ihm zu schaden.
+Leck-Attacke mit langer Zunge.\xfffeDas Ziel wird eventuell\xfffeparalysiert.
+Angriff mit Gas. Das Ziel kann\xfffeeventuell vergiftet werden.
+Wirft Schlamm auf das Ziel,\xfffedas eventuell vergiftet wird.
+Schlägt das Ziel mit einer Keule\xfffeund verschreckt es eventuell.
+Feuersbrunst, die das Ziel versengt\xfffeund ihm eventuell eine Verbrennung\xfffezufügt.
+Eine mächtige Attacke, durch die das\xfffeZiel evtl. zurückschreckt. Wasserfälle\xfffekönnen damit erklommen werden.
+Fängt und quetscht das Ziel über\xfffe4 bis 5 Runden durch die harte Schale\xfffedes Anwenders.
+Verschießt sternförmige Strahlen,\xfffedie stets treffen, auf Gegner in\xfffeder Umgebung.
+Der Anwender erhöht in Runde 1\xfffeseine Verteidigung und greift in\xfffeRunde 2 an.
+Spitze Nadeln treffen das\xfffeZiel 2- bis 5-mal.
+Angriff mit langen Tentakeln oder Ranken.\xfffeSenkt eventuell den Initiative-Wert.
+Gedächtnisverlust, der die\xfffeSpezial-Verteidigung stark\xfffeerhöht.
+Lenkt Ziel durch Verbiegen\xfffeeines Löffels ab. Senkt\xfffedessen Genauigkeit.
+KP des Anwenders werden um 50 %\xfffeder maximalen KP aufgefüllt. Heilung\xfffedes Teams außerhalb von Kämpfen.
+Sprungtritt mit Knie. Bei Misserfolg\xfffeverletzt sich der Anwender selbst.
+Schüchtert Ziel mit dem Muster\xfffeauf seinem Bauch ein, sodass dieses\xfffeparalysiert wird.
+Attacke gegen schlafendes Ziel.\xfffeDie Hälfte des zugefügten Schadens\xfffewird dem Anwender gutgeschrieben.
+Hüllt Gegner in der Umgebung\xfffein Gas ein, das sie vergiftet.
+Wirft 2- bis 5-mal runde Gegenstände\xfffeauf das Ziel.
+Die Hälfte des zugefügten Schadens\xfffewird dem Anwender gutgeschrieben.
+Anwender zwingt dem Ziel einen\xfffeKuss auf, der Schlaf verursacht.
+Anwender greift in der zweiten Runde\xfffemit hoher Volltrefferquote an. Ziel\xfffeschreckt eventuell zurück.
+Anwender verwandelt sich in ein Abbild des\xfffeZieles und kann so auf die gleichen\xfffeAttacken zugreifen.
+Angriff mit Blasen. Initiative-Wert des\xfffeGegners wird eventuell gesenkt.
+Rhythmische Schläge, die das Ziel\xfffeverwirren können.
+Erzeugt eine Wolke aus einschläfernden\xfffeSporen.
+Erzeugt helles Licht, das die\xfffeGenauigkeit des Zieles senkt\xfffeund Höhlen ausleuchten kann.
+Anwender erzeugt eine mysteriöse\xfffeEnergiewelle, deren Intensität von\xfffeMal zu Mal unterschiedlich ausfällt.
+Nur ein Platscher, der überhaupt\xfffenichts bewirkt.
+Verflüssigt Körperzellen des Anwenders.\xfffeErhöht den Verteidigungs-Wert stark.
+Schlägt mit Schere zu.\xfffeHohe Volltrefferquote.
+Anwender explodiert, richtet bei allen\xfffePokémon in seiner Umgebung großen\xfffeSchaden an und wird besiegt.
+Beharkt das Ziel 2- bis 5-mal mit\xfffescharfen Klauen oder Sicheln.
+Ein Bumerang aus Knochen, der\xfffezweimal trifft.
+Anwender wird vollkommen\xfffegeheilt und schläft die\xfffefolgenden zwei Runden.
+Schleudert riesige Felsen auf\xfffeGegner in der Umgebung, die\xfffeeventuell zurückschrecken.
+Angriff mit scharfen Reißzähnen.\xfffeZiel schreckt eventuell zurück.
+Anwender senkt die Polygonzahl,\xfffeum Kanten zu erzeugen, die den\xfffeAngriffs-Wert erhöhen.
+Wandelt den Typ des Anwenders in den Typ\xfffeeiner Attacke des Anwenders um.
+Feuert drei Strahlen ab. Verursacht\xfffeeventuell Paralyse, Verbrennung\xfffeoder Einfrieren.
+Greift mit scharfen Reißzähnen an.\xfffeKP des Zieles werden halbiert.
+Hieb mit Klauen oder Ähnlichem.\xfffeHohe Volltrefferquote.
+Anwender setzt eine kleine Menge an KP\xfffeein, um einen Doppelgänger zu erzeugen,\xfffeder für ihn Schläge einsteckt.
+Angriff nur bei verbrauchten AP.\xfffeAnwender verletzt sich selbst leicht.
+Anwender lernt die letzte Attacke\xfffedes Zieles dauerhaft. Nachahmer\xfffeverschwindet nach Gebrauch.
+Tritt das Ziel 1- bis 3-mal nacheinander.\xfffeDie Härte der Tritte nimmt von Treffer zu\xfffeTreffer zu.
+Erlaubt es, das Item des Zieles zu\xfffestehlen, solang der Anwender selbst\xfffekeins bei sich trägt.
+Wickelt das Ziel ein. Flucht oder\xfffeTausch unmöglich.
+Ahnt Bewegungen des Zieles voraus,\xfffeum zu gewährleisten, dass die\xfffenächste eigene Attacke trifft.
+Dem schlafenden Ziel wird durch einen\xfffeAlptraum in jeder Runde Schaden\xfffezugefügt, solang es schläft.
+Feuer-Attacke, die das Ziel eventuell\xfffeverbrennt.
+Attacke nur im Schlaf möglich.\xfffeZiel schreckt eventuell zurück.
+Attacke, deren Wirkung davon abhängt, ob\xfffeder Anwender ein Geist-Pokémon ist.
+Attacke richtet mehr Schaden\xfffean, wenn eigene KP niedrig sind.
+Anwender ändert Typ und wird gegen\xfffeletzten Angriffstyp resistent.
+Erzeugt Luftstrudel gegen das Ziel.\xfffeHohe Volltrefferquote.
+Wattebäusche heften sich an das\xfffeZiel. Der Initiative-Wert sinkt stark.
+Richtet mehr Schaden an,\xfffewenn eigene KP niedrig sind.
+AP der letzten Attacke des Zieles\xfffewerden um 4 gesenkt.
+Angriff mit Schnee. Gegner wird\xfffeeventuell eingefroren.
+Anwender weicht jeder Attacke aus.\xfffeScheitert eventuell bei Wiederholung.
+Extrem schneller Hieb, der stets\xfffezuerst trifft.
+Jagt dem Ziel mit einer Grimasse\xfffeAngst ein. Dessen Initiative-Wert\xfffesinkt stark.
+Anwender nähert sich mit Unschuldsmiene\xfffedem Ziel und schlägt zu, sobald dieses\xfffeunachtsam wird. Ein Treffer ist gewiss.
+Anwender küsst Ziel, das durch\xfffediese Niedlichkeit verwirrt wird.
+Der Anwender maximiert den Angriffs-Wert\xfffeauf Kosten der Hälfte seiner maximalen KP.
+Wirft Schlamm auf das Ziel. Dieses wird\xfffeeventuell vergiftet.
+Schadet dem Ziel durch Matsch.\xfffeDessen Genauigkeit sinkt.
+Schießt mit Tinte, um Schaden anzurichten\xfffeund die Genauigkeit zu senken.
+Der Anwender verteilt Stacheln, die\xfffeein gegnerisches Pokémon verletzen,\xfffesobald es in den Kampf gerufen wird.
+Kanonenähnlicher Elektro-Schuss,\xfffeder schadet und paralysiert.
+Erlaubt es, Geist-Pokémon mit Normal-\xfffeund Kampf-Attacken anzugreifen.\xfffeIgnoriert den Fluchtwert des Zieles.
+Wird der Anwender nach Einsatz dieser\xfffeAttacke besiegt, führt dies auch\xfffebeim Gegner zum K.O.
+Wer diese Musik hört, wird nach drei\xfffeRunden besiegt. Rettung ist durch\xfffeEintausch eines neuen Pokémon möglich.
+Eis-Attacke, die dem Gegner Schaden\xfffezufügt und seinen Initiative-Wert senkt.
+Anwender weicht jeder Attacke aus.\xfffeScheitert eventuell bei Wiederholung.
+Greift Ziel 2- bis 5-mal in Folge mit\xfffeeinem harten Knochen an.
+Visiert das Ziel an und trifft in der\xfffenächsten Runde garantiert.
+Attacke über 2 bis 3 Runden,\xfffedie den Angreifer verwirrt.
+Sandsturm für fünf Runden. Fügt Pokémon\xfffevon jedem Typ außer Gestein, Boden und\xfffeStahl Schaden zu.
+Das Ziel wird angegriffen und die\xfffeHälfte des zugefügten Schadens\xfffedem Angreifer als KP gutgeschrieben.
+Nach fatalen Attacken bleibt stets\xfffe1 KP übrig. Misserfolg bei Wiederholung\xfffemöglich.
+Betört das Ziel und reduziert\xfffedessen Angriff stark.
+Attacke, die fünf Runden dauert.\xfffeDie Härte nimmt von Mal zu Mal zu.
+Ein Angriff, der dem Ziel\xfffezumindest 1 KP lässt.
+Verwirrt das Ziel und erhöht\xfffedessen Angriffs-Wert stark.
+KP des Anwenders werden um 50 % der\xfffemaximalen KP aufgefüllt. Heilung eines Ver-\xfffebündeten außerhalb von Kämpfen möglich.
+Elektro-Hieb, der das Ziel\xfffeparalysieren kann.
+Eine Attacke mit Scheren oder Klauen,\xfffederen Härte bei aufeinanderfolgenden\xfffeTreffern zunimmt.
+Trifft das Ziel mit Stahlflügeln.\xfffeVerteidigungs-Wert des Anwenders\xfffesteigt eventuell.
+Böser Blick, der die Flucht des\xfffeZieles vereitelt.
+Angriff auf Anwender vom anderen\xfffeGeschlecht wird unwahrscheinlich.
+Anwender setzt per Zufall eine ihm\xfffebekannte Attacke im Schlaf ein.
+Läutet beruhigend und heilt alle\xfffeStatusprobleme im Team.
+Angriff, dessen Kraft bei Freundschaft\xfffezum Trainer größer wird.
+Eine Bombe als Geschenk. Kann auch\xfffeKP des Zieles wiederherstellen.
+Die Attacke wird stärker, je weniger der\xfffeAnwender seinen Trainer mag.
+Team des Anwenders ist fünf Runden\xfffevor Statusproblemen geschützt.
+Addiert KP von Anwender und\xfffeZiel. Teilt sie gerecht auf.
+Mystische Feuer-Attacke, durch die\xfffedas Ziel eventuell Verbrennungen\xfffeerleidet.
+Erdbebenartiger Angriff von zufälliger\xfffeStärke gegen andere Pokémon in der\xfffeUmgebung des Anwenders.
+Kräftiger Schlag, der das Ziel\xfffebei Erfolg verwirrt.
+Brutaler Ramm-Angriff mit spitzem,\xfffebeeindruckendem Horn.
+Fegt das Ziel mit zerstörerisch\xfffeheißem Atem weg. Paralysiert\xfffedas Ziel eventuell.
+Tauscht Pokémon aus. Alle\xfffeStatusveränderungen\xfffebleiben bestehen.
+Das Ziel wiederholt letzte Attacke drei\xfffeRunden lang.
+Die Attacke richtet beim Ziel doppelten\xfffeSchaden an, falls es ausgetauscht wird.
+Trifft das Ziel mit einer Dreh-Attacke.\xfffeBefreit sich unter anderem von Wickel,\xfffeKlammergriff, Egelsamen und Stachler.
+Lockt Gegner an und senkt deren\xfffeFluchtwert. Lockt im Gras auch\xfffewilde Pokémon an.
+Attacke mit hartem Eisenschweif.\xfffeSenkt eventuell den Verteidigungs-Wert\xfffedes Zieles.
+Klauen-Attacke, die eventuell den\xfffeAngriffs-Wert des Anwenders erhöht.
+Anwender greift als Letzter an, hat dafür\xfffeaber eine Treffergarantie beim eigenen\xfffeAngriff.
+Füllt KP des Anwenders auf.\xfffeDie Menge hängt vom Wetter ab.
+Füllt KP des Anwenders auf.\xfffeDie Menge hängt vom Wetter ab.
+Füllt KP des Anwenders auf.\xfffeDie Menge hängt vom Wetter ab.
+Wirkung und Typ der Attacke\xfffehängen vom Anwender ab.
+Doppelter Hieb mit den Unterarmen.\xfffeHohe Volltrefferquote.
+Trifft Gegner in der Umgebung mit\xfffeheftigem Wirbelsturm, welche\xfffeeventuell zurückschrecken.
+Anwender erzeugt starken Regen.\xfffeDie Stärke von Wasser-Attacken\xfffeerhöht sich fünf Runden lang.
+Die Sonne brennt unbarmherzig fünf\xfffeRunden lang. Dadurch werden Attacken\xfffevom Typ Feuer verstärkt.
+Beißt mit scharfen Reißzähnen\xfffezu und senkt eventuell die\xfffeVerteidigung.
+Kontert den Spezial-Angriff des Gegners\xfffemit doppeltem Schaden.
+Der Anwender hypnotisiert sich selbst, um\xfffedie Statusveränderungen des Zieles\xfffezu kopieren.
+Extrem schnelle und kraftvolle\xfffeAttacke, die stets zuerst trifft.
+Angriff mit antiker Kraft, der alle\xfffeStatuswerte erhöhen kann.
+Bewirft das Ziel mit gruseligem Ball und\xfffesenkt eventuell die Spezial-Verteidigung.
+Zwei Runden, nachdem Seher eingesetzt\xfffewurde, erfolgt der Angriff.
+Steinbrechende Attacke, die den\xfffeVerteidigungs-Wert des Zieles\xfffesenken kann.
+Das Ziel wird für 4 bis 5 Runden in einer\xfffeWasserhose gefangen.
+Das gesamte Team nimmt aktiv am Kampf\xfffeteil. Je mehr Pokémon, desto höher die\xfffeAnzahl der Angriffe.
+Diese Attacke trifft zuerst. Das Ziel\xfffeschreckt zurück. Gelingt nur in der\xfffeersten Runde eines Kampfes.
+Anwender greift an, indem er über drei\xfffeRunden hinweg einen Aufruhr erzeugt.\xfffeVerhindert Schlaf.
+Lädt Kraft für später auf. Erhöht\xfffeVerteidigung und Spezial-Verteidigung.\xfffeKann bis zu dreimal eingesetzt werden.
+Entlädt die Kraft, die während des\xfffeEinsatzes von Horter gesammelt wurde.
+Absorbiert die gehortete Kraft,\xfffeum KP aufzufüllen.
+Gegner wird von Sturm aus heißer\xfffeLuft getroffen und verbrennt sich\xfffeeventuell.
+Hagelsturm für fünf Runden. Schadet\xfffeallen, außer Eis-Pokémon.
+Erzürnt das Ziel, um wiederholten\xfffeEinsatz derselben Attacke zu\xfffeverhindern.
+Schmeichelt dem Ziel, um es zu verwirren.\xfffeErhöht dessen Spezial-Angriff.
+Angriff mit unheimlicher Flamme,\xfffedie das Ziel verbrennt.
+Der Anwender wird besiegt und senkt\xfffeden Angriffs-Wert und den Spezial-\xfffeAngriff des Zieles stark.
+Doppelte Stärke nach Verbrennung,\xfffeParalyse oder Vergiftung.
+Anwender konzentriert sich, bevor er\xfffeangreift. Wird er vorher getroffen, ist\xfffedie Attacke erfolglos.
+Doppelt wirksam gegen paralysierte\xfffeGegner, heilt sie aber auch davon.
+Zieht Aufmerksamkeit auf sich.\xfffeGegner greift nur Anwender an.
+Angriff mit der Kraft der Natur, dessen\xfffeTyp vom Ort abhängt, wo er durchgeführt\xfffewird.
+Lädt Energie für die kommende\xfffeElektro-Attacke auf. Erhöht die\xfffeSpezial-Verteidigung.
+Bringt das Ziel in Rage. Dieses\xfffekann über drei Runden hinweg nur\xfffenoch angreifen.
+Anwender steigert die Kraft eines\xfffeAngriffes eines Freundes.
+Erwischt das Ziel auf dem falschen Fuß.\xfffeGehaltene Items werden mit Anwender\xfffegetauscht.
+Parodiert das Ziel und kopiert seine\xfffeFähigkeit.
+Ein Wunsch füllt in der nächsten Runde\xfffe50 % der KP des Anwenders bei diesem\xfffeoder einem eingewechselten Pokémon auf.
+Greift zufällig mit einer Attacke eines\xfffeTeampartners an.
+Verwurzelung füllt jede Runde KP auf.\xfffeAustausch ist unmöglich.
+Starke Attacke, die sowohl Angriff als\xfffeauch Verteidigung des Anwenders senkt.
+Egelsamen und alle Attacken mit Status\xfffeverändernden Effekten prallen ab.
+Recycling eines getragenen Items, das\xfffezuvor im Kampf verwendet wurde.
+Schaden verdoppelt sich, wenn Anwender\xfffein der Runde bereits Schaden vom Ziel des\xfffeAngriffes genommen hat.
+Ein beherzter Handkantenschlag.\xfffeDurchbricht Barrieren wie Lichtschild\xfffeund Reflektor.
+Angreifer gähnt und das Ziel schläft in der\xfffenächsten Runde ein.
+Schlägt das Item des Zieles weg\xfffeund vereitelt so dessen Gebrauch\xfffewährend des Kampfes.
+Trifft nur, wenn KP des Anwenders geringer\xfffeals KP des Zieles sind. Senkt dessen\xfffeKP auf Niveau der KP des Anwenders.
+Explosiver Angriff. Je höher die KP\xfffedes Anwenders sind, desto mehr Schaden\xfffewird angerichtet.
+Anwender tauscht Fähigkeit mit\xfffedem Ziel.
+Hindert Gegner am Einsatz von Attacken,\xfffedie der Anwender selbst auch kennt.
+Selbstheilung bei Vergiftung,\xfffeParalyse und Verbrennung.
+Bei K.O. des Anwenders werden die AP der\xfffeAttacke, durch die er besiegt wurde,\xfffeauf null herabgesetzt.
+Raubt den Effekt der heilenden\xfffeoder Werte verändernden Attacke\xfffedes Gegners.
+Angriff, der abhängig vom Anwendungsort\xfffeeinen unterschiedlichen Zusatzeffekt\xfffebesitzt.
+Taucht in Runde 1 ab und greift in\xfffeRunde 2 aus der Tiefe an. Ermöglicht\xfffeTauchgänge zum Meeresgrund.
+Schläge mit geradem Arm, die\xfffedas Ziel 2- bis 5-mal treffen.
+Der Typ des Anwenders passt sich\xfffeder Umgebung an, sei es im Wasser,\xfffeim Gras oder in einer Höhle.
+Ein blinkendes Licht, das den\xfffeSpezial-Angriff drastisch erhöht.
+Angriff mit grellem Licht, der die\xfffeSpezial-Verteidigung des Zieles\xfffeeventuell senkt.
+Angriff mit einer Kugel aus Wasser,\xfffedie Nebel enthält. Senkt eventuell den\xfffeSpezial-Angriff des Zieles.
+Hüllt das Ziel in Daunen und senkt\xfffedessen Angriffs-Wert stark.
+Ein Wackeltanz, der andere\xfffePokémon in der Umgebung\xfffedes Anwenders verwirrt.
+Starker Tritt mit hoher Volltrefferquote.\xfffeVerursacht eventuell Verbrennung.
+Schwächt Elektro-Attacken, solang\xfffeder Anwender am Kampf teilnimmt.
+Attacke, die fünf Runden dauert.\xfffeDie Härte nimmt von Mal zu Mal zu.
+Angriff mit dornigen Armen. Das Ziel\xfffeschreckt eventuell zurück.
+Durch Müßiggang werden KP des\xfffeAnwenders um 50 % der maximalen\xfffeKP aufgefüllt.
+Laute Attacke mit Schallwellen.
+Angriff mit giftigen Reißzähnen.\xfffeDas Ziel wird eventuell\xfffeschwer vergiftet.
+Angriff mit scharfen Klauen. Senkt\xfffeeventuell den Verteidigungs-Wert.
+Das Ziel wird von starker Explosion\xfffegetroffen. Angreifer setzt eine\xfffeRunde aus.
+Das Ziel wird von Wasserkanone\xfffegetroffen. Angreifer setzt eine\xfffeRunde aus.
+Angriff mit einem harten, schnellen\xfffeSchlag. Erhöht eventuell Angriffs-Wert\xfffedes Anwenders.
+Anwender greift mit einem Schrei an.\xfffeEin Angriff, der das Ziel eventuell\xfffezurückschrecken lässt.
+Typ und Stärke der Attacke sind\xfffevom Wetter zum Zeitpunkt der\xfffeAnwendung abhängig.
+Heilt alle Statusprobleme des Teams\xfffemit beruhigendem Duft.
+Täuscht Weinen vor, um die\xfffeSpezial-Verteidigung des Zieles\xfffestark zu senken.
+Greift mit rasierklingenartigem\xfffeWind an. Hohe Volltrefferquote.
+Angriff mit voller Kraft, der den\xfffeSpezial-Angriff des Anwenders durch\xfffeden Rückstoß stark senkt.
+Erlaubt es, Geist-Pokémon mit Normal-\xfffeund Kampf-Attacken anzugreifen.\xfffeIgnoriert den Fluchtwert des Zieles.
+Angriff mit Felsen. Bei Erfolg wird der\xfffeInitiative-Wert des Zieles gesenkt.
+Angriff mit Silberstaub. Eventuell\xfffewerden alle Statuswerte des\xfffeAnwenders erhöht.
+Stößt einen spitzen Schrei aus, der\xfffedie Spezial-Verteidigung des Zieles\xfffestark senkt.
+Versetzt das Ziel durch eine\xfffeschöne Melodie in Tiefschlaf.
+Bringt das Ziel zum Lachen und senkt\xfffedadurch dessen Angriff und Verteidigung.
+Erhöht Verteidigung und\xfffeSpezial-Verteidigung durch\xfffeeine mystische Kraft.
+Wasser-Attacke, die wirkungsvoller ist,\xfffewenn KP des Anwenders hoch sind.
+Strahlenattacke, die das Ziel\xfffeeventuell verwirrt.
+Angriff mit der Faust aus dem\xfffeSchattenreich. Ausweichen\xfffeunmöglich.
+Besonderer Angriff mit einer unsichtbaren\xfffeKraft, die das Ziel eventuell\xfffezurückschrecken lässt.
+Kinnhaken, der das Ziel gen\xfffeHimmel schickt.
+Das Ziel leidet für 4 bis 5\xfffeRunden in einer Sandhose.
+Angriff mit Kälte, die das Ziel\xfffebei Erfolg besiegt.
+Greift mit Matsch an und senkt\xfffeeventuell die Genauigkeit des\xfffeGegners.
+Der Anwender wirft 2- bis 5-mal\xfffein rascher Folge Samen auf das\xfffeZiel.
+Eine extrem schnelle Attacke, der\xfffedas Ziel nicht ausweichen kann.
+Feuert 2 bis 5 Eiszapfen auf\xfffedas Ziel.
+Anwender stärkt den Körper, um den\xfffeVerteidigungs-Wert stark zu erhöhen.
+Anwender versperrt den Fluchtweg des\xfffeZieles.
+Anwender jault, um seinen Kampfgeist\xfffeund seinen Angriffs-Wert zu erhöhen.
+Das Ziel wird mit riesigen, scharfen\xfffeKlauen stark verletzt.
+Angriff mit dickem Ast. Der Angreifer\xfffemuss eine Runde aussetzen.
+Pumpt den Körper auf, um den Angriff\xfffeund die Verteidigung zu erhöhen.
+Angreifer springt und landet in der\xfffenächsten Runde auf dem Ziel. Das\xfffeZiel wird eventuell paralysiert.
+Angriff mit Lehm, der den Initiative-Wert\xfffedes Zieles senkt.
+Angriff mit hoher Volltrefferquote.\xfffeDiese Schweifattacke vergiftet das\xfffeZiel eventuell.
+Bittet charmant um das gehaltene Item\xfffedes Zieles und stiehlt es dann.
+Angriff mit Elektro-Tackle. Der Anwender\xfffeverletzt sich dabei. Das Ziel wird\xfffeeventuell paralysiert.
+Magischer Blattangriff, dem nicht\xfffeauszuweichen ist.
+Schwächt Feuer-Attacken, solang\xfffeder Anwender am Kampf teilnimmt.
+Erhöht Spezial-Angriff und\xfffeSpezial-Verteidigung durch\xfffeKonzentration.
+Hieb mit scharfkantigem\xfffeBlatt. Hohe Volltrefferquote.
+Ein mystischer Tanz, der den\xfffeAngriffs- und Initiative-Wert\xfffeerhöht.
+Wirft 2- bis 5-mal in Folge Felsblöcke\xfffeauf das Ziel.
+Angriff mit schnellem Elektro-Schlag.\xfffeAusweichen nicht möglich.
+Angriff mit Wasserwelle, die das\xfffeZiel eventuell verwirren kann.
+Angriff mit gebündeltem Licht erfolgt\xfffezwei Runden nach Attackeneinsatz.
+Angriff mit voller Kraft, der den\xfffeSpezial-Angriff des Anwenders durch\xfffeden Rückstoß stark senkt.
+Anwender landet und ruht sich aus.\xfffeKP des Anwenders werden um 50 %\xfffeder maximalen KP aufgefüllt.
+Die Gravitation wird für fünf Runden\xfffeerhöht. Macht Fliegen unmöglich und\xfffeverhindert Schwebe.
+Erlaubt es, Unlicht-Pokémon mit\xfffePsycho-Attacken anzugreifen.\xfffeIgnoriert den Fluchtwert des Zieles.
+Richtet großen Schaden bei einem\xfffeschlafenden Ziel an, weckt es\xfffeaber auch auf.
+Anwender trifft mit einem starken Hieb.\xfffeSenkt Initiative des Anwenders.
+Angriff mit hoher Geschwindigkeit. Je\xfffeniedriger die Initiative des Anwenders,\xfffedesto mehr Schaden.
+Anwender geht K.O. Das an seine\xfffeStelle tretende Pokémon hat volle\xfffeKP. Statusprobleme werden geheilt.
+Hat das Ziel die Hälfte oder weniger\xfffeseiner maximalen KP, trifft diese Attacke\xfffemit doppelter Kraft.
+Anwender zieht aus seiner derzeitigen\xfffeBeere Kraft. Sie bestimmt Typ und\xfffeStärke der Attacke.
+Ziele, die Schutzschild oder Scanner\xfffeverwenden, werden getroffen. Entfernt\xfffeEffekte dieser Attacken.
+Anwender pickt das Ziel, nimmt die\xfffeBeere, falls das Ziel eine hält,\xfffeund erhält ihren Effekt.
+Anwender erzeugt einen Wirbelwind, der\xfffeInitiative aller Pokémon im Team für vier\xfffeRunden steigert.
+Anwender erhöht Druck auf\xfffeStresspunkte und steigert einen\xfffeseiner Statuswerte stark.
+Attacke mit großer Kraft gegen das\xfffeZiel, das dem Anwender in derselben\xfffeRunde zuletzt Schaden zufügte.
+Nach der Attacke eilt der Anwender\xfffezurück und tauscht den Platz mit\xfffeeinem anderen Pokémon.
+Nahkampf-Attacke ohne Rücksicht\xfffeauf Verluste. Senkt Verteidigung und\xfffeSpezial-Verteidigung des Anwenders.
+Der Anwender lädt die Attacke auf. \xfffeHandelt das Ziel vor dem Anwender,\xfffeverdoppelt sich die Kraft der Attacke.
+Hat der Gegner während der Runde bereits\xfffeSchaden genommen, wird Kraft der\xfffeAttacke verdoppelt.
+Verhindert, dass auf das Ziel Items\xfffeverwendet werden.
+Anwender schleudert sein Item auf\xfffedas Ziel. Kraft und Effekt der Attacke\xfffehängen vom Item ab.
+Anwender nutzt seine Suggestivkräfte, um\xfffeeigene Statusprobleme auf das Ziel zu\xfffetransferieren.
+Je weniger AP diese Attacke hat, desto\xfffemehr Angriffskraft besitzt sie.
+Anwender verhindert für fünf Runden, dass\xfffeGegner durch Attacken, Fähigkeiten oder\xfffeItems KP regenerieren.
+Anwender presst sein Ziel aus.\xfffeJe höher die KP des Zieles, desto\xfffekraftvoller die Attacke.
+Anwender setzt Psycho-Kräfte ein,\xfffeum eigenen Angriffs- mit Verteidigungs-\xfffeWert auszutauschen.
+Anwender greift das Ziel mit\xfffeeigenen Magensäften an. Entfernt\xfffeEffekte von dessen Fähigkeit.
+Anwender singt eine Beschwörungsformel,\xfffedie Volltreffer gegen ihn verhindert.
+Anwender stiehlt und führt die Attacke\xfffeeines langsameren Gegners zuerst\xfffeund mit größerer Kraft aus.
+Anwender imitiert gerade verwendete\xfffeAttacke. Dies schlägt fehl, falls zuvor\xfffekeine Attacke verwendet wurde.
+Psychische Kräfte tauschen Änderungen\xfffean Angriff und Spezial-Angriff mit denen\xfffedes Zieles.
+Psychische Kräfte tauschen Änderungen\xfffean Verteidigung und Spezial-Verteidigung\xfffemit denen des Zieles.
+Je stärker das Ziel durch Status-\xfffeveränderungen ist, desto stärker\xfffewirkt diese Attacke.
+Diese Attacke kann nur eingesetzt\xfffewerden, nachdem alle verfügbaren\xfffeAttacken ausgeführt wurden.
+Ziel wird bepflanzt. Wandelt\xfffeFähigkeit in Insomnia um.\xfffeVerhindert so Schlaf.
+Ermöglicht den Erstschlag. Gelingt\xfffeaber nur, wenn das Ziel gerade eine\xfffeAttacke vorbereitet.
+Anwender legt eine Falle mit Giftdornen\xfffeaus. Gegner, die in den Kampf eingreifen,\xfffewerden vergiftet.
+Anwender setzt Psycho-Kräfte ein,\xfffeum Statusveränderungen des Zieles\xfffemit den eigenen zu tauschen.
+Anwender umgibt sich mit einem Schleier\xfffeaus Wasser. Dabei regeneriert er\xfffeeinige KP pro Runde.
+Anwender schwebt für fünf Runden\xfffedurch elektrisch erzeugten\xfffeMagnetismus.
+Anwender hüllt sich in Flammen und stürmt\xfffeauf das Ziel, das sich evtl. verbrennt.\xfffeAnwender nimmt selbst großen Schaden.
+Das Ziel wird mit einer Schockwelle\xfffeangegriffen, die es eventuell\xfffeparalysiert.
+Tief aus dem Inneren des Anwenders löst\xfffesich ein kraftvoller Stoß Auraenergie.\xfffeTrifft in jedem Fall.
+Anwender reduziert so gut wie möglich\xfffeden Luftwiderstand. Kann Initiative-Wert\xfffestark steigern.
+Ziel wird mit vergiftetem Arm oder\xfffeTentakel verletzt. Es wird dabei\xfffeeventuell vergiftet.
+Anwender greift mit fürchterlicher Aura\xfffeschlechter Gedanken an. Ziel schreckt\xfffeeventuell zurück.
+Anwender greift bei der ersten\xfffeGelegenheit mit scharfen Klauen\xfffean. Hohe Volltrefferquote.
+Anwender attackiert mit dem Schweif,\xfffeals ob dieser eine brutale Welle in\xfffeeinem tosenden Sturm sei.
+Anwender lässt eine Menge Samen\xfffemit harter Schale von oben auf das\xfffeZiel fallen.
+Das Ziel wird mit einer Luftklinge\xfffeangegriffen. Ziel schreckt\xfffeeventuell zurück.
+Der Anwender führt eine Attacke\xfffeaus, die einer Scherenbewegung\xfffeähnelt.
+Anwender schlägt mit den Flügeln und\xfffeerzeugt eine Schockwelle. Senkt evtl.\xfffeSpezial-Verteidigung des Zieles.
+Das Ziel wird mit einer Schockwelle\xfffeangegriffen, die aus dem offenen Maul\xfffedes Anwenders kommt.
+Anwender führt einen gefährlichen Angriff\xfffeaus. Das Ziel schreckt eventuell zurück.
+Anwender attackiert mit einem Lichtstrahl,\xfffeder funkelt, als sei er aus Juwelen.
+Entzieht dem Ziel Energie. Die Hälfte\xfffedes Schadens wird den KP des Anwenders\xfffezugerechnet.
+Ein Faustwirbel sendet eine\xfffeVakuumwelle auf das Ziel.\xfffeErstschlaggarantie.
+Anwender erhöht seinen mentalen Fokus\xfffeund greift dann an. Senkt eventuell\xfffeSpezial-Verteidigung des Zieles.
+Anwender zieht Kraft aus der Natur und\xfffefeuert sie auf das Ziel. Senkt eventuell\xfffeSpezial-Verteidigung des Zieles.
+Anwender greift aus niedriger Höhe an.\xfffeEr erleidet bei dieser Attacke selbst\xfffegroßen Schaden.
+Der Boden unter dem Ziel erzittert\xfffedurch die Kraft der Erde. Senkt eventuell\xfffeSpezial-Verteidigung.
+Item wird in Windeseile mit dem\xfffeZiel getauscht.
+Anwender rennt mit seiner ganzen Kraft\xfffegegen das Ziel an und muss dann\xfffeeine Runde ruhen.
+Anwender stimuliert sein Gehirn\xfffeund hat finstere Gedanken.\xfffeSteigert Spezial-Angriff stark.
+Das Ziel wird von ultraschnellen\xfffeHieben getroffen. Erstschlaggarantie.
+Wurde der Anwender vom Gegner in dieser\xfffeRunde getroffen, erzeugt diese Attacke\xfffedoppelten Schaden.
+Das Ziel wird mit Eisklumpen beworfen.\xfffeDiese Attacke hat Erstschlaggarantie.
+Das Ziel wird mit scharfen Klauen\xfffeaus der Schattenwelt attackiert.\xfffeHohe Volltrefferquote.
+Anwender beißt mit elektrifizierten\xfffeReißzähnen zu. Das Ziel schreckt\xfffeeventuell zurück oder wird paralysiert.
+Anwender beißt mit eiskalten Reißzähnen\xfffezu. Ziel schreckt eventuell zurück oder\xfffefriert ein.
+Anwender beißt mit flammenden\xfffeReißzähnen zu. Ziel schreckt\xfffeeventuell zurück oder verbrennt sich.
+Anwender erweitert Schatten und\xfffegreift das Ziel von hinten an.\xfffeErstschlaggarantie.
+Anwender greift mit einem festen\xfffeSchlammklumpen an. Senkt\xfffeeventuell Genauigkeit des Zieles.
+Das Ziel wird mit Klingen attackiert,\xfffedie aus Psycho-Energie bestehen.\xfffeHohe Volltrefferquote.
+Anwender konzentriert seinen\xfffeWillen und rammt das Ziel.\xfffeDieses schreckt eventuell zurück.
+Anwender feuert Energiestrahl aus\xfffeseinem Körper ab. Senkt eventuell\xfffeGenauigkeit des Zieles.
+Anwender sammelt Lichtenergie und\xfffefeuert sie auf einmal ab. Senkt eventuell\xfffeSpezial-Verteidigung des Zieles.
+Eine stürmische Attacke, die das Ziel\xfffeeventuell verwirrt.
+Starker Wind hebt Attacken wie Reflektor\xfffeund Lichtschild des Gegners auf.\xfffeSenkt außerdem den Fluchtwert.
+Anwender erzeugt einen bizarren Raum,\xfffein dem langsame Pokémon fünf Runden\xfffelang zuerst agieren.
+Kometen werden heraufbeschworen.\xfffeDer Rückstoß reduziert den Spezial-\xfffeAngriff des Anwenders stark.
+Anwender greift die Pokémon in\xfffeseiner Umgebung mit Elektrizität\xfffean. Paralysiert eventuell.
+Ein Flammeninferno, das über\xfffeden Bereich um den Anwender\xfffehinwegfegt. Verbrennt eventuell.
+Anwender erzeugt einen Sturm von\xfffescharfen Blättern. Rückstoß senkt\xfffeSpezial-Angriff des Anwenders stark.
+Anwender wirbelt seine Ranken oder\xfffeTentakel peitschenartig gegen das\xfffeZiel.
+Anwender wirft einen riesigen Felsen auf\xfffedas Ziel. In der nächsten Runde muss\xfffeder Anwender ruhen.
+Ein schneidender Hieb, der das\xfffeZiel eventuell vergiftet. Hat\xfffeeine hohe Volltrefferquote.
+Anwender schießt mit Müll auf das Ziel.\xfffeVergiftet dieses eventuell.
+Ziel wird durch stahlharten Kopf des\xfffeAnwenders getroffen und schreckt\xfffeeventuell zurück.
+Ziel wird durch Haftbomben getroffen.\xfffeDiese Attacke trifft immer.
+Anwender sticht das Ziel mit spitzen\xfffeSteinen. Hohe Volltrefferquote.
+Charme-Attacke, die Spezial-Angriff\xfffestark senkt, falls das Ziel dem\xfffeanderen Geschlecht angehört.
+Falle mit schwebenden Steinen.\xfffeIn den Kampf eingreifende Gegner\xfffenehmen Schaden.
+Ziel wird durch Gras ins Straucheln\xfffegebracht. Je schwerer das Ziel,\xfffedesto mehr Schaden.
+Attacke mit Schallwellen.\xfffeVerwirrt das Ziel eventuell.
+Anwender feuert unzählige Lichtstrahlen\xfffeab. Deren Typ hängt von der gehaltenen\xfffeTafel ab.
+Anwender beißt das Ziel. Hält dieses\xfffeeine Beere, isst der Anwender sie und\xfffeerhält ihren Effekt.
+Ziel wird von einem Elektrostrahl\xfffegetroffen. Steigert eventuell Spezial-\xfffeAngriff des Anwenders.
+Anwender attackiert mit seinem robusten\xfffeKörper. Er erleidet dabei auch selbst\xfffegroßen Schaden.
+Sehr schneller Angriff mit\xfffeErstschlaggarantie.
+Anwender ruft seine Untergebenen zum\xfffeAngriff. Hat eine hohe Volltrefferquote.
+Untergebene bilden einen lebenden Schild\xfffeum den Anwender. Steigert Verteidigung\xfffeund Spezial-Verteidigung.
+Untergebene heilen den Anwender. KP des\xfffeAnwenders werden mit 50 % der max. KP\xfffeaufgefüllt.
+Anwender greift unter Einsatz seines\xfffeLebens mit einem Kopfstoß an und nimmt\xfffedabei selbst jede Menge Schaden.
+Anwender trifft das Ziel mit dem\xfffeSchweif oder Ähnlichem. Ziel wird\xfffedoppelt getroffen.
+Anwender attackiert mit einer Kraft, die\xfffeselbst die Zeit verzerrt. In der nächsten\xfffeRunde muss er ruhen.
+Schwere, raumgreifende Attacke.\xfffeHohe Volltrefferquote.
+Anwender geht K.O. Das an seine Stelle\xfffetretende Pokémon hat dafür volle KP/AP.\xfffeStatusprobleme werden geheilt.
+Ziel wird mit großer Kraft getroffen.\xfffeJe höher die KP des Zieles, desto\xfffestärker die Attacke.
+Das Ziel wird in einen Feuersog\xfffegezogen, der vier bis fünf\xfffeRunden aktiv ist.
+Das Ziel wird in eine Welt der\xfffeDunkelheit gezogen und in Schlaf\xfffeversetzt.
+Anwender erzeugt eine Schockwelle.\xfffeSpezial-Verteidigung des Zieles wird\xfffestark gesenkt.
+Das Ziel treffen abscheuliche Winde.\xfffeSteigert eventuell alle Statuswerte des\xfffeAnwenders.
+Anwender verschwindet in Runde 1 und\xfffeattackiert in Runde 2. Trifft auch, wenn\xfffesich das Ziel selbst schützt.
+Wetzt seine Klauen, um sie zu schärfen.\xfffeErhöht Angriff und Genauigkeit des\xfffeAnwenders.
+Schützt eine Runde lang vor Angriffen,\xfffedie alle Pokémon auf deiner Seite treffen.\xfffeKlappt nur selten mehrmals in Folge.
+Durch Psycho-Kräfte werden Vert. und\xfffeSpez.-Vert. des Anwenders und des Zieles\xfffeaddiert und in zwei gleiche Hälften geteilt.
+Durch Psycho-Kräfte werden Angriff und\xfffeSpezial-Angriff addiert und in zwei gleiche\xfffeHälften geteilt.
+Anwender erzeugt bizarren Raum, in dem\xfffeüber fünf Runden die Vert. aller Pokémon\xfffemit ihrer Spez.-Vert. getauscht wird.
+Anwender erzeugt eine seltsame\xfffeEnergiewelle, die dem Ziel\xfffephysischen Schaden zufügt.
+Überschüttet das Ziel mit einer speziellen\xfffetoxischen Flüssigkeit. Doppelt so stark\xfffegegen vergiftete Ziele.
+Anwender trennt sich von überflüssigen\xfffeKörperteilen und steigert seine Initiative\xfffestark. Sein Gewicht nimmt deutlich ab.
+Anwender zieht gegn. Aufmerksamkeit\xfffeund Angriffe auf sich, indem er ein Wut\xfffeerzeugendes Pulver über sich streut.
+Bringt das Ziel durch Psycho-Kräfte zum\xfffeSchweben. Dieses lässt sich so über drei\xfffeRunden hinweg besonders leicht treffen.
+Anwender erzeugt einen bizarren Raum, in\xfffedem über fünf Runden die Wirkung aller von\xfffePokémon getragenen Items aufgehoben ist.
+Greift das Ziel mit Steinen und Wurfge-\xfffeschossen an. Fliegende Ziele fallen dabei\xfffevom Himmel und landen auf dem Boden.
+Ein Angriff mit voller Wucht\xfffeund Volltreffergarantie.
+Bei Erfolg Angriff mit berstenden Feuer-\xfffeblasen. Die Funken der geplatzten\xfffeBlasen treffen auch benachbarte Ziele.
+Greift Pokémon in der Nähe des\xfffeAnwenders mit einer Schlammwelle an.\xfffeDiese werden eventuell vergiftet.
+Anwender legt behände einen mystischen,\xfffeformvollendeten Tanz aufs Parkett. Spez.-\xfffeAng., Spez.-Vert. und Initiative steigen.
+Anwender rammt das Ziel mit massivem\xfffeKörper. Je schwerer er im Vergleich zum\xfffeZiel ist, desto stärker die Attacke.
+Fügt Pokémon vom selben Typ, die sich in\xfffeder Nähe des Anwenders aufhalten, mit\xfffeseltsamen Druckwellen Schaden zu.
+Je höher die Initiative des Anwenders\xfffeim Vergleich zum Ziel ist, desto stärker\xfffetrifft dieses eine geballte Ladung Strom.
+Überschüttet das Ziel mit Unmengen an\xfffeWasser und ändert den Typ damit in\xfffeWasser um.
+Anwender hüllt sich in Flammen und greift\xfffedas Ziel an. Sammelt seine Energie und\xfffeerhöht dadurch die eigene Initiative.
+Anwender rollt sich zusammen und sammelt\xfffesich. Dabei werden Angriff, Verteidigung\xfffeund Genauigkeit erhöht.
+Anwender greift mit blitzschnellen\xfffeBewegungen die Beine des Zieles\xfffean und senkt dessen Initiative.
+Anwender greift an, indem er eine ätzende\xfffeFlüssigkeit auf das Ziel speit. Senkt\xfffedessen Spezial-Verteidigung stark.
+Anwender macht sich die Kraft des Zieles\xfffezunutze. Je höher dessen Angriff, desto\xfffemehr Schaden richtet die Attacke an.
+Bestrahlt das Ziel mit mysteriösen\xfffeEnergiewellen. Bei einem Treffer wird\xfffedessen Fähigkeit zu Wankelmut.
+Anwender tanzt zu seltsamem Rhythmus und\xfffezwingt das Ziel mitzumachen. Dieses nimmt\xfffedabei die Fähigkeit des Anwenders an.
+Anwender ermöglicht dem Ziel direkt\xfffenach ihm zu handeln, solange der\xfffeAnwender als Erstes zum Zug kommt.
+Angriff mit Gesang. Singt der Anwender\xfffemit allen im Kanon, steigt die Stärke.
+Angriff mit widerhallender Stimme. Wenn in\xfffejeder Runde ein Teilnehmer wiederholt die\xfffeAttacke einsetzt, steigt die Stärke.
+Eine durchdachte Attacke zu rechter Zeit.\xfffeRichtet unabhängig von den Status-\xfffeveränderungen des Zieles Schaden an.
+Anwender greift das Ziel mit spezial-\xfffegefertigten Schlammklumpen an. Setzt\xfffeStatusveränderungen zurück.
+Angriff mit angesparter Energie. Je höher\xfffedie Statuswerte des Anwenders, desto\xfffestärker fällt die Attacke aus.
+Schützt Anwender und Mitstreiter vor\xfffegegnerischen Erstschlag-Attacken.\xfffeGeht bei wiederholtem Einsatz oft daneben.
+Wundersame Kräfte teleportieren\xfffeden Anwender an den Platz eines\xfffeMitstreiters.
+Heizt dem Ziel mit einem Schwall siedend\xfffeheißen Kochwassers ein. Das Ziel\xfffeerleidet eventuell Verbrennungen.
+Anwender zerbricht seine Schale und senkt\xfffeseine Vert. und Spez.-Vert., dafür steigen\xfffeAngr., Spez.-Angr. und Initiative stark.
+Anwender löst eine Schmerzen lindernde\xfffeWelle aus und heilt das Ziel mit der Hälfte\xfffeseiner maximalen KP.
+Eine Attacke, bei der der Anwender das\xfffeZiel bedrängt. Fügt Zielen mit\xfffeStatusveränderungen hohen Schaden zu.
+Steigt in Runde 1 mit dem Ziel in die\xfffeLuft auf und lässt es in Runde 2 fallen.\xfffeDas Opfer kann dabei nicht angreifen.
+Durch Drehen der Zahnräder erhöht sich\xfffenicht nur der Angriffs-Wert, sondern auch\xfffedie Initiative des Anwenders stark.
+Schleudert das Ziel davon und bewirkt,\xfffedass ein anderes Pokémon eingewechselt\xfffewird. Beendet Kämpfe gegen wilde Pokémon.
+Eine Feuer-Attacke. Trägt das Ziel eine\xfffeBeere bei sich, wird diese von den\xfffeFlammen verzehrt und geht verloren.
+Anwender stemmt sich gegen das Ziel\xfffeund bewirkt, dass dieses erst als\xfffeLetztes angreift.
+Ein graziler Angriff auf das Ziel. Trägt\xfffeder Anwender kein Item bei sich, richtet\xfffedie Attacke großen Schaden an.
+Anwender bildet das Ziel nach und\xfffenimmt dabei dessen Typ an.
+Anwender nimmt Rache für einen besiegten\xfffeMitstreiter. Wurde in der vorigen Runde ein\xfffeMitstreiter besiegt, steigt die Kraft.
+Ein Angriff, der dem Ziel Schaden in Höhe\xfffeder aktuellen KP des Anwenders zufügt.\xfffeLetzterer wird dadurch selbst besiegt.
+Trägt das Ziel gerade kein Item bei sich,\xfffeerhält es das Item, das sich aktuell im\xfffeBesitz des Anwenders befindet.
+Anwender greift das Ziel an, indem\xfffeer es mit dichten Flammen umhüllt.\xfffeZiel erleidet Verbrennungen.
+Ein Angriff mit Wassersäulen. Kombiniert\xfffemit Feuersäulen steigt die Wirkung\xfffeund ein Regenbogen erscheint.
+Ein Angriff mit Feuersäulen. Kombiniert mit\xfffePflanzsäulen steigt die Wirkung und die\xfffeUmgebung wird zu einem Meer aus Feuer.
+Ein Angriff mit Pflanzsäulen. Kombiniert\xfffemit Wassersäulen steigt die Wirkung\xfffeund die Umgebung wird zu einem Sumpf.
+Anwender kehrt nach dem Angriff mit atem-\xfffeberaubender Geschwindigkeit zurück und\xfffetauscht Platz mit einem anderen Pokémon.
+Anwender leistet Widerstand und greift an.\xfffeDer Spezial-Angriff der Ziele sinkt.
+Anwender greift an, indem er den Boden\xfffeum sich herum plattwalzt. Die Initiative\xfffealler betroffenen Pokémon sinkt.
+Anwender greift an, indem er dem\xfffeZiel eisigen Atem entgegenhaucht.\xfffeVolltreffergarantie.
+Putzt das Ziel vom Feld und wechselt\xfffees mit einem anderen Pokémon aus.\xfffeBeendet Kämpfe gegen wilde Pokémon.
+Anwender erhält einen Kraftschub, der\xfffeseinen Angriff und Spez.-Angr. erhöht.
+Fängt Ziele mit einem elektrischen\xfffeNetz und senkt deren Initiative.
+Anwender erzeugt Spannung und greift an,\xfffeindem er auf Kollisionskurs geht. Er selbst\xfffeerleidet dabei ebenfalls leichten Schaden.
+Anwender rammt das Ziel, während er\xfffeseinen Körper wie einen Bohrer dreht.\xfffeHohe Volltrefferquote.
+Versetzt dem Ziel mit massiven\xfffeExtremitäten Hiebe. Angriff erfolgt\xfffezweimal hintereinander.
+Verleitet Ziel durch Kokettieren zu Un-\xfffeachtsamkeit und verpasst ihm dann einen\xfffeharten Schlag. Ziel schreckt evtl. zurück.
+Greift Ziel mit Astgeweih an und zapft\xfffediesem Nährstoffe ab. Anwender wird um die\xfffeHälfte des zugefügten Schadens geheilt.
+Schneideangriff mit langem Horn.\xfffeRichtet Schaden unabhängig von\xfffeStatusveränderungen des Zieles an.
+Schneideangriff mit einer scharfen\xfffeMuschelschale. Senkt eventuell die\xfffeVerteidigung des Zieles.
+Rempelattacke mit brennendem Körper.\xfffeJe schwerer der Anwender im Vergleich\xfffezum Ziel ist, desto stärker die Attacke.
+Anwender greift an, indem er das Ziel\xfffein scharfes Blattwerk einwickelt. Senkt\xfffeeventuell die Genauigkeit.
+Anwender rollt mit rundlichem Körper\xfffeüber das Ziel und drückt es platt.\xfffeZiel schreckt eventuell zurück.
+Anwender schützt sich, indem er sich in\xfffeeinen luftigen Flaum hüllt. Erhöht die\xfffeVerteidigung drastisch.
+Anwender greift Ziel mit finsteren\xfffeSchockwellen an. Senkt eventuell die\xfffeGenauigkeit.
+Anwender erzeugt seltsame Energiewellen,\xfffedie dem Ziel physischen Schaden\xfffezufügen.
+Anwender greift das Ziel mit\xfffeseiner schlagfesten Rute 2- bis 5-mal\xfffehintereinander an.
+Anwender greift das Ziel an, indem er\xfffees mit heftigen Windböen umgibt.\xfffeZiel wird eventuell verwirrt.
+Rempelattacke mit ausgeflippter\xfffeRetrofrisur. Anwender nimmt selbst\xfffeleichten Schaden.
+Anwender greift an, indem er stählerne\xfffeZahnräder auf das Ziel schleudert.\xfffeAngriff erfolgt zweimal hintereinander.
+Greift alles in seiner Umgebung mit\xfffetiefroten Flammen an. Opfer erleidet\xfffeeventuell Verbrennungen.
+Anwender feuert ein Lichtgeschoss auf das\xfffeZiel ab. Der Typ der Attacke hängt von\xfffedem des Moduls ab.
+Anwender greift mit Urgesang an, der\xfffeGegner in der Nähe im tiefsten Inneren\xfffeanspricht. Diese schlafen eventuell ein.
+Schneideangriff mit dem langen Schwert des\xfffeAnwenders. Die mysteriöse Kraft aus dem\xfffeHorn erzeugt physischen Schaden.
+Anwender greift an, indem er dem Ziel\xfffeklirrend kalte Luft entgegenbläst. Senkt\xfffedie Initiative des Zieles.
+Lädt seinen Körper mit einer gewaltigen\xfffeMenge an Elektrizität auf und rammt damit\xfffedas Ziel. Ziel wird evtl. paralysiert.
+Anwender greift an, indem er das Ziel in\xfffewunderschöne, intensiv blaue Flammen\xfffehüllt, die es eventuell verbrennen.
+Hüllt das Ziel mit einer Feuerhose\xfffein Flammen. Erhöht eventuell den\xfffeSpezial-Angriff des Anwenders.
+Feuert in der zweiten Runde elektrisch\xfffegeladene Eisklumpen auf das Ziel ab.\xfffeParalysiert das Ziel eventuell.
+Umgibt das Ziel in der nächsten Runde\xfffemit heftigen, alles gefrierenden Eisböen.\xfffeFügt dem Ziel eventuell Verbrennungen zu.
+Wäscht Gegnern in der Nähe mit einer\xfffeausführlichen Standpauke den Kopf\xfffeund senkt dabei deren Spezial-Angriff.
+Lässt große, schwere Eiszapfen\xfffeauf das Ziel herabregnen.\xfffeZiel schreckt eventuell zurück.
+Eine Verzweiflungsattacke. Anwender\xfffeentfacht glühend heißes Feuer. Senkt\xfffedessen Vert., Spez.-Vert. und Initiative.
+Feuert eine monströse Flamme ab. Wird\xfffedie Attacke durch einen gigantischen\xfffeBlitz modifiziert, steigt die Stärke.
+Feuert einen monströsen Blitz ab.\xfffeWird die Attacke durch eine gigantische\xfffeFlamme modifiziert, steigt die Stärke.

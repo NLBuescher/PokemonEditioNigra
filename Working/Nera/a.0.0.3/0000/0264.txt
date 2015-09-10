@@ -1,0 +1,20 @@
+\xf000Ā\x0001\x0000 ha usato il Passapotere\xfffe\xf000Ĝ\x0001\x0002!\xf000븁\x0000
+L'effetto di \xf000Ĝ\x0001\x0002 è\xfffesvanito.
+L'effetto di \xf000Ĝ\x0001\x0002 è\xfffesvanito.\xf000븁\x0000
+Verifica dello stato del Passapotere.\xf000븁\x0000
+\xf000\xff00\x0001\x0002Passapotere attivato\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0002Passapotere in uso\xf000\xff00\x0001\x0000
+\xf000Ĝ\x0001\x0000
+\xf000Ĝ\x0001\x0000\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001: \xf000ȁ\x0001\x0002
+\xf000Ā\x0001\x0000 incontrerà Pokémon selvatici\xfffepiù spesso del solito!
+\xf000Ā\x0001\x0000 incontrerà Pokémon selvatici\xfffemeno spesso del solito!
+Le Uova di Pokémon si schiuderanno più\xffferapidamente del solito!
+I Pokémon si affezioneranno a \xf000Ā\x0001\x0000\xfffepiù facilmente del solito!
+Al Pokémon-Market sono iniziati i saldi!
+\xf000Ă\x0001\x0001, il Pokémon di \xf000Ā\x0001\x0000,\xfffeha recuperato PS!
+\xf000Ă\x0001\x0001, il Pokémon di \xf000Ā\x0001\x0000,\xfffeha recuperato PP!
+I Pokémon di \xf000Ā\x0001\x0000 otterranno più\xfffePunti Esperienza del solito!
+I Pokémon di \xf000Ā\x0001\x0000 otterranno meno\xfffePunti Esperienza del solito!
+\xf000Ā\x0001\x0000 otterrà più soldi del solito!
+\xf000Ā\x0001\x0000 catturerà i Pokémon più\xfffefacilmente del solito!
+I Pokémon di \xf000Ā\x0001\x0000 ora sono tutti\xfffein piena forma!

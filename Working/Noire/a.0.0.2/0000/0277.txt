@@ -1,0 +1,107 @@
+
+Choisissez un mode de recherche.
+
+
+Choisissez un mode de classement.
+Pokémon dont le nom commence par...
+Pokémon de type...
+Le corps du Pokémon ressemble à...
+Le Pokémon recherché est...
+Pokémon trouvé(s)!
+Aucun Pokémon trouvé...
+Recherche en cours...
+ORDRE
+NOM
+TYPE
+COULEUR
+CORPS
+POKÉDEX D'UNYS/MODE RECHERCHE
+POKÉDEX NATIONAL/MODE RECHERCHE
+
+RECHERCHER
+
+
+
+
+Nº POKÉDEX
+DE A à Z
++ AU - LOURD
++ AU - LÉGER
++ AU - GRAND
++ AU - PETIT
+TÉNÈBRES
+ROCHE
+PSY
+COMBAT
+PLANTE
+GLACE
+SPECTRE
+SOL
+ÉLECTRIK
+POISON
+DRAGON
+NORMAL
+ACIER
+VOL
+FEU
+EAU
+INSECTE
+――――
+/
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+ROUGE
+BLEU
+JAUNE
+VERT
+NOIR
+BRUN
+VIOLET
+GRIS
+BLANC
+ROSE
+--------

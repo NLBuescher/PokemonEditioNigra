@@ -1,0 +1,69 @@
+BLOCCO AMICI
+CONTROLLA LISTA AMICI
+REGISTRA CODICE AMICO
+CODICE DI \xf000Ā\x0001\x0000
+
+LISTA AMICI
+
+
+INFO
+RISCRIVI NOME
+CANCELLA
+ESCI
+Cosa vuoi fare con i dati di \xf000Ā\x0001\x0000?
+INFO SU \xf000Ā\x0001\x0000
+
+
+
+
+
+RISULTATI LOTTE
+VINTE
+PERSE
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+SCAMBI POKÉMON
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+
+
+DATA ULTIMO INCONTRO
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODICE DI \xf000Ā\x0001\x0000
+
+
+Scambiando il codice amico con altri\xfffegiocatori, puoi fare scambi e lottare\xfffecon loro mediante la Nintendo Wi-Fi\xfffeConnection.
+Per ottenere il codice amico, collegati\xfffealla Nintendo Wi-Fi Connection.
+Verrà registrato il seguente codice:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003 di \xf000Ā\x0001\x0000.
+Il codice amico \xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffeè errato.
+\xf000Ā\x0001\x0000 verrà cancellato. Va bene?
+La tua lista amici è piena!
+Hai già registrato questo codice amico.
+Il codice amico di \xf000Ā\x0001\x0000 è:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003.
+CODICE AMICO
+
+
+
+
+SÌ
+NO
+Vai a incontrare \xf000Ā\x0001\x0000\xfffeal Club Wi-Fi.

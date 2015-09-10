@@ -1,0 +1,38 @@
+Cheren: Si un Pokémon es envenenado\xfffedurante el combate, irá perdiendo PS.\xf000븁\x0000\xfffeDe hecho, seguirá perdiendo PS\xfffetras el combate.\xf000븁\x0000
+Bueno, \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¿has venido a buscar al\xfffeLíder del Gimnasio?
+Hasta hace un rato, estaba aquí mismo\xfffehablando sobre los tipos de Pokémon.\xf000븁\x0000\xfffe¿No os habéis cruzado por el camino?\xf000븁\x0000
+Si lo que quieres es hacerte más fuerte,\xfffelo mejor son los combates.\xf000븁\x0000\xfffeVamos, que no es mala idea retar a los\xfffeLíderes de Gimnasio para conseguirlo.\xf000븁\x0000
+Por cierto, \xf000Ā\x0001\x0000,\xfffe¿echamos un combate?\xf000븁\x0000\xfffeAsí puedo saber si los objetos que\xfffetengo merecen la pena o no.
+Cheren: \xf000Ā\x0001\x0000,\xfffe¿echamos un combate?\xf000븁\x0000\xfffeAsí puedo saber si los objetos que\xfffetengo merecen la pena o no.
+Si quieres probar alguno de tus objetos,\xfffete estaré esperando aquí hasta que\xf000븀\x0000\xfffete venga bien.
+Cheren: ¿Quieres saber si los objetos\xfffeque tienes son realmente eficaces?\xf000븁\x0000\xfffe¿O, simplemente, saber hasta dónde\xfffepuedes llegar sin usarlos?\xf000븁\x0000\xfffePodemos luchar aquí dentro...\xfffemientras no destrocemos nada.\xf000븁\x0000
+Cheren: Por supuesto, es muy importante\xfffeno malgastar tus objetos.\xf000븁\x0000\xfffePor cierto, \xf000Ā\x0001\x0000, esto es para ti.\xf000븁\x0000
+Cheren: Si le das esta Baya a un Pokémon,\xfffese la comerá cuando sus PS disminuyan\xf000븀\x0000\xfffedurante el combate.\xf000븁\x0000\xfffeSin embargo, puede llevar, pero no usar,\xfffeobjetos creados por humanos,\xf000븀\x0000\xfffecomo las Pociones.\xf000븁\x0000\xfffeBueno, pues ánimo y nos vemos.\xf000븁\x0000
+Adoro a los Pokémon, así que quiero\xfffesaber más acerca de ellos.\xf000븁\x0000\xfffe¡Y por eso me he apuntado a esta\xfffeEscuela de Entrenadores!
+Las habilidades de los Pokémon son\xfffemuy misteriosas.\xf000븁\x0000\xfffeTienen efectos muy diversos.\xf000븁\x0000\xfffePero eso ya lo descubrirás durante\xfffelos combates.
+Oye, ¿sabes que hay una técnica con la\xfffeque puedes detener la evolución?\xf000븁\x0000\xfffeEscucha lo que leí en un libro:\xfffe“Cuando un Pokémon está evolucionando,\xf000븀\x0000\xfffesi aprietas el Botón B, se cancelará\xf000븀\x0000\xfffela evolución".
+Hay algunos movimientos que solo se\xfffepueden aprender usando las MT.\xf000븁\x0000\xfffePuedes usar las MT cuantas veces\xfffequieras, así que... ¡ya sabes!\xf000븁\x0000\xfffeSi hay alguna MT que no te gusta,\xfffepuedes usar otra distinta.
+¿Por qué no pruebas a responder unas\xfffepreguntas sobre los cambios de estado?\xf000븀\x0000\xfffe¡Igualito que en los concursos!
+Primera pregunta:\xf000븁\x0000\xfffe¿Cuál de los siguientes objetos\xfffePokémon cura el veneno?
+ANTÍDOTO
+ANTIPARALIZ
+DESPERTAR
+¡Din, don!\xf000븁\x0000\xfffe¡Respuesta correcta!\xfffe¡Siguiente pregunta!\xf000븁\x0000
+El objeto que cura la parálisis es\xfffeel Antiparaliz.\xf000븁\x0000\xfffePero... ¿qué me dices del objeto que\xfffedespierta a los Pokémon dormidos?
+¡Bingo! ¡Respuesta correctísima!\xf000븁\x0000\xfffe¡Sabes un montón sobre los cambios\xfffede estado!\xf000븁\x0000\xfffeComo recompensa, ten esto.\xf000븁\x0000
+El objeto Cura Total, como su nombre\xfffebien indica, ¡es capaz de curar\xf000븀\x0000\xfffecualquier problema de estado!
+Cuando te apetezca responder unas\xfffepreguntas, házmelo saber.
+¡Oooh!\xf000븁\x0000\xfffeRespuesta incorrecta... ¡Qué pena!\xfffeInténtalo de nuevo, ¿vale?
+En la pizarra hay una explicación sobre\xfffelos cambios de estado que pueden sufrir\xf000븀\x0000\xfffelos Pokémon durante un combate.\xf000븁\x0000
+¿Cuál quieres ver?
+Cuando un Pokémon haya sido envenenado\xfffedurante el combate, sus PS disminuirán.\xf000븁\x0000\xfffePero no solo durante el combate, ya que\xfffeel efecto continuará después del mismo.\xf000븁\x0000\xfffeEn ese caso, debes usar Antídoto.\xf000븁\x0000
+Cuando un Pokémon está paralizado,\xfffesu Velocidad baja, y puede que no sea\xf000븀\x0000\xfffecapaz de ejecutar un movimiento.\xf000븁\x0000\xfffeIncluso después del combate permanecerá\xfffeparalizado hasta que uses Antiparaliz.\xf000븁\x0000
+Cuando un Pokémon está dormido,\xfffeno podrá ejecutar ningún ataque.\xf000븁\x0000\xfffeAunque a veces puede despertarse\xfffepor sí solo, si al terminar el combate\xf000븀\x0000\xfffecontinúa dormido, permanecerá así\xf000븀\x0000\xfffehasta que tú lo despiertes.\xf000븁\x0000\xfffeEn ese caso, tienes que usar Despertar.\xf000븁\x0000
+Cuando un Pokémon ha sido quemado,\xfffeno solo su Ataque baja; sus PS también\xf000븀\x0000\xfffebajarán poco a poco.\xf000븁\x0000\xfffePermanecerá en el mismo estado\xfffeincluso al acabar el combate.\xf000븁\x0000\xfffeEn ese caso, hay que usar Antiquemar.\xf000븁\x0000
+Cuando un Pokémon está congelado,\xfffeno puede hacer nada de nada.\xf000븁\x0000\xfffeAunque a veces puede descongelarse\xfffepor sí solo, si el combate termina y sigue\xf000븀\x0000\xfffeen ese estado, permanecerá así hasta\xf000븀\x0000\xfffeque lo descongeles.\xf000븁\x0000\xfffeEn ese caso, hay que usar Antihielo.\xf000븁\x0000
+ENVENENADO
+PARALIZADO
+DORMIDO
+QUEMADO
+CONGELADO
+SALIR

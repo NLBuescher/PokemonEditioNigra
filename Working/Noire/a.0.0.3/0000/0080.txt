@@ -1,0 +1,16 @@
+Nombre de victoires d'affilée: \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeLe prochain wagon porte le numéro \xf000Ȁ\x0001\x0001.\xfffeVoulez-vous continuer?
+CONTINUER
+ENREGISTRER
+FAIRE UNE PAUSE
+ABANDONNER
+Voulez-vous annuler votre défi?
+Voulez-vous sauvegarder et\xfffeinterrompre votre progression?
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Effacer la Vidéo de combat précédente\xfffepour enregistrer ce combat?
+En attente de la réponse\xfffede votre partenaire...
+
+Vous avez choisi “ABANDONNER".\xfffeAnnulation du défi en cours...
+Sauvegarde de la Vidéo en cours...\xfffeNe pas éteindre!
+La Vidéo de combat de \xf000Ā\x0001\x0000\xfffea été sauvegardée.
+Voulez-vous enregistrer la vidéo du\xfffedernier combat sur le Magnéto VS?
+Communication en cours...

@@ -1,0 +1,2 @@
+Erreur de communication.
+Erreur de communication.\xfffeVeuillez éteindre la console.

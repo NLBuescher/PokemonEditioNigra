@@ -1,0 +1,19 @@
+Anemone: Ah, sei qui! Grazie.\xf000븁\x0000\xfffeQuello che avevo visto prima era proprio\xfffeun Pokémon ferito.\xf000븁\x0000\xfffeMa ora sta meglio!\xf000븁\x0000\xfffeGli ho dato Revitalizzante Max ed è volato\xfffevia pieno di energia!\xf000븁\x0000
+Ho un'ottima vista, eh?\xf000븁\x0000\xfffeÈ un requisito molto importante per un\xfffePilota!\xf000븁\x0000
+Ah, visto che sei qui, vuoi provare a\xfffesuonare la campana?\xf000븁\x0000\xfffeI suoi rintocchi placano gli spiriti dei\xfffePokémon.\xf000븁\x0000\xfffeInoltre, il buon cuore di chi la suona si\xffferiflette nel suono emesso.\xf000븁\x0000
+Anemone: Dai, prova!
+Che bel suono!\xf000븁\x0000\xfffeMi dice che sei un ragazzo al contempo\xfffeforte e gentile.\xf000븁\x0000
+Che bel suono!\xf000븁\x0000\xfffeMi dice che sei una ragazza al contempo\xfffeforte e gentile.\xf000븁\x0000
+E ora, se permetti, mi presento di nuovo!\xf000븁\x0000\xfffeMi chiamo Anemone e sono il Capopalestra\xfffedi Ponentopoli, esperta in Pokémon di tipo\xf000븀\x0000\xfffeVolante.\xf000븁\x0000\xfffeVieni a trovarmi nella mia Palestra! Ti\xfffeaccoglierò a braccia aperte!\xf000븁\x0000
+È la campana della Torre Cielo. Vuoi\xfffeprovare a suonarla?
+\xf000Ā\x0001\x0000 ha suonato la campana.
+I rintocchi della campana riecheggiano\xfffenei dintorni.
+I rintocchi della campana riecheggiano\xfffenei dintorni.\xf000븁\x0000
+Non hai suonato la campana.
+Nardo: ...\xf000븁\x0000
+Qui nella Torre Cielo riposa il mio vecchio\xfffecompagno.\xf000븁\x0000\xfffeÈ stato il primo Pokémon che ho ricevuto\xfffequando sono diventato Allenatore.\xf000븁\x0000\xfffeA volte vengo qui a suonare la campana\xfffeper assicurarmi che il suo spirito riposi\xf000븀\x0000\xfffein pace.\xf000븁\x0000
+Era un Pokémon eccezionale! Coraggioso,\xfffegeneroso, affettuoso.\xf000븁\x0000\xfffeIo e lui insieme eravamo dei temerari alla\xfffericerca della forza, pur non avendo ben\xf000븀\x0000\xfffechiaro che cosa fosse veramente.\xf000븁\x0000
+Ma tutte le storie hanno un inizio e una\xfffefine...\xf000븁\x0000\xfffeCosì come la vita.\xf000븁\x0000\xfffeÈ stato allora che per la prima volta ho\xfffecapito che la forza non è qualcosa di\xf000븀\x0000\xfffeeterno e universale.\xf000븁\x0000
+La gioia di condividere il proprio tempo\xfffecon i Pokémon, invece, quella sì che è\xf000븀\x0000\xfffeimmutabile!\xf000븁\x0000\xfffeAllora, ho lasciato la Lega Pokémon e mi\xfffesono messo in viaggio, proprio perché\xf000븀\x0000\xfffevoglio trasmetterla a tutti!\xf000븁\x0000\xfffeE sono molto contento della mia scelta!\xfffeViaggiando ho incontrato tanti Pokémon,\xf000븀\x0000\xfffetanti Allenatori! E ho anche conosciuto\xf000븀\x0000\xfffevoi!\xf000븁\x0000
+Ci sono così tante cose degne di essere\xfffevissute in questo mondo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! Anche tu cerca di fare tanti\xfffebegli incontri!\xf000븁\x0000
+Bene, \xf000Ā\x0001\x0000, io vado, ma ti aspetto\xfffealla Lega Pokémon!\xf000븁\x0000

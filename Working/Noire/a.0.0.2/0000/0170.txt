@@ -1,0 +1,165 @@
+Ruban Maître
+Ruban Maître Sinnoh
+Ruban Sang-froid
+Ruban Sang-froid Super
+Ruban Sang-froid Hyper
+Ruban Sang-froid Master
+Ruban Beauté
+Ruban Beauté Super
+Ruban Beauté Hyper
+Ruban Beauté Master
+Ruban Grâce
+Ruban Grâce Super
+Ruban Grâce Hyper
+Ruban Grâce Master
+Ruban Intelligence
+Ruban Intelligence Super
+Ruban Intelligence Hyper
+Ruban Intelligence Master
+Ruban Robustesse
+Ruban Robustesse Super
+Ruban Robustesse Hyper
+Ruban Robustesse Master
+Ruban Sang-froid
+Ruban Sang-froid Méga
+Ruban Sang-froid Ultra
+Ruban Sang-froid Master
+Ruban Beauté
+Ruban Beauté Méga
+Ruban Beauté Ultra
+Ruban Beauté Master
+Ruban Grâce
+Ruban Grâce Méga
+Ruban Grâce Ultra
+Ruban Grâce Master
+Ruban Intelligence
+Ruban Intelligence Méga
+Ruban Intelligence Ultra
+Ruban Intelligence Master
+Ruban Robustesse
+Ruban Robustesse Méga
+Ruban Robustesse Ultra
+Ruban Robustesse Master
+Ruban Gagnant
+Ruban Victoire
+Ruban Aptitude
+Ruban Aptitude Méga
+Ruban Aptitude Duo
+Ruban Aptitude Multi
+Ruban Aptitude Paire
+Ruban Aptitude Monde
+Ruban Artiste
+Ruban Effort
+Ruban Alerte
+Ruban Choc
+Ruban Déprime
+Ruban Négligence
+Ruban Détente
+Ruban Sieste
+Ruban Sourire
+Ruban Sublime
+Ruban Royal
+Ruban Royal Sublime
+Ruban Empreinte
+Ruban Record
+Ruban Légende
+Ruban Pays
+Ruban National
+Ruban Terre
+Ruban Monde
+Ruban Classique
+Ruban Premier
+Ruban Événement
+Ruban Anniversaire
+Ruban Spécial
+Ruban Souvenir
+Ruban Souhait
+Ruban Vainqueur Championnat
+Ruban Champion Régional
+Ruban Champion National
+Ruban Champion du Monde
+Ruban pour une victoire contre la\xfffeLigue Pokémon d'une autre région.
+Ruban pour une victoire contre le Maître\xfffede Sinnoh et l'appartenance au Panthéon.
+Concours de Sang-froid de Hoenn\xfffeGagnant catégorie Normal!
+Concours de Sang-froid de Hoenn\xfffeGagnant catégorie Super!
+Concours de Sang-froid de Hoenn\xfffeGagnant catégorie Hyper!
+Concours de Sang-froid de Hoenn\xfffeGagnant catégorie Master!
+Concours de Beauté de Hoenn\xfffeGagnant catégorie Normal!
+Concours de Beauté de Hoenn\xfffeGagnant catégorie Super!
+Concours de Beauté de Hoenn\xfffeGagnant catégorie Hyper!
+Concours de Beauté de Hoenn\xfffeGagnant catégorie Master!
+Concours de Grâce de Hoenn\xfffeGagnant catégorie Normal!
+Concours de Grâce de Hoenn\xfffeGagnant catégorie Super!
+Concours de Grâce de Hoenn\xfffeGagnant catégorie Hyper!
+Concours de Grâce de Hoenn\xfffeGagnant catégorie Master!
+Concours d'Intelligence de Hoenn\xfffeGagnant catégorie Normal!
+Concours d'Intelligence de Hoenn\xfffeGagnant catégorie Super!
+Concours d'Intelligence de Hoenn\xfffeGagnant catégorie Hyper!
+Concours d'Intelligence de Hoenn\xfffeGagnant catégorie Master!
+Concours de Robustesse de Hoenn\xfffeGagnant catégorie Normal!
+Concours de Robustesse de Hoenn\xfffeGagnant catégorie Super!
+Concours de Robustesse de Hoenn\xfffeGagnant catégorie Hyper!
+Concours de Robustesse de Hoenn\xfffeGagnant catégorie Master!
+Super Concours de Sang-froid\xfffeGagnant catégorie Normal!
+Super Concours de Sang-froid\xfffeGagnant catégorie Méga!
+Super Concours de Sang-froid\xfffeGagnant catégorie Ultra!
+Super Concours de Sang-froid\xfffeGagnant catégorie Master!
+Super Concours de Beauté\xfffeGagnant catégorie Normal!
+Super Concours de Beauté\xfffeGagnant catégorie Méga!
+Super Concours de Beauté\xfffeGagnant catégorie Ultra!
+Super Concours de Beauté\xfffeGagnant catégorie Master!
+Super Concours de Grâce\xfffeGagnant catégorie Normal!
+Super Concours de Grâce\xfffeGagnant catégorie Méga!
+Super Concours de Grâce\xfffeGagnant catégorie Ultra!
+Super Concours de Grâce\xfffeGagnant catégorie Master!
+Super Concours d'Intelligence\xfffeGagnant catégorie Normal!
+Super Concours d'Intelligence\xfffeGagnant catégorie Méga!
+Super Concours d'Intelligence\xfffeGagnant catégorie Ultra!
+Super Concours d'Intelligence\xfffeGagnant catégorie Master!
+Super Concours de Robustesse\xfffeGagnant catégorie Normal!
+Super Concours de Robustesse\xfffeGagnant catégorie Méga!
+Super Concours de Robustesse\xfffeGagnant catégorie Ultra!
+Super Concours de Robustesse\xfffeGagnant catégorie Master!
+Ruban pour une victoire au N. 50 de\xfffela Tour de Combat de Hoenn.
+Ruban pour une victoire au N. 100\xfffede la Tour de Combat de Hoenn.
+Ruban pour une victoire contre\xfffel'Aigle Tour de la Tour de Combat.
+Ruban pour une victoire contre\xfffel'Aigle Tour de la Tour de Combat.
+Ruban pour une réussite au défi Duo\xfffede la Tour de Combat.
+Ruban pour une réussite au défi\xfffeMulti de la Tour de Combat.
+Ruban pour une réussite au défi\xfffeMulti Link de la Tour de Combat.
+Ruban pour une réussite au défi\xfffeWi-Fi de la Tour de Combat.
+Ruban pour les modèles de Hoenn\xfffeexposés au musée.
+Ruban pour récompenser un dur labeur.
+Ruban rappelant un événement vivifiant\xfffequi a créé de l'énergie vitale.
+Ruban rappelant un événement palpitant\xfffequi a rendu la vie plus passionnante.
+Ruban rappelant des moments de tristesse\xfffeayant ajouté un peu de piment à la vie.
+Ruban rappelant une négligence qui a\xfffeaidé à prendre des décisions vitales.
+Ruban rappelant un événement\xffferafraîchissant qui a ajouté du pep à la vie.
+Ruban rappelant un événement ensommeillé\xfffequi a rendu la vie plus reposante.
+Ruban rappelant que le sourire\xfffeaméliore la qualité de vie.
+Ruban somptueux et excentrique.
+Incroyable ruban royal qui a un\xfffepetit air de noblesse.
+Un ruban somptueux et royal qui\xfffeest le comble de la beauté.
+Ruban récompensant un Pokémon pour la\xfffequalité exceptionnelle de son empreinte.
+Ruban récompensant un record\xfffeincroyable.
+Ruban récompensant un record\xfffelégendaire.
+Ruban récompensant la victoire à\xfffela Ligue Pokémon.
+Ruban pour avoir triomphé face\xfffeà toutes les difficultés.
+Ruban récompensant 100 victoires\xfffeà la suite.
+Ruban récompensant la victoire\xfffeà la Ligue Pokémon.
+Ruban qui montre l'amour porté à\xfffeun Pokémon.
+Ruban vacances spéciales
+Ruban récompensant la participation\xfffeà un Événement Pokémon.
+Ruban commémorant un anniversaire.
+Ruban spécial pour un jour très\xfffeparticulier.
+Ruban commémorant un souvenir cher.
+Ruban supposé exaucer les vœux.
+Ruban récompensant la victoire\xfffeà une Compétition.
+Ruban récompensant la victoire\xfffeau Championnat Zone.
+Ruban récompensant la victoire\xfffeau Championnat National.
+Ruban récompensant la victoire\xfffeau Championnat International.
+Ruban Ligue \xf000ȁ\x0001\x0000
+Ruban Concours \xf000ȁ\x0001\x0000
+Ruban Tour \xf000ȁ\x0001\x0000
+Ruban Mémoire \xf000ȁ\x0001\x0000
+Ruban Cadeau \xf000ȁ\x0001\x0000

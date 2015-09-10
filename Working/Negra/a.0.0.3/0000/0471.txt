@@ -1,0 +1,97 @@
+¡Te doy la bienvenida a la Terminal Global!\xf000븁\x0000
+¿Quieres iniciar la Conexión Wi-Fi\xfffede Nintendo?
+Por favor, vuelve pronto.
+
+¡Entonces, por aquí, por favor!\xf000븁\x0000
+En la Terminal Global, puedes combatir\xfffeo realizar intercambios con personas\xf000븀\x0000\xfffede todo el mundo mediante\xf000븀\x0000\xfffela Conexión Wi-Fi de Nintendo.\xf000븁\x0000\xfffeSi necesitas información detallada,\xfffeconsulta las instrucciones dentro\xf000븀\x0000\xfffede la Terminal.\xf000븁\x0000
+Lo siento, todavía no puedo atenderte.\xfffeVuelve en otro momento, por favor.
+Tienes al menos un Pokémon con el que no\xfffepuedes acceder.
+Error de conexión.
+EMPAREJAMIENTO ALEATORIO
+GTS
+FOTOS DEL MUSICAL
+VÍDEOS DE COMBATE
+INSTRUCCIONES
+SALIR
+¿Quieres realizar un intercambio Pokémon\xfffemediante la GTS?
+Mediante la GTS, puedes intercambiar\xfffePokémon con Entrenadores de todo\xf000븀\x0000\xfffeel mundo.\xf000븁\x0000\xfffeExisten dos clases de intercambio:\xfffeGTS y Negociación GTS.\xf000븁\x0000\xfffeLa manera de intercambiar Pokémon varía\xfffede una a otra, así que presta atención.\xf000븁\x0000
+GTS
+NEGOCIACIÓN GTS
+INSTRUCCIONES
+ATRÁS
+¿Quieres intercambiar Pokémon?
+INTERCAMBIAR
+INSTRUCCIONES
+ATRÁS
+En la GTS, puedes intercambiar Pokémon\xfffede dos maneras diferentes.\xf000븁\x0000\xfffePuedes ofrecer un Pokémon o buscar uno\xfffeentre los que otros Entrenadores\xf000븀\x0000\xfffehan ofrecido.\xf000븁\x0000
+¿Quieres más información?
+Se te pedirá que elijas el Pokémon que\xfffeofreces para intercambiar.\xf000븁\x0000\xfffeEntonces, se te preguntará qué Pokémon\xfffedeseas a cambio.\xf000븁\x0000\xfffeSi otro jugador ofrece el Pokémon\xfffeque deseas a cambio del que ofreces,\xf000븀\x0000\xfffeel intercambio se llevará a cabo.\xf000븁\x0000
+Puedes ver los Pokémon que ofrecen\xfffeotros Entrenadores.\xf000븁\x0000\xfffeAsimismo, se indicará qué Pokémon desean\xfffeesos Entrenadores a cambio de los suyos.\xf000븁\x0000\xfffeSi encuentras uno que te guste, debes\xfffeofrecer a cambio el Pokémon que\xf000븀\x0000\xfffesu Entrenador solicita.\xf000븁\x0000
+OFRECER POKÉMON
+BUSCAR POKÉMON
+ENTENDIDO
+¿Quieres iniciar las negociaciones para\xfffeintercambiar Pokémon?
+INICIAR LA NEGOCIACIÓN
+INSTRUCCIONES
+ATRÁS
+Mediante la Negociación GTS, puedes\xfffeelegir qué Pokémon quieres intercambiar y\xf000븀\x0000\xfffeestablecer una serie de requisitos\xf000븀\x0000\xfffepara el intercambio.\xf000븁\x0000\xfffeSi hay algún Entrenador que reúna\xfffetus requisitos, podréis negociar\xf000븀\x0000\xfffeun intercambio.\xf000븁\x0000\xfffeNecesitas tener al menos 2 Pokémon\xfffeen tu equipo.\xf000븁\x0000
+¿Quieres más información?
+En el intercambio por negociación,\xfffeseleccionas tres Pokémon para ofrecer\xf000븀\x0000\xfffeal otro Entrenador.\xf000븁\x0000\xfffeLuego, eliges 1 de entre los 3\xfffeque te ha ofrecido.\xf000븁\x0000
+Existen tres condiciones de negociación:\xfffeel nivel de los Pokémon, el Pokémon que\xf000븀\x0000\xfffequieres obtener y el Pokémon que quieres\xf000븀\x0000\xfffeofrecer a cambio.\xf000븁\x0000\xfffePodrás realizar un intercambio\xfffecon los Entrenadores que reúnan\xf000븀\x0000\xfffetus condiciones.\xf000븁\x0000\xfffeTambién puedes acordar un intercambio\xfffepor negociación con Entrenadores\xf000븀\x0000\xfffecon los que ya hayas intercambiado\xf000븀\x0000\xfffePokémon anteriormente.\xf000븁\x0000
+¿QUÉ ES INTERCAMBIO POR NEGOCIACIÓN?
+CONDICIONES DE INTERCAMBIO
+ENTENDIDO
+¿Quieres ver Vídeos de Combate?
+Puedes publicar un Vídeo de Combate\xfffeque hayas grabado con la Cámara Lucha\xf000븀\x0000\xfffeo ver los que hayan grabado otros\xf000븀\x0000\xfffeEntrenadores.\xf000븁\x0000\xfffeLos vídeos se pueden buscar por Pokémon\xfffeparticipantes en el combate, ubicación\xf000븀\x0000\xfffedel combate, popularidad, etc.\xf000븁\x0000\xfffeEl Vídeo de Combate que publiques tendrá\xfffeasignado un número de 12 cifras.\xf000븁\x0000\xfffeSi les das ese código a tus amigos,\xfffepodrán usarlo para buscar y ver\xf000븀\x0000\xfffetu vídeo.\xf000븁\x0000
+SÍ
+INSTRUCCIONES
+ATRÁS
+¿Quieres ver Fotos del Musical?
+Puedes publicar una Foto del Musical de\xfffeCiudad Mayólica que hayas sacado\xf000븀\x0000\xfffecon la Cámara Lucha.\xf000븁\x0000\xfffeTambién puedes ver fotos que hayan\xfffesacado otros Entrenadores y puedes\xf000븀\x0000\xfffebuscarlas por el Pokémon que aparece.\xf000븁\x0000
+SÍ
+INSTRUCCIONES
+ATRÁS
+¿Quieres aceptar el desafío de\xfffeun Emparejamiento Aleatorio?
+ACEPTAR EL DESAFÍO
+INSTRUCCIONES
+SALIR
+En un Emparejamiento Aleatorio, puedes\xfffeenfrentarte a Entrenadores de todo\xf000븀\x0000\xfffeel mundo mediante la CWF de Nintendo.\xf000븁\x0000\xfffeExisten cinco modalidades de\xfffeEmparejamiento Aleatorio:\xf000븀\x0000\xfffeIndividual, Doble, Triple,\xf000븀\x0000\xfffeRotatorio y Lanzador.\xf000븁\x0000\xfffeY dos modos diferentes:\xfffeLibre y Puntos Clasificatorios.\xf000븁\x0000\xfffeCualquiera puede participar\xfffeen el modo Libre.\xf000븁\x0000\xfffePara enfrentarte en el modo Puntos\xfffeClasificatorios, debes utilizar la función\xf000븀\x0000\xfffeSincronizar Juego y registrar\xf000븀\x0000\xfffetu ID para Sincronizar en\xf000븀\x0000\xfffeel sitio web oficial de\xf000븀\x0000\xfffePokémon Global Link:\xf000븀\x0000\xfffehttp://www.pokemon-gl.com.\xf000븁\x0000
+¿Quieres más información?
+SOBRE EL MODO LIBRE
+SOBRE EL MODO PTOS. CLASIFICATORIOS
+SOBRE REGLAS ESPECIALES
+ENTENDIDO
+En el modo Libre, puedes enfrentarte\xfffede manera simple con Entrenadores\xf000븀\x0000\xfffede todo el mundo.\xf000븁\x0000\xfffeEntrena bien a tus Pokémon y mide\xfffetus fuerzas en estos combates.\xf000븁\x0000
+El modo Puntos Clasificatorios es ideal\xfffepara aquellos Entrenadores que quieran\xf000븀\x0000\xfffemejorar su técnica de combate,\xf000븀\x0000\xfffeya que les permite enfrentarse a\xf000븀\x0000\xfffeotros Entrenadores con un nivel\xf000븀\x0000\xfffede experiencia similar mediante\xf000븀\x0000\xfffela Conexión Wi-Fi de Nintendo.\xf000븁\x0000\xfffeTodos los Entrenadores empiezan\xfffecon 1500 Puntos Clasificatorios.\xf000븁\x0000\xfffeSe suman puntos con cada victoria\xfffey se restan con cada derrota.\xf000븁\x0000\xfffeMide tus fuerzas en este modo de combate\xfffepara saber cuál es tu nivel actual.\xf000븁\x0000\xfffeCuanto más altos sean tus Puntos\xfffeClasificatorios, los demás te verán\xf000븀\x0000\xfffecomo un Entrenador más experto.\xf000븁\x0000\xfffe¡Atención!\xf000븁\x0000\xfffeSi accedes a la CWF de Nintendo con\xfffeuna consola Nintendo DS diferente a la\xf000븀\x0000\xfffeque usaste para conexiones anteriores,\xf000븀\x0000\xfffetus Puntos Clasificatorios se borrarán.\xf000븁\x0000
+Existen varias reglas especiales para\xfffelos Emparejamientos Aleatorios.\xf000븁\x0000\xfffeLos Pokémon de Nivel 51 o superior\xfffeparticipan con Nivel 50.\xf000븁\x0000\xfffeLos motes de los Pokémon no se utilizan\xfffedurante el combate.\xf000븁\x0000\xfffeHay un límite de tiempo para seleccionar\xfffelos Pokémon que van a participar en\xf000븀\x0000\xfffeel combate y para decidir qué hacer\xf000븀\x0000\xfffeen cada turno.\xf000븁\x0000\xfffeSi se excede el tiempo límite del turno,\xfffetanto el Pokémon como el movimiento que\xf000븀\x0000\xffferealizará se elegirán automáticamente.\xf000븁\x0000\xfffeTambién hay un límite para la duración\xfffedel combate.\xf000븁\x0000\xfffeSi se excede este tiempo límite,\xfffeel resultado se decidirá según\xf000븀\x0000\xfffeel progreso de cada jugador\xf000븀\x0000\xfffeen el combate.\xf000븁\x0000
+¿Qué modalidad de combate quieres?
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+COMBATE TRIPLE
+COMBATE ROTATORIO
+COMBATE LANZADOR
+ATRÁS
+¿Aceptas el desafío de\xfffeun Combate Individual?
+¿Aceptas el desafío de\xfffeun Combate Doble?
+¿Aceptas el desafío de\xfffeun Combate Triple?
+¿Aceptas el desafío de\xfffeun Combate Rotatorio?
+¿Aceptas el desafío de\xfffeun Combate Lanzador?
+VALE
+VER REGLAMENTO
+SALIR
+Para participar en un Combate Individual,\xfffese necesitan de 3 a 6 Pokémon.\xf000븁\x0000\xfffeAntes de iniciar el combate,\xfffelos Entrenadores se muestran\xf000븀\x0000\xfffesus Pokémon y seleccionan 3.\xf000븁\x0000\xfffeLos Pokémon elegidos tienen que ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos objetos que lleven también deben ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos Huevos y algunos Pokémon\xfffeespeciales no pueden participar.\xf000븁\x0000
+Para participar en un Combate Doble,\xfffese necesitan de 4 a 6 Pokémon.\xf000븁\x0000\xfffeAntes de iniciar el combate,\xfffelos Entrenadores se muestran\xf000븀\x0000\xfffesus Pokémon y seleccionan 4.\xf000븁\x0000\xfffeLos Pokémon elegidos tienen que ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos objetos que lleven también deben ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos Huevos y algunos Pokémon\xfffeespeciales no pueden participar.\xf000븁\x0000
+Para participar en un Combate Triple,\xfffese necesitan 6 Pokémon.\xf000븁\x0000\xfffeAntes de iniciar el combate,\xfffelos Entrenadores se muestran\xf000븀\x0000\xfffesus Pokémon y seleccionan el orden\xf000븀\x0000\xfffede los Pokémon.\xf000븁\x0000\xfffeLos Pokémon elegidos tienen que ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos objetos que lleven también deben ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos Huevos y algunos Pokémon\xfffeespeciales no pueden participar.\xf000븁\x0000
+Para participar en un Combate Rotatorio,\xfffese necesitan de 4 a 6 Pokémon.\xf000븁\x0000\xfffeAntes de iniciar el combate,\xfffelos Entrenadores se muestran\xf000븀\x0000\xfffesus Pokémon y seleccionan 4.\xf000븁\x0000\xfffeLos Pokémon elegidos tienen que ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos objetos que lleven también deben ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos Huevos y algunos Pokémon\xfffeespeciales no pueden participar.\xf000븁\x0000
+Un Combate Lanzador es un Combate Triple\xfffeen el que se utiliza el Superlanzador.\xf000븁\x0000\xfffePara participar se necesitan 6 Pokémon.\xf000븁\x0000\xfffeAntes de iniciar el combate,\xfffelos Entrenadores se muestran\xf000븀\x0000\xfffesus Pokémon y seleccionan el orden\xf000븀\x0000\xfffede los Pokémon.\xf000븁\x0000\xfffeLos Pokémon elegidos tienen que ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos objetos que lleven también deben ser\xfffetodos diferentes.\xf000븁\x0000\xfffeLos Huevos y algunos Pokémon\xfffeespeciales no pueden participar.\xf000븁\x0000
+
+
+
+
+
+
+
+
+Oh, oh...\xf000븁\x0000\xfffeNo tienes sitio ni en las Cajas del PC\xfffeni en tu equipo.\xf000븁\x0000\xfffeSi quieres usar la GTS, debes hacer\xfffesitio en las Cajas o en tu equipo.\xf000븁\x0000
+Oh, oh... Lo siento.\xf000븁\x0000\xfffeNo puedes utilizar la GTS a menos que\xfffetengas dos o más Pokémon en tu equipo.\xf000븁\x0000
+Oh, oh... Lo siento.\xf000븁\x0000\xfffeNo puedes utilizar la Negociación GTS\xfffea menos que tengas dos o más Pokémon\xf000븀\x0000\xfffeen tu equipo.\xf000븁\x0000

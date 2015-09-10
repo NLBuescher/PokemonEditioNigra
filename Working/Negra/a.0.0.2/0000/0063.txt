@@ -1,0 +1,190 @@
+Menú de inicio
+Información sobre el Centro Pokémon
+Información sobre el C-Gear
+El menú
+Los combates
+Información sobre los Pokémon
+Otros
+Continuar
+Partida nueva
+Regalo misterioso
+Torneo
+Certificado Digital de Jugador
+Configuración de Sincronizar Juego
+Configuración de la CWF de Nintendo
+Prueba mic
+Centro Pokémon
+Cambiar Pokémon en el PC
+Caja de Combate
+Iniciar un intercambio en conexión
+Iniciar un combate en conexión
+Combate Individual
+Combate Doble
+Combate Triple
+Combate Rotatorio
+Superlanzador
+Sala Unión
+Club Wi-Fi
+Terminal Global
+Clave de amigo
+C-Gear
+Registro de Encuentros
+Sondeos
+Aceptar Sondeos
+Comenzar Sondeos
+Resultado de Sondeos
+Comunicación por infrarrojos
+Sincronizar Juego
+Zona Nexo
+Poder Regalo
+Regalosferas
+Bolsa
+Ficha de Entrenador
+Pokédex
+Técnicas para atrapar Pokémon
+Tipos y compatibilidad
+Ataques: físicos/especiales/de estado
+Pokémon debilitados
+Pokémon envenenados
+Pokémon paralizados
+Pokémon dormidos
+Pokémon congelados
+Pokémon quemados
+Pokémon confusos
+Pokémon enamorados
+Puntos de Experiencia
+Evolución
+Naturaleza y personalidad
+Pokérus
+Correr
+Zahorí
+Videomisor
+Medallas de Gimnasio
+Asignar objetos y funciones
+Traer Pokémon con el Pokétransfer
+Atrapar Pokémon con el Pokétransfer
+Tras comenzar la aventura, abre el menú con\xfffeel Botón X y guarda la partida a medida que\xfffevayas avanzando.\xfffe\xfffeCuando ya hayas guardado alguna vez y\xfffeapagues tu consola Nintendo DS, podrás\xfffeescoger la opción CONTINUAR en el menú\xfffede inicio para seguir justo desde el lugar\xfffedonde lo dejaste.
+Si quieres borrar la partida y comenzar\xfffedesde el principio, pulsa arriba en el\xfffePanel de Control + SELECT + Botón B\xfffeen la pantalla del título.
+Puedes aceptar regalos especiales en lugares\xfffedonde se celebren eventos. Puedes hacerlo\xfffemediante los siguientes métodos:\xfffe- Comunicación inalámbrica.\xfffe- Conexión Wi-Fi de Nintendo.\xfffe- Comunicación por infrarrojos.\xfffe\xfffeTen siempre presente que el método depende\xfffedel evento al que asistas.
+Con los regalos misteriosos, al aceptar\xfffeuna Tarjeta misteriosa para recibir Pokémon\xfffeu objetos especiales, aparecerá en\xfffecualquier Centro Pokémon un repartidor\xfffeataviado con una gorra azul.\xfffe\xfffeHabla con él para que te entregue el Pokémon\xfffeu objeto que te envían.
+Puedes tener hasta un máximo de 12 Tarjetas\xfffemisteriosas.\xfffe\xfffeSi has llegado al límite, pero quieres recibir\xfffemás, accede a VER ÁLBUM DE TARJETAS y\xfffetira la de un regalo que ya hayas recibido.
+Aquí puedes participar en los Torneos Pokémon\xfffea los que podrás acceder usando la Conexión\xfffeWi-Fi de Nintendo o asistiendo a eventos\xfffeespeciales.\xfffe\xfffePara más información sobre los Torneos,\xfffeescoge TORNEO en el menú de inicio y,\xfffea continuación, selecciona INSTRUCCIONES.
+Para más información sobre cómo registrarse\xfffey cómo participar en los Torneos, accede a\xfffelos sitios web oficiales de Pokémon o de\xfffePokémon Global Link.
+Los Pokémon registrados en la Caja de\xfffeCombate del PC dentro del juego\xfffepueden participar en los Torneos.\xfffe\xfffeUna vez registrada, la Caja de Combate no se\xfffepuede modificar durante el Torneo, por eso\xfffete recomendamos pensar detenidamente a la\xfffehora de escoger Pokémon.
+Una vez terminado el registro en el Torneo,\xfffepuedes ver tu Certificado Digital de Jugador.\xfffe\xfffePara obtener más información, accede al\xfffesitio web oficial de Pokémon Global Link.
+Para obtener tu ID para Sincronizar,\xfffeprimero debes llevar a cabo los ajustes\xfffede la Conexión Wi-Fi de Nintendo.\xfffe\xfffeUna vez hecho esto, recibirás tu ID\xfffepara Sincronizar en la pantalla de\xfffeSincronizar Juego.
+El ID para Sincronizar es necesario para\xffferealizar el registro de usuario en el sitio\xfffeweb oficial de Pokémon Global Link.
+El ID para Sincronizar desaparecerá\xfffesi borras la partida.\xfffe\xfffeSi tu ID para Sincronizar cambia,\xfffetendrás que volver a registrarte en\xfffeel sitio web oficial de Pokémon Global Link.
+Aquí puedes realizar los ajustes de\xfffela Conexión Wi-Fi de Nintendo de\xfffetu consola Nintendo DS.\xfffe\xfffeUna vez que hayas finalizado estos ajustes,\xfffepodrás intercambiar Pokémon y luchar contra\xfffegente de cualquier parte del mundo.
+Asimismo, si deseas acceder a TORNEO,\xfffeCONFIG. SINCRONIZAR JUEGO o a servicios de\xfffePokémon Global Link, tendrás que configurar\xfffeanteriormente la Conexión Wi-Fi de Nintendo.
+Aquí puedes comprobar que el micrófono de tu\xfffeconsola Nintendo DS funciona correctamente.\xfffe\xfffeHabla o sopla al micrófono. Si el Jigglypuff de\xfffela pantalla superior reacciona, el micrófono\xfffeestá funcionando correctamente.
+Aquí puedes hacer que se recupere tu equipo\xfffePokémon o comprar objetos que te serán de\xfffegran ayuda. También hay PC con los que puedes\xfffecambiar los Pokémon de tu equipo o escuchar\xfffelas valoraciones de la Prof.ª Encina.\xfffe\xfffeLos combates e intercambios con amigos\xfffese llevan a cabo en la planta superior\xfffedel Centro Pokémon.
+En el PC puedes dejar Pokémon o incluir\xfffeen tu equipo otros que ya hayas capturado.\xfffe\xfffeCuando ya lleves seis Pokémon en tu equipo,\xfffelos nuevos que captures se enviarán\xfffedirectamente al PC.
+Puedes registrar hasta seis Pokémon de los\xfffeque deseas usar más a menudo en combates.\xfffeTambién puedes elegir entre luchar con los\xfffePokémon de la Caja de Combate o los que\xfffellevas en ese momento.\xfffeSi no hay ningún Pokémon registrado en la\xfffeCaja de Combate, usarás automáticamente\xfffelos Pokémon actuales de tu equipo.
+Existen cuatro formas de realizar\xfffeintercambios con tus amigos:\xfffe\xfffe- Mediante la conexión de infrarrojos.\xfffe- Mediante la Sala Unión.\xfffe- Mediante el Club Wi-Fi.\xfffe- Mediante la Terminal Global.
+La conexión de infrarrojos\xfffe\xfffeIdónea para efectuar intercambios\xffferápidamente con alguien que está\xfffea tu lado.\xfffe\xfffeUna vez que selecciones IR en el C-Gear,\xfffeescoge INTERCAMBIO.
+La Sala Unión\xfffe\xfffeCuando quieras jugar con muchos amigos,\xfffelo mejor que puedes hacer es reunirte con\xfffeellos en la Sala Unión y efectuar el\xfffeintercambio allí.\xfffe\xfffeLa Sala Unión está en la planta superior\xfffedel Centro Pokémon.
+El Club Wi-Fi\xfffe\xfffeCuando tu amigo está lejos, puedes realizar\xfffeel intercambio en el Club Wi-Fi.\xfffe\xfffePara esto, ambos deberéis llevar a cabo los\xfffeajustes de la Conexión Wi-Fi de Nintendo\xfffee intercambiar vuestras claves de amigo.
+La Terminal Global\xfffe\xfffeA través de la Terminal Global podrás\xfffeintercambiar Pokémon con jugadores\xfffede todo el mundo. Los intercambios se\xfffeproducirán siempre y cuando se cumplan\xfffelos requisitos estipulados.
+Existen cuatro maneras de entablar\xfffeun combate con un amigo:\xfffe\xfffe- Mediante la conexión de infrarrojos.\xfffe- Mediante la Sala Unión.\xfffe- Mediante el Club Wi-Fi.\xfffe- Mediante la Terminal Global.\xfffe
+La conexión de infrarrojos\xfffe\xfffeIdeal para combatir rápidamente con alguien\xfffeque está a tu lado.\xfffe\xfffeSelecciona IR en el C-Gear y escoge\xfffeCOMBATE. Durante el combate,\xfffeel Superlanzador estará activado y el nivel\xfffede todos los Pokémon se igualará a Nivel 50.
+La Sala Unión\xfffe\xfffeCuando quieras jugar con muchos amigos,\xfffelo mejor es reunirse en la Sala Unión y\xfffelibrar combates allí.\xfffe\xfffeLa Sala Unión está en la planta superior\xfffedel Centro Pokémon.
+El Club Wi-Fi\xfffe\xfffeCuando tu amigo está lejos, puedes librar\xfffeun combate en el Club Wi-Fi.\xfffe\xfffePara esto, ambos deberéis configurar\xfffela Conexión Wi-Fi de Nintendo e\xfffeintercambiar vuestras claves de amigo.
+La Terminal Global\xfffe\xfffeA través de la Terminal Global podrás combatir\xfffecon jugadores de todo el mundo y depurar\xfffetu técnica.\xfffe\xfffeLa Terminal Global está en la planta superior\xfffedel Centro Pokémon.
+Un Combate Individual es aquel en el que\xfffese lucha sacando los Pokémon uno a uno.\xfffe\xfffeHay cuatro tipos de combates incluyendo\xfffeesta modalidad. Podrás ver la explicación\xfffede los movimientos durante cualquier combate\xfffemanteniendo pulsado el Botón L y pulsando\xfffea continuación el Botón A sobre el\xfffemovimiento que se desee.
+Un Combate Doble es aquel en el que se lucha\xfffecon dos Pokémon a la vez.
+Un Combate Triple es aquel en el que se\xfffelucha con tres Pokémon a la vez.\xfffeEn esta modalidad, los Pokémon que están\xfffemás lejos del rival no pueden atacar.\xfffeSin embargo, el Pokémon del centro puede\xfffeatacar a cualquiera de los tres Pokémon\xfffede su adversario.
+Hay algunos movimientos que alcanzan al\xfffePokémon del oponente aunque esté lejos.\xfffe\xfffeTambién se puede cambiar la posición de los\xfffePokémon. Selecciona MOVER en la pantalla de\xfffelos movimientos del Pokémon de la izquierda o\xfffede la derecha e intercambiarán su posición con\xfffeel Pokémon del centro.
+El Combate Rotatorio es una forma avanzada\xfffedel Combate Individual. En él participan tres\xfffePokémon de forma simultánea por jugador.\xfffe\xfffeSolo puede actuar un Pokémon por turno,\xfffepero tienes completa libertad para utilizar\xfffecualquiera de los tres Pokémon en combate.
+Siempre que quieras realizar una rotación\xfffey mover uno de los Pokémon de atrás\xfffea la parte de delante, toca el icono de la\xffferotación en la pantalla de selección de\xfffemovimiento.\xfffe\xfffeEl Pokémon cuyo movimiento hayas elegido\xfffesaltará adelante y atacará acto seguido.
+Puedes utilizar objetos durante los combates\xfffeen conexión siempre que el Superlanzador\xfffeesté activado.\xfffe\xfffeNecesitas un determinado número de puntos\xfffepara utilizar cada objeto. Recibirás puntos\xfffeen cada turno. Tú decides si los quieres usar\xfffeal momento, o si quieres esperar a acumular\xfffemás para utilizar un objeto más poderoso.
+Puedes intercambiar Pokémon y combatir\xfffecon la gente que hay en la Sala Unión.\xfffeLa recepción está a la izquierda en la\xfffeprimera planta del Centro Pokémon.\xfffeUna vez dentro, pulsa el Botón A delante\xfffede quien quieras para empezar a hablar.\xfffe\xfffeAl fondo a la izquierda de la Sala Unión,\xfffeuna chica te explicará todo lo que necesites.
+El Club Wi-Fi de la primera planta del Centro\xfffePokémon te permite realizar intercambios y\xfffecombates en conexión con personas que\xfffetengas registradas en tu Bloc de amigos.\xfffeAdemás, también puedes pasar buenos ratos\xfffeusando el chat de voz y el Videomisor.\xfffeSi quieres saber cómo registrar a tus amigos,\xfffeéchale un vistazo a la explicación sobre la\xfffeclave de amigo.
+Pulsa el Botón A delante de la persona con la\xfffeque quieras conectarte. Cuando esa persona\xfffeesté en espera, comenzará a saltar.\xfffe\xfffePulsa el Botón A en el monitor del fondo para\xfffedecidir lo que quieres hacer en conexión.\xfffe
+Con el chat de voz, puedes hablar con gente\xfffeque esté lejos como si estuvieras a su lado.\xfffe\xfffeUna vez dentro de la sala, pulsa el Botón X\xfffepara decidir si quieres usar el chat de voz\xfffeo no.
+En la Terminal Global puedes intercambiar\xfffePokémon y librar combates con gente\xfffeque no conozcas.\xfffe\xfffeLa recepción está a la derecha en la primera\xfffeplanta del Centro Pokémon.
+Es tu número identificador, generado una vez\xfffeque accedes a la Conexión Wi-Fi de Nintendo.\xfffeSi intercambias la clave de amigo con gente,\xfffepodrás realizar intercambios de Pokémon y\xfffecombatir contra esas personas.\xfffe\xfffePuedes ver tu clave de amigo en el Bloc de\xfffeamigos que se encuentra dentro de tu Bolsa,\xfffeen la sección Objetos Clave.
+Existen dos métodos para registrar\xfffeclaves de amigo:\xfffe\xfffe- Selecciona USAR con el Bloc de amigos\xfffedentro de los Objetos Clave de la Bolsa e\xfffeintroduce el código que te haya dado otro\xfffejugador.\xfffe- Utiliza la conexión por infrarrojos\xfffedel C-Gear.
+El C-Gear es un aparato con gran variedad\xfffede funciones con el que podrás intercambiar\xfffePokémon, librar combates, ir a la Zona Nexo y\xfffeusar el Videomisor y Sincronizar Juego.\xfffe\xfffePuedes conectar o desconectar el C-Gear\xfffetocando el icono de encendido de la parte\xfffeinferior derecha del mismo.
+Cuando el C-Gear esté conectado, la conexión\xfffeinalámbrica de tu Nintendo DS estará\xfffesiempre activada.\xfffe\xfffeNo olvides desconectar tu C-Gear siempre\xfffeque entres en aviones, hospitales u otros\xfffesitios en los que estén prohibidas las\xfffeconexiones inalámbricas. No cumplir las normas\xfffepuede suponer una infracción de la ley.
+Puedes personalizar tu C-Gear tocando\xfffeel icono de la llave de tuerca situado\xfffeen la parte inferior derecha.\xfffeDespués de tocarlo, pulsa repetidamente\xfffeen las zonas de color y podrás personalizar\xfffeel aparato de forma fácil y sencilla.\xfffePuedes visualizar la ayuda del C-Gear\xfffetocando el icono de la interrogación.
+El icono alargado de la parte inferior del\xfffeC-Gear es el Registro de Encuentros.\xfffeCon solo tocarlo, sabrás si hay gente a tu\xfffealrededor usando el C-Gear.\xfffe\xfffeTambién podrás obtener información sobre\xfffeperfiles e intercambiar mensajes. Asimismo,\xfffetambién será enviada tu propia información.
+Cuando otra persona que esté usando\xfffeel C-Gear aparezca en tu pantalla, solo\xfffetienes que tocar en ella para saber\xfffesus horas de juego, su ubicación actual\xfffeen la aventura y otros datos.
+Puedes utilizar el Poder Regalo del Nexárbol\xfffetocando el icono triangular del Registro\xfffede Encuentros.\xfffePara aceptar el Poder Regalo, ve a tu\xfffeNexárbol después de completar\xfffecon éxito la misión que se te encargó\xfffeen el Nexárbol de la otra persona.
+Tocando el icono del bocadillo, puedes\xfffemandar un mensaje a otras personas que\xfffeestén utilizando el C-Gear.\xfffe\xfffeNo envíes ningún mensaje ofensivo ni que\xfffepueda irritar a las otras personas. También\xfffeevita mandar información confidencial, como\xfffenombres, números de teléfono o similares.
+Tocando el icono de la cara sonriente,\xfffeenviarás un mensaje de agradecimiento.\xfffe\xfffeDespués de tocar ese icono, elige a quién\xfffequieres mandar dicho mensaje.
+Los Sondeos sirven para recopilar información\xfffesobre las aficiones, gustos, etc. de la gente\xfffecon la que te cruzas.
+Los Sondeos comienzan en el momento en que\xfffeaceptas encargarte de uno en la Sede del\xfffeCentro de Estadística de Ciudad Porcelana.
+Tras hablar con el jefe de la Sede del Centro\xfffede Estadística y aceptar encargarte de un\xfffeSondeo, toca el gráfico circular de la parte\xfffeinferior izquierda del C-Gear para decidir\xfffeel objetivo.\xfffe\xfffeLos Sondeos que están en curso tienen\xfffeuna marca.
+Tras decidir el objetivo del Sondeo, basta\xfffecon mantener encendido el C-Gear.\xfffeSiempre que te cruces con alguien que lleve\xfffesu C-Gear encendido, recibirás\xfffeautomáticamente datos para tu Sondeo.\xfffeAunque cierres tu consola Nintendo DS o\xfffesigas jugando, los Sondeos se seguirán\xfffeejecutando de forma automática.
+Antes de informar del resultado al jefe\xfffede la Sede del Centro de Estadística de\xfffeCiudad Porcelana, tienes que verificar\xfffelos datos en el C-Gear con la opción\xfffeCONSULTAR SONDEO. A continuación,\xfffeve a la Sede del Centro de Estadística\xfffey habla con su jefe.
+Tocando la zona roja con las letras IR del\xfffeC-Gear, puedes intercambiar Pokémon\xfffeo combatir con personas a tu alrededor.\xfffeTambién es posible intercambiar claves\xfffede amigo y comprobar la compatibilidad\xfffecon los demás.
+Ambas personas debéis escoger\xfffela misma opción y, a continuación,\xfffeponer frente a frente vuestras\xfffetarjetas de juego para iniciar\xfffela conexión.\xfffeUna vez establecida, ya no hace\xfffefalta que las tarjetas estén una\xfffeenfrente de la otra.
+Tocando la zona azul en la que pone EN LÍNEA\xfffeen la pantalla del C-Gear, puedes acceder\xfffea Sincronizar Juego.\xfffe\xfffeSincronizar Juego es un sistema por el cual\xfffemandas a dormir a los Pokémon de tus Cajas\xfffey envías datos sobre ellos por todo el mundo.
+El color de la zona marcada como EN LÍNEA\xfffeen el C-Gear cambia dependiendo de\xfffelas condiciones de tu conexión.\xfffeSiempre que hayas configurado correctamente\xfffela CWF de Nintendo en tu consola Nintendo DS\xfffey haya un punto de acceso disponible cerca,\xfffela zona aparecerá en verde.
+Cuando tu consola Nintendo DS esté en\xfffeNintendo Zone o en cualquier otro punto de\xfffeacceso inalámbrico desde el que cualquiera\xfffepueda conectarse, esta zona del C-Gear\xfffeaparecerá en azul.
+Cuando estés cerca de un punto de acceso\xfffeinalámbrico para el cual no hayas configurado\xfffecorrectamente la Conexión Wi-Fi de Nintendo\xfffeo cuando dicho punto de acceso no esté\xfffedisponible, el color de esta zona del C-Gear\xfffeserá rojo.
+Los datos recibidos a través de Sincronizar\xfffeJuego van a parar a un mundo onírico de\xfffelos Pokémon llamado Pokémon Dream World.\xfffe\xfffePokémon Dream World está dentro del sitio\xfffeweb oficial de Pokémon Global Link.
+Necesitas hacer lo siguiente antes de ponerte\xfffea jugar en Pokémon Dream World:\xfffe\xfffe- Configurar la CWF de Nintendo.\xfffe- Configurar Sincronizar Juego.\xfffe- Registrarte con tu ordenador en el sitio\xfffeweb oficial de Pokémon Global Link.
+Tocando en la zona amarilla del C-Gear\xfffeen la que pone INALÁMBRICA, te puedes\xfffedesplazar a la Zona Nexo, ubicada en\xfffeel centro de la región de Teselia.\xfffe\xfffeEn tu Zona Nexo crece un Nexárbol.\xfffe\xfffe
+Si encuentras a alguien con el C-Gear\xfffeconectado cerca de ti, se realizará una\xfffeconexión, se podrá cruzar un puente y\xfffepodrás acceder al mundo de esa persona.\xfffe\xfffeAdvertencia: Cuando ya hay alguien en tu\xfffeZona Nexo, no puedes entrar en ella.
+Para establecer contacto con otra persona,\xfffecolócate ante uno de los puentes que hay\xfffea ambos lados de la Zona Nexo.\xfffe\xfffeEl puente solo se podrá cruzar cuando esa\xfffepersona esté en una de las ocho ciudades\xfffeo rutas alrededor de la Zona Nexo y no esté\xfffedentro de ningún edificio.
+Cuando se establece contacto con la otra\xfffepersona, en la pantalla inferior aparece\xfffeel nombre de esta.\xfffe\xfffeAdéntrate en su mundo.\xfffe\xfffeEn él, tu apariencia cambia y el paisaje\xfffese vuelve gris.
+También hay un Nexárbol en la Zona Nexo\xfffede la otra persona. Pulsa el Botón A frente\xfffeal Nexárbol para aceptar una misión.\xfffe\xfffeHay muchos tipos de misiones, como hablar con\xfffealguien o enfrentarte a otros Pokémon.\xfffeEstas misiones tienen límite de tiempo.
+Cuando aceptes tu primera misión, podrás\xfffeteletransportarte a la ciudad que quieras.\xfffe\xfffeUsa la pantalla táctil para acercarte a la\xfffeotra persona. Solo tienes que tocar en\xfffeuna ciudad próxima. Búscala después\xfffede teletransportarte.
+Después de terminar la misión encomendada\xfffepor el Nexárbol de la otra persona,\xfffevolverás a tu propio Nexárbol.\xfffe\xfffeActo seguido, recibirás una fuerza misteriosa\xfffedenominada Poder Regalo.
+Hay ciertas cosas que no puedes hacer\xfffemientras estés jugando en el mundo de\xfffeotra persona:\xfffe\xfffe- Guardar la partida.\xfffe- Usar los Objetos Clave.\xfffe- Usar MO y otros movimientos que se puedan\xfffeutilizar fuera del combate.
+El Poder Regalo es un poder misterioso que te\xfffeentrega el Nexárbol de la Zona Nexo.\xfffe\xfffePara conseguirlo, has de acceder a la Zona\xfffeNexo de otra persona y completar la misión\xfffeque te encomiende el Nexárbol.
+El Poder Regalo no se puede utilizar ni en la\xfffeZona Nexo ni en el mundo de otras personas.\xfffe\xfffeCuando quieras utilizar el Poder Regalo, toca\xfffeen el Registro de Encuentros del C-Gear\xfffeuna vez que salgas de la Zona Nexo y luego\xfffetoca el icono triangular.
+Además, necesitas un número determinado\xfffede Regalosferas para utilizarlo.\xfffe\xfffeLas Regalosferas se obtienen de los\xfffeNexárboles de otras personas cuando\xfffecompletas una misión.
+Para utilizar el Poder Regalo, necesitas\xfffeun número determinado de Regalosferas.\xfffe\xfffeLas Regalosferas se obtienen de\xfffelos Nexárboles de otras personas\xfffecuando completas una misión.
+■ Funciones de la Bolsa\xfffeEn ella se clasifican tus objetos\xfffepor categorías automáticamente.\xfffe\xfffeSelecciona la casilla situada a la izquierda\xfffede los objetos de la sección Objetos Clave\xfffey así podrás usarlos sin siquiera abrir\xfffela Bolsa, solo pulsando el Botón Y.
+Puedes ordenar los objetos de una sección\xfffede tu Bolsa pulsando START o tocando\xfffeel símbolo verde de la pantalla inferior.\xfffe\xfffePulsando SELECT, podrás ordenar los objetos\xfffea tu antojo. Podrás moverte de forma rápida\xfffepor la lista de objetos con el Botón L y\xfffeel Botón R.
+■ Tipos de objetos\xfffe- Objetos\xfffeHay muy diversos tipos de objetos.\xfffeAlgunos sirven para aumentar las\xfffecaracterísticas de los Pokémon o\xfffeaumentar la potencia de alguno de\xfffesus movimientos.\xfffeLos que hay que entregar a los Pokémon\xfffepara que surtan efecto tienen una marca.
+También hay objetos que aumentan las\xfffecaracterísticas o potencian los movimientos\xfffede tus Pokémon durante los combates.\xfffePrueba sus diversos beneficios poco a poco.\xfffe¡Te serán muy útiles!\xfffe\xfffeAlgunos solo duran un tiempo determinado,\xfffemientras que el efecto de otros desaparece\xfffeal cambiar de Pokémon.
+Las Poké Balls, objetos necesarios para\xfffecapturar Pokémon, se almacenan\xfffeen la sección Objetos.\xfffe\xfffeLas Cartas son mensajes redactados a partir\xfffede la combinación de palabras de tu elección.\xfffeSi le entregas una a un Pokémon y lo\xfffeintercambias, la podrá leer otra persona.
+- Botiquín\xfffeAquí se guardan los objetos que restablecen\xfffetus PS y PP, y los que curan los problemas\xfffede estado de tus Pokémon.\xfffe\xfffe- MT / MO\xfffeAquí se guardan las Máquinas Técnicas\xfffey las Máquinas Ocultas. Las puedes usar\xfffelas veces que quieras.
+- Bayas\xfffeAquí se guardan las Bayas.\xfffeEstos objetos ejercen varios efectos al\xfffeusarlos o dárselos a los Pokémon.\xfffe\xfffe- Objetos Clave\xfffeAquí se guardan los objetos importantes.\xfffeAlgunos se pueden asignar para usarlos de\xfffeforma más rápida.
+Puedes comprobar el número de Medallas\xfffede Gimnasio que tienes seleccionando tu\xfffenombre en el menú que aparece al pulsar\xfffeel Botón X.\xfffe\xfffePuedes ver tus Medallas de Gimnasio o\xfffetu Ficha de Entrenador tocando el icono\xfffeque aparece en la parte inferior izquierda\xfffede la pantalla táctil.
+La Ficha de Entrenador contiene, entre otras\xfffecosas, información sobre las horas de juego\xfffey el dinero que tienes.\xfffePuedes cambiar el tipo de Entrenador\xfffey su carácter tocando la pantalla.\xfffeTambién puedes editar tu mensaje tocando\xfffeen la zona con el recuadro blanco de la parte\xfffeinferior. Complétalo eligiendo las palabras\xfffeque te gusten.
+En el dorso de la ficha puedes firmar\xfffecon el lápiz táctil.\xfffeToca el icono del lápiz o el de la goma\xfffede borrar para seleccionarlos.\xfffeLa pantalla aumentará de tamaño si tocas\xfffeel icono con el signo +.\xfffeEl icono del triángulo sirve para reproducir\xfffeuna animación en la mitad del área de firma.
+Enciclopedia de última generación que registra\xfffeautomáticamente todo Pokémon con el que\xfffete encuentres.\xfffe\xfffeEn ella podrás ver información sobre\xfffesu hábitat, voz, altura, peso, tipo,\xfffehuellas, etc.\xfffe
+A medida que avanzas en tu aventura, se le\xfffeañade a tu Pokédex la opción de búsqueda.\xfffe\xfffeUna vez que se añade esta función, pulsa\xfffeSTART y podrás buscar los Pokémon\xfffesegún su número, inicial, color, silueta, etc.
+Es más fácil capturar Pokémon usando\xfffela Poké Ball tras reducir sus PS.\xfffe\xfffeOtra forma bastante eficaz es dormirlos\xfffeo paralizarlos.
+Hay 17 tipos distintos de Pokémon y de\xfffemovimientos.\xfffeCada uno presenta ventajas ante unos tipos\xfffey desventajas ante otros.\xfffePor ejemplo, un movimiento de tipo Fuego\xfffees ventajoso contra Pokémon de tipo Bicho\xfffeo Planta, pero apenas hace efecto contra\xfffePokémon de tipo Agua o Roca.
+Cuando un movimiento es del mismo tipo que\xfffeel Pokémon que lo usa, su potencia se ve\xfffeaumentada. Si el Pokémon tiene dos tipos,\xfffecada una de las compatibilidades influirá.\xfffe\xfffeEn ocasiones, en función del tipo que sean,\xfffelos movimientos no surten efecto.
+Los movimientos pueden ser ataques\xfffefísicos, especiales y de estado. Los puedes\xfffediferenciar según el icono que tengan.\xfffe\xfffe- Ataques físicos\xfffeEl daño que infligen viene determinado por los\xfffevalores de Ataque y Defensa de los Pokémon.
+- Ataques especiales\xfffeEl daño que infligen viene determinado\xfffepor los valores de Ataque Especial y\xfffeDefensa Especial.\xfffe\xfffe- Ataques de estado\xfffeNo causan daño directo, sino que aumentan\xfffealguna característica o causan problemas de\xfffeestado. Tienen efectos de apoyo en combate.
+Si los PS de un Pokémon llegan a 0, no podrá\xfffevolver a combatir hasta que se recupere.\xfffeAunque esté debilitado, puede seguir usando\xfffemovimientos que se utilizan fuera del combate.\xfffe\xfffe■ Principales métodos de recuperación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Revivir.\xfffe- Usando Max. Revivir.
+Cuando un Pokémon es envenenado,\xfffeva perdiendo PS durante el combate.\xfffeAl volver a su Poké Ball, dejará de perder\xfffePS, pero no desaparecerá automáticamente\xfffeel envenenamiento.\xfffe■ Principales métodos de curación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Antídoto o Baya Meloc.
+Cuando un Pokémon queda paralizado,\xfffesu Velocidad disminuye y puede que a veces\xfffeno pueda usar movimientos.\xfffeTampoco se repone automáticamente al término\xfffedel combate.\xfffe■ Principales métodos de curación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Antiparaliz o Baya Zreza.
+Cuando duermen a un Pokémon, este solo\xfffepodrá utilizar algunos movimientos\xfffeespecíficos.\xfffeSe puede recuperar durante el combate,\xfffepero seguirá en ese estado si acaba\xfffeel combate dormido.\xfffe■ Principales métodos de curación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Despertar o Baya Atania.
+Cuando un Pokémon se queda congelado,\xfffepuede usar solo unos pocos movimientos.\xfffeSe puede recuperar durante el combate, pero\xfffeno lo hará de forma espontánea si termina en\xfffeese estado.\xfffe\xfffe■ Principales métodos de curación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Antihielo o Baya Perasi.
+Cuando un Pokémon es quemado, su Ataque\xfffedisminuye y sus PS van bajando poco a poco.\xfffeAl volver a su Poké Ball, dejará de perder\xfffePS, pero no se curará automáticamente\xfffedel estado.\xfffe\xfffe■ Principales métodos de curación:\xfffe- Recuperación en un Centro Pokémon.\xfffe- Usando Antiquemar o Baya Safre.
+Cuando un Pokémon está confuso, no siempre\xfffeutiliza bien los movimientos y puede llegar a\xfffehacerse daño a sí mismo.\xfffeEste estado se cura esperando un poco\xfffedurante el combate o una vez que concluya.\xfffe\xfffe■ Principales métodos de curación:\xfffe- Cambiando al Pokémon durante el combate.\xfffe- Usando Baya Caquic.
+Cuando un Pokémon se enamora de otro\xfffedel sexo opuesto, se descuida con solo\xfffever a ese Pokémon y, a veces, no puede\xffferealizar el movimiento deseado.\xfffeEste efecto desaparece cambiando\xfffeel Pokémon o debilitando al rival.
+Los Pokémon que participan en un combate\xfffereciben Puntos de Experiencia. A medida que\xfffelos vayan acumulando, irán subiendo de nivel.\xfffe\xfffeSiempre recibirán más Puntos de Experiencia\xfffesi el Pokémon rival tiene un nivel más alto y\xfffemenos si el Pokémon rival tiene un nivel más\xfffebajo.
+Los Puntos de Experiencia se dividen entre\xfffetodos los Pokémon que han participado en\xfffeun combate.\xfffeSi quieres que el Pokémon más débil reciba más\xfffePuntos de Experiencia, sácalo en primer lugar\xfffey luego cámbialo por uno más fuerte. Además,\xfffelos Pokémon que has conseguido a través de\xfffeun intercambio reciben más Puntos de\xfffeExperiencia que los que tú has capturado.
+Los Pokémon pueden evolucionar.\xfffeCuando esto ocurre, su apariencia cambia\xfffey sus características mejoran.\xfffe\xfffeHay distintas formas de evolucionar:\xfffeal subir de nivel, al usar objetos especiales,\xfffeal intercambiar Pokémon con amigos, etc.
+Tu Pokémon detendrá su evolución por el\xfffesusto que le provoca que pulses de repente\xfffeel Botón B en medio del proceso.\xfffe\xfffeTambién existe un objeto que evita que\xfffeevolucione si se lo haces llevar a un Pokémon.
+Cada Pokémon, aun siendo de la misma\xfffeespecie, tiene una naturaleza y una\xfffepersonalidad distintas a otros.\xfffeTambién varía su desarrollo.\xfffe\xfffeSi te fijas, los Pokémon tienen colores\xfffeen sus características. El rojo indica\xfffeque es fácil que aumente esa característica.\xfffeEl azul señala que es difícil.
+El Pokérus es un extraño virus que infecta\xfffea los Pokémon. Cuando está infectado, el\xfffePokémon se desarrolla con rapidez. En unos\xfffedías vuelve a su ritmo de desarrollo habitual,\xfffey el Pokérus no puede volver a infectar\xfffeal mismo Pokémon, aunque a veces pasa a otro\xfffeque esté cerca.
+Después de conseguir las Deportivas,\xfffepuedes correr pulsando el Botón B.
+La pantalla táctil reacciona cuando caminas\xfffeusando el Zahorí. Camina en la dirección de la\xfffeflecha. En cuanto te encuentres justo encima\xfffedel objeto oculto, la señal en pantalla\xfffeparpadeará. No puedes cogerlo en esa\xfffeposición: da un paso, quédate mirando en esa\xfffedirección y pulsa el Botón A.
+Objeto que usa la comunicación inalámbrica de\xfffetu consola Nintendo DS y la CWF de Nintendo\xfffepara permitirte hablar con amigos.\xfffeTambién puedes usar la cámara de las consolas\xfffeNintendo DSi o Nintendo DSi XL para ver la\xfffecara de tu interlocutor. Necesitas registrar\xfffecon antelación la clave de amigo para poder\xfffehablar a través del Videomisor.
+■ Comunicación inalámbrica de Nintendo DS\xfffeToca la zona del C-Gear en la que pone\xfffeINALÁMBRICA y selecciona el Videomisor.\xfffeSi encuentras a alguien con quien ya hayas\xfffeintercambiado la clave de amigo, aparecerá\xfffeen la pantalla inferior su nombre y su número\xfffede ID. Elige con quién quieres hablar y realiza\xfffeuna llamada. Puedes llamar a hasta tres\xfffepersonas en una sola comunicación.
+La zona del C-Gear en la que pone\xfffeINALÁMBRICA brilla cuando un amigo\xfffete está llamando y, además, tu consola\xfffeemite un sonido. También aparecerá\xfffesu nombre en el Videomisor. Lo único\xfffeque tienes que hacer es tocar para\xfffeaceptar la llamada. Si seleccionas\xfffeel Videomisor antes de recibir\xfffela llamada, no podrás aceptarla.
+■ Club Wi-Fi\xfffePuedes hablar con uno de los miembros\xfffedel Club Wi-Fi que estén dentro.
+■ Uso del Videomisor\xfffeSe maneja desde la pantalla táctil.\xfffeToca el botón del centro para grabar\xfffeun mensaje. Suéltalo para enviarlo.\xfffe\xfffeModula tu voz con el indicador de la izquierda.
+En las Nintendo DSi y Nintendo DSi XL, se\xfffevisualizarán las caras de tus interlocutores\xfffeen la pantalla superior.\xfffeToca el botón de la esquina superior derecha\xfffepara dibujar sobre las caras.\xfffeCon el botón de la esquina inferior derecha,\xfffepuedes fijar la pantalla. Si tu consola no\xfffedispone de cámara, aparecerá la indicación\xfffeSOLO SONIDO.
+Hay ocho Gimnasios en Teselia, y en cada uno\xfffede ellos se encuentra su Líder. Conseguirás\xfffeuna Medalla de Gimnasio cada vez que derrotes\xfffea uno de ellos.\xfffe\xfffePuedes comprobar el número de Medallas\xfffede Gimnasio que tienes seleccionando tu\xfffenombre en el menú que aparece al pulsar\xfffeel Botón X.
+Cuantas más Medallas consigas, más alto\xfffepodrá ser el nivel de los Pokémon que te\xfffeobedezcan recibidos de otros jugadores.
+Si asignas objetos o funciones que uses con\xfffefrecuencia, te será más fácil acceder a ellos.\xfffe\xfffeTienes que registrarlos antes para poder\xfffeusarlos inmediatamente pulsando el Botón Y.
+A veces aparece un icono cuadrado en la\xfffepantalla inferior al seleccionar una opción\xfffedel menú que se abre pulsando el Botón X.\xfffeSi lo tocas, verás un símbolo de visto rojo\xfffey quedará seleccionado.\xfffe\xfffeLos objetos o funciones que tengan ese icono\xfffecuadrado seleccionado quedarán asignados.
+A la izquierda de los objetos que se guardan\xfffeen la sección Objetos Clave de tu Bolsa,\xfffehay una casilla.\xfffe\xfffeTócala para seleccionarla y habrás asignado\xfffeese objeto.
+Puedes asignar hasta 25 funciones\xfffey objetos al Botón Y.\xfffeCuando quieras anular uno de ellos,\xfffetoca de nuevo el icono cuadrado.\xfffeUna vez que tengas asignados\xfffeal menos dos objetos o funciones,\xfffepulsa SELECT para cambiarlos de\xfffeorden según quieras
+Introduce la tarjeta de Pokémon Edición\xfffeDiamante, Perla, Platino, HeartGold o\xfffeSoulSilver en otra consola Nintendo DS,\xfffeenciéndela y elige Descarga DS en\xfffela pantalla del menú.\xfffeA continuación, selecciona Pokétransfer.
+Cuando concluya la descarga, decide qué seis\xfffePokémon quieres llevar a Pokémon Edición\xfffeNegra o Edición Blanca y arrástralos con\xfffeel lápiz táctil a la zona de la derecha.\xfffe\xfffeEs imposible devolver al juego original los\xfffePokémon que traslades con el Pokétransfer.
+Toca la pantalla táctil, tira de la Poké Ball\xfffehacia atrás, apunta al Pokémon y suelta la\xfffePoké Ball.\xfffe\xfffeTambién hay Pokémon ocultos en la hierba\xfffey en las sombras de los árboles.
+Si logras acertar, el Pokémon oculto saldrá\xfffede su escondite. Justo entonces, deberás\xfffelanzarle otra Poké Ball.\xfffe\xfffeTrata de capturar a los seis Pokémon dentro\xfffedel tiempo establecido.
+En ocasiones, un humo rosa cruza el área.\xfffeSi consigues acertar en él, los Pokémon\xfffese dormirán.\xfffe\xfffeAsí conseguirás que dejen de moverse y te\xfffeserá muy fácil capturarlos.

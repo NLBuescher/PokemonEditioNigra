@@ -1,0 +1,43 @@
+Tcheren: Nous sommes désolés d'avoir\xfffecausé ce désordre.\xf000븁\x0000
+Bianca: Euh, euh...\xfffePour le rangement...\xf000븁\x0000
+Maman: Le rangement? Quel rangement?\xf000븁\x0000\xfffeNe vous inquiétez pas, je m'en occuperai\xfffeplus tard!\xf000븁\x0000\xfffeVous ne devriez pas aller voir le\xfffeProfesseur Keteleeria, par contre?\xf000븁\x0000
+Tcheren: Si. Vous avez raison.\xfffeSur ce, veuillez nous excuser.\xf000븁\x0000\xfffeNous ne voudrions pas la faire\xfffeattendre avant de lui présenter\xf000븀\x0000\xfffenos remerciements.\xf000븁\x0000
+Tcheren: Je vous attendrai devant\xfffeson laboratoire.\xf000븁\x0000
+Bianca: Ah, euh...\xfffeMoi, je dois repasser par la maison.\xf000븁\x0000
+On est désolés pour le désordre...\xf000븁\x0000
+Maman: Eh bien, mon bébé!\xf000븁\x0000\xfffeLes combats de Pokémon, c'est quelque\xfffechose!\xf000븁\x0000\xfffeJ'ai entendu vos Pokémon glapir depuis\xfffele rez-de-chaussée.\xf000븁\x0000
+Je m'en souviendrai,\xfffede ce premier combat!\xf000븁\x0000
+Mais j'y pense! Il faut que ton Pokémon\xfffepuisse récupérer!\xf000븁\x0000
+Et voilà! Il est en pleine forme.\xf000븁\x0000\xfffeEt puisque tu sors, n'oublie surtout pas\xfffede prendre ton Vokit!\xf000븁\x0000
+Toi aussi, il faut que tu ailles remercier\xfffele Professeur, n'est-ce pas?\xf000븀\x0000\xfffeAllez, file!
+Maman: Pfiou. Après tout ce ménage,\xfffeune pause s'impose.\xf000븁\x0000\xfffeToi et ton équipe, vous devriez\xfffefaire pareil.\xf000븁\x0000\xfffeUn bon Dresseur ne doit jamais pousser\xfffeses Pokémon au bout de leurs forces!\xf000븁\x0000
+Maman: Et maintenant, tout le monde\xfffedevrait être d'attaque!\xf000븀\x0000\xfffePlus rien ne pourra vous arrêter.
+Maman: Je me demande quelle sera ta\xfffeprochaine étape, et quels Pokémon\xf000븀\x0000\xfffetu rencontreras.
+Maman: Alors mon bébé, comment va\xfffeton équipe Pokémon?\xf000븁\x0000\xfffeVous devriez vous reposer.\xf000븁\x0000\xfffeUn bon Dresseur ne doit jamais pousser\xfffeses Pokémon au bout de leurs forces!\xf000븁\x0000
+Maman: C'est parfait, juste parfait!\xf000븁\x0000\xfffeVous respirez tous la santé!\xf000븁\x0000\xfffeVous êtes prêts à repartir.\xfffeBon voyage!
+Maman: Mon bébé, tu t'occupes bien\xfffede ton équipe Pokémon, n'est-ce pas?\xf000븁\x0000\xfffeCar elle fait tous ces efforts pour toi!\xfffePrends bien soin d'elle.
+Maman: Mais j'y pense...\xf000븁\x0000\xfffeTon père aussi voyageait avec\xfffedes Pokémon, comme toi.\xf000븁\x0000\xfffeEt en chemin, nous nous sommes\xffferencontrés...
+Maman: Alors? Tu as attrapé plein\xfffede Pokémon?\xf000븁\x0000\xfffeC'est bien ce que t'avait demandé\xfffele Professeur, non?
+Maman: Je me demande ce que Tcheren\xfffeet Bianca vont trouver sur leur chemin.\xf000븁\x0000\xfffeSi l'on arrive à découvrir ce à quoi\xfffeon aspire, quel formidable voyage\xf000븀\x0000\xfffecela devient...
+Maman: Bienvenue à la maison,\xfffe\xf000Ā\x0001\x0000. Tout va bien?\xf000븁\x0000\xfffeTu as dû vivre des aventures épuisantes.\xf000븁\x0000\xfffeTu devrais te reposer et faire une\xfffebonne sieste.\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000
+Maman: Eh bien, vous avez\xfffel'air d'aller beaucoup mieux.\xf000븁\x0000\xfffeSi je peux me permettre un conseil...\xf000븁\x0000\xfffeL'énergie d'un Pokémon se mesure\xfffeen PV, ou Points de Vie.\xf000븁\x0000\xfffeSi ton Pokémon perd ses PV, tu\xfffepeux les restaurer en allant\xf000븀\x0000\xfffedans un Centre Pokémon.\xf000븁\x0000\xfffeEt si tu prévois de voyager loin,\xfffen'oublie pas d'acheter des Potions\xf000븀\x0000\xfffedans une Boutique Pokémon.\xf000븁\x0000\xfffeRends-moi fière, mon bébé.\xfffeFais attention à toi!
+Maman: Bienvenue à la maison,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeOn dirait que tu as vécu des aventures\xfffepalpitantes... et épuisantes aussi!\xf000븁\x0000
+“Maman": Vraiment?\xf000븁\x0000\xfffeC'est extrêmement rare d'avoir la chance\xfffede rencontrer deux Pokémon légendaires!\xf000븁\x0000
+Maman: Vous êtes...\xf000븁\x0000
+“Maman": Oh!\xfffeJ'ai oublié d'enlever mon déguisement!\xf000븁\x0000\xfffePardonnez mon impolitesse, et laissez-moi\xfffeme présenter convenablement.\xf000븁\x0000
+Je suis membre de la Police\xfffeInternationale, et je traque les\xf000븀\x0000\xfffebandits à travers le monde entier.\xf000븁\x0000\xfffeMon nom est... Désolé, je ne peux pas le\xfffedévoiler.\xf000븁\x0000\xfffeAppelez-moi par mon nom de code:\xfffeBeladonis!\xf000븁\x0000
+Beladonis: Dans l'ombre d'Unys, une\xfffemalfaisante organisation, la Team\xf000븀\x0000\xfffePlasma, nourrit de sombres desseins.\xf000븁\x0000\xfffeFort de ces informations, je suis venu de\xfffebien loin pour mener mon enquête!\xf000븁\x0000
+Grâce à tes exploits et à ceux des\xfffeChampions d'Arène, le palais de la\xf000븀\x0000\xfffeTeam Plasma est tombé en ruines,\xf000븁\x0000\xfffeet ses membres se sont dispersés dans\xfffela nature, ai-je ouï dire.\xf000븁\x0000
+Mais, pourtant...\xfffeQue dis-je, hélas, plutôt!\xf000븁\x0000\xfffeLes membres connus sous le pseudonyme\xfffedes 7 Sages sont encore tapis\xf000븀\x0000\xfffequelque part dans Unys.\xf000븁\x0000
+Et c'est pourquoi j'ai une requête à\xfffeformuler, que seul un Dresseur\xf000븀\x0000\xfffed'exception comme toi pourrait exaucer.\xf000븁\x0000\xfffeJ'aurais besoin d'aide pour retrouver\xfffeces 7 brigands.\xf000븁\x0000\xfffeIl faudrait que tu parcoures Unys à\xfffeleur recherche.\xf000븁\x0000\xfffeJe compte sur toi, Goyah ne m'a dit que\xfffedes bonnes choses à ton sujet.\xf000븁\x0000\xfffeVeux-tu bien m'aider?
+Ahem!\xf000븁\x0000\xfffeJe répète, donc.\xf000븁\x0000\xfffeIl faudrait que tu parcoures Unys à la\xffferecherche des 7 Sages...\xf000븀\x0000\xfffeS'il te plaît.
+Beladonis: Merci, sincèrement!\xf000븁\x0000\xfffeJ'ai l'impression de m'être fait\xfffeun million d'alliés rien qu'avec toi.\xf000븁\x0000\xfffeEn témoignage de ma gratitude, voici...\xf000븁\x0000
+Maman: Mais on dirait...\xfffeune Méga Canne?\xf000븁\x0000
+Beladonis: C'est exact.\xfffeUne Méga Canne.\xf000븁\x0000
+Maman: Les... 7 Sages...?\xf000븁\x0000\xfffeEt... la Méga Canne... va aider à les\xffferetrouver?\xf000븁\x0000
+Beladonis: \xf000Ā\x0001\x0000, ta maman pose\xfffetoujours d'excellentes questions.\xf000븁\x0000\xfffeJ'aurais dû m'y attendre.\xf000븁\x0000\xfffeAlors, écoutez bien ma réponse.\xf000븁\x0000\xfffeCela n'a AUCUN rapport avec les 7 Sages.\xfffeAbsolument aucun.\xf000븁\x0000
+...
+...
+Maman: Bon...\xf000븁\x0000
+Beladonis: Et maintenant, les\xfffeexplications pour la Méga Canne!\xf000븁\x0000\xfffePour pêcher, tourne-toi vers une\xfffeétendue d'eau, et utilise ta Canne!\xf000븁\x0000\xfffeEnsuite, fixe la surface de l'eau\xfffepour calmer ton esprit.\xf000븁\x0000\xfffeTu sauras tout de suite qu'un Pokémon\xfffea mordu: un point d'exclamation\xf000븀\x0000\xfffeapparaîtra pour te le dire!\xf000븁\x0000\xfffeTire alors sans attendre en\xfffeappuyant sur le bouton A!\xf000븁\x0000\xfffeJe compte sur toi, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Maman: Les gens de la Police\xfffeInternationale sont un peu spéciaux.\xf000븁\x0000\xfffeMais je ne m'inquiète pas.\xf000븁\x0000\xfffeContinue à ton rythme, et je suis\xfffesûre que tout ira bien.\xf000븁\x0000\xfffeTu es déjà presque adulte, n'est-ce pas?

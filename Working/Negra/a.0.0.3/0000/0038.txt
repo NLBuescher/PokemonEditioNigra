@@ -1,0 +1,39 @@
+Mmm... ¡Qué rico!\xfffePero ¡había una cola que para qué!\xf000븁\x0000
+Vengo desde Pueblo Terracota porque\xfffequería probarlos desde hace tiempo.\xf000븁\x0000
+¡Estos helados son superfamosos!\xf000븁\x0000
+¡Está a reventar! Aunque claro, al ser\xfffeuna tienda tan famosa, no me extraña.\xf000븁\x0000
+¡En Ciudad Porcelana no se habla de otra\xfffecosa que no sean estos helados!\xf000븁\x0000\xfffe¿Tú también quieres hacer cola?
+Vaya... ¡Menuda cola!\xf000븁\x0000\xfffePero como seguro que están buenísimos,\xfffemerece la pena, ¿verdad?\xf000븁\x0000
+Vaya... ¡Está a reventar!\xf000븁\x0000\xfffePero, entre tú y yo, te digo que hoy no\xfffehay tanta gente como de costumbre.\xf000븁\x0000\xfffe¡Creo que por fin podré probarlos!\xfffeEs que siempre se agotan, ¿sabes?\xf000븁\x0000
+Estos helados son increíbles. ¡En Ciudad\xfffePorcelana no se habla de otra cosa!\xf000븁\x0000\xfffePero parece que, cuando me ha tocado\xfffea mí, ya se habían agotado.\xf000븁\x0000
+Estos helados son increíbles. ¡En Ciudad\xfffePorcelana no se habla de otra cosa!\xf000븁\x0000\xfffePero parece que me han vendido el último.\xfffeAsí que prueba a venir otro día, ¿vale?\xf000븁\x0000
+Los Porcehelados son la especialidad\xfffede Ciudad Porcelana.\xf000븁\x0000\xfffeCada uno cuesta 100 $. ¿Quieres uno?
+Ah... ¿No vas a comprar ninguno?\xfffePues me los quitan de las manos...
+¡Muchas gracias!\xf000븁\x0000\xfffe¡Tienen muy buena pinta y\xfffeestán riquísimos!\xf000븁\x0000
+¡Muchas gracias!\xf000븁\x0000\xfffeAh... Estooo...\xfffeMe temo que no tienes suficiente dinero.\xf000븀\x0000\xfffeVuelve en otra ocasión.\xf000븁\x0000
+¡Muchas gracias!\xf000븁\x0000\xfffe¡Ah! Estooo...\xfffeParece que tu Bolsa está llena.\xf000븀\x0000\xfffeVuelve en otra ocasión.\xf000븁\x0000
+Es una pena con todo lo que has\xfffeestado esperando...\xf000븁\x0000\xfffePero vuelve pronto, por favor.\xf000븁\x0000
+¡Bueno, bonito y barato!\xf000븁\x0000\xfffe¡Aquí vendemos la especialidad de\xfffeCiudad Porcelana!\xf000븁\x0000\xfffeAunque nuestro jefe siempre cierra\xfffeen invierno...\xf000븁\x0000\xfffe¡Vuelve otra vez cuando haga calor!
+COMPRAR
+SALIR
+Galería Porcelana
+Especialidad: los Porcehelados.\xfffe¡En invierno no los vendemos!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

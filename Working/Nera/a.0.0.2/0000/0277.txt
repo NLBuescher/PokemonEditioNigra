@@ -1,0 +1,107 @@
+
+Immetti i criteri di ricerca.
+
+
+Imposta i criteri di visualizzazione.
+Inserisci l'iniziale del nome.
+Inserisci il tipo.
+Scegli una sagoma.
+Inserisci il colore.
+Ecco i risultati della ricerca!
+Nessun Pokémon risponde a questi criteri...
+Ricerca in corso.
+ORDINA
+NOME
+TIPO
+COLORE
+SAGOMA
+POKÉDEX DI UNIMA: RICERCA
+POKÉDEX NAZIONALE: RICERCA
+
+AVVIA RICERCA
+
+
+
+
+PER NUMERO
+A-Z
+PER PESO ↑
+PER PESO ↓
+PER ALTEZZA ↑
+PER ALTEZZA ↓
+BUIO
+ROCCIA
+PSICO
+LOTTA
+ERBA
+GHIACCIO
+SPETTRO
+TERRA
+ELETTRO
+VELENO
+DRAGO
+NORMALE
+ACCIAIO
+VOLANTE
+FUOCO
+ACQUA
+COLEOTT.
+--------
+/
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+ROSSO
+BLU
+GIALLO
+VERDE
+NERO
+MARRONE
+VIOLA
+GRIGIO
+BIANCO
+ROSA
+--------

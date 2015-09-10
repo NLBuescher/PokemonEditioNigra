@@ -1,0 +1,48 @@
+\xf000봂\x0000CON CHIUNQUE
+\xf000봂\x0000CON ALLENATORI NOTI
+PREFERENZE
+LIVELLO
+MINORE DI 50
+LIVELLO 50
+MAGGIORE DI 50
+QUALSIASI
+FASCINOSI
+CARINI
+SPAVENTOSI
+STRANI
+QUALSIASI
+RICERCA SCAMBIO
+Ricerca di Allenatori disponibili a uno\xfffescambio che rientri nei tuoi parametri...
+ANNULLA
+Ricezione dati in corso.
+La ricerca ha avuto successo!
+CERCA
+Scegli con chi fare lo scambio.
+Scegli i parametri di ricerca che preferisci\xfffee poi tocca CERCA.
+
+
+RICHIESTO
+DA SCAMBIARE
+SÌ
+NO
+PROCEDI
+\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ID: \xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
+Non puoi ancora stabilire un appuntamento.
+Scegli appuntamento.
+Vuoi confermare la tua scelta?
+Decidi come selezionare la controparte\xfffeper lo scambio.
+ANNULLA
+\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+SALUTA
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
+\xf000봂\x0000\xf000Ā\x0001\x0000
+
+Ha inizio lo scambio!
+\xf000봃\x0001\x0001NUMERO SCAMBI
+ORIGINE
+Vuoi scollegarti dalla\xfffeNintendo Wi-Fi Connection?
+Per potere effettuare uno scambio, devi\xfffeavere almeno due Pokémon in squadra.
+CON TUTTI
+Vuoi stabilire un appuntamento con una\xfffecontroparte con cui hai già scambiato?
+さくじょします
+９９ついかします

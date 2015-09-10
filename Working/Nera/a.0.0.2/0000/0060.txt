@@ -1,0 +1,6 @@
+OK
+ESCI
+Devi prima finire di scrivere il Messaggio.
+Vuoi uscire?
+SÌ
+NO

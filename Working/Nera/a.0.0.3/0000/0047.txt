@@ -1,0 +1,378 @@
+
+
+
+\xf000ē\x0001\x0000
+SÌ
+NO
+Quali sono i gusti più diffusi?\xfffeCosa detta la moda?\xf000븁\x0000\xfffeTi incuriosisce saperlo, vero?\xfffeE allora sei nel posto giusto!\xf000븁\x0000\xfffeQuesta è la sede ufficiale\xfffedell'Associazione Sondaggi.\xf000븁\x0000\xfffeIl luogo in cui pecorelle smarrite come\xfffete possono imparare molte cose.\xf000븁\x0000\xfffeTu però hai occhi vispi, che denotano\xfffegrande curiosità intellettuale.\xf000븁\x0000\xfffeIn via del tutto eccezionale, ti nomino\xfffeassistente!\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha ricevuto il titolo di\xfffeassistente dell'Associazione Sondaggi!\xf000븁\x0000
+Il tuo compito è semplice: devi andare in\xfffegiro per la città a fare sondaggi!\xf000븁\x0000\xfffeInnanzitutto riceverai da me l'incarico.\xf000븁\x0000\xfffePoi, sul Radar Sondaggi, dovrai\xfffeselezionare il sondaggio da realizzare.\xf000븁\x0000\xfffeDopodiché dovrai andare in giro a\xfffestabilire contatti con un certo numero\xf000븀\x0000\xfffedi Allenatori.\xf000븁\x0000\xfffeIl Radar Sondaggi registrerà in modo\xfffeautomatico le informazioni, quando\xf000븀\x0000\xffferileverà persone connesse nei paraggi.\xf000븁\x0000\xfffeChiaramente, è previsto anche un\xfffecompenso.\xf000븁\x0000\xfffeAssistente \xf000Ā\x0001\x0001!\xfffeMi aspetto molto da te!\xf000븁\x0000
+Allora, assistente \xf000Ā\x0001\x0001!\xfffeCome procedono i sondaggi?\xf000븁\x0000
+Hai completato tutti gli incarichi.\xf000븁\x0000\xfffeDa ora in poi potrai fare liberamente\xfffericerche su tutto ciò che ti interessa.
+Che cosa vuoi fare oggi?
+Ricevere un incarico
+Fare il resoconto
+Come non detto!
+Verificare l'incarico in corso
+Vuoi un incarico? Ti accontento subito!\xfffeInnanzitutto scegli il tipo di sondaggio.
+Sondaggio a tempo
+Sondaggio a numero
+Esci
+Un sondaggio a tempo? Benissimo.\xf000븁\x0000\xfffeDevi raccogliere i dati richiesti entro un\xfffecerto tempo limite.\xf000븁\x0000
+Un sondaggio a numero? Benissimo.\xf000븁\x0000\xfffeDevi raccogliere i dati riguardanti un\xfffecerto numero di persone.\xf000븁\x0000
+E ora scegli il sondaggio specifico.
+Va bene.\xf000븁\x0000\xfffeQuando vuoi un incarico, vieni a parlare\xfffecon me.
+Hai già accettato un incarico!\xfffeTi stai impegnando nella raccolta dati?\xf000븀\x0000\xfffeIn bocca al lupo, allora!\xf000븁\x0000\xfffeO per caso...\xf000븁\x0000\xfffeVuoi rinunciare al sondaggio in corso?
+In tal caso, perderai i dati raccolti\xfffefinora per il sondaggio in corso.\xf000븀\x0000\xfffeVuoi davvero rinunciare all'incarico?
+Va bene...\xf000븁\x0000\xfffeTorna a parlare con me quando vuoi che\xfffeti affidi un incarico.
+Allora continua a darti da fare!
+Pokémon Nero o Pokémon Bianco?
+Il tuo primo Pokémon
+Tempo totale di gioco
+Più ragazzi o ragazze?
+Il lavoro più diffuso
+Il passatempo più diffuso
+Lotte o scambi?
+Pokémon preferiti
+Tipo di Pokémon preferito
+Città o campagna?
+La cosa più importante
+Da dove nasce il fascino?
+La stagione preferita
+Il valore dell'arte
+La musica preferita
+Il cinema e la TV
+L'ora preferita a scuola
+Lo studio
+Lo sport più popolare
+Le vacanze
+Chi vuoi diventare?
+Il Capopalestra più popolare
+Che cosa appassiona dei Pokémon?
+Esci
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffedue ore e scoprire se è più diffuso\xf000븀\x0000\xfffePokémon Nero o Pokémon Bianco.\xf000븁\x0000\xfffeSai, mi interessa saperlo perché ho\xfffedeciso di iniziare a giocare anch'io.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un professore di\xfffePokémon.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffedue ore e scoprire qual è stato il primo\xf000븀\x0000\xfffePokémon scelto dalla maggioranza.\xf000븁\x0000\xfffePare che il risultato di questo sondaggio\xfffesarà utile a fini accademici.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da una madre.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffequattro ore e scoprire il tempo massimo\xf000븀\x0000\xfffedi gioco realizzato finora.\xf000븁\x0000\xfffePare che la donna voglia confrontare\xfffei dati con il tempo che il figlio passa\xf000븀\x0000\xfffea giocare.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un giornale.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffequattro ore e scoprire se ci sono più\xf000븀\x0000\xffferagazze o ragazzi.\xf000븁\x0000\xfffeIl risultato sarà pubblicato sull'edizione\xfffedi domani.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un giornalista.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffequattro ore e scoprire qual è il lavoro\xf000븀\x0000\xfffepiù diffuso.\xf000븁\x0000\xfffeI dati raccolti saranno utili per\xfffela stesura di un articolo speciale\xf000븀\x0000\xfffesu una rivista.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un'agenzia di\xfffeattività ricreative.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffequattro ore e scoprire quale passatempo\xf000븀\x0000\xfffepreferisce la maggioranza.\xf000븁\x0000\xfffeL'agenzia si baserà su questi dati per\xfffeprogrammare le attività future.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffeotto ore e scoprire se sono più popolari\xf000븀\x0000\xfffele lotte o gli scambi.\xf000븁\x0000\xfffeUltimamente non faccio altro che giocare,\xfffee vorrei sapere che strategie adottano\xf000븀\x0000\xfffegli altri giocatori.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da una bambina.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffeotto ore e scoprire qual è il Pokémon più\xf000븀\x0000\xfffepopolare.\xf000븁\x0000\xfffePare che questa bambina voglia usare\xfffeil risultato per svolgere un compito.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un Allenatore.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffeotto ore e scoprire qual è il tipo di\xf000븀\x0000\xfffePokémon più popolare.\xf000븁\x0000\xfffeSembra che il risultato sarà utile per\xfffeelaborare tattiche di lotta.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un agente\xfffeimmobiliare.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffeotto ore e scoprire se la maggioranza\xf000븀\x0000\xfffepreferisce vivere in città o in campagna.\xf000븁\x0000\xfffeIl risultato potrà aiutare l'agente nel\xfffesuo lavoro.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe12 ore e scoprire se la gente desidera\xf000븀\x0000\xfffeavere più tempo o più soldi.\xf000븁\x0000\xfffeInoltre, vorrei anche che chiedessi\xfffein giro qual è la cosa più importante\xf000븀\x0000\xfffeper le persone.\xf000븁\x0000\xfffeMi interessa sapere come la pensano\xfffegli altri...\xf000븁\x0000\xfffeEh? Perché lo voglio sapere?\xfffeQuesto non posso dirtelo!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe12 ore e scoprire se attirano di più le\xf000븀\x0000\xfffepersone intelligenti o quelle sportive.\xf000븁\x0000\xfffeSe conta di più l'aspetto o il carattere.\xf000븁\x0000\xfffeE voglio sapere che tipo di persona ha più\xfffesuccesso tra la gente.\xf000븁\x0000\xfffeEh? Perché ci tengo tanto a saperlo?\xf000븁\x0000\xfffeCosì, per curiosità...\xfffeTu non preoccuparti!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe12 ore e scoprire la stagione e il sapore\xf000븀\x0000\xfffepreferiti dalla maggioranza.\xf000븁\x0000\xfffeÈ bello preparare dei piatti appetitosi\xfffein sintonia con la stagione, non trovi?\xf000븁\x0000\xfffeEh? Per chi li voglio preparare?\xfffeQuesto non posso dirtelo!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un artista.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe12 ore e scoprire il colore e la musica\xf000븀\x0000\xfffepreferiti dalla maggioranza.\xf000븁\x0000\xfffeSembra che questo artista voglia basarsi\xfffesul risultato per la sua nuova opera.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un cantante.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe16 ore e scoprire qual è il genere di\xf000븀\x0000\xfffemusica preferito dalla maggioranza.\xf000븁\x0000\xfffeIl risultato sarà utile al cantante per\xfffecomporre una nuova canzone.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe16 ore e scoprire il genere di film e di\xf000븀\x0000\xfffeprogramma TV preferiti dalla maggioranza.\xf000븁\x0000\xfffeVoglio conoscere cosa va di moda per\xfffeessere sempre in grado di sostenere\xf000븀\x0000\xfffeconversazioni brillanti.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da uno studente.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe16 ore e scoprire qual è l'ora preferita\xf000븀\x0000\xfffea scuola dalla maggioranza.\xf000븁\x0000\xfffeIl risultato lo aiuterà a capire come si\xfffesvolge la vita all'interno della scuola.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un insegnante.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe16 ore e scoprire la materia di studio\xf000븀\x0000\xfffeche la maggioranza ama o detesta.\xf000븁\x0000\xfffeIl risultato darà un valido contributo\xfffeall'organizzazione delle lezioni.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un atleta.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe20 ore e scoprire qual è lo sport\xf000븀\x0000\xfffepreferito dalla maggioranza.\xf000븁\x0000\xfffeL'atleta pensa di basarsi sul risultato\xfffedel sondaggio per decidere la sua futura\xf000븀\x0000\xfffecarriera.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe20 ore e scoprire qual è il luogo dove\xf000븀\x0000\xfffela gente si diverte di più e come passa\xf000븀\x0000\xfffele vacanze.\xf000븁\x0000\xfffeSai, il prossimo fine settimana esco con\xfffeun'amica.\xf000븁\x0000\xfffePer questo voglio essere informatissimo\xfffesui luoghi più in voga.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un patito di\xfffePokémon.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe20 ore e scoprire quale personaggio\xf000븀\x0000\xfffela maggioranza ambisce diventare.\xf000븁\x0000\xfffeIl risultato sarà usato per la campagna\xfffepubblicitaria sui Pokémon.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un Capopalestra.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe24 ore e scoprire chi è il Capopalestra\xf000븀\x0000\xfffepiù popolare.\xf000븁\x0000\xfffeIl risultato sarà utile al richiedente per\xffferiorganizzare la sua Palestra.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe24 ore e scoprire quale aspetto dei\xf000븀\x0000\xfffePokémon interessa di più.\xf000븁\x0000\xfffeL'età matura ci fa capire molte cose.\xf000븁\x0000\xfffeE io ho capito che da ora in poi voglio\xfffededicare la mia vita ai Pokémon!\xf000븁\x0000\xfffeCon le mie ricerche, mostrerò al mondo\xfffeil fascino dei Pokémon!\xf000븁\x0000
+Cosa?\xf000븁\x0000\xfffeHai già stabilito contatti con così tante\xfffepersone?!\xf000븁\x0000\xfffeComplimenti, \xf000Ā\x0001\x0001!\xfffeQuesti dati sono più che sufficienti.\xf000븁\x0000\xfffeOra devi solo farmi il resoconto del\xfffesondaggio!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno cinque persone e scoprire se è più\xf000븀\x0000\xfffediffuso Pokémon Nero o Pokémon Bianco.\xf000븁\x0000\xfffeSai, mi interessa saperlo perché ho\xfffedeciso di iniziare a giocare anch'io.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un professore di\xfffePokémon.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno cinque persone e scoprire quale\xf000븀\x0000\xfffePokémon hanno scelto all'inizio.\xf000븁\x0000\xfffePare che questo sondaggio sarà utile\xfffea fini accademici.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da una madre.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno dieci persone e scoprire il loro\xf000븀\x0000\xfffetempo massimo di gioco realizzato finora.\xf000븁\x0000\xfffePare che la donna voglia confrontare\xfffei dati con il tempo che il figlio passa\xf000븀\x0000\xfffea giocare.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un giornale.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno dieci persone e scoprire se ci\xf000븀\x0000\xfffesono più ragazze o ragazzi.\xf000븁\x0000\xfffeIl risultato sarà pubblicato sull'edizione\xfffedi domani.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un giornalista.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno dieci persone e scoprire qual è\xf000븀\x0000\xfffeil lavoro più diffuso.\xf000븁\x0000\xfffeI dati raccolti saranno utili per\xfffela stesura di un articolo speciale\xf000븀\x0000\xfffesu una rivista.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un'agenzia di\xfffeattività ricreative.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno dieci persone e scoprire qual è\xf000븀\x0000\xfffeil loro passatempo preferito.\xf000븁\x0000\xfffeL'agenzia si baserà su questi dati per\xfffeprogrammare le attività future.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 20 persone e scoprire se sono più\xf000븀\x0000\xfffepopolari le lotte o gli scambi.\xf000븁\x0000\xfffeUltimamente non faccio altro che giocare\xfffee vorrei sapere quali strategie adottano\xf000븀\x0000\xfffegli altri giocatori.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da una bambina.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 20 persone e scoprire qual è\xf000븀\x0000\xfffeil Pokémon più popolare.\xf000븁\x0000\xfffePare che questa bambina voglia usare\xfffeil risultato per svolgere un compito.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un Allenatore.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 20 persone e scoprire quale tipo\xf000븀\x0000\xfffedi Pokémon è più popolare.\xf000븁\x0000\xfffeSembra che il risultato sarà utile per\xfffeelaborare tattiche di lotta.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un agente\xfffeimmobiliare.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 20 persone e scoprire se\xf000븀\x0000\xfffepreferiscono vivere in città o in\xf000븀\x0000\xfffecampagna.\xf000븁\x0000\xfffeIl risultato potrà aiutare l'agente nel\xfffesuo lavoro.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni per almeno\xfffe30 ore e scoprire se la gente desidera\xf000븀\x0000\xfffeavere più tempo o più soldi.\xf000븁\x0000\xfffeInoltre, vorrei anche che chiedessi\xfffein giro qual è la cosa più importante\xf000븀\x0000\xfffeper le persone.\xf000븁\x0000\xfffeMi interessa sapere come la pensano\xfffegli altri...\xf000븁\x0000\xfffeEh? Perché lo voglio sapere?\xfffeQuesto non posso dirtelo!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 30 persone e scoprire se attirano\xf000븀\x0000\xfffedi più le persone intelligenti o quelle\xf000븀\x0000\xfffesportive.\xf000븁\x0000\xfffeSe conta di più l'aspetto o il carattere.\xf000븁\x0000\xfffeE voglio sapere che tipo di persona ha più\xfffesuccesso tra la gente.\xf000븁\x0000\xfffeEh? Perché ci tengo tanto a saperlo?\xf000븁\x0000\xfffeCosì, semplice curiosità...\xfffeE poi non sono affari tuoi!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 30 persone e scoprire la stagione\xf000븀\x0000\xfffee il sapore preferiti dalla maggioranza.\xf000븁\x0000\xfffeÈ bello preparare dei piatti appetitosi\xfffein sintonia con la stagione, non trovi?\xf000븁\x0000\xfffeEh? Per chi li voglio preparare?\xfffeQuesto non posso dirtelo!\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un artista.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 30 persone e scoprire il colore e\xf000븀\x0000\xfffela musica preferiti dalla maggioranza.\xf000븁\x0000\xfffeSembra che questo artista voglia basarsi\xfffesul risultato per la sua nuova opera.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un cantante.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 40 persone e scoprire qual è\xf000븀\x0000\xfffeil loro tipo di musica preferito.\xf000븁\x0000\xfffeIl risultato sarà utile al cantante per\xfffecomporre una nuova canzone.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 40 persone e scoprire il tipo di\xf000븀\x0000\xfffefilm e di programma TV preferiti dalla\xf000븀\x0000\xfffemaggioranza.\xf000븁\x0000\xfffeVoglio conoscere cosa va di moda per\xfffeessere sempre in grado di sostenere\xf000븀\x0000\xfffeconversazioni brillanti.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da uno studente.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 40 persone e scoprire qual è l'ora\xf000븀\x0000\xfffepreferita a scuola.\xf000븁\x0000\xfffeIl risultato lo aiuterà a capire come si\xfffesvolge la vita all'interno della scuola.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un insegnante.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 40 persone e scoprire quale\xf000븀\x0000\xfffemateria di studio amano o detestano.\xf000븁\x0000\xfffeIl risultato darà un valido contributo\xfffeall'organizzazione delle lezioni.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un atleta.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 50 persone e scoprire qual è\xf000븀\x0000\xfffeil loro sport preferito.\xf000븁\x0000\xfffeL'atleta pensa di basarsi sul risultato\xfffedel sondaggio per decidere la sua futura\xf000븀\x0000\xfffecarriera.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 50 persone e scoprire qual è\xf000븀\x0000\xfffeil luogo dove si divertono di più e come\xf000븀\x0000\xfffepassano le vacanze.\xf000븁\x0000\xfffeSai, il prossimo fine settimana esco con\xfffeun'amica.\xf000븁\x0000\xfffePer questo voglio essere informatissimo\xfffesui luoghi più in voga.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un patito di\xfffePokémon.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 50 persone e scoprire chi\xf000븀\x0000\xfffevorrebbero diventare.\xf000븁\x0000\xfffeIl risultato sarà usato per la campagna\xfffepubblicitaria sui Pokémon.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeÈ stato richiesto da un Capopalestra.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 100 persone e scoprire chi è\xf000븀\x0000\xfffeil Capopalestra più popolare.\xf000븁\x0000\xfffeIl risultato sarà utile al richiedente per\xffferiorganizzare la sua Palestra.\xf000븁\x0000
+Questo sondaggio...\xf000븁\x0000\xfffeSono stato io stesso a richiederlo.\xf000븁\x0000\xfffeDevi raccogliere informazioni contattando\xfffealmeno 100 persone e scoprire quale\xf000븀\x0000\xfffeaspetto dei Pokémon interessa di più.\xf000븁\x0000\xfffeL'età matura ci fa capire molte cose.\xf000븁\x0000\xfffeE io ho capito che da ora in poi voglio\xfffededicare la mia vita ai Pokémon!\xf000븁\x0000\xfffeCon le mie ricerche, mostrerò al mondo\xfffeil fascino dei Pokémon!\xf000븁\x0000
+Dunque...\xf000븁\x0000\xfffeHai già raccolto tutti i dati necessari\xfffeper questo sondaggio!\xf000븁\x0000\xfffeHai davvero la stoffa dell'assistente,\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeE ora non ti resta che farmi il resoconto!\xf000븁\x0000
+Accetti l'incarico?
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Pokémon Nero o Pokémon Bianco?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il tuo primo Pokémon".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Tempo totale di gioco".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Più ragazzi o ragazze?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il lavoro più diffuso".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il passatempo più diffuso".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Lotte o scambi?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Pokémon preferiti".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Tipo di Pokémon preferito".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Città o campagna?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“La cosa più importante".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Da dove nasce il fascino?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“La stagione preferita".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il valore dell'arte".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“La musica preferita".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il cinema e la TV".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“L'ora preferita a scuola".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Lo studio".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Lo sport più popolare".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Le vacanze".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Chi vuoi diventare?".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Il Capopalestra più popolare".\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha accettato di condurre\xfffeil seguente sondaggio:\xf000븀\x0000\xfffe“Che cosa appassiona dei Pokémon?".\xf000븁\x0000
+Quando finisci il sondaggio, vieni a farmi\xfffeil resoconto.
+Quando finisci il sondaggio, vieni a\xfffefarmi il resoconto.\xf000븁\x0000
+Vuoi fare un altro sondaggio?
+Vedo che hai completato il sondaggio.\xfffeAllora, puoi farmi il resoconto.\xf000븁\x0000
+Non hai ancora finito il sondaggio:\xfffe“Pokémon Nero o Pokémon Bianco?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il tuo primo Pokémon".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tempo totale di gioco".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Più ragazzi o ragazze?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il lavoro più diffuso".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il passatempo più diffuso".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lotte o scambi?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Pokémon preferiti".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tipo di Pokémon preferito".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Città o campagna?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La cosa più importante".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Da dove nasce il fascino?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La stagione preferita".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il valore dell'arte".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La musica preferita".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il cinema e la TV".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“L'ora preferita a scuola".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo studio".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo sport più popolare".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Le vacanze".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Chi vuoi diventare?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il Capopalestra più popolare".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Che cosa appassiona dei Pokémon?".\xf000븁\x0000\xfffeVediamo un po' quante ore ti mancano...\xfffeEcco, ancora \xf000ȁ\x0001\x0002.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Pokémon Nero o Pokémon Bianco?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il tuo primo Pokémon".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tempo totale di gioco".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Più ragazzi o ragazze?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il lavoro più diffuso".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il passatempo più diffuso".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lotte o scambi?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Pokémon preferiti".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tipo di Pokémon preferito".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Città o campagna?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La cosa più importante".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Da dove nasce il fascino?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La stagione preferita".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il valore dell'arte".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La musica preferita".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il cinema e la TV".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“L'ora preferita a scuola".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo studio".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo sport più popolare".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Le vacanze".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Chi vuoi diventare?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il Capopalestra più popolare".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Che cosa appassiona dei Pokémon?".\xf000븁\x0000\xfffeDevi contattare almeno una persona.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Pokémon Nero o Pokémon Bianco?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il tuo primo Pokémon".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tempo totale di gioco".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Più ragazzi o ragazze?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il lavoro più diffuso".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il passatempo più diffuso".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lotte o scambi?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Pokémon preferiti".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Tipo di Pokémon preferito".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Città o campagna?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La cosa più importante".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Da dove nasce il fascino?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La stagione preferita".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il valore dell'arte".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“La musica preferita".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il cinema e la TV".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“L'ora preferita a scuola".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo studio".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Lo sport più popolare".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Le vacanze".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Chi vuoi diventare?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Il Capopalestra più popolare".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora finito il sondaggio:\xfffe“Che cosa appassiona dei Pokémon?".\xf000븁\x0000\xfffeVediamo un po' quante persone devi\xfffeancora contattare. Ecco, ancora \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffeMetticela tutta per portare a termine\xfffeil tuo incarico!\xf000븁\x0000\xfffeO per caso vuoi rinunciare al sondaggio\xfffein corso?
+Non hai ancora ricevuto nessun incarico.\xf000븁\x0000\xfffeQuando vuoi fare un sondaggio, vieni a\xfffedirmelo.
+Hai fatto il resoconto del sondaggio:\xfffe“Pokémon Nero o Pokémon Bianco?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il tuo primo Pokémon".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Tempo totale di gioco".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Più ragazzi o ragazze?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il lavoro più diffuso".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il passatempo più diffuso".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Lotte o scambi?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Pokémon preferiti".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Tipo di Pokémon preferito".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Città o campagna?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“La cosa più importante".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Da dove nasce il fascino?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“La stagione preferita".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il valore dell'arte".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“La musica preferita".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il cinema e la TV".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“L'ora preferita a scuola".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Lo studio".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Lo sport più popolare".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Le vacanze".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Chi vuoi diventare?".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Il Capopalestra più popolare".\xf000븁\x0000
+Hai fatto il resoconto del sondaggio:\xfffe“Che cosa appassiona dei Pokémon?".\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeTra Pokémon Nero e Pokémon Bianco, è più\xfffediffuso Pokémon \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeMa sono più indeciso di prima perché\xfffesembra divertente giocare con entrambi!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl Pokémon maggiormente scelto\xfffeall'inizio è \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeNon l'avrei mai detto. Beh, proprio\xfffequesto è il bello dei sondaggi!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl tempo massimo di gioco è in media\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeÈ bello sapere che ci sono persone che\xfffesi divertono a giocare così a lungo!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeTra ragazzi e ragazze, la maggioranza\xfffesono \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeTutti, però, possono divertirsi a giocare\xfffecon i Pokémon!\xf000븁\x0000\xfffeSpero che tutti passino dei momenti\xfffemeravigliosi in loro compagnia!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl lavoro più diffuso è quello di\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffePare che a giocare con i Pokémon ci\xfffesiano persone di tante professioni\xf000븀\x0000\xfffediverse!\xf000븁\x0000\xfffeÈ una cosa davvero splendida!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl passatempo più diffuso è\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeÈ bello che ci siano così tanti hobby\xfffediversi.\xf000븁\x0000\xfffeConoscendo quelli degli altri, si possono\xfffeallargare i propri orizzonti.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeTra lotte e scambi, si fanno più\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffePoter ricorrere a strategie di gioco\xfffevarie è proprio il bello dei Pokémon.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeI Pokémon più popolari sono quelli\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeComunque esistono tantissimi Pokémon e\xfffesi possono fare sempre nuovi incontri!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl tipo di Pokémon più popolare è\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeSarà un'informazione utile per chi\xfffeama lottare.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeTra città e campagna, la maggioranza\xfffepreferisce la \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeSi dice che a ogni uccello il suo nido\xfffeè bello, ma è difficile decidere dove\xf000븀\x0000\xfffesia meglio vivere.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeTra tempo e soldi, la maggioranza\xfffepreferisce avere \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeE per quanto riguarda il sondaggio sulla\xfffecosa più importante, la maggioranza ha\xf000븀\x0000\xffferisposto: \xf000ē\x0001\x0001.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeNon bisogna mai dimenticare quello che\xfffeper noi conta veramente.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLa gente preferisce avere amici\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeE tra aspetto e carattere, la scelta\xfffeè andata su \xf000ē\x0001\x0001.\xf000븁\x0000\xfffeInoltre, le persone \xf000ē\x0001\x0002 sono\xfffequelle preferite dalla maggioranza.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeSecondo me, ogni persona ha il suo\xfffeproprio fascino.\xf000븁\x0000\xfffeNon capisco proprio perché la gente non\xfffesi sia ancora accorta del mio...\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLa stagione preferita dalla maggioranza\xfffeè: \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeIl sapore preferito invece è:\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeCol tempo scoprirai che i sapori cambiano\xfffein base alle stagioni.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffe\xf000ē\x0001\x0000 è il colore preferito dalla\xfffemaggioranza.\xf000븁\x0000\xfffe\xf000ē\x0001\x0001 è il tipo di musica che la\xfffegente predilige.\xf000븁\x0000\xfffeNon sempre le cose più di moda sono\xfffele migliori.\xf000븁\x0000\xfffeBisogna considerare anche l'importanza\xfffedel gusto di ognuno.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLa musica preferita dalla maggioranza è\xfffela musica \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeQualunque sia il genere, è bello rilassarsi\xfffeascoltando la musica.\xf000븁\x0000\xfffeTerrò in considerazione questo\xfffesondaggio.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIn TV la maggioranza preferisce guardare\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeInvece i film preferiti sono quelli\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeCosì potrò fare sfoggio delle mie\xfffeconoscenze.\xf000븁\x0000\xfffeNon vedo l'ora di incontrare la mia amica!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLe ore preferite a scuola sono quelle\xfffedi \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeChe bei tempi erano quelli della scuola...\xf000븁\x0000\xfffeIl periodo più felice della mia vita!\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLa materia preferita dalla maggioranza\xfffeè \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeE invece la materia più odiata è\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffePer diventare una persona matura,\xfffebisogna conciliare divertimento e studio.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeLo sport preferito dalla maggioranza è:\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeFare sport è molto importante per\xfffemantenersi in forma.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeDurante le vacanze la gente preferisce\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeE la maggior parte si diverte di più\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffeLo terrò a mente per organizzare\xfffeun bel fine settimana.\xf000븁\x0000\xfffeCon chi? Questo è un segreto.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeAlla maggior parte delle persone\xfffepiacerebbe essere un \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeLe aspirazioni sono molto importanti,\xfffema innanzitutto bisogna avere fiducia\xf000븀\x0000\xfffein se stessi.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeIl Capopalestra più popolare è\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeIl Capopalestra è una figura amata da\xfffeogni bambino.\xf000븁\x0000\xfffeE secondo me, ogni Capopalestra ha il suo\xfffefascino peculiare.\xf000븁\x0000
+Ah, interessante...\xf000븁\x0000\xfffeQuel che attira di più i fan sono\xfffe\xf000ē\x0001\x0000 .\xf000븁\x0000\xfffeLo terrò a mente.\xf000븁\x0000\xfffeCi si può divertire in tanti modi diversi\xfffeassieme ai Pokémon.\xf000븁\x0000\xfffeGiocare diventa un piacere infinito!\xf000븁\x0000
+Un sondaggio impeccabile!\xf000븁\x0000\xfffeHo fatto bene ad avere fiducia nelle\xfffetue capacità, assistente \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeE questa è la tua ricompensa!\xf000븁\x0000
+Il tuo impegno mi sorprende ogni giorno\xfffedi più.\xf000븁\x0000\xfffeMeriti una promozione! Da oggi ti nomino\xfffeassistente di rango B!\xf000븁\x0000
+Il tuo impegno mi sorprende ogni giorno\xfffedi più.\xf000븁\x0000\xfffeMeriti una promozione! Da oggi ti nomino\xfffeassistente di rango A!\xf000븁\x0000
+Il tuo impegno mi sorprende ogni giorno\xfffedi più.\xf000븁\x0000\xfffeMeriti una promozione! Da oggi ti nomino\xfffeassistente di rango A+!\xf000븁\x0000
+Il tuo impegno mi sorprende ogni giorno\xfffedi più.\xf000븁\x0000\xfffeMeriti una promozione! Da oggi ti nomino\xfffeassistente di rango A++!\xf000븁\x0000
+L'assistente \xf000Ā\x0001\x0001 ha ottenuto\xfffeil rango B!\xf000븁\x0000
+L'assistente \xf000Ā\x0001\x0001 ha ottenuto\xfffeil rango A!\xf000븁\x0000
+L'assistente \xf000Ā\x0001\x0001 ha ottenuto\xfffeil rango A+!\xf000븁\x0000
+L'assistente \xf000Ā\x0001\x0001 ha ottenuto\xfffeil rango A++!\xf000븁\x0000
+Devi impegnarti per arrivare al rango B.\xfffeVediamo un po', quanti sondaggi ti\xf000븀\x0000\xfffeservono ancora... Ah, \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Impegnati per arrivare al rango A!\xfffeI sondaggi ancora necessari sono: \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Impegnati per arrivare al rango A+!\xfffeI sondaggi ancora necessari sono: \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Impegnati per arrivare al rango A++!\xfffeI sondaggi ancora necessari sono: \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Assistente \xf000Ā\x0001\x0001! Conto su di te\xfffeanche per il prossimo sondaggio!
+E con questo sono finite tutte\xfffele richieste di sondaggio.\xf000븁\x0000\xfffeComplimenti, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeSono profondamente commosso!\xf000븁\x0000\xfffeAccetta questo premio come segno\xfffedella mia ammirazione.\xf000븁\x0000
+Da ora in poi, soddisfa pure liberamente\xfffeogni tua curiosità!\xf000븁\x0000\xfffeSono sicuro che continuerai a farti\xfffeonore!
+Ho capito... Beh, quando hai tempo,\xfffepassa a trovarmi. Mi fa piacere vederti!
+Salve, questa è la sede dell'Associazione\xfffeSondaggi.\xf000븁\x0000\xfffeSe anche tu vuoi darci una mano, va' a\xfffeparlare con il capo.
+Ciao, assistente \xf000Ā\x0001\x0001!\xfffeTutto bene con i sondaggi?\xf000븁\x0000
+Senti, visto che hai ricevuto la nomina\xfffedi assistente...\xf000븁\x0000
+Avrei un favore da chiederti.\xf000븁\x0000\xfffeHo preparato dei questionari da\xfffesottoporre agli assistenti.\xf000븁\x0000\xfffeSpero che anche tu vorrai rispondere\xfffealle mie domande!\xf000븁\x0000
+Avrei un altro questionario da\xfffesottoporti... Ti va di rispondere?
+Peccato.\xf000븁\x0000\xfffeSe cambi idea, vieni qui a parlarmi.
+Mmh? Hai già risposto a tutti i miei\xfffequestionari.\xf000븁\x0000\xfffeVuoi che ti ripeta da capo le domande\xfffeper cambiare le tue risposte?
+Allora scegli un questionario.
+CURRICULUM
+POKÉMON PREFERITI
+ASPIRAZIONI
+AMICI IDEALI
+GUSTI
+PASSATEMPI
+VITA SCOLASTICA
+DIVERTIMENTI
+MONDO DEI POKÉMON
+Va bene questo questionario?
+Puoi rispondere allo stesso questionario\xfffequante volte vuoi e cambiare le risposte.
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSul “Curriculum".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSui “Pokémon preferiti".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSulle “Aspirazioni".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSugli “Amici ideali".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSui “Gusti".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSui “Passatempi".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSulla “Vita scolastica".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSui “Divertimenti".\xf000븁\x0000
+Allora, cominciamo.\xfffeEcco a te il questionario...\xf000븁\x0000\xfffeSul “Mondo dei Pokémon".\xf000븁\x0000
+Qual è il tuo passatempo preferito?
+Preferisci le lotte o gli scambi?
+Vorresti vivere in città o in campagna?
+I tuoi amici ideali come devono essere?
+Qual è la tua stagione preferita?
+Che genere di musica preferisci?
+Qual è l'ora che preferisci a scuola?
+Dove ti diverti di più?
+Che cosa ti attira di più dei Pokémon?
+Che lavoro fai?
+Che Pokémon preferisci?
+Che cosa desideri di più?
+Che cosa ti attira di più in una persona?
+Che sapore preferisci?
+Che genere di programma preferisci?
+Qual è la tua materia preferita?
+Che cosa ti piace fare nel tempo libero?
+Chi vorresti essere?
+
+Che tipo di Pokémon preferisci?
+Che cos'è più importante per te?
+Che tipo di persone preferisci?
+Qual è il tuo colore preferito?
+Che genere di film preferisci?
+Qual è la materia che detesti?
+Qual è il tuo sport preferito?
+Chi è il tuo Capopalestra preferito?
+Bene, bene...\xf000븁\x0000\xfffeAndiamo avanti...\xf000븁\x0000
+Bene, bene...\xf000븁\x0000\xfffeEra l'ultima domanda!\xf000븁\x0000\xfffeGrazie, è stato un piacere.\xf000븁\x0000
+Ah, tieni! Ti do una copia del\xfffequestionario.\xf000븁\x0000
+Il sondaggio sul “Curriculum" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sui “Pokémon preferiti"\xfffeè stato aggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sulle “Aspirazioni" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sugli “Amici ideali" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sui “Gusti" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sui “Passatempi" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sulla “Vita scolastica"\xfffeè stato aggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sui “Divertimenti" è stato\xfffeaggiunto al Radar Sondaggi!\xf000븁\x0000
+Il sondaggio sul “Mondo dei Pokémon" è\xfffestato aggiunto al Radar Sondaggi!\xf000븁\x0000
+E questo pensierino è per ringraziarti\xfffedella tua disponibilità.\xf000븁\x0000
+Hai risposto a tutti i questionari.\xf000븁\x0000\xfffeOra ti conosco un po' meglio e la cosa\xfffemi fa molto piacere!\xf000븁\x0000
+Puoi rispondere allo stesso questionario\xfffequante volte vuoi e cambiare le risposte.
+Vediamo un po'! Quanti questionari ti\xfffemancano? Ancora \xf000Ȁ\x0001\x0001!\xf000븁\x0000
+Quando hai voglia di rispondere agli altri\xfffequestionari, vieni qui a dirmelo.
+Visto che ci sei, vuoi fare anche un altro\xfffequestionario?
+Salve! Salutarsi è una cosa molto\xfffeimportante, vero?\xf000븁\x0000
+Senti, mi diresti qual è il tuo saluto\xfffepreferito?
+Senti, se ti va, mi insegneresti uno dei\xfffetuoi saluti preferiti?
+Salve!
+Alla prossima, allora.\xf000븁\x0000\xfffeScambiarsi un bel saluto risolleva\xfffelo spirito!
+Che bel saluto! Fa sentire subito meglio!\xf000븁\x0000\xfffeQuando ne hai voglia, vieni ancora a\xfffeinsegnarmi i tuoi saluti preferiti!
+Ciao! È bello ricevere ringraziamenti, no?\xfffeAllora è importante saper ringraziare\xf000븀\x0000\xfffea nostra volta!\xf000븁\x0000
+Oh, hai perso una Poké Ball.\xfffeEccola, prendi.\xf000븁\x0000
+\xf000Ā\x0001\x0001 ha ricevuto la Poké Ball\xfffeche era caduta dalla Borsa.\xf000븁\x0000
+...\xf000븁\x0000\xfffeEhi, non mi dici neanche grazie?!\xf000븁\x0000\xfffeBisogna sempre ringraziare le persone\xfffeche ci fanno un favore, no?\xf000븁\x0000\xfffeAllora, mi diresti con quali parole\xffferingrazi di solito?
+Se ti va, mi dici come esprimi di solito\xfffela tua gratitudine?
+Grazie!
+Come vuoi. Sarà per la prossima volta.\xf000븁\x0000\xfffeNon dimenticare di esprimere gratitudine!
+Che bella espressione!\xfffeTrasmette calore umano!\xf000븁\x0000\xfffeQuando ti fanno un favore, ricambia\xfffesempre con parole di gratitudine!\xf000븁\x0000\xfffeSaper esprimere i propri sentimenti\xfffeè una cosa molto importante.
+Conosci i vari ranghi degli assistenti?\xf000븁\x0000\xfffePiù sondaggi porti a compimento e più\xfffeil rango aumenta!\xf000븁\x0000\xfffeCon il rango, cresce anche la fiducia\xfffeche i superiori ripongono in te.\xf000븁\x0000\xfffeDi conseguenza ti affidano sondaggi\xfffeche prevedono ricompense migliori!
+\xf000Ā\x0001\x0001, a che rango sei?\xf000븁\x0000\xfffeAh, sei Assistente di rango B!\xf000븁\x0000\xfffeVedo che ti dai da fare.\xf000븁\x0000\xfffeQuando il rango aumenta, ti vengono\xfffeassegnati nuovi incarichi. Ti conviene\xf000븀\x0000\xfffeandare a parlare con il capo.
+\xf000Ā\x0001\x0001, a che rango sei?\xf000븁\x0000\xfffeAh, sei Assistente di rango A!\xf000븁\x0000\xfffeSei già così in alto, incredibile!\xfffeAnch'io devo darmi da fare!\xf000븁\x0000\xfffeI sondaggi assegnati a chi ha il rango A\xfffesono difficili. In bocca al lupo!
+\xf000Ā\x0001\x0001, a che rango sei?\xf000븁\x0000\xfffeAh, sei Assistente di rango A+!\xf000븁\x0000\xfffeTi manca poco per arrivare al rango A++,\xfffeil massimo livello!\xf000븁\x0000\xfffeMetticela tutta! Io faccio il tifo per te!
+\xf000Ā\x0001\x0001, a che rango sei?\xf000븁\x0000\xfffeAh, sei Assistente di rango A++!\xf000븁\x0000\xfffeDi fronte a te, sono una nullità! Devo\xfffedarmi da fare per migliorare il mio rango!
+Se vuoi avere informazioni sul tuo rango,\xfffecontrolla il grafico attaccato al muro\xf000븀\x0000\xfffein fondo.\xf000븁\x0000\xfffeLì sono riportate tutte le informazioni\xfffesugli assistenti.\xf000븁\x0000\xfffeNaturalmente ci sei anche tu!
+Hai risposto ai questionari?\xf000븁\x0000\xfffeConviene farlo, in modo da dare un minimo\xfffedi informazioni su se stessi.
+Hai problemi a fare aumentare il numero\xfffedi sondaggi sul Radar Sondaggi?\xf000븁\x0000\xfffeIn tal caso, ti conviene rispondere\xfffeai questionari dell'Associazione.
+Se sei al rango A+, significa che hai\xffferisposto a tutti i questionari, vero?\xf000븁\x0000\xfffeAnche noi abbiamo le tue stesse\xfffecuriosità!\xf000븁\x0000\xfffePer questo rispondere ai questionari\xfffeè interesse di tutti!
+Salve, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeL'ufficio si è fatto più animato da quando\xfffeci sono nuovi assistenti in giro!\xf000븁\x0000\xfffeAvremo sicuramente molti più dati\xfffeda ora in poi.
+Più sondaggi fai e più diventa\xfffeinteressante.\xf000븁\x0000\xfffeL'essenziale è stabilire contatti con\xfffequante più persone possibile!\xf000븁\x0000\xfffeE fare sondaggi in compagnia è ancora\xfffepiù piacevole.
+Hai problemi con i sondaggi?\xf000븁\x0000\xfffeSe trovi complicato incontrare molte\xfffepersone, ti consiglio i sondaggi a tempo.\xf000븁\x0000\xfffeSi impiega più tempo, ma basta incontrare\xfffeuna sola persona per portarli a termine.
+Senti, ti do un consiglio importante.\xf000븁\x0000\xfffeSe vai in un posto molto frequentato,\xfffeè meglio fare un sondaggio numerico.\xf000븁\x0000\xfffePuoi raccogliere facilmente dati in breve\xfffetempo e completare l'incarico.
+Salve, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeNon ci hai messo molto ad arrivare al\xffferango più alto.\xf000븁\x0000\xfffeVoglio prendere ispirazione da te e darmi\xfffeda fare!
+Prima ho risposto a un questionario e me\xfffene hanno dato una copia.\xf000븁\x0000\xfffeVoglio provare a rispondere anche agli\xfffealtri...
+Dopo il questionario si passa al\xfffesondaggio.\xf000븁\x0000\xfffeAllora, devo caricare il sondaggio sul\xfffeRadar Sondaggi e poi...\xf000븀\x0000\xfffeEcco fatto. Allora io vado!
+I nuovi assistenti non rispondono ai\xfffequestionari.\xf000븁\x0000\xfffeÈ un vero peccato. Se rispondessero ai\xfffequestionari avrebbero molti più sondaggi\xf000븀\x0000\xfffea disposizione.
+Ciao, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeMi hanno incaricato di spiegare ai nuovi\xfffeassistenti come svolgere i sondaggi.
+Quale sarà il genere di film più popolare\xfffein questo periodo?\xf000븁\x0000\xfffeTu lo sai, assistente \xf000Ā\x0001\x0001?
+Quale sarà il sapore più di moda in questo\xfffeperiodo?\xf000븁\x0000\xfffeTu lo sai, assistente \xf000Ā\x0001\x0001?
+In questo periodo...\xfffeOh, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeControllare da soli le informazioni non è\xfffefacile. Anzi, è molto complicato...
+I sondaggi che il capo ci assegna sono\xfffemolto faticosi.\xf000븁\x0000\xfffeE gli incarichi si fanno sempre più difficili\xfffeda portare avanti...
+Salve, assistente \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeHai già completato tutti i sondaggi che ti\xfffeha affidato il capo?\xf000븁\x0000\xfffeQuando li avrai terminati, riceverai\xfffeun premio speciale!
+Oh, assistente \xf000Ā\x0001\x0001!\xfffeÈ un onore incontrarti!\xf000븁\x0000\xfffeSono emozionata, non ero preparata a\xfffequesta conversazione con te!
+Cerchiamo nuovi assistenti!\xfffeRivolgiti al capo!
+\xf000Ā\x0001\x0000\xfffeRango C\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRango B\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRango A\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRango A+\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRango A++\xfffeContatti stabiliti: \xf000Ȅ\x0001\x0001\xfffeRingraziamenti ricevuti: \xf000Ȅ\x0001\x0002

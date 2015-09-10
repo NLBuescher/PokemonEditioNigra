@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La comunicación va a terminar.
+
+
+
+
+
+
+
+
+\xf000Ā\x0001\x0000 ha entrado en la Zona Nexo\xfffede \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 ha regresado a su Zona Nexo.
+Has conectado con el mundo de \xf000Ā\x0001\x0000.
+\xf000Ā\x0001\x0000 ha regresado a su mundo.
+La misión va a comenzar enseguida. Los\xfffeparticipantes deben tocar el botón VALE.
+La misión va a comenzar enseguida.\xfffePor favor, espera.
+Parece que está realizando una misión.
+¡Misión cumplida!
+Misión fallida...
+\xf000Ā\x0001\x0000 ha recibido un Poder Regalo\xfffede la Zona Nexo de \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 ha recibido un Poder Regalo\xfffede su propia Zona Nexo.
+\xf000Ā\x0001\x0000 está en este lugar.
+Conectando con el mundo de \xf000Ā\x0001\x0000...\xfffePor favor, espera.
+Conectando con los mundos de \xf000Ā\x0001\x0000 y\xfffe\xf000Ā\x0001\x0001... Por favor, espera.
+↑ ¡\xf000Ā\x0001\x0000 está al norte!
+↓ ¡\xf000Ā\x0001\x0000 está al sur!
+→ ¡\xf000Ā\x0001\x0000 está al este!
+← ¡\xf000Ā\x0001\x0000 está al oeste!
+¿...? ¡Has perdido de vista a \xf000Ā\x0001\x0000!\xfffe        Se ha escondido por los alrededores.
+Todavía no has estado en este lugar.
+Alguien ha venido a jugar por aquí cerca.
+Alguien ha venido a jugar a este mundo.
+Conectando... Buscando otros jugadores\xfffepor los alrededores.
+Alguien ha venido a jugar a este mundo.
+El mundo del otro jugador está\xfffea punto de desaparecer.
+\xf000Ā\x0001\x0000 está combatiendo en este lugar.
+Toca para teletransportarte al punto\xfffedonde se encuentra el otro jugador.
+Toca para teletransportarte al punto\xfffedonde se encuentra el otro jugador.
+Toca para teletransportarte al punto\xfffedonde se encuentra el otro jugador.
+Toca para teletransportarte al punto\xfffedonde se encuentra el otro jugador.
+Toca para teletransportarte al punto\xfffedonde quieres esconder el objeto.
+Toca para teletransportarte al punto\xfffedonde se encuentra el otro jugador.
+
+
+
+
+
+Toca para ir a la Zona Nexo.
+Mi mundo
+Mundo de \xf000Ā\x0001\x0000
+VALE
+ATRÁS
+
+
+Examinas tu Nexárbol.
+Examinas el Nexárbol de \xf000Ā\x0001\x0000.
+
+
+
+Has vuelto a tu propio mundo y has\xffferecuperado tu aspecto normal.
+Estás en medio de una misión y no puedes\xfffeir a otra Zona Nexo.
+Estás en medio de una misión y no puedes\xfffeir a otra Zona Nexo.
+Has entrado en el mundo de \xf000Ā\x0001\x0000\xfffey tu aspecto ha cambiado.
+Todavía no se ha encontrado ningún mundo\xfffecon el que conectar.
+Permanece sobre el puente hasta que\xfffese encuentre a otro jugador.
+Ahora puedes volver a tu mundo.\xfffe¿Quieres regresar?
+
+El mundo del otro jugador ha desaparecido,\xfffey tú has vuelto a tu propio mundo.
+¡Misión fallida!\xfffeSe te han adelantado.\xf000븁\x0000\xfffeEl mundo del otro jugador ha desaparecido,\xfffey tú has vuelto a tu propio mundo.
+¡Misión fallida!\xfffeEl tiempo se ha agotado.\xf000븁\x0000\xfffeEl mundo del otro jugador ha desaparecido,\xfffey tú has vuelto a tu propio mundo.
+¡Has vuelto a tu Zona Nexo de repente!\xf000븁\x0000\xfffeParece que la otra Zona Nexo con la que\xfffehabías conectado ha desaparecido.
+¡Has vuelto a tu Zona Nexo de repente!\xf000븁\x0000\xfffeParece que la otra Zona Nexo con la que\xfffehabías conectado ha desaparecido.
+
+¡Misión fallida!\xfffeEl otro jugador ha rechazado la misión.\xf000븁\x0000\xfffeEl mundo del otro ha desaparecido,\xfffey tú has vuelto a tu propio mundo.
+
+
+
+Ha comenzado una misión para ayudarte.\xfffeVas a regresar a tu mundo.\xf000븁\x0000

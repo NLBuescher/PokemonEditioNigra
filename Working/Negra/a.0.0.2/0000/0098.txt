@@ -1,0 +1,20 @@
+¡Hola! ¡Tengo \xf000Ĝ\x0001\x0000!
+¡Todo un placer conocerte!\xfffe¡Me encanta \xf000Ĝ\x0001\x0000!
+¿Te gusta \xf000Ĝ\x0001\x0000?
+¡Vamos a dibujar!\xfffe¡Quiero dibujar \xf000Ĝ\x0001\x0000!
+¡Vamos a combatir\xfffeen \xf000Ĝ\x0001\x0000!
+¡Entreno \xf000Ĝ\x0001\x0000!\xfffe¡Vamos a luchar!
+¡Vamos a charlar! Me encanta hablar\xfffede \xf000Ĝ\x0001\x0000.
+¡Vamos a intercambiar!\xfffe¡Yo quiero \xf000Ĝ\x0001\x0000!
+¡Vamos a intercambiar!\xfffe¡Te ofrezco \xf000Ĝ\x0001\x0000!
+¡Intercambiemos \xf000Ĝ\x0001\x0000!\xfffeTe doy una pista: \xf000Ĝ\x0001\x0001.
+Vamos a \xf000Ĝ\x0001\x0000, ¿vale?
+¿Hay alguien que quiera\xfffe\xf000Ĝ\x0001\x0000?
+¡Quiero \xf000Ĝ\x0001\x0000\xfffecon \xf000Ĝ\x0001\x0001!
+¡Vamos a \xf000Ĝ\x0001\x0000\xfffeen \xf000Ĝ\x0001\x0001!
+¡Vale!
+¡\xf000Ĝ\x0001\x0000! De acuerdo.
+\xf000Ĝ\x0001\x0000, espera.
+No quiero \xf000Ĝ\x0001\x0000.
+¡Gracias! ¡Tenemos que volver\xfffea \xf000Ĝ\x0001\x0000 algún día!
+¡Hasta la vista! ¡\xf000Ĝ\x0001\x0000!

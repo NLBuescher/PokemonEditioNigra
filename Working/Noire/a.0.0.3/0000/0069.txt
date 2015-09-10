@@ -1,0 +1,15 @@
+N: \xf000븉\x0001\x0001Tu cherches la Team Plasma...\xfffen'est-ce pas?\xf000븁\x0000\xfffeIls se sont enfuis dans le parc\xfffed'attractions.\xf000븀\x0000\xfffeSuis-moi...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001... Ils ne sont pas là.\xf000븁\x0000\xfffeMontons dans la grande roue.\xfffeNous pourrons sûrement les voir\xf000븀\x0000\xfffeen prenant de la hauteur.\xf000븁\x0000\xfffeÇa tombe bien, j'aime énormément\xfffela grande roue.\xf000븁\x0000\xfffeCe mouvement circulaire...\xfffeCette dynamique...\xf000븁\x0000\xfffeC'est une collection de superbes\xfffeéquations...\xf000븉\x0001\x0000\xf000븁\x0000
+Team Plasma: Maître N!\xf000븁\x0000
+Team Plasma: Vous allez bien?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Aucun problème.\xf000븁\x0000\xfffePour sauver les Pokémon,\xfffemon devoir est aussi...\xf000븀\x0000\xfffede sauver mes alliés.\xf000븁\x0000\xfffePartez! Je vais retenir\xfffece Dresseur.\xf000븁\x0000\xfffe... Voyons...\xfffePeux-tu comprendre ma logique?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001J'espère du fond du cœur que\xfffeces mots sont sincères...\xf000븁\x0000\xfffe... Voyons...\xfffeDans le futur que j'ai vu...\xf000븁\x0000\xfffeJe ne dois pas gagner ici contre toi...\xfffeSeulement...\xf000븀\x0000\xfffepermettre à mes hommes de s'enfuir...\xf000븀\x0000\xfffeAllons-y...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Vraiment...?\xfffeJ'en suis désolé...\xf000븁\x0000\xfffe... Voyons...\xfffeDans le futur que j'ai vu...\xf000븁\x0000\xfffeJe ne dois pas gagner ici contre toi...\xfffeSeulement...\xf000븀\x0000\xfffepermettre à mes hommes de s'enfuir...\xf000븀\x0000\xfffeAllons-y...\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Quelle force...\xf000븁\x0000\xfffeMais le futur me tend les bras.\xfffeMon devoir est... de le changer...\xf000븀\x0000\xfffeC'est pour cela que...\xf000븉\x0001\x0000\xf000븁\x0000
+... Je dois vaincre le Maître!\xf000븁\x0000\xfffeEn atteignant le pinacle de la puissance,\xfffeen devenant celui qui ignore la défaite...\xf000븀\x0000\xfffequi ne peut plus connaître la défaite!\xf000븁\x0000\xfffeLes Dresseurs n'auront plus qu'à\xffferelâcher leurs Pokémon.\xf000븁\x0000\xfffeTu rêves de rester avec ton équipe...\xfffepour toujours...?\xf000븁\x0000\xfffeAlors... tu sais ce qu'il te reste à faire.\xfffeObtiens tous les Badges d'Arène...\xf000븁\x0000\xfffeFile jusqu'à la Ligue...\xfffeEt... arrête-moi... si tu le peux...!\xf000븁\x0000
+N: \xf000븉\x0001\x0001Si tu n'as pas cette motivation,\xfffeautant abandonner tout de suite...\xf000븀\x0000\xfffeTu ne pourrais pas m'arrêter.\xf000븉\x0001\x0000\xf000븁\x0000
+Les montagnes russes, elles tournent,\xfffetournent, et vous tourneboulent!
+La grande roue, elle tourne, elle tourne!\xfffeEt elle monte, elle monte!
+L'âge importe peu... On redevient tous\xfffedes enfants au parc d'attractions!
+Oh! Il y a un clown!
+Arène de Méanville\xfffeChampion: Inezia\xf000븀\x0000\xfffeSa beauté est éblouissante!

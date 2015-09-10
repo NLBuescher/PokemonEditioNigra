@@ -1,0 +1,37 @@
+
+
+Allenatori mancanti: \xf000Ȁ\x0001\x0000.
+Allenatori consentiti: \xf000Ȁ\x0001\x0000.
+Ricerca giocatori per la Lotta Multipla...
+Ricerca giocatori per il Musical...
+Ricerca giocatori per il Metrò Lotta...
+\xf000Ā\x0001\x0000\xf000봅\x0001F ID: \xf000Ȅ\x0001\x0001
+In attesa di altri giocatori...\xfffePulsante B: Annulla
+Se siete tutti pronti...\xfffePulsante A: Conferma | Pulsante B: Annulla
+\xf000Ā\x0001\x0000 ti ha contattato!\xfffeVuoi che partecipi?
+Va bene questo gruppo?
+Vuoi abbandonare la Lotta Multipla?
+Vuoi abbandonare il Musical?
+Vuoi abbandonare il Metrò Lotta?
+Se il capogruppo si ritira, il gruppo verrà\xfffesciolto. Vuoi procedere comunque?
+Interruzione Lotta Multipla in corso.
+Interruzione Musical in corso.
+Interruzione Metrò Lotta in corso.
+
+Non ci sono giocatori disponibili.\xfffeLa Lotta Multipla verrà annullata.
+Attendi...\xfffePulsante B: Annulla
+
+Si è verificato un errore.\xfffeLa Lotta Multipla verrà interrotta.\xf000븂\x0001<
+Si è verificato un errore.\xfffeIl Musical verrà interrotto.\xf000븂\x0001<
+Si è verificato un errore.\xfffeIl Metrò Lotta verrà interrotto.\xf000븂\x0001<
+\xf000ȁ\x0001\x0000:
+\xf000ȁ\x0001\x0000: \xf000Ā\x0001\x0001\xf000봅\x0001j ID: \xf000Ȅ\x0001\x0002
+Scegli con chi partecipare al Musical.
+Scegli con chi giocare nel Metrò Lotta.
+Il gruppo è al completo.\xfffeProcedi pure da questa parte!
+\xf000Ā\x0001\x0000 ha rifiutato...\xf000븂\x0001<
+In attesa di \xf000Ā\x0001\x0000...\xfffePulsante B: Annulla
+\xf000Ā\x0001\x0000 ha accettato!\xf000븂\x0001<
+Attendi...\xfffePulsante B: Annulla
+Vuoi uscire dal gruppo?
+Si è verificato un problema...\xf000븂\x0001<

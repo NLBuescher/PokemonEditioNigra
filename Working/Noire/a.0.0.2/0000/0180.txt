@@ -1,0 +1,8 @@
+PV
+Attaque
+Défense
+Vitesse
+Attaque Spé.
+Défense Spé.
+
+

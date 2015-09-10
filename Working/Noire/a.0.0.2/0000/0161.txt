@@ -1,0 +1,47 @@
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente nettement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages augmente énormément.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue nettement.\xfffeL'effet dure 3 minutes.
+La probabilité de rencontrer des Pokémon\xfffesauvages diminue énormément.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente légèrement.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente nettement.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient un peu plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient bien plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 3 minutes.
+10% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+25% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 3 minutes.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffeun peu d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffepas mal d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffebeaucoup d'énergie.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffeun peu de PP.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffepas mal de PP.
+Quand cette Offri-Aura est utilisée, le\xfffePokémon en tête de l'équipe regagne\xfffebeaucoup de PP.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente légèrement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente nettement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue légèrement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue nettement.\xfffeL'effet dure 3 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat diminue énormément.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente légèrement.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente nettement.\xfffeL'effet dure 3 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente légèrement.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente nettement.\xfffeL'effet dure 3 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 3 minutes.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 30 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 30 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 30 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 30 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 30 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 30 minutes.
+Le Dresseur qui reçoit cette Offri-Aura\xfffevoit tous les Pokémon de son équipe\xfffeêtre totalement soignés.
+La vitesse d'éclosion des Œufs pendant\xfffela marche augmente énormément.\xfffeL'effet dure 60 minutes.
+50% de réduction dans\xfffeles Boutiques Pokémon.\xfffeL'effet dure 60 minutes.
+Les Pokémon se lient beaucoup plus\xfffefacilement à leur Dresseur.\xfffeL'effet dure 60 minutes.
+Le nombre de points Exp. gagnés à la fin\xfffedu combat augmente énormément.\xfffeL'effet dure 60 minutes.
+La somme d'argent gagnée à la fin\xfffedes combats augmente énormément.\xfffeL'effet dure 60 minutes.
+La probabilité d'attraper les Pokémon\xfffeaugmente énormément.\xfffeL'effet dure 60 minutes.
+

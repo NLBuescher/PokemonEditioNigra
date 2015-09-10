@@ -1,0 +1,165 @@
+Band des Champs
+Band des Champs von Sinnoh
+Band der Coolness
+Band der Coolness Super
+Band der Coolness Hyper
+Band der Coolness Master
+Band der Schönheit
+Band der Schönheit Super
+Band der Schönheit Hyper
+Band der Schönheit Master
+Band der Anmut
+Band der Anmut Super
+Band der Anmut Hyper
+Band der Anmut Master
+Band der Klugheit
+Band der Klugheit Super
+Band der Klugheit Hyper
+Band der Klugheit Master
+Band der Stärke
+Band der Stärke Super
+Band der Stärke Hyper
+Band der Stärke Master
+Band der Coolness
+Band der Coolness Mega
+Band der Coolness Ultra
+Band der Coolness Master
+Band der Schönheit
+Band der Schönheit Mega
+Band der Schönheit Ultra
+Band der Schönheit Master
+Band der Anmut
+Band der Anmut Mega
+Band der Anmut Ultra
+Band der Anmut Master
+Band der Klugheit
+Band der Klugheit Mega
+Band der Klugheit Ultra
+Band der Klugheit Master
+Band der Stärke
+Band der Stärke Mega
+Band der Stärke Ultra
+Band der Stärke Master
+Band des Gewinners
+Band des Sieges
+Band der Fähigkeit
+Großes Band der Fähigkeit
+Doppel-Band der Fähigkeit
+Multi-Band der Fähigkeit
+Paar-Band der Fähigkeit
+Welt-Band der Fähigkeit
+Band des Künstlers
+Fleiß-Band
+Band der Wachsamkeit
+Band des Schocks
+Band des Niederschlags
+Band der Sorglosigkeit
+Band der Entspannung
+Band des Schlafens
+Band des Lächelns
+Hinreißendes Band
+Königliches Band
+Hinreißendes Königliches Band
+Fußabdruck-Band
+Rekordband
+Band der Legende
+Band des Landes
+Band der Nation
+Band der Erde
+Band der Welt
+Klassisches Band
+Premierband
+Veranstaltungsband
+Geburtstagsband
+Sonderband
+Gedenkband
+Wunschband
+Kampfmeisterband
+Regionalmeisterband
+Nationalmeisterband
+Weltmeisterband
+Band für Meisterung der Pokémon Liga und\xfffeErreichen der Ruhmeshalle in anderer Region
+Band für den Sieg über den Sinnoh\xfffeChamp und den Eintritt in die Ruhmeshalle
+Hoenn Coolnesswettbewerb\xfffeSieger in der Normal-Klasse!
+Hoenn Coolnesswettbewerb\xfffeSieger in der Super-Klasse!
+Hoenn Coolnesswettbewerb\xfffeSieger in der Hyper-Klasse!
+Hoenn Coolnesswettbewerb\xfffeSieger in der Master-Klasse!
+Hoenn Schönheitswettbewerb\xfffeSieger in der Normal-Klasse!
+Hoenn Schönheitswettbewerb\xfffeSieger in der Super-Klasse!
+Hoenn Schönheitswettbewerb\xfffeSieger in der Hyper-Klasse!
+Hoenn Schönheitswettbewerb\xfffeSieger in der Master-Klasse!
+Hoenn Anmutwettbewerb\xfffeSieger in der Normal-Klasse!
+Hoenn Anmutwettbewerb\xfffeSieger in der Super-Klasse!
+Hoenn Anmutwettbewerb\xfffeSieger in der Hyper-Klasse!
+Hoenn Anmutwettbewerb\xfffeSieger in der Master-Klasse!
+Hoenn Klugheitswettbewerb\xfffeSieger in der Normal-Klasse!
+Hoenn Klugheitswettbewerb\xfffeSieger in der Super-Klasse!
+Hoenn Klugheitswettbewerb\xfffeSieger in der Hyper-Klasse!
+Hoenn Klugheitswettbewerb\xfffeSieger in der Master-Klasse!
+Hoenn Stärkewettbewerb\xfffeSieger in der Normal-Klasse!
+Hoenn Stärkewettbewerb\xfffeSieger in der Super-Klasse!
+Hoenn Stärkewettbewerb\xfffeSieger in der Hyper-Klasse!
+Hoenn Stärkewettbewerb\xfffeSieger in der Master-Klasse!
+Super-Coolnesswettbewerb\xfffeSieger in der Normal-Klasse!
+Super-Coolnesswettbewerb\xfffeSieger in der Mega-Klasse!
+Super-Coolnesswettbewerb\xfffeSieger in der Ultra-Klasse!
+Super-Coolnesswettbewerb\xfffeSieger in der Master-Klasse!
+Super-Schönheitswettbewerb\xfffeSieger in der Normal-Klasse!
+Super-Schönheitswettbewerb\xfffeSieger in der Mega-Klasse!
+Super-Schönheitswettbewerb\xfffeSieger in der Ultra-Klasse!
+Super-Schönheitswettbewerb\xfffeSieger in der Master-Klasse!
+Super-Anmutwettbewerb\xfffeSieger in der Normal-Klasse!
+Super-Anmutwettbewerb\xfffeSieger in der Mega-Klasse!
+Super-Anmutwettbewerb\xfffeSieger in der Ultra-Klasse!
+Super-Anmutwettbewerb\xfffeSieger in der Master-Klasse!
+Super-Klugheitswettbewerb\xfffeSieger in der Normal-Klasse!
+Super-Klugheitswettbewerb\xfffeSieger in der Mega-Klasse!
+Super-Klugheitswettbewerb\xfffeSieger in der Ultra-Klasse!
+Super-Klugheitswettbewerb\xfffeSieger in der Master-Klasse!
+Super-Stärkewettbewerb\xfffeSieger in der Normal-Klasse!
+Super-Stärkewettbewerb\xfffeSieger in der Mega-Klasse!
+Super-Stärkewettbewerb\xfffeSieger in der Ultra-Klasse!
+Super-Stärkewettbewerb\xfffeSieger in der Master-Klasse!
+Band für Siege in der Lv. 50-Kategorie\xfffeim Duellturm von Hoenn
+Band für Siege in der Lv. 100-Kategorie\xfffeim Duellturm von Hoenn
+Band, verliehen zum Sieg über den\xfffeKampfkoloss des Duellturms
+Band, verliehen zum Sieg über den\xfffeKampfkoloss des Duellturms
+Band für die Meisterung des\xfffeDoppels im Sinnoh Duellturm
+Band für die Meisterung der Multi-\xfffeHerausforderung im Sinnoh Duellturm
+Band für die Meisterung der Link-Multi-\xfffeHerausforderung im Sinnoh Duellturm
+Band für die Meisterung der Wi-Fi-\xfffeHerausforderung im Sinnoh Duellturm
+Belohnung für die Wahl zum Super-Model\xfffein Hoenn
+Band für extrem fleißige Arbeiter
+Band zur Erinnerung an ein stärkendes,\xfffeLebensenergie gebendes Ereignis
+Band zur Erinnerung an ein Ereignis,\xfffedas das Leben aufregender machte
+Band zur Erinnerung an die Traurigkeit,\xfffedie dem Leben Würze gab
+Band zur Erinnerung an einen Fehler, der\xfffezu lebenswichtigen Entscheidungen führte
+Band zur Erinnerung an ein erfrischendes\xfffeEreignis, das dem Leben Glanz gab
+Band zur Erinnerung an einen tiefen Schlaf,\xfffeder den Fluss des Lebens beruhigte
+Band zur Erinnerung daran, dass ein\xfffeLächeln das Leben bereichert
+Außergewöhnlich schönes\xfffeund extravagantes Band
+Unglaublich königliches Band, das eine\xfffeAura der Erhabenheit ausstrahlt
+Wunderschönes und königliches\xfffeBand, das einfach sagenhaft ist
+Band für ein Pokémon, das einen besonders\xfffeguten Fußabdruck hinterlässt
+Band für das Aufstellen eines\xfffeunglaublichen Rekords
+Band für das Aufstellen eines\xfffelegendären Rekords
+Pokémon Liga\xfffeBand des Champs
+Band für den erfolgreichen Abschluss\xfffealler Schwierigkeitsgrade
+100. Sieg in Folge\xfffeGedenk-Band
+Pokémon Liga\xfffeBand des Champs
+Band, das wahre Pokémon-Liebhaber\xfffeauszeichnet
+Sonderurlaubsband
+Pokémon-Wettkampf\xfffeTeilnehmerband
+Band zum Andenken für\xfffeGeburtstagskinder
+Besonderes Band für\xfffeeinen besonderen Tag
+Band, das als Andenken für ganz\xfffebesondere Erinnerungen dient
+Band, das angeblich Wünsche\xfffeerfüllt
+Kampfturnier\xfffeBand des Siegers
+Siegerband für die Regionalmeisterschaft\xfffeder Pokémon World Championships
+Siegerband für die Nationalmeisterschaft\xfffeder Pokémon World Championships
+Siegerband für das Finale der\xfffePokémon World Championships
+Ligaband\xf000ȁ\x0001\x0000
+Wettbewerbsband\xf000ȁ\x0001\x0000
+Turmband\xf000ȁ\x0001\x0000
+Erinnerungsband\xf000ȁ\x0001\x0000
+Geschenkband\xf000ȁ\x0001\x0000

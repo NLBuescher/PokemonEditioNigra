@@ -1,0 +1,255 @@
+
+
+\xf000Ă\x0001\x0000 no ha sido intercambiado.\xf000븁\x0000
+Parece que \xf000Ă\x0001\x0000 ha huido...\xf000븁\x0000
+¿Buscas u ofreces un Pokémon?
+\xf000Ă\x0001\x0000 ha sido elegido.
+¿Aceptas a este \xf000Ă\x0001\x0000?
+¿Quieres desconectarte de la Conexión\xfffeWi-Fi de Nintendo?
+¿Qué tipo de Pokémon estás buscando?
+Elige el Pokémon que quieres.
+Elige el sexo.
+Elige el nivel.
+Elige el Pokémon que quieres.
+Buscando el Pokémon que quieres...
+¡No se ha encontrado ningún Pokémon!
+¿Dejar de buscar?
+¿Cambiar por el Pokémon\xfffede este Entrenador?
+Elige un Pokémon para intercambiar.
+¿Qué quieres hacer con \xf000Ă\x0001\x0000?
+
+
+Elige el Pokémon que quieres ofrecer.
+¿Ofrecer a \xf000Ă\x0001\x0000?
+¿Te parecen bien esas condiciones?
+Comprobando servidor de la GTS...
+Se separará la Cápsula.\xfffe¿Estás de acuerdo?
+¡Ese Pokémon no se puede intercambiar!\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13266.\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13267.\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13268.\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13269.\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13270.\xf000븁\x0000
+¡Ese Pokémon no se puede intercambiar!\xfffeError: 13271.\xf000븁\x0000
+¡No se puede intercambiar un Huevo!\xf000븁\x0000
+
+Tus Cajas están llenas.\xfffe¡No puedes recibir Pokémon!\xf000븁\x0000
+¡Alguien se interesó por el intercambio!
+
+Toca ELEGIR para continuar.
+Cambia tus condiciones.
+Por favor, espera un momento.
+Tu equipo está completo. No puedes\xffferecibir un Pokémon que lleve una Carta.\xf000븁\x0000
+Tu equipo está completo.
+Tiene una Cinta especial.\xfffeNo puede intercambiarse.\xf000븁\x0000
+Comprobación de la GTS fallida.
+\xf000봂\x0000SISTEMA GTS
+\xf000봂\x0000DATOS
+\xf000봂\x0000DEJAR POKÉMON
+\xf000봂\x0000BUSCAR POKÉMON
+\xf000봂\x0000SALIR
+
+
+
+
+
+OFRECIDO POR
+
+
+
+
+
+RECUPERAR
+DEJARLO ASÍ
+SÍ
+NO
+NOMBRE
+
+POKÉMON
+
+SEXO
+
+NIVEL
+
+BUSCAR
+\xf000봂\x0000ATRÁS
+ELEGIR
+
+
+
+OBJETO
+
+
+
+SE BUSCA
+
+
+
+RESIDENCIA
+\xf000Ĥ\x0001\x0008
+\xf000ĥ\x0001\x0009
+
+
+
+DATOS
+INTERCAMBIAR
+SALIR
+
+
+EN EL EQUIPO
+
+
+
+
+
+DATOS
+DEJAR
+SALIR
+SE BUSCA
+
+
+OFRECER POKÉMON
+
+Nv.
+\xf000Ȃ\x0001\x0003
+Nv. \xf000Ȃ\x0001\x0003
+ATRÁS
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+CUALQUIERA
+⑭
+⑮
+\xf000봂\x0000ATRÁS
+CUALQUIERA
+Nv. 9 e inferior
+Nv. 10 y sup.
+Nv. 20 y sup.
+Nv. 30 y sup.
+Nv. 40 y sup.
+Nv. 50 y sup.
+Nv. 60 y sup.
+Nv. 70 y sup.
+Nv. 80 y sup.
+Nv. 90 y sup.
+Nv. 100
+
+
+
+
+
+
+
+Por desgracia, se ha intercambiado\xfffecon otro Entrenador.\xf000븁\x0000
+Guardando...\xfffeNo apagues la consola.
+
+La GTS está en mantenimiento.\xfffePor favor, vuelve a intentarlo más tarde.\xf000븁\x0000
+La GTS está llena.\xf000븁\x0000\xfffePor favor, vuelve a intentarlo más tarde.\xfffeError: 13261.\xf000븁\x0000
+La búsqueda no ha tenido éxito.
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com.
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13272\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13275.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13263.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13265.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13264.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13273.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13281.\xf000븁\x0000
+Error de conexión.\xf000븁\x0000\xfffePara obtener ayuda, visita el sitio web\xfffesupport.nintendo.com. Error: 13282.\xf000븁\x0000
+No se ha podido conectar con la GTS.\xf000븁\x0000
+Se ha interrumpido la conexión\xfffecon la GTS. Error: 13262.\xf000븁\x0000
+Se ha interrumpido la conexión\xfffecon la GTS. Error: 13274.\xf000븁\x0000
+Se ha interrumpido la CWF de Nintendo.
+Establecer la conexión de nuevo.
+CUALQUIERA
+Nv. 1 al 10
+Nv. 11 al 20
+Nv. 21 al 30
+Nv. 31 al 40
+Nv. 41 al 50
+Nv. 51 al 60
+Nv. 61 al 70
+Nv. 71 al 80
+Nv. 81 al 90
+Nv. 91 al 100
+
+RESIDENCIA
+
+CUALQUIERA
+CUALQUIERA
+\xf000봂\x0000ATRÁS
+Elige la ubicación de un Pokémon.
+
+
+No puedes intercambiar este Pokémon\xfffesi lleva ese objeto.\xf000븁\x0000
+EO
+
+
+
+
+
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GTS
+GTS\xfffeINTERCAMBIAR POKÉMON
+GTS\xfffeDATOS
+GTS\xfffeDEJAR POKÉMON
+GTS\xfffeBUSCAR POKÉMON
+SALIR
+\xf000Ȁ\x0001\x0000
+/

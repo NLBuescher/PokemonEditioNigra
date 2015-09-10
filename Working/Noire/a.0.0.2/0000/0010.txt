@@ -1,0 +1,55 @@
+\xf000Ă\x0001\x0000 sélectionné.
+
+Relâcher ce Pokémon?
+\xf000Ă\x0001\x0000 a été relâché.
+Bye-bye, \xf000Ă\x0001\x0000!
+Votre équipe est au complet!
+C'est votre dernier Pokémon!
+Boîte sélectionnée.
+Aller à quelle Boîte?
+Choisissez un thème.
+Choisissez un fond.
+Continuer la gestion des Boîtes?
+La Boîte est pleine.
+Le Sac est plein.
+Vous avez pris \xf000ĉ\x0001\x0000.
+Le Pokémon tient \xf000ĉ\x0001\x0000.
+Touchez un Pokémon.
+Déposer dans quelle Boîte?
+
+
+
+\xf000ĉ\x0001\x0000: prendre cet objet?
+Impossible de ranger la Lettre!
+Sélection: \xf000ĉ\x0001\x0000
+Ranger \xf000ĉ\x0001\x0000?
+Vous rangez \xf000ĉ\x0001\x0000 dans le Sac.
+Le Pokémon peut tenir un objet.
+Veuillez enlever la Lettre.
+Œuf impossible à relâcher.
+\xf000Ă\x0001\x0000 est revenu!
+Il se faisait peut-être du souci...
+Un Œuf ne peut pas tenir un objet.
+Touchez un ou plusieurs symboles!
+
+
+
+
+DÉPOSER POKÉMON
+RETIRER POKÉMON
+DÉPLACER POKÉMON
+DÉPLACER OBJETS
+BOÎTE COMBAT
+POKÉMON À ENDORMIR
+La Lettre ne peut pas être déplacée!
+Il ne peut pas tenir \xf000ĉ\x0001\x0000.
+Il tient une Lettre!
+C'est votre dernier Pokémon!
+Une Lettre ne peut pas être déplacée!
+Impossible de donner une Lettre ici.
+Impossible avec un Œuf!
+Endormir \xf000Ă\x0001\x0000?
+Ce Pokémon ne semble pas avoir sommeil.
+Continuer la sélection?
+La Boîte Combat est verrouillée.\xfffeImpossible de déplacer les Pokémon.
+La Boîte Combat est verrouillée.\xfffeImpossible de changer les objets tenus.

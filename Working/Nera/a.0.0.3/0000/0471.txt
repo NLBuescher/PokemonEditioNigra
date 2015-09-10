@@ -1,0 +1,97 @@
+Ti do il benvenuto al Centro Globale!\xf000븁\x0000
+Da qui puoi collegarti alla Nintendo Wi-Fi\xfffeConnection. Che cosa vuoi fare?
+Torna a trovarci.
+
+Prego, da questa parte!\xf000븁\x0000
+Nel Centro Globale puoi collegarti alla\xfffeNintendo Wi-Fi Connection per lottare\xf000븀\x0000\xfffee fare scambi con giocatori da tutto il\xf000븀\x0000\xfffemondo.\xf000븁\x0000\xfffePer informazioni più dettagliate, vedi le\xfffesingole opzioni.\xf000븁\x0000
+Il servizio non è attivo al momento.\xfffeRipassa più tardi.
+Hai almeno un Pokémon che non può essere\xfffeusato.
+Errore di comunicazione.
+Abbinamento a Caso
+GTS
+Dati Musical
+Video Lotta
+Regole
+Esci
+Vuoi scambiare Pokémon usando la GTS?
+Attraverso la GTS puoi scambiare Pokémon\xfffecon giocatori distanti.\xf000븁\x0000\xfffeEsistono due tipi di scambi: GTS e\xfffeTrattativa GTS.\xf000븁\x0000\xfffeHanno regole differenti, quindi fai\xfffeattenzione.\xf000븁\x0000
+GTS
+Trattativa GTS
+Regole
+Indietro
+Vuoi scambiare Pokémon con persone in\xfffetutto il mondo?
+Scambia
+Regole
+Indietro
+Nella modalità GTS puoi effettuare scambi\xfffein due modi diversi.\xf000븁\x0000\xfffePuoi offrire un Pokémon per lo scambio,\xfffeoppure cercarne uno fra quelli offerti.\xf000븁\x0000
+Vuoi avere maggiori informazioni?
+Per lo scambio ti verrà prima chiesto\xfffedi scegliere uno dei tuoi Pokémon.\xf000븁\x0000\xfffeQuindi, ti verrà domandato quale Pokémon\xfffedesideri ricevere in cambio.\xf000븁\x0000\xfffeSe un altro giocatore offre il Pokémon\xfffeche vuoi in cambio di quello che offri tu,\xf000븀\x0000\xfffelo scambio va in porto.\xf000븁\x0000
+Puoi cercare un Pokémon tra quelli\xfffeofferti.\xf000븁\x0000\xfffeOgnuno di questi indicherà quale\xfffeAllenatore l'ha messo a disposizione e\xf000븀\x0000\xfffeche Pokémon desidera in cambio.\xf000븁\x0000\xfffeSe trovi un Pokémon che vuoi, per averlo\xfffedovrai dare il Pokémon che l'altro\xf000븀\x0000\xfffeAllenatore cerca.\xf000븁\x0000
+Offrire Pokémon?
+Cercare Pokémon?
+Ho capito!
+Vuoi iniziare le trattative per lo scambio\xfffedi Pokémon in tutto il mondo?
+Iniziare le trattative
+Regole
+Indietro
+Nella modalità Trattativa GTS devi\xfffescegliere le condizioni di scambio.\xf000븁\x0000\xfffeSe trovi qualcuno che le soddisfa, puoi\xfffeiniziare le trattative.\xf000븁\x0000\xfffePer fare questo tipo di scambio devi\xfffeavere in squadra almeno due Pokémon.\xf000븁\x0000
+Vuoi informazioni più dettagliate?
+Per fare una Trattativa devi scegliere\xfffetre Pokémon da offrire a un giocatore\xf000븀\x0000\xfffeche, a sua volta, ne propone tre.\xf000븁\x0000\xfffeQuando ognuno ha scelto il Pokémon che\xfffepreferisce fra quelli proposti, ha luogo\xf000븀\x0000\xfffelo scambio.\xf000븁\x0000
+Nelle condizioni di scambio puoi impostare\xfffetre parametri: i Pokémon che cerchi,\xf000븀\x0000\xfffequelli che offri, e il livello desiderato.\xf000븁\x0000\xfffePuoi fare scambio con le persone che\xfffesoddisfano tutte le condizioni.\xf000븁\x0000\xfffeInoltre, potrai organizzare nuovi scambi\xfffecon le persone con cui hai già scambiato.\xf000븁\x0000
+Trattativa
+Condizioni di scambio
+Ho capito!
+Vuoi aprire il Registradati?
+Dopo aver registrato un Video Lotta\xfffedella tua squadra di Pokémon con il\xf000븀\x0000\xfffeRegistradati, puoi inserirlo qui.\xf000븁\x0000\xfffePuoi anche guardare i Video Lotta inseriti\xfffeda altri Allenatori.\xf000븁\x0000\xfffeI video possono essere cercati in base al\xfffePokémon, al luogo in cui si è svolta la\xf000븀\x0000\xfffelotta e così via.\xf000븁\x0000\xfffeA ogni Video Lotta che inserisci viene\xfffeassegnato un codice di 12 cifre.\xf000븁\x0000\xfffePer accedere al video, i tuoi amici devono\xfffeinserire lo stesso numero di 12 cifre.\xf000븁\x0000
+Apri
+Regole
+Indietro
+Vuoi vedere i Dati Musical?
+Nei Dati Musical puoi pubblicare le foto\xfffescattate al Musical di Sciroccopoli\xf000븀\x0000\xfffeusando il Registradati.\xf000븁\x0000\xfffePuoi vedere anche le foto degli altri\xfffegiocatori suddivise per Pokémon.\xf000븁\x0000
+Guarda
+Regole
+Indietro
+Vuoi fare un Abbinamento a Caso?
+Affronta Sfida
+Regole
+Esci
+L'Abbinamento a Caso ti consente di fare\xfffedelle Lotte in Link con giocatori distanti.\xf000븁\x0000\xfffeComprende cinque tipi di lotte: Lotta in\xfffeSingolo, in Doppio, in Triplo, a Rotazione\xf000븀\x0000\xfffee con Lancio.\xf000븀\x0000\xfffeE due modalità: Libera e Punteggio.\xf000븁\x0000\xfffeAlla modalità Libera può partecipare\xfffechiunque senza restrizioni.\xf000븁\x0000\xfffePer la modalità Punteggio, devi regolare\xfffele Impostazioni Sincrogioco,\xf000븀\x0000\xfffeandare sul sito ufficiale Pokémon Global\xf000븀\x0000\xfffeLink usando un computer collegato a\xf000븀\x0000\xfffeInternet e registrare l'ID Sincrogioco.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com\xfffe(Pokémon Global Link)\xf000븁\x0000
+Vuoi informazioni più dettagliate?
+Modalità Libera
+Modalità Punteggio
+Regole speciali
+Ho capito!
+Nella modalità Libera puoi affrontare\xfffeliberamente giocatori distanti.\xf000븁\x0000\xfffeSe hai allenato bene i tuoi Pokémon,\xfffeprova a cimentarti in questa modalità.\xf000븁\x0000
+La modalità Punteggio è consigliata ai\xfffegiocatori che vogliono perfezionare\xf000븀\x0000\xfffela loro abilità nella lotta.\xf000븁\x0000\xfffeUna volta stabilita la connessione,\xfffelotterai con persone dal punteggio\xf000븀\x0000\xfffesimile al tuo.\xf000븁\x0000\xfffeIl punteggio parte da 1500 e si abbassa o\xfffesi alza a seconda che tu perda o vinca.\xf000븁\x0000\xfffePiù alto sarà il punteggio, più forti\xfffesaranno gli Allenatori che affronterai.\xf000븁\x0000\xfffeProva questa modalità e scopri qual è\xfffeil tuo livello!\xf000븁\x0000\xfffeUn ultimo avvertimento: se cambi console\xfffementre partecipi alla modalità Punteggio,\xf000븀\x0000\xfffei risultati ottenuti fino a quel momento\xf000븀\x0000\xfffeverranno azzerati. Fai attenzione!\xf000븁\x0000
+Gli Abbinamenti a Caso seguono alcune\xffferegole speciali.\xf000븁\x0000\xfffeTutti i Pokémon di livello superiore al 50\xfffevengono portati a 50.\xf000븁\x0000\xfffeI Pokémon non vengono chiamati con il\xfffeloro soprannome.\xf000븁\x0000\xfffeC'è un tempo limite entro il quale\xfffescegliere il Pokémon da far lottare e\xf000븀\x0000\xfffedare gli ordini durante la lotta.\xf000븁\x0000\xfffeFai attenzione, perché se non rispetti\xfffei limiti di tempo, la mossa che il Pokémon\xf000븀\x0000\xfffeeseguirà verrà scelta automaticamente.\xf000븁\x0000\xfffeInoltre, c'è anche un tempo limite per\xfffeconcludere le lotte, superato il quale\xf000븀\x0000\xfffela vittoria sarà decisa in base ai punti.\xf000븁\x0000
+Quale lotta scegli?
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Lotta con Lancio
+Indietro
+Vuoi accettare la sfida alla Lotta in\xfffeSingolo?
+Vuoi accettare la sfida alla Lotta in\xfffeDoppio?
+Vuoi accettare la sfida alla Lotta in\xfffeTriplo?
+Vuoi accettare la sfida alla Lotta a\xfffeRotazione?
+Vuoi accettare la sfida alla Lotta con\xfffeLancio?
+Ok
+Regole
+Esci
+Per la Lotta in Singolo sono necessari dai\xfffetre ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono tre\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta in Doppio sono necessari dai\xfffequattro ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano i\xfffePokémon a vicenda e ne scelgono quattro\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta in Triplo sono necessari sei\xfffePokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono sei\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+Per la Lotta a Rotazione sono necessari\xfffedai quattro ai sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano i\xfffePokémon a vicenda e ne scelgono quattro\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+La Lotta con Lancio è come una Lotta in\xfffeTriplo con in più il Mirabilancere.\xf000븁\x0000\xfffePer partecipare servono sei Pokémon.\xf000븁\x0000\xfffePrima della lotta i giocatori si mostrano\xfffei Pokémon a vicenda e ne scelgono sei\xf000븀\x0000\xfffeper lottare.\xf000븁\x0000\xfffeI Pokémon in squadra e gli strumenti\xfffedevono essere diversi fra loro.\xf000븁\x0000\xfffeInoltre, non si possono avere in squadra\xfffeUova o Pokémon speciali.\xf000븁\x0000
+
+
+
+
+
+
+
+
+Oh oh...\xf000븁\x0000\xfffeLa tua squadra è completa e i Box sono\xfffepieni!\xf000븁\x0000\xfffePer usare la GTS, torna dopo aver fatto\xfffespazio nella squadra o nei Box.\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeSe non hai almeno due Pokémon nella tua\xfffesquadra, non puoi usare la GTS.\xf000븁\x0000
+Oh oh...\xf000븁\x0000\xfffeSe non hai almeno due Pokémon nella tua\xfffesquadra, non puoi usare la Trattativa\xf000븀\x0000\xfffeGTS.\xf000븁\x0000

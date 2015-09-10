@@ -1,0 +1,12 @@
+Einen schönen guten Morgen!\xfffeDu musst \xf000Ā\x0001\x0000 sein.\xf000븁\x0000\xfffeIch habe ein Geschenk für dich erhalten.\xfffeHier, bitte schön!\xf000븁\x0000
+Einen schönen guten Tag!\xfffeDu musst \xf000Ā\x0001\x0000 sein.\xf000븁\x0000\xfffeIch habe ein Geschenk für dich erhalten.\xfffeHier, bitte schön!\xf000븁\x0000
+Einen schönen guten Abend!\xfffeDu musst \xf000Ā\x0001\x0000 sein.\xf000븁\x0000\xfffeIch habe ein Geschenk für dich erhalten.\xfffeHier, bitte schön!\xf000븁\x0000
+Ich habe leider kein Geschenk für dich\xfffeerhalten. Komm bald wieder!
+Komm bald wieder!
+\xf000Ā\x0001\x0000 hat \xf000ā\x0001\x0001 erhalten!
+Dein Team ist leider voll.\xfffeDu kannst es noch nicht erhalten.
+\xf000Ā\x0001\x0000 erhält \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+\xf000ĉ\x0001\x0000? Noch mehr? Du hast schon\xfffezu viele, um weitere anzunehmen.
+\xf000Ā\x0001\x0000 erhält\xfffe\xf000Đ\x0001\x0001!
+\xf000Ā\x0001\x0000 hat \xf000Đ\x0001\x0001\xfffebereits erhalten.
+\xf000Ā\x0001\x0000 erhält ein Pokémon-Ei!

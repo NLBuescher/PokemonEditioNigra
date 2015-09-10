@@ -1,0 +1,7 @@
+Team
+Kampfbox
+Zurück
+Möchtest du die Pokémon aus deinem Team\xfffeoder aus der Kampfbox einsetzen?
+L\xf000Ȃ\x0001\x0000
+\xf000\xff00\x0001\x0002⑭\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001⑮\xf000\xff00\x0001\x0000

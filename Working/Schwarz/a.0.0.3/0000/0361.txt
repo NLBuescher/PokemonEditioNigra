@@ -1,0 +1,53 @@
+Cheren: Warte, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWir haben beide den Voltorden,\xfffedoch wer von uns ist stärker?\xf000븁\x0000\xfffeMein Sieg wird diese Frage beantworten!\xf000븁\x0000
+Cheren: Wieso nur gewinne ich nicht\xfffegegen dich?\xf000븁\x0000
+Kamilla: Ihr beide seid also Freunde...\xf000븁\x0000\xfffeIch finde es toll, dass ihr euch gegen-\xfffeseitig antreibt und so besser werdet!\xf000븁\x0000
+Los, gehen wir.\xf000븁\x0000
+???: Oh! Kamilla, es ist mir eine Freude!\xf000븁\x0000
+???: Ein Festival, großartig!\xfffeDas Leben soll ja Spaß machen!\xf000븁\x0000
+Cheren: Wer ist das?\xf000븁\x0000
+Kamilla: Das ist Lauro,\xfffeder Champ der Einall-Region!\xf000븁\x0000
+Cheren: Der Champ?!\xf000븁\x0000\xfffeWarum verplempert der Champ an\xfffeeinem Ort wie diesem seine Zeit?\xf000븁\x0000
+Lauro: Du bist ja wirklich so streng,\xfffewie man sagt, mein Junge!\xf000븁\x0000\xfffeTag! Ich heiße Lauro. Ich bin der Champ\xfffeder Pokémon Liga von Einall.\xf000븁\x0000\xfffeUnd ich verplempere hier nicht meine Zeit,\xfffesondern ich bin auf Reisen!\xf000븁\x0000\xfffeIch will alle Winkel von Einall kennen\xfffewie meine Westentasche!\xf000븁\x0000
+Cheren: Ich komme aus Avenitia\xfffeund heiße Cheren.\xf000븁\x0000\xfffeMein erklärtes Ziel als Trainer ist es,\xfffeder neue Champ zu werden.\xf000븁\x0000
+Lauro: Sehr gut! Das Ziel seiner Reise\xfffezu kennen, ist lobenswert.\xf000븁\x0000\xfffeUnd was wirst du machen,\xfffenachdem du Champ geworden bist?\xf000븁\x0000
+Cheren: Gibt es noch ein anderes Ziel,\xfffeals stärker werden zu wollen?\xf000븁\x0000\xfffeDer Champ ist der stärkste Trainer\xfffevon allen, oder nicht?\xf000븁\x0000
+Lauro: Hmmm, stark werden...\xfffeDer Stärkste sein...\xf000븁\x0000\xfffeIst das als Zielsetzung wohl genug?\xf000븁\x0000\xfffeVerstehe mich nicht falsch,\xfffeich will dir nicht widersprechen!\xf000븁\x0000
+Ich will, dass alle Leute von überall her\xfffedie Pokémon genauso lieben wie ich.\xf000븁\x0000\xfffeDas ist das Ziel, das ich verfolge.\xf000븁\x0000\xfffeVerbringt doch etwas Zeit mit den beiden\xfffehier, dann versteht ihr es vielleicht.\xf000븁\x0000\xfffeWollt ihr zwei nicht einen Pokémon-Kampf\xfffegegen sie bestreiten?\xf000븁\x0000
+He, ihr zwei! Kommt mal kurz her!\xf000븁\x0000
+Cheren: Alles klar. Aber zuerst...\xf000븁\x0000
+Cheren hat die Pokémon von \xf000Ā\x0001\x0000\xfffewieder fit gemacht!
+Cheren: Und los geht's!\xf000븁\x0000
+Lauro: Ihr zwei habt zwar nicht\xfffegewonnen, aber es war ein guter Kampf!\xf000븁\x0000\xfffeDie Pokémon haben sich auch gefreut!\xf000븁\x0000
+Also, mein Junge!\xf000븁\x0000\xfffeEs gibt solche wie dich, die nach Stärke\xfffestreben, aber es gibt auch solche wie\xf000븀\x0000\xfffediese beiden, denen es genügt, einfach\xf000븀\x0000\xfffenur mit den Pokémon zusammen zu sein.\xf000븁\x0000\xfffeEs gibt so viele verschiedene Antworten,\xfffewie es Trainer gibt.\xf000븁\x0000\xfffeAuch wenn unsere Definitionen eines\xfffeChamps voneinander abweichen,\xf000븀\x0000\xfffeist das vollkommen in Ordnung!\xf000븁\x0000
+Lauro: Es ist doch einfach großartig, wie\xfffeso unterschiedliche Wesen wie Menschen\xf000븀\x0000\xfffeund Pokémon miteinander harmonieren!
+Mein Opa ist wahnsinnig stark!\xfffeAber auch total lieb zu seinen Pokémon!
+Ich hatte ja zunächst Angst vor den\xfffePokémon, aber mein Opa hat mir gezeigt,\xf000븀\x0000\xfffewie lieb sie doch sind!
+Kamilla: Gehen wir. Zur Marea-Zugbrücke\xfffeist es nicht mehr weit!\xf000븁\x0000
+Cheren: Der Champ ist der Stärkste!\xfffeEine andere Antwort brauche ich nicht!\xf000븁\x0000
+Cheren: Hier entlang!\xf000븁\x0000
+Kamilla: Zeit, anzurufen!\xf000븁\x0000
+Ich bin's.\xfffeLass bitte die Zugbrücke herunter.\xf000븁\x0000\xfffeIch habe hier ein paar Trainer,\xfffedie gegen dich antreten möchten.\xf000븁\x0000\xfffeJa...\xfffeDanke!\xf000븁\x0000
+Seht mal!\xf000븁\x0000
+Kamilla: Auf mich warten Dreharbeiten,\xfffedaher verabschiede ich mich jetzt.\xf000븁\x0000\xfffeDer Arenaleiter der nächsten Stadt ist\xfffeetwas eigenwillig, also viel Glück!\xf000븁\x0000
+Cheren: Ich bin ein Trainer!\xf000븁\x0000\xfffeIch werde immer stärker und lasse\xfffemeine Siege für mich sprechen!\xf000븁\x0000\xfffeAuch der Champ wird mir bald Gehör\xfffeschenken!\xf000븁\x0000
+Eine Sekunde bitte!\xfffeBitte dort stehen bleiben!\xf000븁\x0000
+Die Zugbrücke ist jetzt hochgezogen,\xfffedamit ein paar Schiffe passieren können.\xf000븁\x0000\xfffeDu kannst sie jetzt also leider nicht\xfffeüberqueren.\xf000븁\x0000\xfffeFrag doch mal den Arenaleiter von\xfffeMarea City, ob... nein, lieber nicht.\xf000븁\x0000\xfffeAber die Arenaleiterin von Rayono City\xfffekann vielleicht helfen!
+Die Zugbrücke ist jetzt hochgezogen,\xfffedamit ein paar Schiffe passieren können.\xf000븁\x0000\xfffeDu kannst sie jetzt also leider nicht\xfffeüberqueren.\xf000븁\x0000\xfffeFrag doch mal den Arenaleiter von\xfffeMarea City, ob... nein, lieber nicht.\xf000븁\x0000\xfffeAber die Arenaleiterin von Rayono City\xfffekann vielleicht helfen!\xf000븁\x0000
+Wozu ist bitte eine Brücke gut,\xfffedie man nicht überqueren kann?!\xf000븁\x0000\xfffeEine Brücke ist doch weltweit\xfffedas Symbol der Verbundenheit!
+Meine Melodie schallt in die Welt hinaus!\xfffeMeine Pokémon sind allen im Kampf voraus!\xf000븁\x0000
+Im Kampf eben ist es mir klar geworden!\xf000븁\x0000\xfffeDu bist unschlagbar! Das gebe ich dir!\xf000븁\x0000
+
+
+Willst du deinem Pokémon eine E-Gitarre\xfffeumschnallen, dann auf ins Musiktheater!\xf000븁\x0000\xfffeDas wird ein Spitzenauftritt!
+Cheren: Ich dachte immer, nur wer stark\xfffeist, zählt etwas in der Welt.\xf000븁\x0000\xfffeUnd dann bin ich hier Lauro begegnet.\xf000븁\x0000
+Aber bei einem Pokémon-Kampf\xfffezu gewinnen, ist nicht alles!\xf000븁\x0000\xfffeSeit er mir das aufgezeigt hat,\xfffehat sich mein Horizont erweitert!\xf000븁\x0000
+Alle sind stark!\xf000븁\x0000\xfffeOb Mensch oder Pokémon,\xfffejeder hat seine besondere Stärke.\xf000븁\x0000\xfffeDie Stärke, seine Träume umzusetzen,\xfffedie Stärke, etwas zu beschützen...\xf000븁\x0000
+Dass ich jetzt so denke, habe ich dir,\xfffe\xf000Ā\x0001\x0000, Bell und nicht zuletzt\xf000븀\x0000\xfffeLauro zu verdanken!\xf000븁\x0000\xfffeIch wünschte, N könnte die Dinge\xfffeauch so sehen.\xf000븁\x0000
+Auf der Siegesstraße werde\xfffeich mich mir selbst stellen!\xf000븁\x0000\xfffeWas kann ich erreichen,\xfffewas kann aus mir werden?\xf000븁\x0000\xfffeKomm doch auch! Dann können\xfffewir gegeneinander kämpfen.\xf000븁\x0000
+Pokémon und Straßenkünstler\xfffehaben's total drauf!
+Jemandem ein Lächeln ins Gesicht zu\xfffezaubern, ist ein großer Verdienst!\xf000븁\x0000\xfffeSchon deshalb sind Pokémon so toll!\xfffeSie bringen dich stets zum Lachen!
+Straßenkünstler sind eine der\xfffeAttraktionen auf Route 5!
+Route 5\xf000븁\x0000\xfffe\xfffeHeimat der Straßenkünstler
+Marea-Zugbrücke
+
+Tipps für Trainer\xf000븁\x0000\xfffe\xfffeDein Beutel hat für jeden Item-Typ\xfffeeine Tasche.\xf000븁\x0000\xfffeJe nach Typ landen die Items\xfffeautomatisch in der richtigen Tasche.\xf000븁\x0000\xfffeDie Namen der Taschen verraten dir,\xfffewo das gewünschte Item ist.

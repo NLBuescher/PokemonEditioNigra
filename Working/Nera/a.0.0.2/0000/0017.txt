@@ -1,0 +1,52 @@
+TERAPIE
+PS/PP
+TERAPIE
+STATO
+
+
+STRUM. LOTTA
+POKÉ BALL
+Ultimo strumento usato
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+
+TERAPIE
+PS/PP
+TERAPIE
+STATO
+POKÉ BALL
+STRUM. LOTTA
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+USA
+
+
+
+
+
+
+
+
+
+
+
+
+Così non va! Non puoi prendere la mira\xfffesu due Pokémon contemporaneamente!
+Non hai più spazio nel PC!
+
+Così non va! Non puoi prendere la mira\xfffesu un Pokémon che non si vede!
+
+Non hai ancora abbastanza energia...
+Risuonano le parole della Prof.ssa Aralia:\xfffe“C'è un luogo e un momento per ogni cosa!\xf000븀\x0000\xfffeMa non qui e non ora".
+Hai bisogno di più concentrazione per\xfffelanciare le Poké Ball!

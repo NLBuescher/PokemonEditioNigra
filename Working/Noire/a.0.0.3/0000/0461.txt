@@ -1,0 +1,51 @@
+Avec le Test Combat, nous pouvons\xfffeévaluer vos combats!\xf000븁\x0000\xfffeQu'en dites-vous?
+Cher Dresseur!\xfffeTenterez-vous un Test Combat?
+Pardon...\xf000븁\x0000\xfffeMais il est peut-être encore un peu tôt\xfffepour vous mesurer au Test Combat.\xf000븁\x0000\xfffeRevenez quand vous aurez acquis plus\xfffed'expérience et de puissance.
+Bien, une prochaine fois alors.
+Préférez-vous un Combat Solo ou Duo?
+Allons-y!\xf000븁\x0000\xfffeMais faites attention, car un challenge\xfffeest constitué de 5 combats à la chaîne,\xf000븀\x0000\xfffesans aucune interruption!\xf000븁\x0000\xfffeChoisissez bien les Pokémon qui\xfffevont participer.\xf000븁\x0000
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Le Test Combat va commencer.\xfffeEntrez, je vous prie!\xf000븁\x0000
+Ouf! C'est fini!\xf000븁\x0000\xfffeJe vais annoncer le résultat\xfffede votre Test Combat.\xf000븁\x0000\xfffeAlors, le résultat est...\xf000븁\x0000
+Niveau Grand Maître!\xfffeMagnifique! Prenez-moi comme disciple!
+Niveau Élite!\xfffeVous pourrez vous en vanter!
+Niveau Hyper!\xfffeVous avez bien étudié, n'est-ce pas?
+Niveau Super.\xfffeUn résultat qui prouve votre force!
+Niveau Normal.\xfffeVous avez une force... normale.
+Niveau Novice.\xfffeEncore un petit effort?
+Niveau Débutant.\xfffeVous feriez bien de revoir les bases!
+Je vous attendais!\xf000븁\x0000\xfffeVoulez-vous tenter le Test Combat Solo\xfffeque vous avez téléchargé?
+Voulez-vous télécharger\xfffeun Test Combat spécial?
+Je ne trouve rien à télécharger qui\xfffecorresponde à votre demande.\xf000븁\x0000\xfffeQue faire?
+Le Test Combat Solo spécial\xfffeest téléchargé!\xf000븁\x0000\xfffeLe challenge se fait d'une traite,\xfffealors n'éteignez pas la console\xf000븀\x0000\xfffeen cours de route.\xf000븁\x0000
+Le Test Combat Duo spécial\xfffeest téléchargé!\xf000븁\x0000\xfffeLe challenge se fait d'une traite,\xfffealors n'éteignez pas la console\xf000븀\x0000\xfffeen cours de route.\xf000븁\x0000
+Voulez-vous combattre tout de suite?
+Alors, à bientôt!\xfffeJe vous attends!
+Le Test Combat se joue avec 3 Pokémon\xfffeen Solo, et 4 Pokémon en Duo.\xf000븁\x0000\xfffeLes Pokémon participants doivent tous\xfffeêtre différents, et il en va de même\xf000븀\x0000\xfffepour les objets tenus.\xf000븁\x0000\xfffeTous les Pokémon de cet établissement\xfffesont au niveau 50.\xf000븁\x0000\xfffeVous combattez 5 Dresseurs, après quoi\xfffenous vous donnerons le résultat\xf000븀\x0000\xfffede votre test.\xf000븁\x0000\xfffeQue souhaitez-vous faire?
+Au tour du Dresseur numéro \xf000Ȁ\x0001\x0000.\xfffeBon courage!\xf000븁\x0000
+Je vous attendais!\xf000븁\x0000\xfffeVoulez-vous tenter le Test Combat Duo\xfffeque vous avez téléchargé?
+Vous avez déjà accompli tous les\xfffeTests Combat actuellement disponibles.\xf000븁\x0000\xfffeQue faire?
+Il n'y a aucun résultat de test\xfffeà afficher en ce moment.
+Quel résultat de test\xfffesouhaitez-vous voir?
+Communication en cours. Patientez...\xfffeAppuyez sur le bouton B pour annuler.
+COMBATTRE
+INFOS
+RETOUR
+SOLO
+DUO
+TÉLÉCHARGER
+NORMAL
+SPÉCIAL
+COMBAT SOLO
+COMBAT DUO
+Résultat du test
+POINTS
+\xf000ȃ\x0001\x0000
+Niveau Débutant
+Niveau Novice
+Niveau Normal
+Niveau Super
+Niveau Hyper
+Niveau Élite
+Niveau Grand Maître
+Le téléchargement a été annulé.

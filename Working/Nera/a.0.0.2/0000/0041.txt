@@ -1,0 +1,13 @@
+Attendi...
+\xf000Ă\x0001\x0000
+\xf000Ā\x0001\x0001 ha ricevuto l'Uovo di\xfffe\xf000Ā\x0001\x0002!
+L'Uovo si è fermato su un'Area\xfffeBonus! Ricevi \xf000ĉ\x0001\x0000 in dono!
+Oh, no! La Borsa è piena...\xfffeNon c'è posto per la Bacca.
+Comunicazione in corso. Attendi...
+Un giocatore si è ritirato.\xfffeGirauovo verrà annullato.
+Il capogruppo si è ritirato.\xfffeGirauovo verrà annullato.
+Errore di comunicazione.\xfffeGirauovo verrà annullato.
+Il tempo è scaduto.\xfffeGirauovo verrà annullato.
+Comunicazione in corso. Attendi...
+Salvataggio in corso.\xfffeNon spegnere la console.
+C'è un Uovo che non si può scambiare.\xfffeIl gioco verrà interrotto.

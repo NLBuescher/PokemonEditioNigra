@@ -1,0 +1,6 @@
+Dieser Splitter ist ein Wirklichkeit\xfffegewordenes Fragment des Traumes\xf000븀\x0000\xfffedeines Pokémon.\xf000븁\x0000\xfffeBitte sehr, der ist für dich.\xf000븁\x0000
+Ich habe dir bereits sämtliche\xfffeTraumsplitter überreicht.\xf000븁\x0000\xfffeKomm zurück, wenn eins deiner\xfffePokémon wieder einen Traum hatte!
+Komm zurück, wenn eins deiner\xfffePokémon wieder einen Traum hatte!
+\xf000Ā\x0001\x0000 hat Item(s) erhalten!
+In deiner Tasche ist anscheinend kein\xfffePlatz mehr für \xf000ĉ\x0001\x0000.\xf000븁\x0000\xfffeIch werde dir den Traumsplitter geben,\xfffesobald du weniger \xf000ĉ\x0001\x0000 hast.\xf000븁\x0000
+ x \xf000Ȁ\x0001\x0000

@@ -1,0 +1,25 @@
+Bonjour! Bienvenue au\xfffeCentre Pokémon.\xf000븁\x0000\xfffeNous pouvons soigner vos Pokémon...\xfffeVoulez-vous les soigner?
+Bonjour! Bienvenue au\xfffeCentre Pokémon.\xf000븁\x0000\xfffeNous pouvons soigner vos Pokémon...\xfffeVoulez-vous les soigner?
+Bonjour! Bienvenue au\xfffeCentre Pokémon.\xf000븁\x0000\xfffeNous pouvons soigner vos Pokémon...\xfffeVoulez-vous les soigner?
+Bonjour, bienvenue au Centre Pokémon.\xfffeOh, mais c'est votre anniversaire?!
+Joyeux anniversaire!\xf000븁\x0000\xfffeLe Centre Pokémon est toujours\xfffeheureux de pouvoir vous servir!\xf000븁\x0000\xfffeVoulez-vous soigner vos Pokémon?
+Oh, je me suis trompée...\xfffeVeuillez m'excuser!\xf000븁\x0000\xfffeVoulez-vous soigner vos Pokémon?
+OK, je prends vos Pokémon un instant.
+Merci d'avoir attendu. Vos Pokémon sont\xfffeen super forme, maintenant.\xf000븁\x0000
+À bientôt!
+Bonjour! Bienvenue au Centre Pokémon.\xf000븁\x0000\xfffeNous pouvons soigner vos Pokémon.\xfffeVoulez-vous...?\xf000븁\x0000
+Cette... Carte de Dresseur!\xf000븁\x0000\xfffeQuelle couleur!\xfffeEt ce brillant!\xf000븁\x0000\xfffeJ'ai déjà vu plusieurs Dresseurs avec\xfffeune carte Argent...\xf000븁\x0000\xfffeMais vous les surpassez tous\xfffeavec cette carte-ci.\xf000븁\x0000\xfffeS'il vous plaît, \xf000Ā\x0001\x0000, puis-je\xfffeavoir l'honneur de soigner vos\xf000븀\x0000\xfffePokémon?
+Vous revoilà, \xf000Ā\x0001\x0000!\xfffeMême chose, comme d'habitude?
+Ton Pokémon a peut-être attrapé\xfffele Pokérus.\xf000븁\x0000\xfffeOn sait peu de choses sur les Pokérus,\xfffesi ce n'est qu'il s'agit d'organismes\xf000븀\x0000\xfffevivants microscopiques se fixant sur\xf000븀\x0000\xfffeles Pokémon.\xf000븁\x0000\xfffeIl paraît que les Pokémon contaminés se\xfffedéveloppent incroyablement bien.
+Bienvenue à la Salle Union du\xfffeClub Sans Fil Pokémon.\xf000븁\x0000\xfffeIci, vous pouvez interagir avec\xfffeplein de Dresseurs.\xf000븁\x0000\xfffeSouhaitez-vous entrer?
+Quand vous entrez dans la Salle Union,\xfffevous retrouvez les autres Dresseurs à\xf000븀\x0000\xfffeproximité qui y ont également pénétré.\xf000븁\x0000\xfffeVous pouvez y combattre à 2 ou à 4,\xfffeou y faire des échanges de Pokémon.\xf000븁\x0000\xfffeVous pouvez aussi y échanger des Œufs\xfffede Pokémon et dessiner à plusieurs.\xf000븁\x0000\xfffeVous pouvez aussi faire du Tchat avec\xfffeles autres Dresseurs dans la salle\xf000븁\x0000\xfffeet repérer vos amis en touchant les\xfffephrases qu'ils ont prononcées.\xf000븁\x0000\xfffeVoulez-vous entrer dans la salle?
+La communication sans fil DS va démarrer.
+Amusez-vous bien dans la Salle Union.\xf000븁\x0000
+À bientôt, j'espère.
+ENTRER
+RETOUR
+INFORMATIONS
+Désolée, mais vous ne pouvez pas encore\xfffeentrer dans la Salle Union.\xf000븁\x0000
+Au moins un de vos Pokémon ne peut pas\xfffeêtre pris.\xf000븁\x0000
+Au fait, il y a toujours écrit “Dresseur"\xfffesur votre Carte de Dresseur!\xf000븁\x0000\xfffeVous pouvez changer votre Titre pour\xfffeque vos amis puissent le voir\xf000븀\x0000\xfffedans la Salle Union.\xf000븁\x0000\xfffePar exemple...\xfffePour vous, je pense que \xf000Ď\x0001\x0000\xf000븀\x0000\xfffeconviendrait bien, non?\xf000븁\x0000\xfffeC'est juste mon impression personnelle.\xfffeAlors, changeons votre Titre.\xf000븁\x0000\xfffeSi celui-ci ne vous convient pas,\xfffevous pourrez toujours le modifier\xf000븁\x0000\xfffeen touchant le Titre sur votre\xfffeCarte de Dresseur!\xf000븁\x0000
+Ceci ne peut pas encore être utilisé.

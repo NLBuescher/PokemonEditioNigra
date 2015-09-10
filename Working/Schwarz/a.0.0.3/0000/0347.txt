@@ -1,0 +1,55 @@
+Äh...\xfffeW-wer ich bin, willst du wissen?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAch so... ja, genau!\xfffeIch bin der Attacken-Verlerner!\xf000븁\x0000
+Soll ich eines deiner Pokémon eine\xfffeAttacke vergessen lassen?
+Welches Pokémon soll eine\xfffeAttacke vergessen?\xf000븁\x0000
+Komm wieder, wenn du möchtest,\xfffedass eines deiner Pokémon eine\xf000븀\x0000\xfffeAttacke vergisst.
+Dieses Pokémon kennt nur eine Attacke,\xfffedaher kann es keine vergessen...\xf000븁\x0000
+Was?\xfffeEin Ei kennt doch keine Attacken!\xf000븁\x0000
+Welche Attacke soll vergessen werden?\xf000븁\x0000
+Hm! \xf000ć\x0001\x0000?\xfffeDiese Attacke vergessen?
+Das klappte doch perfekt!\xf000븁\x0000\xfffeDein Pokémon hat \xf000ć\x0001\x0000\xfffekomplett vergessen.
+
+
+
+
+
+
+
+
+
+
+
+An welche Attacke soll \xf000Ă\x0001\x0000\xfffesich erinnern?\xf000븁\x0000
+Soll es sich an die Attacke\xfffe\xf000ć\x0001\x0001 erinnern?
+Soll \xf000Ă\x0001\x0000 sich doch\xfffenicht an die Attacke erinnern?
+\xf000Ă\x0001\x0000 erinnert sich wieder\xfffean die Attacke \xf000ć\x0001\x0001!\xf000븁\x0000
+\xf000Ă\x0001\x0000 möchte sich an die\xfffeAttacke \xf000ć\x0001\x0001 erinnern.\xf000븁\x0000\xfffeAber \xf000Ă\x0001\x0000 kann nur\xfffevier Attacken lernen.\xf000븁\x0000\xfffeSoll eine Attacke vergessen werden,\xfffedamit es \xf000ć\x0001\x0001 lernen kann?
+Eins,\xf000븂\x0001\x0014 zwei\xf000븂\x0001\x0014 und\xf000븂\x0001\x0014... schwupp!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 hat \xf000ć\x0001\x0001\xfffevergessen.\xf000븁\x0000\xfffeUnd...\xf000븁\x0000
+\xf000Ă\x0001\x0000 erinnert sich wieder\xfffean die Attacke \xf000ć\x0001\x0001!\xf000븁\x0000
+Soll das Pokémon sich doch nicht an\xfffedie Attacke \xf000ć\x0001\x0001 erinnern?
+\xf000Ă\x0001\x0000 kann sich nicht an die\xfffeAttacke \xf000ć\x0001\x0001 erinnern.\xf000븁\x0000
+\xf000Ā\x0001\x0000 gibt im Austausch dafür\xfffeeine Herzschuppe ab.
+Bist du einverstanden, dass das\xfffePokémon \xf000ć\x0001\x0000 vergisst?
+Mich nennen alle Fräulein Erinnerung.\xf000븁\x0000\xfffeIch kenne nämlich alle Attacken, die die\xfffePokémon beim Heranwachsen erlernen,\xf000븀\x0000\xfffeund ich kann dafür sorgen, dass sie\xf000븀\x0000\xfffesich wieder an sie erinnern können!\xf000븁\x0000\xfffeIm Tausch gegen ein Item namens\xfffeHerzschuppe helfe ich dem Gedächtnis\xf000븀\x0000\xfffeeines Pokémon gern auf die Sprünge!\xf000븁\x0000
+Soll sich eines deiner Pokémon wieder\xfffean eine Attacke erinnern?
+Welches Pokémon soll sich wieder\xfffean eine Attacke erinnern?\xf000븁\x0000
+Komm mit einer Herzschuppe wieder, wenn\xfffeich einem Pokémon mit einer alten\xf000븀\x0000\xfffeAttacke auf die Sprünge helfen soll!
+Das ist aber doch ein Ei!
+Dieses Pokémon hat noch keine Attacke\xfffevergessen.
+
+STÄRKE
+GENAU.
+AP
+
+
+
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+
+---
+ZURÜCK
+LERNEN
+
+\xf000Ă\x0001\x0000
+Ｌｖ. \xf000Ȃ\x0001\x0000
+ERLERNTE ATT.

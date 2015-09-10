@@ -1,0 +1,51 @@
+¡El Test de Combate evalúa tus aptitudes\xfffepara los combates Pokémon!\xf000븁\x0000\xfffe¿Quieres realizar el test?
+¡Muy buenas!\xfffe¿Quieres hacer un Test de Combate?
+Disculpa...\xf000븁\x0000\xfffePuede que aún estés un poco verde\xfffepara hacer un Test de Combate.\xf000븁\x0000\xfffeVuelve cuando hayas acabado todo lo que\xfffetienes entre manos y te hayas hecho\xf000븀\x0000\xfffemás fuerte.
+Vale, hasta otra.
+¿Qué modalidad de combate quieres\xfffeprobar? ¿Individual o Doble?
+Muy bien, comencemos.\xf000븁\x0000\xfffeEl test consiste en cinco combates\xfffeseguidos, sin descanso entre ellos.\xf000븁\x0000\xfffeTe recomiendo que luches con prudencia.\xf000븁\x0000\xfffeAhora elige los Pokémon con los que\xfffequieres combatir.\xf000븁\x0000
+Guardando...\xfffeNo apagues la consola.
+Demos comienzo al Test de Combate.\xfffePasa, por favor.\xf000븁\x0000
+Ya hemos terminado.\xf000븁\x0000\xfffeEn unos instantes tendré listo\xfffeel resultado del test.\xf000븁\x0000\xfffeTu resultado en el Test de Combate es...\xf000븁\x0000
+¡Oh! ¡Tienes el Nivel Maestro!\xfffe¡Es admirable! ¿Puedo ser tu discípulo?
+¡Tienes el Nivel Élite!\xfffe¡Podrás presumir ante tus amigos!
+¡Tienes el Nivel Avanzado!\xfffeHas practicado mucho, ¿eh?
+¡Tienes el Nivel Alto!\xfffe¡Se nota que eres bastante fuerte!
+Tienes el Nivel Normal.\xfffePodría decirse que eres fuerte.
+Tienes el Nivel Principiante.\xfffeAún te falta práctica.
+Tienes el Nivel Aficionado.\xfffeNecesitas aprender las técnicas básicas.
+¡Te estaba esperando!\xf000븁\x0000\xfffe¿Quieres probar el Test de Combate\xfffeIndividual que has descargado?
+¿Quieres descargar un Test de Combate\xfffeespecial?
+No he encontrado nada que puedas\xfffedescargar.\xf000븁\x0000\xfffe¿Qué quieres hacer?
+¡Has descargado un Test de Combate\xfffeIndividual especial!\xf000븁\x0000\xfffeEste test debe realizarse de una vez.\xf000븁\x0000\xfffeNo apagues la consola hasta que\xfffelo hayas terminado.\xf000븁\x0000
+¡Has descargado un Test de Combate\xfffeDoble especial!\xf000븁\x0000\xfffeEste test debe realizarse de una vez.\xf000븁\x0000\xfffeNo apagues la consola hasta que\xfffelo hayas terminado.\xf000븁\x0000
+¿Quieres hacer el test ya mismo?
+De acuerdo.\xfffe¡Vuelve cuando quieras!
+Para realizar el Test de Combate,\xfffenecesitas tres Pokémon para los\xf000븀\x0000\xfffeCombates Individuales y cuatro\xf000븀\x0000\xfffepara los Combates Dobles.\xf000븁\x0000\xfffeAquí todos los Pokémon luchan\xfffecon Nivel 50.\xf000븁\x0000\xfffeEn el combate, deben ser todos\xfffediferentes, y los objetos que lleven\xf000븀\x0000\xfffetampoco pueden ser iguales.\xf000븁\x0000\xfffeTras luchar contra cinco Entrenadores\xfffeseguidos, te daré el resultado del\xf000븀\x0000\xfffeTest de Combate.\xf000븁\x0000\xfffe¿Qué quieres hacer?
+Vamos con el Entrenador n.º \xf000Ȁ\x0001\x0000.\xfffe¡Buena suerte!\xf000븁\x0000
+¡Te estaba esperando!\xf000븁\x0000\xfffe¿Quieres probar con el Test de Combate\xfffeDoble que has descargado?
+Ya has realizado todos los Test\xfffede Combate disponibles.\xf000븁\x0000\xfffe¿Qué quieres hacer?
+No hay ningún resultado para mostrar.
+¿De qué test quieres ver el resultado?
+Comunicación en curso... No apagues\xfffela consola. Botón B: Cancelar
+REALIZAR EL TEST
+INFORMACIÓN
+SALIR
+INDIVIDUAL
+DOBLE
+DESCARGAR
+NORMAL
+ESPECIAL
+C. INDIVIDUAL
+C. DOBLE
+RESULTADO
+PUNTOS
+\xf000ȃ\x0001\x0000
+Nivel Aficionado
+Nivel Principiante
+Nivel Normal
+Nivel Alto
+Nivel Avanzado
+Nivel Élite
+Nivel Maestro
+¡Se ha cancelado la descarga!

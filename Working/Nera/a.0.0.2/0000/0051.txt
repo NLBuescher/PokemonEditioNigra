@@ -1,0 +1,16 @@
+L'indice di affinità tra te e \xf000Ā\x0001\x0000 è...
+RISULTATI
+Il riconoscimento tattile non è riuscito.\xfffeRiprova seguendo le tracce sullo schermo.
+Il vostro indice di affinità è I!\xfffeVi scambiate saluti di cortesia.
+Il vostro indice di affinità è H!\xfffeNon vi siete del tutto indifferenti.
+Il vostro indice di affinità è G!\xfffePotreste fare una passeggiata insieme.
+Il vostro indice di affinità è F!\xfffePotreste chiamarvi per soprannome.
+Il vostro indice di affinità è E!\xfffePotrebbe nascere una bella amicizia.
+Il vostro indice di affinità è D!\xfffePotreste chiamarvi per darvi la buonanotte.
+Il vostro indice di affinità è C!\xfffePotreste fare un viaggio assieme.
+Il vostro indice di affinità è B!\xfffeAvreste un rapporto invidiabile.
+Il vostro indice di affinità è A!\xfffeNon vi servono parole per capirvi.
+Il vostro indice di affinità è S!\xfffeSiete partner perfetti, uniti dal destino!
+\xf000Ā\x0001\x0000 mette \xf000ĉ\x0001\x0001 nella\xfffeTasca \xf000\xff00\x0001\x0002Rimedi\xf000\xff00\x0001\x0000. Quantità: \xf000Ȁ\x0001\x0002.
+\xf000Ā\x0001\x0000 mette \xf000ĉ\x0001\x0001 nella\xfffeTasca \xf000\xff00\x0001\x0002Rimedi\xf000\xff00\x0001\x0000. Quantità: \xf000Ȁ\x0001\x0002.
+Non c'è più spazio nella tua Borsa!\xfffeChe peccato!

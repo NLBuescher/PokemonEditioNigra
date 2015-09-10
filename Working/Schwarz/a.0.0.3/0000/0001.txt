@@ -1,0 +1,7 @@
+\xf000봂\x0000SPIELER: \xf000Ā\x0001\x0000
+\xf000봂\x0000Dieses Dokument bescheinigt dir,\xfffe\xf000봂\x0000dass du erfolgreich alle Pokémon\xfffe\xf000봂\x0000der Einall-Region eingefangen\xfffe\xf000봂\x0000hast.
+
+\xf000봂\x0000Die Belegschaft\xfffe\xf000봂\x0000von GAME FREAK
+SPIELER: \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000Die Belegschaft\xfffe\xf000봃\x0001\x0000von GAME FREAK
+Dieses Dokument bescheinigt\xfffedie erfolgreiche\xfffeVervollständigung des\xfffeNationalen Pokédex.

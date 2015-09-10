@@ -1,0 +1,111 @@
+NOME
+
+NATURA
+POKÉDEX
+SOLDI
+Nº ID 
+TEMPO DI GIOCO
+INIZIO AVVENTURA
+DEBUTTO SALA D'ONORE 
+COLLEGAMENTI
+LOTTE IN LINK
+LOTTE IN LINK VINTE
+LOTTE IN LINK PERSE
+SCAMBI IN LINK
+POKÉMON APPARSI
+ALLENATORI INCONTRATI
+CONTATTI
+CONTROLLO AFFINITÀ
+PASSAPOTERI
+PARTECIPAZIONI POKÉMUSICAL
+RECORD POKÉTRASPORTO
+RECORD ESAME DI LOTTA
+
+:
+--/--/----  --:--
+
+
+
+
+
+
+Ardita
+Schiva
+Audace
+Decisa
+Birbona
+Sicura
+Docile
+Placida
+Scaltra
+Fiacca
+Timida
+Lesta
+Seria
+Allegra
+Ingenua
+Modesta
+Mite
+Quieta
+Ritrosa
+Ardente
+Calma
+Gentile
+Vivace
+Cauta
+Furba
+
+$\xf000Ȇ\x0001\x0000
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
+\xf000Ȃ\x0001\x0000
+Capipalestra di Levantopoli:\xfffeMaisello, Chicco e Spighetto
+Il terzetto invincibile
+La compatibilità fra Pokémon\xfffeè alla base di tutto! Ricordalo!
+Capopalestra di Zefiropoli:\xfffeAloé
+Una mamma nata
+La curiosità è il sale della vita; se manca\xfffenon c'è gusto!
+Capopalestra di Austropoli:\xfffeArtemisio
+Un artista ed entomologo dilettante
+Idea! Perché non usi i Pokémon di tipo\xfffeColeottero?
+Capopalestra di Sciroccopoli:\xfffeCamelia
+Una beltà splendente
+Ti auguro di restare una persona radiosa.
+Capopalestra di Libecciopoli:\xfffeRafan
+Il signore del sottosuolo
+Vorrei vivere sempre fedele a me stesso\xfffee ai Pokémon.
+Capopalestra di Ponentopoli:\xfffeAnemone
+La signora del vento
+Tutto il mondo è lì che ti sorride.
+Capopalestra di Mistralopoli:\xfffeSilvestro
+La maschera di ghiaccio
+Né solo caldo, né solo freddo...\xfffeEsercita la tua volontà su entrambi!
+Capopalestra di Boreduopoli:\xfffeAristide
+Un sindaco inflessibile
+Allenatore dal cuore puro, diventa forte\xfffesenza compromessi!
+Capopalestra di Boreduopoli:\xfffeIris
+Una ragazza dal cuore di drago
+Sei veramente forte, mi ricorderò di te!
+Medaglia Tris\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 20.
+
+Medaglia Base\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 30.
+
+Medaglia Scarabeo\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 40.
+
+Medaglia Volt\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 50.
+
+Medaglia Sisma\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 60.
+
+Medaglia Jet\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 70.
+
+Medaglia Stalattite\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio fino al livello 80.
+
+Medaglia Leggenda\xfffeOttenuta: \xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+Ti obbediscono tutti i Pokémon ottenuti\xfffecon lo scambio.

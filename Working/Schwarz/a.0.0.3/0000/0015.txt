@@ -1,0 +1,50 @@
+Ich stelle mich am besten noch mal vor.\xf000븁\x0000\xfffeMein Name ist Vivian. Wie du sehen kannst,\xfffebin ich Wissenschaftlerin.\xf000븁\x0000\xfffeBei meinen Forschungen beschäftige ich\xfffemich übrigens mit dem Pokémon-Training!\xf000븁\x0000\xfffeMit Prof. Esche bin ich schon seit\xfffeunserer Studienzeit befreundet.\xf000븁\x0000\xfffeSie hat mich gebeten,\xfffeeuch zu unterstützen.\xf000븁\x0000
+Und das tue ich dann auch gleich mal!\xf000븁\x0000\xfffeHier, das sollte sich als nützlich\xfffeerweisen. Eine Versteckte Maschine!\xf000븁\x0000
+
+
+
+Die Pokémon können auch Attacken\xfffeerlernen, die außerhalb des Kampfes\xf000븀\x0000\xfffeeinsetzbar sind.\xf000븁\x0000\xfffeMit dieser VM kannst du deinen Pokémon\xfffedie Attacke Zerschneider beibringen,\xf000븀\x0000\xfffemit der man kleine Bäume fällt.\xf000븁\x0000\xfffeUnd genau wie die Technischen Maschinen\xfffekannst du die Versteckten Maschinen so\xf000븀\x0000\xfffeoft benutzen, wie du willst! Toll, was?\xf000븁\x0000\xfffeAllerdings ist es schwierig, mit einer VM\xfffeerlernte Attacken wieder zu vergessen.\xf000븁\x0000
+Äh, und dürfte ich dich vielleicht\xfffeum einen klitzekleinen Gefallen bitten?\xf000븁\x0000\xfffeIn der Nähe von Orion City liegt\xfffedie sogenannte Traumbrache.\xf000븁\x0000\xfffeDort findet man ein Pokémon namens\xfffeSomniam, welches den Traumdunst\xf000븀\x0000\xfffeabsondert! Und den will ich haben!\xf000븁\x0000\xfffeMithilfe dieses Dunstes steht uns nämlich\xfffedie \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000 zur Verfügung!\xf000븁\x0000\xfffeWir sind dann in der Lage, die Daten\xfffeverschiedener Trainer zu sammeln!
+Vivian: Prof. Esche hat dich gebeten,\xfffeden Pokédex zu vervollständigen, oder?\xf000븁\x0000\xfffeGanz schön viel Arbeit, ständig für\xfffeneue Einträge zu sorgen, was?\xf000븁\x0000\xfffeHuch! Aber ich schweife ab.\xf000븁\x0000\xfffeGeh zur Traumbrache und besorg mir\xfffeden Traumdunst, den Somniam\xf000븀\x0000\xfffeabsondert. Bitte, bitte, bitte!
+Vivian: Ta-daaa!\xf000븁\x0000\xfffeDank euch bin ich endlich im Besitz\xfffedes Traumdunstes.\xf000븁\x0000\xfffeDamit können wir jetzt die Daten\xfffeverschiedener Trainer sammeln! Spitze!\xf000븁\x0000\xfffeZum Dank habe ich es so eingerichtet,\xfffedass du ab jetzt das C-Gear verwenden\xf000븀\x0000\xfffekannst.\xf000븁\x0000\xfffeMithilfe des C-Gears kannst du per\xfffeInfrarotverbindung, Drahtloser\xf000븀\x0000\xfffeDatenübertragung usw. kommunizieren.\xf000븁\x0000
+\xf000Ā\x0001\x0000 erhält das \xf000\xff00\x0001\x0002C-Gear\xf000\xff00\x0001\x0000!
+Möchtest du das C-Gear einschalten\xfffeund die Übertragung ermöglichen?
+Ja
+Nein
+Das C-Gear wird vorläufig deaktiviert.\xfffeEinverstanden?
+Die drahtlose Verbindung ist\xfffedeaktiviert (AUS). Aktiviere die\xf000븀\x0000\xfffedrahtlose Verbindung in den\xf000븀\x0000\xfffeSystemeinstellungen (EIN).\xf000븀\x0000\xfffe(Fehler-Code: 50699)\xf000븁\x0000
+Schau mal! Das C-Gear ist jetzt aktiv und\xfffeder entsprechende Bildschirm erschienen!\xf000븁\x0000\xfffeWenn du das „?“ rechts unten berührst,\xfffekannst du dir sämtliche Erklärungen\xf000븀\x0000\xfffezum C-Gear durchlesen!\xf000븁\x0000
+Willst du das C-Gear in Betrieb nehmen,\xfffemusst du dazu das Einschaltsymbol\xf000븀\x0000\xffferechts unten berühren.\xf000븁\x0000\xfffeSobald du es eingeschaltet hast, kannst\xfffedu das „?“ rechts unten berühren,\xf000븀\x0000\xfffeum dir die Erklärungen durchzulesen.\xf000븁\x0000
+Also, zum Thema \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000...\xf000븁\x0000\xfffeIch würde dir gern ein paar Dinge\xfffezu diesem System erklären, das uns\xf000븀\x0000\xfffeerlaubt, die Daten verschiedener\xf000븀\x0000\xfffeTrainer zu sammeln.\xf000븁\x0000\xfffeKannst du dir noch etwas Zeit nehmen?
+Entschuldige bitte!\xfffeAber ich freue mich so, ich muss dir\xf000븀\x0000\xfffeeinfach alles erklären!\xf000븁\x0000\xfffeSchließlich sind wir jetzt endlich zu\xfffewirklich Bahnbrechendem in der Lage!\xf000븁\x0000
+Die \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000 ermöglicht unter\xfffeVerwendung des Traumdunstes\xf000븀\x0000\xfffeden Zugriff auf die Erinnerungen\xf000븀\x0000\xfffeschlafender Pokémon!\xf000븁\x0000\xfffeGenau! So können wir Daten von\xfffeTrainern aus aller Welt sammeln!\xf000븁\x0000
+Aber das ist noch nicht alles!\xf000븁\x0000\xfffePokémon, die per \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000 schlafen\xfffegeschickt wurden, träumen im Schlaf.\xf000븁\x0000\xfffeUnd wenn du so ein Pokémon dann weckst,\xfffewird sein Traum in der \xf000\xff00\x0001\x0001Kontaktebene\xf000\xff00\x0001\x0000,\xf000븀\x0000\xfffedie im Zentrum der Einall-Region liegt,\xf000븀\x0000\xfffeRealität!\xf000븁\x0000\xfffeDie Spielsynchro ist schon was Tolles,\xfffeoder? Hat dies dein Interesse geweckt?\xf000븁\x0000\xfffeWenn dich das Ganze interessiert,\xfffedann schick auch du deine Daten!\xf000븁\x0000\xfffeAlle Einzelheiten habe ich im PC dort\xfffehinten zusammengefasst, also wirf\xf000븀\x0000\xfffedoch mal einen Blick darauf!\xf000븁\x0000
+Vivian: Die \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000 ist schon\xfffewas Tolles, oder? Neugierig?\xf000븁\x0000\xfffeWenn dich das Ganze interessiert,\xfffedann schick auch du deine Daten!\xf000븁\x0000\xfffeAlle Einzelheiten habe ich im PC dort\xfffehinten zusammengefasst, also wirf\xf000븀\x0000\xfffedoch mal einen Blick darauf!
+Vivian: Oh, du hast mir ja auch deine\xfffeDaten geschickt!\xf000븁\x0000\xfffeIch war tatsächlich so in die Auswertung\xfffeverschiedener Trainer-Daten vertieft,\xf000븀\x0000\xfffeda habe ich deine erst jetzt bemerkt!\xf000븁\x0000\xfffeUnd? Die \xf000\xff00\x0001\x0002Spielsynchro\xf000\xff00\x0001\x0000 ist schon\xfffewas Tolles, oder?
+
+
+Bist du ein Trainer?\xf000븁\x0000\xfffeDann verwendest du doch sicher ab\xfffeund an den PC im Pokémon-Center?\xf000븁\x0000\xfffeIch verwalte die Boxen,\xfffeund mein Name ist Rubina.\xf000븁\x0000\xfffeSag mal, weißt du über die Kampfbox\xfffeBescheid?
+Rubina: Großartig!\xf000븁\x0000\xfffeIn der Kampfbox kannst du die\xfffePokémon registrieren, die du\xf000븀\x0000\xfffehäufig im Kampf einsetzt.
+Rubina: Also, kurz und knapp:\xf000븁\x0000\xfffeIn der Kampfbox kannst du die\xfffePokémon registrieren, die du\xf000븀\x0000\xfffehäufig im Kampf einsetzt.
+Rubina: Du musst unbedingt die Kampfbox\xfffebenutzen, du wirst sie lieben!\xf000븁\x0000\xfffeDu kannst deine Pokémon an\xfffedem PC dort registrieren!
+Rubina: Oh, Trainer!\xf000븁\x0000\xfffeVielen Dank, dass du meiner\xfffeSchwester geholfen hast!\xf000븁\x0000\xfffeHier, ein kleines Dankeschön.\xfffeNur keine falsche Bescheidenheit!\xf000븁\x0000
+Über die Nintendo Wi-Fi Connection kannst\xfffedu mit allen im Adressbuch eingetragenen\xf000븀\x0000\xfffeFreunden Pokémon-Kämpfe bestreiten\xf000븀\x0000\xfffeund Pokémon tauschen.\xf000븁\x0000\xfffeWie das genau geht? Ganz einfach!\xf000븁\x0000\xfffeTrage den Freundescode des Freundes,\xfffeden du registrieren möchtest, entweder\xf000븀\x0000\xfffemanuell in das Adressbuch in deiner\xf000븀\x0000\xfffeBasis-Items-Tasche ein\xf000븀\x0000\xfffeoder registriere ihn über die\xf000븀\x0000\xfffeInfrarotverbindung des C-Gears!\xf000븁\x0000
+Rubina: Hast du Fragen?
+In der Kampfbox kannst du bis zu sechs\xfffePokémon registrieren, die du häufig im\xf000븀\x0000\xfffeKampf einsetzt.\xf000븁\x0000\xfffeTrägst du einen Kampf über die Infrarot-\xfffeverbindung aus, kannst du wählen, ob\xf000븀\x0000\xfffedu mit den Pokémon aus der Kampfbox\xf000븀\x0000\xfffeantreten willst, oder ob du deine\xf000븀\x0000\xfffeaktuellen Team-Pokémon einsetzen willst.
+Freunde zu registrieren ist ganz einfach!\xf000븁\x0000\xfffeTrage den Freundescode entweder manuell\xfffein das Adressbuch in deiner\xf000븀\x0000\xfffeBasis-Items-Tasche ein\xf000븀\x0000\xfffeoder registriere den Freund über die\xf000븀\x0000\xfffeInfrarot-Verbindung des C-Gears!
+Schnapp dir Pokémon um Pokémon\xfffeund fülle die Boxen!
+Kampfbox
+Adressbuch
+Zurück
+Trainer! Verwendest du ab und\xfffean den PC im Pokémon-Center?\xf000븁\x0000\xfffeIch verwalte nämlich die Boxen.\xf000븁\x0000\xfffeSag mal, weißt du über die Kampfbox\xfffeBescheid?
+C-Gear-Anleitung\xf000븁\x0000\xfffeWenn du Fragen zur Steuerung hast,\xfffeberühre das „?“ auf dem Bildschirm!
+Was ist das Pokémon-Lagerungssystem?\xf000븁\x0000\xfffeDas Pokémon-Lagerungssystem,\xfffewelches über den PC bedient wird,\xf000븀\x0000\xfffehat Bill aus der Kanto-Region entwickelt.
+
+Auf dem PC-Monitor ist nichts zu sehen.
+Vivians Notizen\xf000븁\x0000
+Über welches Thema möchtest du\xfffeetwas lesen?
+Spielsynchro
+Träume der Pokémon
+Zurück
+Info zur Spielsynchro\xf000븁\x0000\xfffeEin System, das es über die Nintendo\xfffeWi-Fi Connection erlaubt, die auf\xf000븀\x0000\xfffeErinnerungen schlafen geschickter\xf000븀\x0000\xfffePokémon basierenden Daten von\xf000븀\x0000\xfffeTrainern weltweit zu sammeln.\xf000븁\x0000\xfffeBerühre auf dem C-Gear-Bildschirm\xfffeWLAN und die Schaltfläche für die\xf000븀\x0000\xfffe\xf000\xff00\x0001\x0001Spielsynchro\xf000\xff00\x0001\x0000 erscheint.\xf000븁\x0000\xfffeWähle dann das Pokémon aus, welches du\xfffeschlafen schicken möchtest, und sende\xf000븀\x0000\xfffeüber die Nintendo WFC deine Daten.\xf000븁\x0000\xfffeDie Anzahl der Pokémon, die du schlafen\xfffeschicken kannst, nimmt mit\xf000븀\x0000\xfffevoranschreitendem Forschungsstand zu.\xf000븁\x0000
+Info zu den Träumen der Pokémon\xf000븁\x0000\xfffePokémon, die per Spielsynchro schlafen\xfffegeschickt wurden, träumen im Schlaf.\xf000븁\x0000\xfffeWenn du solch ein Pokémon dann weckst,\xfffewird sein Traum in der \xf000\xff00\x0001\x0001Kontaktebene\xf000\xff00\x0001\x0000,\xf000븀\x0000\xfffedie im Zentrum der Einall-Region liegt,\xf000븀\x0000\xfffeRealität!\xf000븁\x0000

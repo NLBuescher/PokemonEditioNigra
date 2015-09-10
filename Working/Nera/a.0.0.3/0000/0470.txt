@@ -1,0 +1,26 @@
+Il Club Wi-Fi Pokémon ti dà il benvenuto!\xf000븁\x0000\xfffeVuoi usare la Nintendo Wi-Fi Connection?
+Torna a trovarci.
+Vuoi collegarti alla Nintendo Wi-Fi\xfffeConnection?
+Prego, da questa parte!\xf000븁\x0000
+Sì?\xf000븁\x0000\xfffeSpiacente, ma non c'è nessun amico\xffferegistrato nel tuo Blocco Amici.\xf000븁\x0000\xfffeSenza amici registrati, non puoi usufruire\xfffedei servizi del Club Wi-Fi.\xf000븁\x0000\xfffeIntanto vuoi vedere il tuo codice amico?\xf000Ȁ\x0001\x0000
+Sì?\xf000븁\x0000\xfffeSpiacente, ma non c'è nessun amico\xffferegistrato nel tuo Blocco Amici.\xf000븁\x0000\xfffeSenza amici registrati, non puoi usufruire\xfffedei servizi del Club Wi-Fi.\xf000븁\x0000\xfffeRegistra qualche amico nel tuo Blocco\xfffeAmici.\xf000븁\x0000
+Nel Club Wi-Fi puoi divertirti a fare lotte\xfffeo scambi di Pokémon con le persone\xf000븀\x0000\xffferegistrate nel Blocco Amici.\xf000븁\x0000\xfffeGrazie al monitor che trovi al suo interno\xfffepuoi cercare persone con i tuoi stessi\xf000븀\x0000\xfffeinteressi, oppure invitare direttamente\xf000븀\x0000\xfffegli amici a giocare con te.\xf000븁\x0000\xfffeVuoi usare la Nintendo Wi-Fi Connection?
+Il servizio non è attivo al momento.\xfffeRiprova più tardi.
+Hai almeno un Pokémon che non può essere\xfffeusato.
+Errore di comunicazione.
+Vai al Club Wi-Fi
+Regole
+Esci
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+
+
+\xf000Ā\x0001\x0000 sucht jemanden zum\xfffeKämpfen.
+\xf000Ā\x0001\x0000 sucht jemanden zum\xfffeTauschen.
+
+Was möchtest du tun?
+Suche Teilnehmer...
+Einladung zurückziehen?
+Warte auf Verbindung.\xfffeEinen Augenblick bitte...
+
+
+\xf000Ā\x0001\x0000 hat den Voicechat\xfffeaktiviert. Du kannst mit ihm sprechen.
+\xf000Ā\x0001\x0000 scheint gerade\xfffebeschäftigt zu sein...
+Verbindung mit \xf000Ā\x0001\x0000 ist\xfffenicht möglich.
+Kommuniziere mit \xf000Ā\x0001\x0000...
+\xf000Ā\x0001\x0000 antwortet nicht...
+\xf000Ā\x0001\x0000 hat den Voicechat\xfffebeendet.
+Möchtest du diesen Voicechat beenden?
+
+
+
+
+Kampf
+
+
+Tausch
+
+Voicechat
+
+
+
+
+Zurück
+\xf000Ā\x0001\x0000
+
+KAMPFERGEBNISSE
+GEW.:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+VERL.:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+⒆⒇-TAUSCHE:
+\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+
+
+ZULETZT GESPIELT:
+
+\xf000ȁ\x0001\x0002. \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+
+\xf000Ā\x0001\x0000 möchte sich\xfffedir anschließen!\xf000븂\x0001<
+
+
+Bereit...
+
+\xf000Ā\x0001\x0000 kämpft gerade.
+\xf000Ā\x0001\x0000 tauscht gerade.
+\xf000Ā\x0001\x0000 ist gerade im Voicechat.
+
+Erneut mit der Nintendo Wi-Fi Connection\xfffeverbinden?
+
+Voicechat wurde eingeschaltet.
+Voicechat wurde abgeschaltet.
+???
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Keine Einschränkung
+Handicapkampf
+Aktiviert
+Deaktiviert
+Dein Freund hat den Kampf beendet.
+Verbindung wird hergestellt.\xfffeBitte warten...
+
+Vorgang abbrechen?
+Voicechat wird während des Spiels mit\xfffediesem Freund eingeschaltet sein.\xf000븁\x0000\xfffeWillst du mit diesem Freund spielen?
+Voicechat wird während des Spiels mit\xfffediesem Freund deaktiviert bleiben.\xf000븁\x0000\xfffeWillst du mit diesem Freund spielen?
+Der Vorgang wurde abgebrochen.
+
+Warte auf Auswahl deines Freundes.\xfffeBitte warte einen Moment...
+みちぼしゅうちゅう
+じょうたいかいじょ
+
+
+
+
+
+
+
+
+
+Viso-Caster
+\xf000Ā\x0001\x0000 scheint beschäftigt zu sein.
+\xf000Ā\x0001\x0000 möchte offenbar die\xfffeVoicechat-Funktionen einsetzen.
+\xf000Ā\x0001\x0000 hängt gerade\xfffeam Viso-Caster.
+\xf000Ā\x0001\x0000 sucht nach Gesprächs-\xfffepartnern für den Viso-Caster.
+Verbinden
+\xf000Ā\x0001\x0000 hat dich angesprochen...
+Möchtest du mit \xf000Ā\x0001\x0000 spielen?
+Was möchtest du mit \xf000Ā\x0001\x0000\xfffegern unternehmen?
+Möchtest du per Voicechat mit\xfffe\xf000Ā\x0001\x0000 sprechen?
+Möchtest du mit \xf000Ā\x0001\x0000 über den\xfffeViso-Caster kommunizieren?
+Möchtest du mit \xf000Ā\x0001\x0000\xfffePokémon tauschen?
+O.K.
+Regeln
+Team-Pokémon
+Kampfbox-Pokémon
+Es wurden nicht alle Voraussetzungen\xfffeerfüllt. Ein Kampf ist nicht möglich.
+Möchtest du einen Einzelkampf ohne\xfffeEinschränkungen durchführen?
+Möchtest du einen Doppelkampf ohne\xfffeEinschränkungen durchführen?
+Möchtest du einen Dreierkampf ohne\xfffeEinschränkungen durchführen?
+Möchtest du einen Reihumkampf ohne\xfffeEinschränkungen durchführen?
+Möchtest du einen Einzelkampf mit\xfffeHandicap (Handicapkampf) durchführen?
+Möchtest du einen Doppelkampf mit\xfffeHandicap (Handicapkampf) durchführen?
+Möchtest du einen Dreierkampf mit\xfffeHandicap (Handicapkampf) durchführen?
+Möchtest du einen Reihumkampf mit\xfffeHandicap (Handicapkampf) durchführen?
+Willst du mit Pokémon aus deinem Team\xfffeoder aus deiner Kampfbox antreten?
+Du lehnst das Angebot ab.
+Dein Freund ist ausgestiegen.
+L\xf000Ȃ\x0001\x0000
+\xf000\xff00\x0001\x0002⑭\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001⑮\xf000\xff00\x0001\x0000
+Möchtest du mit \xf000Ā\x0001\x0000\xfffeweiterspielen?
+
+Zum Tauschen musst du mindestens\xfffe2 Pokémon bei dir haben.
+Im Gespräch
+Drücke den B-Knopf, um den Voicechat\xfffezu beenden.
+Das Gespräch wurde beendet.
+Dein Freund ist offenbar beschäftigt.\xfffeDie Verbindung wird beendet.
+Warte auf Antwort von \xf000Ā\x0001\x0000...
+
+
+
+
+Kampfart\xf000봅\x0001x: \xf000\xff00\x0001\x0002Einzelkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001x: \xf000\xff00\x0001\x0002Doppelkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001x: \xf000\xff00\x0001\x0002Dreierkampf\xf000\xff00\x0001\x0000
+Kampfart\xf000봅\x0001x: \xf000\xff00\x0001\x0002Reihumkampf\xf000\xff00\x0001\x0000
+Kampfregeln\xf000봅\x0001x: \xf000\xff00\x0001\x0002Uneingeschränkt\xf000\xff00\x0001\x0000
+Kampfregeln\xf000봅\x0001x: \xf000\xff00\x0001\x0002Handicapkampf\xf000\xff00\x0001\x0000
+Wunderwerfer\xf000봅\x0001x: \xf000\xff00\x0001\x0002Aktiviert\xf000\xff00\x0001\x0000
+Wunderwerfer\xf000봅\x0001x: \xf000\xff00\x0001\x0002Deaktiviert\xf000\xff00\x0001\x0000
+
+Zurzeit scheint ein Gespräch nicht\xfffemöglich zu sein.
+Einzelkampf
+Doppelkampf
+Dreierkampf
+Reihumkampf
+Wähle die teilnehmenden Pokémon.
+Bitte wähle 3 Pokémon aus, die\xfffeantreten sollen.
+Bitte wähle 4 Pokémon aus, die\xfffeantreten sollen.
+Bitte wähle 6 Pokémon aus, die\xfffeantreten sollen.
+Über die Kamera-Funktion werden\xfffeBilddaten an deine Freunde gesendet.\xf000븀\x0000\xfffeBist du damit einverstanden?

@@ -1,0 +1,15 @@
+N: \xf000븉\x0001\x0001Estás buscando al Equipo Plasma,\xfffe¿verdad?\xf000븁\x0000\xfffeSi no me equivoco, parece que han huido\xfffeal parque de atracciones.\xf000븁\x0000\xfffeVen conmigo.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001No están...\xf000븁\x0000\xfffeVamos a montarnos en la noria para ver\xfffesi los vemos.\xf000븁\x0000\xfffeLas norias me fascinan: su movimiento\xfffecircular... su dinámica...\xf000븁\x0000\xfffe¡Es un compendio de belleza matemática!\xf000븉\x0001\x0000\xf000븁\x0000
+Equipo Plasma: ¡Oh, señor N!\xf000븁\x0000
+Equipo Plasma: ¿Se encuentra sano\xfffey salvo, nuestro señor?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Estoy bien.\xf000븁\x0000\xfffeY todos a los que hemos reclutado\xfffepara salvar a los Pokémon también\xf000븀\x0000\xfffelo estarán...\xf000븁\x0000\xfffeYo los protegeré a todos.\xf000븁\x0000\xfffeAhora, vosotros dispersaos, alejaos\xfffede este lugar mientras estoy luchando.\xf000븁\x0000\xfffeY bien, \xf000Ā\x0001\x0000...\xfffe¿Has comprendido mi planteamiento?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Espero que la verdad se halle\xfffeen tus palabras...\xf000븁\x0000\xfffeEn el futuro en el que nos vi a los dos,\xfffeno fui capaz de derrotarte.\xf000븁\x0000\xfffeNo obstante, para que el Equipo Plasma\xfffepueda huir, ¡seré tu rival aquí y ahora!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Entiendo...\xf000븁\x0000\xfffeEs una pena... en el futuro que yo vi\xfffeno era capaz de ganarte, pero aun así,\xf000븀\x0000\xfffey para que el Equipo Plasma pueda huir,\xf000븀\x0000\xfffe¡seré tu oponente aquí y ahora!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Eres muy fuerte...\xf000븁\x0000\xfffeSin embargo, me aguarda un futuro\xfffeque he de cambiar.\xf000븁\x0000\xfffeLo conseguiré... ¡cueste lo que cueste!\xf000븉\x0001\x0000\xf000븁\x0000
+¡Superaré al mismísimo Campeón Pokémon!\xfffe¡Seré único y no conoceré la derrota!\xf000븁\x0000\xfffeEs por ello que nadie será capaz de\xfffeimpedirme liberar a todos los Pokémon\xf000븀\x0000\xfffedel yugo impuesto por los Entrenadores.\xf000븁\x0000\xfffeParece que tú quieres estar siempre\xfffecon tus Pokémon...\xf000븁\x0000\xfffePues, si así lo deseas, reúne todas las\xfffeMedallas de los Gimnasios y dirígete\xf000븀\x0000\xfffea la Liga Pokémon.\xf000븁\x0000\xfffe¡Allí nos veremos las caras y podrás\xfffedemostrarme si eres capaz de frenarme!\xf000븁\x0000
+\xf000븉\x0001\x0001Si tus sentimientos no son lo\xfffesuficientemente fuertes,\xf000븀\x0000\xfffeno serás capaz de detenerme.\xf000븉\x0001\x0000\xf000븁\x0000
+Sube y baja la montaña rusa sin parar.\xfffeGira que te gira... ¡Uf! Qué mareo, ¿no?
+¡Gira y gira la noria sin parar!\xfffe¡Sube y sube hacia el cielo!
+No importa cuántas veces venga al parque\xfffede atracciones, siempre me embelesa.
+¡Mira! ¡Mira!\xfffe¡Es un Arlequín!
+Gimnasio Pokémon de Ciudad Mayólica\xfffeLíder del Gimnasio: Camila\xf000븀\x0000\xfffeUna belleza deslumbrante.

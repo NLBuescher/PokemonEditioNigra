@@ -1,0 +1,108 @@
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Choisissez un Pokémon.
+Utiliser sur quel Pokémon?
+
+Combattre avec quel Pokémon?
+Échanger quel Pokémon?
+L\xf000Ȃ\x0001\x0000
+/
+\xf000Ȃ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+
+
+
+
+PP
+ÉCHANGER
+⑭
+⑮
+RÉSUMÉ
+CAPACITÉS
+K.O.
+AU COMBAT
+EN ATTENTE
+PARTENAIRE
+Pas d'objet tenu
+
+
+N. 
+\xf000Ȃ\x0001\x0000
+NIVEAU SUIVANT
+\xf000ȅ\x0001\x0000
+
+PV
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+/
+ATTAQUE
+\xf000Ȃ\x0001\x0000
+DÉFENSE
+\xf000Ȃ\x0001\x0000
+ATQ SPÉ
+\xf000Ȃ\x0001\x0000
+DÉF SPÉ
+\xf000Ȃ\x0001\x0000
+VITESSE
+\xf000Ȃ\x0001\x0000
+
+PP 
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+/
+
+POUVOIR
+\xf000Ȃ\x0001\x0000
+-
+PRÉCISION
+\xf000Ȃ\x0001\x0000
+CATÉGORIE
+PHYSIQUE
+STATUT
+SPÉCIALE
+
+OUBLIER
+RETOUR
+Impossible d'oublier cette\xfffecapacité secrète maintenant.
+\xf000ć\x0001\x0000
+
+
+\xf000ć\x0001\x0000
+
+
+\xf000ć\x0001\x0000
+
+
+\xf000ć\x0001\x0000
+
+
+\xf000ć\x0001\x0000
+
+
+\xf000Ă\x0001\x0000 est\xfffedéjà au combat!
+\xf000Ă\x0001\x0000 n'a plus\xfffed'énergie pour combattre!
+\xf000Ă\x0001\x0000 ne peut pas\xfffeêtre échangé!
+Un Œuf ne se bat pas, voyons!
+Impossible d'échanger un Pokémon de\xfffevotre partenaire avec l'un des vôtres!
+Ça n'aura aucun effet.
+
+
+
+
+
+
+
+
+
+
+
+\xf000Ă\x0001\x0000 est déjà sélectionné.
+Laquelle restaurer?
+La capacité \xf000ć\x0001\x0001 empêche\xfffed'utiliser l'objet sur \xf000Ă\x0001\x0000!
+Impossible de faire revenir \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 est déjà revenu.

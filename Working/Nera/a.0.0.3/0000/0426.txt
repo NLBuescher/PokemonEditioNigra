@@ -1,0 +1,37 @@
+Sono il padrone della Pensione.\xf000븁\x0000\xfffeAiutiamo gli Allenatori a prendersi cura\xfffedei loro preziosi amici.\xf000븁\x0000\xfffeSe vuoi che alleviamo anche i tuoi\xfffePokémon, rivolgiti a mia moglie.
+Ah, sei tu! Hai fatto bene a passare.\xfffeIl tuo \xf000Ă\x0001\x0000 cresce bene!
+Ah, sei tu! Hai fatto bene a passare.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 crescono bene!\xf000븁\x0000\xfffeVanno d'amore e d'accordo.
+Ah, sei tu! Hai fatto bene a passare.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 crescono bene!\xf000븁\x0000\xfffeE di solito vanno d'accordo.
+Ah, sei tu! Hai fatto bene a passare.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 crescono bene!\xf000븁\x0000\xfffeMa non vanno molto d'accordo.
+Ah, sei tu! Hai fatto bene a passare.\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 crescono bene!\xf000븁\x0000\xfffeMa preferiscono giocare con gli altri\xfffePokémon piuttosto che tra di loro.
+Ah, sei tu!\xf000븁\x0000\xfffeStavamo allevando i tuoi Pokémon e, mamma\xfffemia, che sorpresa!\xf000븁\x0000\xfffeEcco che spunta un Uovo!\xf000븁\x0000\xfffeNon sappiamo come sia finito lì, ma sta di\xfffefatto che c'è!\xf000븁\x0000\xfffeLo vuoi, vero?
+\xf000Ā\x0001\x0000 riceve l'Uovo dal padrone\xfffedella Pensione.
+Abbine cura!
+La tua squadra è al completo.\xf000븁\x0000\xfffeTorna quando avrai un po' più di spazio.
+Guarda che me lo tengo io! Non è che poi\xfffete ne penti?
+Va bene, allora lo tengo io. Grazie!
+Sono la padrona della Pensione.\xf000븁\x0000\xfffePossiamo allevare i tuoi Pokémon! Vuoi\xfffeaffidarcene uno?
+Sono la padrona della Pensione.\xf000븁\x0000\xfffePossiamo allevare i tuoi Pokémon! Che\xfffecosa vuoi fare oggi?
+Va bene. Torna quando vuoi.
+Mio marito ti stava cercando.
+Se mi affidi quel Pokémon, non potrai più\xfffelottare.\xf000븁\x0000\xfffeTorna un'altra volta.
+Quale Pokémon vuoi che alleviamo?\xf000븁\x0000
+Suvvia! È soltanto un Uovo!
+Bene, allora ci occuperemo del tuo\xfffe\xf000Ă\x0001\x0000 per un po'.\xf000븁\x0000
+Torna da noi più tardi.
+Possiamo allevare due dei tuoi Pokémon.\xfffeVuoi lasciarcene un altro?
+Il tuo Pokémon è in splendida forma. Vuoi\xffferiprenderlo con te?
+Il livello del tuo \xf000ā\x0001\x0000 è cresciuto\xfffedi \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Per ritirare il tuo \xf000ā\x0001\x0000, devi\xfffepagare $\xf000Ȅ\x0001\x0001. Va bene?
+Non hai abbastanza soldi...
+\xf000Ā\x0001\x0001 riceve \xf000ā\x0001\x0000 dalla\xfffepadrona della Pensione!\xf000븁\x0000
+Vuoi ritirare anche l'altro?
+Uh? Ehm... se mi affidi quel Pokémon, te\xfffene rimarrà solo uno.\xf000븁\x0000\xfffeTi consiglio di tornare quando ne avrai\xfffecatturato qualcuno in più.
+
+Consegna
+Ritira
+Esci
+
+\xf000ā\x0001\x0000⑭   L. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000⑮   L. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000   L. \xf000Ȃ\x0001\x0001

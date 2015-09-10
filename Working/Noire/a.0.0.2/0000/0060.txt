@@ -1,0 +1,6 @@
+OK
+RETOUR
+Veuillez finir la Lettre.
+Abandonner?
+OUI
+NON

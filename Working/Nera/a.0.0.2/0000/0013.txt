@@ -1,0 +1,1680 @@
+!
+!
+!
+\xf000ā\x0001\x0000 usa Botta!
+\xf000ā\x0001\x0000 selvatico usa Botta!
+\xf000ā\x0001\x0000 nemico usa Botta!
+\xf000ā\x0001\x0000 usa Colpokarate!
+\xf000ā\x0001\x0000 selvatico usa Colpokarate!
+\xf000ā\x0001\x0000 nemico usa Colpokarate!
+\xf000ā\x0001\x0000 usa Doppiasberla!
+\xf000ā\x0001\x0000 selvatico usa Doppiasberla!
+\xf000ā\x0001\x0000 nemico usa Doppiasberla!
+\xf000ā\x0001\x0000 usa Cometapugno!
+\xf000ā\x0001\x0000 selvatico usa Cometapugno!
+\xf000ā\x0001\x0000 nemico usa Cometapugno!
+\xf000ā\x0001\x0000 usa Megapugno!
+\xf000ā\x0001\x0000 selvatico usa Megapugno!
+\xf000ā\x0001\x0000 nemico usa Megapugno!
+\xf000ā\x0001\x0000 usa Giornopaga!
+\xf000ā\x0001\x0000 selvatico usa Giornopaga!
+\xf000ā\x0001\x0000 nemico usa Giornopaga!
+\xf000ā\x0001\x0000 usa Fuocopugno!
+\xf000ā\x0001\x0000 selvatico usa Fuocopugno!
+\xf000ā\x0001\x0000 nemico usa Fuocopugno!
+\xf000ā\x0001\x0000 usa Gelopugno!
+\xf000ā\x0001\x0000 selvatico usa Gelopugno!
+\xf000ā\x0001\x0000 nemico usa Gelopugno!
+\xf000ā\x0001\x0000 usa Tuonopugno!
+\xf000ā\x0001\x0000 selvatico usa Tuonopugno!
+\xf000ā\x0001\x0000 nemico usa Tuonopugno!
+\xf000ā\x0001\x0000 usa Graffio!
+\xf000ā\x0001\x0000 selvatico usa Graffio!
+\xf000ā\x0001\x0000 nemico usa Graffio!
+\xf000ā\x0001\x0000 usa Presa!
+\xf000ā\x0001\x0000 selvatico usa Presa!
+\xf000ā\x0001\x0000 nemico usa Presa!
+\xf000ā\x0001\x0000 usa Ghigliottina!
+\xf000ā\x0001\x0000 selvatico usa Ghigliottina!
+\xf000ā\x0001\x0000 nemico usa Ghigliottina!
+\xf000ā\x0001\x0000 usa Ventagliente!
+\xf000ā\x0001\x0000 selvatico usa Ventagliente!
+\xf000ā\x0001\x0000 nemico usa Ventagliente!
+\xf000ā\x0001\x0000 usa Danzaspada!
+\xf000ā\x0001\x0000 selvatico usa Danzaspada!
+\xf000ā\x0001\x0000 nemico usa Danzaspada!
+\xf000ā\x0001\x0000 usa Taglio!
+\xf000ā\x0001\x0000 selvatico usa Taglio!
+\xf000ā\x0001\x0000 nemico usa Taglio!
+\xf000ā\x0001\x0000 usa Raffica!
+\xf000ā\x0001\x0000 selvatico usa Raffica!
+\xf000ā\x0001\x0000 nemico usa Raffica!
+\xf000ā\x0001\x0000 usa Attacco d'Ala!
+\xf000ā\x0001\x0000 selvatico usa Attacco d'Ala!
+\xf000ā\x0001\x0000 nemico usa Attacco d'Ala!
+\xf000ā\x0001\x0000 usa Turbine!
+\xf000ā\x0001\x0000 selvatico usa Turbine!
+\xf000ā\x0001\x0000 nemico usa Turbine!
+\xf000ā\x0001\x0000 usa Volo!
+\xf000ā\x0001\x0000 selvatico usa Volo!
+\xf000ā\x0001\x0000 nemico usa Volo!
+\xf000ā\x0001\x0000 usa Legatutto!
+\xf000ā\x0001\x0000 selvatico usa Legatutto!
+\xf000ā\x0001\x0000 nemico usa Legatutto!
+\xf000ā\x0001\x0000 usa Schianto!
+\xf000ā\x0001\x0000 selvatico usa Schianto!
+\xf000ā\x0001\x0000 nemico usa Schianto!
+\xf000ā\x0001\x0000 usa Frustata!
+\xf000ā\x0001\x0000 selvatico usa Frustata!
+\xf000ā\x0001\x0000 nemico usa Frustata!
+\xf000ā\x0001\x0000 usa Pestone!
+\xf000ā\x0001\x0000 selvatico usa Pestone!
+\xf000ā\x0001\x0000 nemico usa Pestone!
+\xf000ā\x0001\x0000 usa Doppiocalcio!
+\xf000ā\x0001\x0000 selvatico usa Doppiocalcio!
+\xf000ā\x0001\x0000 nemico usa Doppiocalcio!
+\xf000ā\x0001\x0000 usa Megacalcio!
+\xf000ā\x0001\x0000 selvatico usa Megacalcio!
+\xf000ā\x0001\x0000 nemico usa Megacalcio!
+\xf000ā\x0001\x0000 usa Calciosalto!
+\xf000ā\x0001\x0000 selvatico usa Calciosalto!
+\xf000ā\x0001\x0000 nemico usa Calciosalto!
+\xf000ā\x0001\x0000 usa Calciorullo!
+\xf000ā\x0001\x0000 selvatico usa Calciorullo!
+\xf000ā\x0001\x0000 nemico usa Calciorullo!
+\xf000ā\x0001\x0000 usa Turbosabbia!
+\xf000ā\x0001\x0000 selvatico usa Turbosabbia!
+\xf000ā\x0001\x0000 nemico usa Turbosabbia!
+\xf000ā\x0001\x0000 usa Bottintesta!
+\xf000ā\x0001\x0000 selvatico usa Bottintesta!
+\xf000ā\x0001\x0000 nemico usa Bottintesta!
+\xf000ā\x0001\x0000 usa Incornata!
+\xf000ā\x0001\x0000 selvatico usa Incornata!
+\xf000ā\x0001\x0000 nemico usa Incornata!
+\xf000ā\x0001\x0000 usa Furia!
+\xf000ā\x0001\x0000 selvatico usa Furia!
+\xf000ā\x0001\x0000 nemico usa Furia!
+\xf000ā\x0001\x0000 usa Perforcorno!
+\xf000ā\x0001\x0000 selvatico usa Perforcorno!
+\xf000ā\x0001\x0000 nemico usa Perforcorno!
+\xf000ā\x0001\x0000 usa Azione!
+\xf000ā\x0001\x0000 selvatico usa Azione!
+\xf000ā\x0001\x0000 nemico usa Azione!
+\xf000ā\x0001\x0000 usa Corposcontro!
+\xf000ā\x0001\x0000 selvatico usa Corposcontro!
+\xf000ā\x0001\x0000 nemico usa Corposcontro!
+\xf000ā\x0001\x0000 usa Avvolgibotta!
+\xf000ā\x0001\x0000 selvatico usa Avvolgibotta!
+\xf000ā\x0001\x0000 nemico usa Avvolgibotta!
+\xf000ā\x0001\x0000 usa Riduttore!
+\xf000ā\x0001\x0000 selvatico usa Riduttore!
+\xf000ā\x0001\x0000 nemico usa Riduttore!
+\xf000ā\x0001\x0000 usa Colpo!
+\xf000ā\x0001\x0000 selvatico usa Colpo!
+\xf000ā\x0001\x0000 nemico usa Colpo!
+\xf000ā\x0001\x0000 usa Sdoppiatore!
+\xf000ā\x0001\x0000 selvatico usa Sdoppiatore!
+\xf000ā\x0001\x0000 nemico usa Sdoppiatore!
+\xf000ā\x0001\x0000 usa Colpocoda!
+\xf000ā\x0001\x0000 selvatico usa Colpocoda!
+\xf000ā\x0001\x0000 nemico usa Colpocoda!
+\xf000ā\x0001\x0000 usa Velenospina!
+\xf000ā\x0001\x0000 selvatico usa Velenospina!
+\xf000ā\x0001\x0000 nemico usa Velenospina!
+\xf000ā\x0001\x0000 usa Doppio Ago!
+\xf000ā\x0001\x0000 selvatico usa Doppio Ago!
+\xf000ā\x0001\x0000 nemico usa Doppio Ago!
+\xf000ā\x0001\x0000 usa Missilspillo!
+\xf000ā\x0001\x0000 selvatico usa Missilspillo!
+\xf000ā\x0001\x0000 nemico usa Missilspillo!
+\xf000ā\x0001\x0000 usa Fulmisguardo!
+\xf000ā\x0001\x0000 selvatico usa Fulmisguardo!
+\xf000ā\x0001\x0000 nemico usa Fulmisguardo!
+\xf000ā\x0001\x0000 usa Morso!
+\xf000ā\x0001\x0000 selvatico usa Morso!
+\xf000ā\x0001\x0000 nemico usa Morso!
+\xf000ā\x0001\x0000 usa Ruggito!
+\xf000ā\x0001\x0000 selvatico usa Ruggito!
+\xf000ā\x0001\x0000 nemico usa Ruggito!
+\xf000ā\x0001\x0000 usa Boato!
+\xf000ā\x0001\x0000 selvatico usa Boato!
+\xf000ā\x0001\x0000 nemico usa Boato!
+\xf000ā\x0001\x0000 usa Canto!
+\xf000ā\x0001\x0000 selvatico usa Canto!
+\xf000ā\x0001\x0000 nemico usa Canto!
+\xf000ā\x0001\x0000 usa Supersuono!
+\xf000ā\x0001\x0000 selvatico usa Supersuono!
+\xf000ā\x0001\x0000 nemico usa Supersuono!
+\xf000ā\x0001\x0000 usa Sonicboom!
+\xf000ā\x0001\x0000 selvatico usa Sonicboom!
+\xf000ā\x0001\x0000 nemico usa Sonicboom!
+\xf000ā\x0001\x0000 usa Inibitore!
+\xf000ā\x0001\x0000 selvatico usa Inibitore!
+\xf000ā\x0001\x0000 nemico usa Inibitore!
+\xf000ā\x0001\x0000 usa Acido!
+\xf000ā\x0001\x0000 selvatico usa Acido!
+\xf000ā\x0001\x0000 nemico usa Acido!
+\xf000ā\x0001\x0000 usa Braciere!
+\xf000ā\x0001\x0000 selvatico usa Braciere!
+\xf000ā\x0001\x0000 nemico usa Braciere!
+\xf000ā\x0001\x0000 usa Lanciafiamme!
+\xf000ā\x0001\x0000 selvatico usa Lanciafiamme!
+\xf000ā\x0001\x0000 nemico usa Lanciafiamme!
+\xf000ā\x0001\x0000 usa Nebbia!
+\xf000ā\x0001\x0000 selvatico usa Nebbia!
+\xf000ā\x0001\x0000 nemico usa Nebbia!
+\xf000ā\x0001\x0000 usa Pistolacqua!
+\xf000ā\x0001\x0000 selvatico usa Pistolacqua!
+\xf000ā\x0001\x0000 nemico usa Pistolacqua!
+\xf000ā\x0001\x0000 usa Idropompa!
+\xf000ā\x0001\x0000 selvatico usa Idropompa!
+\xf000ā\x0001\x0000 nemico usa Idropompa!
+\xf000ā\x0001\x0000 usa Surf!
+\xf000ā\x0001\x0000 selvatico usa Surf!
+\xf000ā\x0001\x0000 nemico usa Surf!
+\xf000ā\x0001\x0000 usa Geloraggio!
+\xf000ā\x0001\x0000 selvatico usa Geloraggio!
+\xf000ā\x0001\x0000 nemico usa Geloraggio!
+\xf000ā\x0001\x0000 usa Bora!
+\xf000ā\x0001\x0000 selvatico usa Bora!
+\xf000ā\x0001\x0000 nemico usa Bora!
+\xf000ā\x0001\x0000 usa Psicoraggio!
+\xf000ā\x0001\x0000 selvatico usa Psicoraggio!
+\xf000ā\x0001\x0000 nemico usa Psicoraggio!
+\xf000ā\x0001\x0000 usa Bollaraggio!
+\xf000ā\x0001\x0000 selvatico usa Bollaraggio!
+\xf000ā\x0001\x0000 nemico usa Bollaraggio!
+\xf000ā\x0001\x0000 usa Raggiaurora!
+\xf000ā\x0001\x0000 selvatico usa Raggiaurora!
+\xf000ā\x0001\x0000 nemico usa Raggiaurora!
+\xf000ā\x0001\x0000 usa Iper Raggio!
+\xf000ā\x0001\x0000 selvatico usa Iper Raggio!
+\xf000ā\x0001\x0000 nemico usa Iper Raggio!
+\xf000ā\x0001\x0000 usa Beccata!
+\xf000ā\x0001\x0000 selvatico usa Beccata!
+\xf000ā\x0001\x0000 nemico usa Beccata!
+\xf000ā\x0001\x0000 usa Perforbecco!
+\xf000ā\x0001\x0000 selvatico usa Perforbecco!
+\xf000ā\x0001\x0000 nemico usa Perforbecco!
+\xf000ā\x0001\x0000 usa Sottomissione!
+\xf000ā\x0001\x0000 selvatico usa Sottomissione!
+\xf000ā\x0001\x0000 nemico usa Sottomissione!
+\xf000ā\x0001\x0000 usa Colpo Basso!
+\xf000ā\x0001\x0000 selvatico usa Colpo Basso!
+\xf000ā\x0001\x0000 nemico usa Colpo Basso!
+\xf000ā\x0001\x0000 usa Contatore!
+\xf000ā\x0001\x0000 selvatico usa Contatore!
+\xf000ā\x0001\x0000 nemico usa Contatore!
+\xf000ā\x0001\x0000 usa Movimento Sismico!
+\xf000ā\x0001\x0000 selvatico usa Movimento Sismico!
+\xf000ā\x0001\x0000 nemico usa Movimento Sismico!
+\xf000ā\x0001\x0000 usa Forza!
+\xf000ā\x0001\x0000 selvatico usa Forza!
+\xf000ā\x0001\x0000 nemico usa Forza!
+\xf000ā\x0001\x0000 usa Assorbimento!
+\xf000ā\x0001\x0000 selvatico usa Assorbimento!
+\xf000ā\x0001\x0000 nemico usa Assorbimento!
+\xf000ā\x0001\x0000 usa Megassorbimento!
+\xf000ā\x0001\x0000 selvatico usa Megassorbimento!
+\xf000ā\x0001\x0000 nemico usa Megassorbimento!
+\xf000ā\x0001\x0000 usa Parassiseme!
+\xf000ā\x0001\x0000 selvatico usa Parassiseme!
+\xf000ā\x0001\x0000 nemico usa Parassiseme!
+\xf000ā\x0001\x0000 usa Crescita!
+\xf000ā\x0001\x0000 selvatico usa Crescita!
+\xf000ā\x0001\x0000 nemico usa Crescita!
+\xf000ā\x0001\x0000 usa Foglielama!
+\xf000ā\x0001\x0000 selvatico usa Foglielama!
+\xf000ā\x0001\x0000 nemico usa Foglielama!
+\xf000ā\x0001\x0000 usa Solarraggio!
+\xf000ā\x0001\x0000 selvatico usa Solarraggio!
+\xf000ā\x0001\x0000 nemico usa Solarraggio!
+\xf000ā\x0001\x0000 usa Velenpolvere!
+\xf000ā\x0001\x0000 selvatico usa Velenpolvere!
+\xf000ā\x0001\x0000 nemico usa Velenpolvere!
+\xf000ā\x0001\x0000 usa Paralizzante!
+\xf000ā\x0001\x0000 selvatico usa Paralizzante!
+\xf000ā\x0001\x0000 nemico usa Paralizzante!
+\xf000ā\x0001\x0000 usa Sonnifero!
+\xf000ā\x0001\x0000 selvatico usa Sonnifero!
+\xf000ā\x0001\x0000 nemico usa Sonnifero!
+\xf000ā\x0001\x0000 usa Petalodanza!
+\xf000ā\x0001\x0000 selvatico usa Petalodanza!
+\xf000ā\x0001\x0000 nemico usa Petalodanza!
+\xf000ā\x0001\x0000 usa Millebave!
+\xf000ā\x0001\x0000 selvatico usa Millebave!
+\xf000ā\x0001\x0000 nemico usa Millebave!
+\xf000ā\x0001\x0000 usa Ira di Drago!
+\xf000ā\x0001\x0000 selvatico usa Ira di Drago!
+\xf000ā\x0001\x0000 nemico usa Ira di Drago!
+\xf000ā\x0001\x0000 usa Turbofuoco!
+\xf000ā\x0001\x0000 selvatico usa Turbofuoco!
+\xf000ā\x0001\x0000 nemico usa Turbofuoco!
+\xf000ā\x0001\x0000 usa Tuonoshock!
+\xf000ā\x0001\x0000 selvatico usa Tuonoshock!
+\xf000ā\x0001\x0000 nemico usa Tuonoshock!
+\xf000ā\x0001\x0000 usa Fulmine!
+\xf000ā\x0001\x0000 selvatico usa Fulmine!
+\xf000ā\x0001\x0000 nemico usa Fulmine!
+\xf000ā\x0001\x0000 usa Tuononda!
+\xf000ā\x0001\x0000 selvatico usa Tuononda!
+\xf000ā\x0001\x0000 nemico usa Tuononda!
+\xf000ā\x0001\x0000 usa Tuono!
+\xf000ā\x0001\x0000 selvatico usa Tuono!
+\xf000ā\x0001\x0000 nemico usa Tuono!
+\xf000ā\x0001\x0000 usa Sassata!
+\xf000ā\x0001\x0000 selvatico usa Sassata!
+\xf000ā\x0001\x0000 nemico usa Sassata!
+\xf000ā\x0001\x0000 usa Terremoto!
+\xf000ā\x0001\x0000 selvatico usa Terremoto!
+\xf000ā\x0001\x0000 nemico usa Terremoto!
+\xf000ā\x0001\x0000 usa Abisso!
+\xf000ā\x0001\x0000 selvatico usa Abisso!
+\xf000ā\x0001\x0000 nemico usa Abisso!
+\xf000ā\x0001\x0000 usa Fossa!
+\xf000ā\x0001\x0000 selvatico usa Fossa!
+\xf000ā\x0001\x0000 nemico usa Fossa!
+\xf000ā\x0001\x0000 usa Tossina!
+\xf000ā\x0001\x0000 selvatico usa Tossina!
+\xf000ā\x0001\x0000 nemico usa Tossina!
+\xf000ā\x0001\x0000 usa Confusione!
+\xf000ā\x0001\x0000 selvatico usa Confusione!
+\xf000ā\x0001\x0000 nemico usa Confusione!
+\xf000ā\x0001\x0000 usa Psichico!
+\xf000ā\x0001\x0000 selvatico usa Psichico!
+\xf000ā\x0001\x0000 nemico usa Psichico!
+\xf000ā\x0001\x0000 usa Ipnosi!
+\xf000ā\x0001\x0000 selvatico usa Ipnosi!
+\xf000ā\x0001\x0000 nemico usa Ipnosi!
+\xf000ā\x0001\x0000 usa Meditazione!
+\xf000ā\x0001\x0000 selvatico usa Meditazione!
+\xf000ā\x0001\x0000 nemico usa Meditazione!
+\xf000ā\x0001\x0000 usa Agilità!
+\xf000ā\x0001\x0000 selvatico usa Agilità!
+\xf000ā\x0001\x0000 nemico usa Agilità!
+\xf000ā\x0001\x0000 usa Attacco Rapido!
+\xf000ā\x0001\x0000 selvatico usa Attacco Rapido!
+\xf000ā\x0001\x0000 nemico usa Attacco Rapido!
+\xf000ā\x0001\x0000 usa Ira!
+\xf000ā\x0001\x0000 selvatico usa Ira!
+\xf000ā\x0001\x0000 nemico usa Ira!
+\xf000ā\x0001\x0000 usa Teletrasporto!
+\xf000ā\x0001\x0000 selvatico usa Teletrasporto!
+\xf000ā\x0001\x0000 nemico usa Teletrasporto!
+\xf000ā\x0001\x0000 usa Ombra Notturna!
+\xf000ā\x0001\x0000 selvatico usa Ombra Notturna!
+\xf000ā\x0001\x0000 nemico usa Ombra Notturna!
+\xf000ā\x0001\x0000 usa Mimica!
+\xf000ā\x0001\x0000 selvatico usa Mimica!
+\xf000ā\x0001\x0000 nemico usa Mimica!
+\xf000ā\x0001\x0000 usa Stridio!
+\xf000ā\x0001\x0000 selvatico usa Stridio!
+\xf000ā\x0001\x0000 nemico usa Stridio!
+\xf000ā\x0001\x0000 usa Doppioteam!
+\xf000ā\x0001\x0000 selvatico usa Doppioteam!
+\xf000ā\x0001\x0000 nemico usa Doppioteam!
+\xf000ā\x0001\x0000 usa Ripresa!
+\xf000ā\x0001\x0000 selvatico usa Ripresa!
+\xf000ā\x0001\x0000 nemico usa Ripresa!
+\xf000ā\x0001\x0000 usa Rafforzatore!
+\xf000ā\x0001\x0000 selvatico usa Rafforzatore!
+\xf000ā\x0001\x0000 nemico usa Rafforzatore!
+\xf000ā\x0001\x0000 usa Minimizzato!
+\xf000ā\x0001\x0000 selvatico usa Minimizzato!
+\xf000ā\x0001\x0000 nemico usa Minimizzato!
+\xf000ā\x0001\x0000 usa Muro di Fumo!
+\xf000ā\x0001\x0000 selvatico usa Muro di Fumo!
+\xf000ā\x0001\x0000 nemico usa Muro di Fumo!
+\xf000ā\x0001\x0000 usa Stordiraggio!
+\xf000ā\x0001\x0000 selvatico usa Stordiraggio!
+\xf000ā\x0001\x0000 nemico usa Stordiraggio!
+\xf000ā\x0001\x0000 usa Ritirata!
+\xf000ā\x0001\x0000 selvatico usa Ritirata!
+\xf000ā\x0001\x0000 nemico usa Ritirata!
+\xf000ā\x0001\x0000 usa Ricciolscudo!
+\xf000ā\x0001\x0000 selvatico usa Ricciolscudo!
+\xf000ā\x0001\x0000 nemico usa Ricciolscudo!
+\xf000ā\x0001\x0000 usa Barriera!
+\xf000ā\x0001\x0000 selvatico usa Barriera!
+\xf000ā\x0001\x0000 nemico usa Barriera!
+\xf000ā\x0001\x0000 usa Schermoluce!
+\xf000ā\x0001\x0000 selvatico usa Schermoluce!
+\xf000ā\x0001\x0000 nemico usa Schermoluce!
+\xf000ā\x0001\x0000 usa Nube!
+\xf000ā\x0001\x0000 selvatico usa Nube!
+\xf000ā\x0001\x0000 nemico usa Nube!
+\xf000ā\x0001\x0000 usa Riflesso!
+\xf000ā\x0001\x0000 selvatico usa Riflesso!
+\xf000ā\x0001\x0000 nemico usa Riflesso!
+\xf000ā\x0001\x0000 usa Focalenergia!
+\xf000ā\x0001\x0000 selvatico usa Focalenergia!
+\xf000ā\x0001\x0000 nemico usa Focalenergia!
+\xf000ā\x0001\x0000 usa Pazienza!
+\xf000ā\x0001\x0000 selvatico usa Pazienza!
+\xf000ā\x0001\x0000 nemico usa Pazienza!
+\xf000ā\x0001\x0000 usa Metronomo!
+\xf000ā\x0001\x0000 selvatico usa Metronomo!
+\xf000ā\x0001\x0000 nemico usa Metronomo!
+\xf000ā\x0001\x0000 usa Speculmossa!
+\xf000ā\x0001\x0000 selvatico usa Speculmossa!
+\xf000ā\x0001\x0000 nemico usa Speculmossa!
+\xf000ā\x0001\x0000 usa Autodistruzione!
+\xf000ā\x0001\x0000 selvatico usa Autodistruzione!
+\xf000ā\x0001\x0000 nemico usa Autodistruzione!
+\xf000ā\x0001\x0000 usa Uovobomba!
+\xf000ā\x0001\x0000 selvatico usa Uovobomba!
+\xf000ā\x0001\x0000 nemico usa Uovobomba!
+\xf000ā\x0001\x0000 usa Leccata!
+\xf000ā\x0001\x0000 selvatico usa Leccata!
+\xf000ā\x0001\x0000 nemico usa Leccata!
+\xf000ā\x0001\x0000 usa Smog!
+\xf000ā\x0001\x0000 selvatico usa Smog!
+\xf000ā\x0001\x0000 nemico usa Smog!
+\xf000ā\x0001\x0000 usa Fango!
+\xf000ā\x0001\x0000 selvatico usa Fango!
+\xf000ā\x0001\x0000 nemico usa Fango!
+\xf000ā\x0001\x0000 usa Ossoclava!
+\xf000ā\x0001\x0000 selvatico usa Ossoclava!
+\xf000ā\x0001\x0000 nemico usa Ossoclava!
+\xf000ā\x0001\x0000 usa Fuocobomba!
+\xf000ā\x0001\x0000 selvatico usa Fuocobomba!
+\xf000ā\x0001\x0000 nemico usa Fuocobomba!
+\xf000ā\x0001\x0000 usa Cascata!
+\xf000ā\x0001\x0000 selvatico usa Cascata!
+\xf000ā\x0001\x0000 nemico usa Cascata!
+\xf000ā\x0001\x0000 usa Tenaglia!
+\xf000ā\x0001\x0000 selvatico usa Tenaglia!
+\xf000ā\x0001\x0000 nemico usa Tenaglia!
+\xf000ā\x0001\x0000 usa Comete!
+\xf000ā\x0001\x0000 selvatico usa Comete!
+\xf000ā\x0001\x0000 nemico usa Comete!
+\xf000ā\x0001\x0000 usa Capocciata!
+\xf000ā\x0001\x0000 selvatico usa Capocciata!
+\xf000ā\x0001\x0000 nemico usa Capocciata!
+\xf000ā\x0001\x0000 usa Sparalance!
+\xf000ā\x0001\x0000 selvatico usa Sparalance!
+\xf000ā\x0001\x0000 nemico usa Sparalance!
+\xf000ā\x0001\x0000 usa Limitazione!
+\xf000ā\x0001\x0000 selvatico usa Limitazione!
+\xf000ā\x0001\x0000 nemico usa Limitazione!
+\xf000ā\x0001\x0000 usa Amnesia!
+\xf000ā\x0001\x0000 selvatico usa Amnesia!
+\xf000ā\x0001\x0000 nemico usa Amnesia!
+\xf000ā\x0001\x0000 usa Cinèsi!
+\xf000ā\x0001\x0000 selvatico usa Cinèsi!
+\xf000ā\x0001\x0000 nemico usa Cinèsi!
+\xf000ā\x0001\x0000 usa Covauova!
+\xf000ā\x0001\x0000 selvatico usa Covauova!
+\xf000ā\x0001\x0000 nemico usa Covauova!
+\xf000ā\x0001\x0000 usa Calcinvolo!
+\xf000ā\x0001\x0000 selvatico usa Calcinvolo!
+\xf000ā\x0001\x0000 nemico usa Calcinvolo!
+\xf000ā\x0001\x0000 usa Bagliore!
+\xf000ā\x0001\x0000 selvatico usa Bagliore!
+\xf000ā\x0001\x0000 nemico usa Bagliore!
+\xf000ā\x0001\x0000 usa Mangiasogni!
+\xf000ā\x0001\x0000 selvatico usa Mangiasogni!
+\xf000ā\x0001\x0000 nemico usa Mangiasogni!
+\xf000ā\x0001\x0000 usa Velenogas!
+\xf000ā\x0001\x0000 selvatico usa Velenogas!
+\xf000ā\x0001\x0000 nemico usa Velenogas!
+\xf000ā\x0001\x0000 usa Attacco Pioggia!
+\xf000ā\x0001\x0000 selvatico usa Attacco Pioggia!
+\xf000ā\x0001\x0000 nemico usa Attacco Pioggia!
+\xf000ā\x0001\x0000 usa Sanguisuga!
+\xf000ā\x0001\x0000 selvatico usa Sanguisuga!
+\xf000ā\x0001\x0000 nemico usa Sanguisuga!
+\xf000ā\x0001\x0000 usa Demonbacio!
+\xf000ā\x0001\x0000 selvatico usa Demonbacio!
+\xf000ā\x0001\x0000 nemico usa Demonbacio!
+\xf000ā\x0001\x0000 usa Aeroattacco!
+\xf000ā\x0001\x0000 selvatico usa Aeroattacco!
+\xf000ā\x0001\x0000 nemico usa Aeroattacco!
+\xf000ā\x0001\x0000 usa Trasformazione!
+\xf000ā\x0001\x0000 selvatico usa Trasformazione!
+\xf000ā\x0001\x0000 nemico usa Trasformazione!
+\xf000ā\x0001\x0000 usa Bolla!
+\xf000ā\x0001\x0000 selvatico usa Bolla!
+\xf000ā\x0001\x0000 nemico usa Bolla!
+\xf000ā\x0001\x0000 usa Stordipugno!
+\xf000ā\x0001\x0000 selvatico usa Stordipugno!
+\xf000ā\x0001\x0000 nemico usa Stordipugno!
+\xf000ā\x0001\x0000 usa Spora!
+\xf000ā\x0001\x0000 selvatico usa Spora!
+\xf000ā\x0001\x0000 nemico usa Spora!
+\xf000ā\x0001\x0000 usa Flash!
+\xf000ā\x0001\x0000 selvatico usa Flash!
+\xf000ā\x0001\x0000 nemico usa Flash!
+\xf000ā\x0001\x0000 usa Psiconda!
+\xf000ā\x0001\x0000 selvatico usa Psiconda!
+\xf000ā\x0001\x0000 nemico usa Psiconda!
+\xf000ā\x0001\x0000 usa Splash!
+\xf000ā\x0001\x0000 selvatico usa Splash!
+\xf000ā\x0001\x0000 nemico usa Splash!
+\xf000ā\x0001\x0000 usa Scudo Acido!
+\xf000ā\x0001\x0000 selvatico usa Scudo Acido!
+\xf000ā\x0001\x0000 nemico usa Scudo Acido!
+\xf000ā\x0001\x0000 usa Martellata!
+\xf000ā\x0001\x0000 selvatico usa Martellata!
+\xf000ā\x0001\x0000 nemico usa Martellata!
+\xf000ā\x0001\x0000 usa Esplosione!
+\xf000ā\x0001\x0000 selvatico usa Esplosione!
+\xf000ā\x0001\x0000 nemico usa Esplosione!
+\xf000ā\x0001\x0000 usa Sfuriate!
+\xf000ā\x0001\x0000 selvatico usa Sfuriate!
+\xf000ā\x0001\x0000 nemico usa Sfuriate!
+\xf000ā\x0001\x0000 usa Ossomerang!
+\xf000ā\x0001\x0000 selvatico usa Ossomerang!
+\xf000ā\x0001\x0000 nemico usa Ossomerang!
+\xf000ā\x0001\x0000 usa Riposo!
+\xf000ā\x0001\x0000 selvatico usa Riposo!
+\xf000ā\x0001\x0000 nemico usa Riposo!
+\xf000ā\x0001\x0000 usa Frana!
+\xf000ā\x0001\x0000 selvatico usa Frana!
+\xf000ā\x0001\x0000 nemico usa Frana!
+\xf000ā\x0001\x0000 usa Iperzanna!
+\xf000ā\x0001\x0000 selvatico usa Iperzanna!
+\xf000ā\x0001\x0000 nemico usa Iperzanna!
+\xf000ā\x0001\x0000 usa Affilatore!
+\xf000ā\x0001\x0000 selvatico usa Affilatore!
+\xf000ā\x0001\x0000 nemico usa Affilatore!
+\xf000ā\x0001\x0000 usa Conversione!
+\xf000ā\x0001\x0000 selvatico usa Conversione!
+\xf000ā\x0001\x0000 nemico usa Conversione!
+\xf000ā\x0001\x0000 usa Tripletta!
+\xf000ā\x0001\x0000 selvatico usa Tripletta!
+\xf000ā\x0001\x0000 nemico usa Tripletta!
+\xf000ā\x0001\x0000 usa Superzanna!
+\xf000ā\x0001\x0000 selvatico usa Superzanna!
+\xf000ā\x0001\x0000 nemico usa Superzanna!
+\xf000ā\x0001\x0000 usa Lacerazione!
+\xf000ā\x0001\x0000 selvatico usa Lacerazione!
+\xf000ā\x0001\x0000 nemico usa Lacerazione!
+\xf000ā\x0001\x0000 usa Sostituto!
+\xf000ā\x0001\x0000 selvatico usa Sostituto!
+\xf000ā\x0001\x0000 nemico usa Sostituto!
+\xf000ā\x0001\x0000 usa Scontro!
+\xf000ā\x0001\x0000 selvatico usa Scontro!
+\xf000ā\x0001\x0000 nemico usa Scontro!
+\xf000ā\x0001\x0000 usa Schizzo!
+\xf000ā\x0001\x0000 selvatico usa Schizzo!
+\xf000ā\x0001\x0000 nemico usa Schizzo!
+\xf000ā\x0001\x0000 usa Triplocalcio!
+\xf000ā\x0001\x0000 selvatico usa Triplocalcio!
+\xf000ā\x0001\x0000 nemico usa Triplocalcio!
+\xf000ā\x0001\x0000 usa Furto!
+\xf000ā\x0001\x0000 selvatico usa Furto!
+\xf000ā\x0001\x0000 nemico usa Furto!
+\xf000ā\x0001\x0000 usa Ragnatela!
+\xf000ā\x0001\x0000 selvatico usa Ragnatela!
+\xf000ā\x0001\x0000 nemico usa Ragnatela!
+\xf000ā\x0001\x0000 usa Leggimente!
+\xf000ā\x0001\x0000 selvatico usa Leggimente!
+\xf000ā\x0001\x0000 nemico usa Leggimente!
+\xf000ā\x0001\x0000 usa Incubo!
+\xf000ā\x0001\x0000 selvatico usa Incubo!
+\xf000ā\x0001\x0000 nemico usa Incubo!
+\xf000ā\x0001\x0000 usa Ruotafuoco!
+\xf000ā\x0001\x0000 selvatico usa Ruotafuoco!
+\xf000ā\x0001\x0000 nemico usa Ruotafuoco!
+\xf000ā\x0001\x0000 usa Russare!
+\xf000ā\x0001\x0000 selvatico usa Russare!
+\xf000ā\x0001\x0000 nemico usa Russare!
+\xf000ā\x0001\x0000 usa Maledizione!
+\xf000ā\x0001\x0000 selvatico usa Maledizione!
+\xf000ā\x0001\x0000 nemico usa Maledizione!
+\xf000ā\x0001\x0000 usa Flagello!
+\xf000ā\x0001\x0000 selvatico usa Flagello!
+\xf000ā\x0001\x0000 nemico usa Flagello!
+\xf000ā\x0001\x0000 usa Conversione2!
+\xf000ā\x0001\x0000 selvatico usa Conversione2!
+\xf000ā\x0001\x0000 nemico usa Conversione2!
+\xf000ā\x0001\x0000 usa Aerocolpo!
+\xf000ā\x0001\x0000 selvatico usa Aerocolpo!
+\xf000ā\x0001\x0000 nemico usa Aerocolpo!
+\xf000ā\x0001\x0000 usa Cottonspora!
+\xf000ā\x0001\x0000 selvatico usa Cottonspora!
+\xf000ā\x0001\x0000 nemico usa Cottonspora!
+\xf000ā\x0001\x0000 usa Contropiede!
+\xf000ā\x0001\x0000 selvatico usa Contropiede!
+\xf000ā\x0001\x0000 nemico usa Contropiede!
+\xf000ā\x0001\x0000 usa Dispetto!
+\xf000ā\x0001\x0000 selvatico usa Dispetto!
+\xf000ā\x0001\x0000 nemico usa Dispetto!
+\xf000ā\x0001\x0000 usa Polneve!
+\xf000ā\x0001\x0000 selvatico usa Polneve!
+\xf000ā\x0001\x0000 nemico usa Polneve!
+\xf000ā\x0001\x0000 usa Protezione!
+\xf000ā\x0001\x0000 selvatico usa Protezione!
+\xf000ā\x0001\x0000 nemico usa Protezione!
+\xf000ā\x0001\x0000 usa Pugnorapido!
+\xf000ā\x0001\x0000 selvatico usa Pugnorapido!
+\xf000ā\x0001\x0000 nemico usa Pugnorapido!
+\xf000ā\x0001\x0000 usa Visotruce!
+\xf000ā\x0001\x0000 selvatico usa Visotruce!
+\xf000ā\x0001\x0000 nemico usa Visotruce!
+\xf000ā\x0001\x0000 usa Finta!
+\xf000ā\x0001\x0000 selvatico usa Finta!
+\xf000ā\x0001\x0000 nemico usa Finta!
+\xf000ā\x0001\x0000 usa Dolcebacio!
+\xf000ā\x0001\x0000 selvatico usa Dolcebacio!
+\xf000ā\x0001\x0000 nemico usa Dolcebacio!
+\xf000ā\x0001\x0000 usa Panciamburo!
+\xf000ā\x0001\x0000 selvatico usa Panciamburo!
+\xf000ā\x0001\x0000 nemico usa Panciamburo!
+\xf000ā\x0001\x0000 usa Fangobomba!
+\xf000ā\x0001\x0000 selvatico usa Fangobomba!
+\xf000ā\x0001\x0000 nemico usa Fangobomba!
+\xf000ā\x0001\x0000 usa Fangosberla!
+\xf000ā\x0001\x0000 selvatico usa Fangosberla!
+\xf000ā\x0001\x0000 nemico usa Fangosberla!
+\xf000ā\x0001\x0000 usa Octazooka!
+\xf000ā\x0001\x0000 selvatico usa Octazooka!
+\xf000ā\x0001\x0000 nemico usa Octazooka!
+\xf000ā\x0001\x0000 usa Punte!
+\xf000ā\x0001\x0000 selvatico usa Punte!
+\xf000ā\x0001\x0000 nemico usa Punte!
+\xf000ā\x0001\x0000 usa Falcecannone!
+\xf000ā\x0001\x0000 selvatico usa Falcecannone!
+\xf000ā\x0001\x0000 nemico usa Falcecannone!
+\xf000ā\x0001\x0000 usa Preveggenza!
+\xf000ā\x0001\x0000 selvatico usa Preveggenza!
+\xf000ā\x0001\x0000 nemico usa Preveggenza!
+\xf000ā\x0001\x0000 usa Destinobbligato!
+\xf000ā\x0001\x0000 selvatico usa Destinobbligato!
+\xf000ā\x0001\x0000 nemico usa Destinobbligato!
+\xf000ā\x0001\x0000 usa Ultimocanto!
+\xf000ā\x0001\x0000 selvatico usa Ultimocanto!
+\xf000ā\x0001\x0000 nemico usa Ultimocanto!
+\xf000ā\x0001\x0000 usa Ventogelato!
+\xf000ā\x0001\x0000 selvatico usa Ventogelato!
+\xf000ā\x0001\x0000 nemico usa Ventogelato!
+\xf000ā\x0001\x0000 usa Individua!
+\xf000ā\x0001\x0000 selvatico usa Individua!
+\xf000ā\x0001\x0000 nemico usa Individua!
+\xf000ā\x0001\x0000 usa Ossoraffica!
+\xf000ā\x0001\x0000 selvatico usa Ossoraffica!
+\xf000ā\x0001\x0000 nemico usa Ossoraffica!
+\xf000ā\x0001\x0000 usa Localizza!
+\xf000ā\x0001\x0000 selvatico usa Localizza!
+\xf000ā\x0001\x0000 nemico usa Localizza!
+\xf000ā\x0001\x0000 usa Oltraggio!
+\xf000ā\x0001\x0000 selvatico usa Oltraggio!
+\xf000ā\x0001\x0000 nemico usa Oltraggio!
+\xf000ā\x0001\x0000 usa Terrempesta!
+\xf000ā\x0001\x0000 selvatico usa Terrempesta!
+\xf000ā\x0001\x0000 nemico usa Terrempesta!
+\xf000ā\x0001\x0000 usa Gigassorbimento!
+\xf000ā\x0001\x0000 selvatico usa Gigassorbimento!
+\xf000ā\x0001\x0000 nemico usa Gigassorbimento!
+\xf000ā\x0001\x0000 usa Resistenza!
+\xf000ā\x0001\x0000 selvatico usa Resistenza!
+\xf000ā\x0001\x0000 nemico usa Resistenza!
+\xf000ā\x0001\x0000 usa Fascino!
+\xf000ā\x0001\x0000 selvatico usa Fascino!
+\xf000ā\x0001\x0000 nemico usa Fascino!
+\xf000ā\x0001\x0000 usa Rotolamento!
+\xf000ā\x0001\x0000 selvatico usa Rotolamento!
+\xf000ā\x0001\x0000 nemico usa Rotolamento!
+\xf000ā\x0001\x0000 usa Falsofinale!
+\xf000ā\x0001\x0000 selvatico usa Falsofinale!
+\xf000ā\x0001\x0000 nemico usa Falsofinale!
+\xf000ā\x0001\x0000 usa Bullo!
+\xf000ā\x0001\x0000 selvatico usa Bullo!
+\xf000ā\x0001\x0000 nemico usa Bullo!
+\xf000ā\x0001\x0000 usa Buonlatte!
+\xf000ā\x0001\x0000 selvatico usa Buonlatte!
+\xf000ā\x0001\x0000 nemico usa Buonlatte!
+\xf000ā\x0001\x0000 usa Scintilla!
+\xf000ā\x0001\x0000 selvatico usa Scintilla!
+\xf000ā\x0001\x0000 nemico usa Scintilla!
+\xf000ā\x0001\x0000 usa Tagliofuria!
+\xf000ā\x0001\x0000 selvatico usa Tagliofuria!
+\xf000ā\x0001\x0000 nemico usa Tagliofuria!
+\xf000ā\x0001\x0000 usa Alacciaio!
+\xf000ā\x0001\x0000 selvatico usa Alacciaio!
+\xf000ā\x0001\x0000 nemico usa Alacciaio!
+\xf000ā\x0001\x0000 usa Malosguardo!
+\xf000ā\x0001\x0000 selvatico usa Malosguardo!
+\xf000ā\x0001\x0000 nemico usa Malosguardo!
+\xf000ā\x0001\x0000 usa Attrazione!
+\xf000ā\x0001\x0000 selvatico usa Attrazione!
+\xf000ā\x0001\x0000 nemico usa Attrazione!
+\xf000ā\x0001\x0000 usa Sonnolalia!
+\xf000ā\x0001\x0000 selvatico usa Sonnolalia!
+\xf000ā\x0001\x0000 nemico usa Sonnolalia!
+\xf000ā\x0001\x0000 usa Rintoccasana!
+\xf000ā\x0001\x0000 selvatico usa Rintoccasana!
+\xf000ā\x0001\x0000 nemico usa Rintoccasana!
+\xf000ā\x0001\x0000 usa Ritorno!
+\xf000ā\x0001\x0000 selvatico usa Ritorno!
+\xf000ā\x0001\x0000 nemico usa Ritorno!
+\xf000ā\x0001\x0000 usa Regalino!
+\xf000ā\x0001\x0000 selvatico usa Regalino!
+\xf000ā\x0001\x0000 nemico usa Regalino!
+\xf000ā\x0001\x0000 usa Frustrazione!
+\xf000ā\x0001\x0000 selvatico usa Frustrazione!
+\xf000ā\x0001\x0000 nemico usa Frustrazione!
+\xf000ā\x0001\x0000 usa Salvaguardia!
+\xf000ā\x0001\x0000 selvatico usa Salvaguardia!
+\xf000ā\x0001\x0000 nemico usa Salvaguardia!
+\xf000ā\x0001\x0000 usa Malcomune!
+\xf000ā\x0001\x0000 selvatico usa Malcomune!
+\xf000ā\x0001\x0000 nemico usa Malcomune!
+\xf000ā\x0001\x0000 usa Magifuoco!
+\xf000ā\x0001\x0000 selvatico usa Magifuoco!
+\xf000ā\x0001\x0000 nemico usa Magifuoco!
+\xf000ā\x0001\x0000 usa Magnitudo!
+\xf000ā\x0001\x0000 selvatico usa Magnitudo!
+\xf000ā\x0001\x0000 nemico usa Magnitudo!
+\xf000ā\x0001\x0000 usa Dinamipugno!
+\xf000ā\x0001\x0000 selvatico usa Dinamipugno!
+\xf000ā\x0001\x0000 nemico usa Dinamipugno!
+\xf000ā\x0001\x0000 usa Megacorno!
+\xf000ā\x0001\x0000 selvatico usa Megacorno!
+\xf000ā\x0001\x0000 nemico usa Megacorno!
+\xf000ā\x0001\x0000 usa Dragospiro!
+\xf000ā\x0001\x0000 selvatico usa Dragospiro!
+\xf000ā\x0001\x0000 nemico usa Dragospiro!
+\xf000ā\x0001\x0000 usa Staffetta!
+\xf000ā\x0001\x0000 selvatico usa Staffetta!
+\xf000ā\x0001\x0000 nemico usa Staffetta!
+\xf000ā\x0001\x0000 usa Ripeti!
+\xf000ā\x0001\x0000 selvatico usa Ripeti!
+\xf000ā\x0001\x0000 nemico usa Ripeti!
+\xf000ā\x0001\x0000 usa Inseguimento!
+\xf000ā\x0001\x0000 selvatico usa Inseguimento!
+\xf000ā\x0001\x0000 nemico usa Inseguimento!
+\xf000ā\x0001\x0000 usa Rapigiro!
+\xf000ā\x0001\x0000 selvatico usa Rapigiro!
+\xf000ā\x0001\x0000 nemico usa Rapigiro!
+\xf000ā\x0001\x0000 usa Profumino!
+\xf000ā\x0001\x0000 selvatico usa Profumino!
+\xf000ā\x0001\x0000 nemico usa Profumino!
+\xf000ā\x0001\x0000 usa Codacciaio!
+\xf000ā\x0001\x0000 selvatico usa Codacciaio!
+\xf000ā\x0001\x0000 nemico usa Codacciaio!
+\xf000ā\x0001\x0000 usa Ferrartigli!
+\xf000ā\x0001\x0000 selvatico usa Ferrartigli!
+\xf000ā\x0001\x0000 nemico usa Ferrartigli!
+\xf000ā\x0001\x0000 usa Vitaltiro!
+\xf000ā\x0001\x0000 selvatico usa Vitaltiro!
+\xf000ā\x0001\x0000 nemico usa Vitaltiro!
+\xf000ā\x0001\x0000 usa Mattindoro!
+\xf000ā\x0001\x0000 selvatico usa Mattindoro!
+\xf000ā\x0001\x0000 nemico usa Mattindoro!
+\xf000ā\x0001\x0000 usa Sintesi!
+\xf000ā\x0001\x0000 selvatico usa Sintesi!
+\xf000ā\x0001\x0000 nemico usa Sintesi!
+\xf000ā\x0001\x0000 usa Lucelunare!
+\xf000ā\x0001\x0000 selvatico usa Lucelunare!
+\xf000ā\x0001\x0000 nemico usa Lucelunare!
+\xf000ā\x0001\x0000 usa Introforza!
+\xf000ā\x0001\x0000 selvatico usa Introforza!
+\xf000ā\x0001\x0000 nemico usa Introforza!
+\xf000ā\x0001\x0000 usa Incrocolpo!
+\xf000ā\x0001\x0000 selvatico usa Incrocolpo!
+\xf000ā\x0001\x0000 nemico usa Incrocolpo!
+\xf000ā\x0001\x0000 usa Tornado!
+\xf000ā\x0001\x0000 selvatico usa Tornado!
+\xf000ā\x0001\x0000 nemico usa Tornado!
+\xf000ā\x0001\x0000 usa Pioggiadanza!
+\xf000ā\x0001\x0000 selvatico usa Pioggiadanza!
+\xf000ā\x0001\x0000 nemico usa Pioggiadanza!
+\xf000ā\x0001\x0000 usa Giornodisole!
+\xf000ā\x0001\x0000 selvatico usa Giornodisole!
+\xf000ā\x0001\x0000 nemico usa Giornodisole!
+\xf000ā\x0001\x0000 usa Sgranocchio!
+\xf000ā\x0001\x0000 selvatico usa Sgranocchio!
+\xf000ā\x0001\x0000 nemico usa Sgranocchio!
+\xf000ā\x0001\x0000 usa Specchiovelo!
+\xf000ā\x0001\x0000 selvatico usa Specchiovelo!
+\xf000ā\x0001\x0000 nemico usa Specchiovelo!
+\xf000ā\x0001\x0000 usa Psicamisù!
+\xf000ā\x0001\x0000 selvatico usa Psicamisù!
+\xf000ā\x0001\x0000 nemico usa Psicamisù!
+\xf000ā\x0001\x0000 usa Extrarapido!
+\xf000ā\x0001\x0000 selvatico usa Extrarapido!
+\xf000ā\x0001\x0000 nemico usa Extrarapido!
+\xf000ā\x0001\x0000 usa Forzantica!
+\xf000ā\x0001\x0000 selvatico usa Forzantica!
+\xf000ā\x0001\x0000 nemico usa Forzantica!
+\xf000ā\x0001\x0000 usa Palla Ombra!
+\xf000ā\x0001\x0000 selvatico usa Palla Ombra!
+\xf000ā\x0001\x0000 nemico usa Palla Ombra!
+\xf000ā\x0001\x0000 usa Divinazione!
+\xf000ā\x0001\x0000 selvatico usa Divinazione!
+\xf000ā\x0001\x0000 nemico usa Divinazione!
+\xf000ā\x0001\x0000 usa Spaccaroccia!
+\xf000ā\x0001\x0000 selvatico usa Spaccaroccia!
+\xf000ā\x0001\x0000 nemico usa Spaccaroccia!
+\xf000ā\x0001\x0000 usa Mulinello!
+\xf000ā\x0001\x0000 selvatico usa Mulinello!
+\xf000ā\x0001\x0000 nemico usa Mulinello!
+\xf000ā\x0001\x0000 usa Picchiaduro!
+\xf000ā\x0001\x0000 selvatico usa Picchiaduro!
+\xf000ā\x0001\x0000 nemico usa Picchiaduro!
+\xf000ā\x0001\x0000 usa Bruciapelo!
+\xf000ā\x0001\x0000 selvatico usa Bruciapelo!
+\xf000ā\x0001\x0000 nemico usa Bruciapelo!
+\xf000ā\x0001\x0000 usa Baraonda!
+\xf000ā\x0001\x0000 selvatico usa Baraonda!
+\xf000ā\x0001\x0000 nemico usa Baraonda!
+\xf000ā\x0001\x0000 usa Accumulo!
+\xf000ā\x0001\x0000 selvatico usa Accumulo!
+\xf000ā\x0001\x0000 nemico usa Accumulo!
+\xf000ā\x0001\x0000 usa Sfoghenergia!
+\xf000ā\x0001\x0000 selvatico usa Sfoghenergia!
+\xf000ā\x0001\x0000 nemico usa Sfoghenergia!
+\xf000ā\x0001\x0000 usa Introenergia!
+\xf000ā\x0001\x0000 selvatico usa Introenergia!
+\xf000ā\x0001\x0000 nemico usa Introenergia!
+\xf000ā\x0001\x0000 usa Ondacalda!
+\xf000ā\x0001\x0000 selvatico usa Ondacalda!
+\xf000ā\x0001\x0000 nemico usa Ondacalda!
+\xf000ā\x0001\x0000 usa Grandine!
+\xf000ā\x0001\x0000 selvatico usa Grandine!
+\xf000ā\x0001\x0000 nemico usa Grandine!
+\xf000ā\x0001\x0000 usa Attaccalite!
+\xf000ā\x0001\x0000 selvatico usa Attaccalite!
+\xf000ā\x0001\x0000 nemico usa Attaccalite!
+\xf000ā\x0001\x0000 usa Adulazione!
+\xf000ā\x0001\x0000 selvatico usa Adulazione!
+\xf000ā\x0001\x0000 nemico usa Adulazione!
+\xf000ā\x0001\x0000 usa Fuocofatuo!
+\xf000ā\x0001\x0000 selvatico usa Fuocofatuo!
+\xf000ā\x0001\x0000 nemico usa Fuocofatuo!
+\xf000ā\x0001\x0000 usa Memento!
+\xf000ā\x0001\x0000 selvatico usa Memento!
+\xf000ā\x0001\x0000 nemico usa Memento!
+\xf000ā\x0001\x0000 usa Facciata!
+\xf000ā\x0001\x0000 selvatico usa Facciata!
+\xf000ā\x0001\x0000 nemico usa Facciata!
+\xf000ā\x0001\x0000 usa Centripugno!
+\xf000ā\x0001\x0000 selvatico usa Centripugno!
+\xf000ā\x0001\x0000 nemico usa Centripugno!
+\xf000ā\x0001\x0000 usa Maniereforti!
+\xf000ā\x0001\x0000 selvatico usa Maniereforti!
+\xf000ā\x0001\x0000 nemico usa Maniereforti!
+\xf000ā\x0001\x0000 usa Sonoqui!
+\xf000ā\x0001\x0000 selvatico usa Sonoqui!
+\xf000ā\x0001\x0000 nemico usa Sonoqui!
+\xf000ā\x0001\x0000 usa Naturforza!
+\xf000ā\x0001\x0000 selvatico usa Naturforza!
+\xf000ā\x0001\x0000 nemico usa Naturforza!
+\xf000ā\x0001\x0000 usa Sottocarica!
+\xf000ā\x0001\x0000 selvatico usa Sottocarica!
+\xf000ā\x0001\x0000 nemico usa Sottocarica!
+\xf000ā\x0001\x0000 usa Provocazione!
+\xf000ā\x0001\x0000 selvatico usa Provocazione!
+\xf000ā\x0001\x0000 nemico usa Provocazione!
+\xf000ā\x0001\x0000 usa Altruismo!
+\xf000ā\x0001\x0000 selvatico usa Altruismo!
+\xf000ā\x0001\x0000 nemico usa Altruismo!
+\xf000ā\x0001\x0000 usa Raggiro!
+\xf000ā\x0001\x0000 selvatico usa Raggiro!
+\xf000ā\x0001\x0000 nemico usa Raggiro!
+\xf000ā\x0001\x0000 usa Giocodiruolo!
+\xf000ā\x0001\x0000 selvatico usa Giocodiruolo!
+\xf000ā\x0001\x0000 nemico usa Giocodiruolo!
+\xf000ā\x0001\x0000 usa Desiderio!
+\xf000ā\x0001\x0000 selvatico usa Desiderio!
+\xf000ā\x0001\x0000 nemico usa Desiderio!
+\xf000ā\x0001\x0000 usa Assistente!
+\xf000ā\x0001\x0000 selvatico usa Assistente!
+\xf000ā\x0001\x0000 nemico usa Assistente!
+\xf000ā\x0001\x0000 usa Radicamento!
+\xf000ā\x0001\x0000 selvatico usa Radicamento!
+\xf000ā\x0001\x0000 nemico usa Radicamento!
+\xf000ā\x0001\x0000 usa Troppoforte!
+\xf000ā\x0001\x0000 selvatico usa Troppoforte!
+\xf000ā\x0001\x0000 nemico usa Troppoforte!
+\xf000ā\x0001\x0000 usa Magivelo!
+\xf000ā\x0001\x0000 selvatico usa Magivelo!
+\xf000ā\x0001\x0000 nemico usa Magivelo!
+\xf000ā\x0001\x0000 usa Riciclo!
+\xf000ā\x0001\x0000 selvatico usa Riciclo!
+\xf000ā\x0001\x0000 nemico usa Riciclo!
+\xf000ā\x0001\x0000 usa Vendetta!
+\xf000ā\x0001\x0000 selvatico usa Vendetta!
+\xf000ā\x0001\x0000 nemico usa Vendetta!
+\xf000ā\x0001\x0000 usa Breccia!
+\xf000ā\x0001\x0000 selvatico usa Breccia!
+\xf000ā\x0001\x0000 nemico usa Breccia!
+\xf000ā\x0001\x0000 usa Sbadiglio!
+\xf000ā\x0001\x0000 selvatico usa Sbadiglio!
+\xf000ā\x0001\x0000 nemico usa Sbadiglio!
+\xf000ā\x0001\x0000 usa Privazione!
+\xf000ā\x0001\x0000 selvatico usa Privazione!
+\xf000ā\x0001\x0000 nemico usa Privazione!
+\xf000ā\x0001\x0000 usa Rimonta!
+\xf000ā\x0001\x0000 selvatico usa Rimonta!
+\xf000ā\x0001\x0000 nemico usa Rimonta!
+\xf000ā\x0001\x0000 usa Eruzione!
+\xf000ā\x0001\x0000 selvatico usa Eruzione!
+\xf000ā\x0001\x0000 nemico usa Eruzione!
+\xf000ā\x0001\x0000 usa Baratto!
+\xf000ā\x0001\x0000 selvatico usa Baratto!
+\xf000ā\x0001\x0000 nemico usa Baratto!
+\xf000ā\x0001\x0000 usa Esclusiva!
+\xf000ā\x0001\x0000 selvatico usa Esclusiva!
+\xf000ā\x0001\x0000 nemico usa Esclusiva!
+\xf000ā\x0001\x0000 usa Rinfrescata!
+\xf000ā\x0001\x0000 selvatico usa Rinfrescata!
+\xf000ā\x0001\x0000 nemico usa Rinfrescata!
+\xf000ā\x0001\x0000 usa Rancore!
+\xf000ā\x0001\x0000 selvatico usa Rancore!
+\xf000ā\x0001\x0000 nemico usa Rancore!
+\xf000ā\x0001\x0000 usa Scippo!
+\xf000ā\x0001\x0000 selvatico usa Scippo!
+\xf000ā\x0001\x0000 nemico usa Scippo!
+\xf000ā\x0001\x0000 usa Forzasegreta!
+\xf000ā\x0001\x0000 selvatico usa Forzasegreta!
+\xf000ā\x0001\x0000 nemico usa Forzasegreta!
+\xf000ā\x0001\x0000 usa Sub!
+\xf000ā\x0001\x0000 selvatico usa Sub!
+\xf000ā\x0001\x0000 nemico usa Sub!
+\xf000ā\x0001\x0000 usa Sberletese!
+\xf000ā\x0001\x0000 selvatico usa Sberletese!
+\xf000ā\x0001\x0000 nemico usa Sberletese!
+\xf000ā\x0001\x0000 usa Camuffamento!
+\xf000ā\x0001\x0000 selvatico usa Camuffamento!
+\xf000ā\x0001\x0000 nemico usa Camuffamento!
+\xf000ā\x0001\x0000 usa Codadiluce!
+\xf000ā\x0001\x0000 selvatico usa Codadiluce!
+\xf000ā\x0001\x0000 nemico usa Codadiluce!
+\xf000ā\x0001\x0000 usa Abbagliante!
+\xf000ā\x0001\x0000 selvatico usa Abbagliante!
+\xf000ā\x0001\x0000 nemico usa Abbagliante!
+\xf000ā\x0001\x0000 usa Foschisfera!
+\xf000ā\x0001\x0000 selvatico usa Foschisfera!
+\xf000ā\x0001\x0000 nemico usa Foschisfera!
+\xf000ā\x0001\x0000 usa Danzadipiume!
+\xf000ā\x0001\x0000 selvatico usa Danzadipiume!
+\xf000ā\x0001\x0000 nemico usa Danzadipiume!
+\xf000ā\x0001\x0000 usa Strampadanza!
+\xf000ā\x0001\x0000 selvatico usa Strampadanza!
+\xf000ā\x0001\x0000 nemico usa Strampadanza!
+\xf000ā\x0001\x0000 usa Calciardente!
+\xf000ā\x0001\x0000 selvatico usa Calciardente!
+\xf000ā\x0001\x0000 nemico usa Calciardente!
+\xf000ā\x0001\x0000 usa Fangata!
+\xf000ā\x0001\x0000 selvatico usa Fangata!
+\xf000ā\x0001\x0000 nemico usa Fangata!
+\xf000ā\x0001\x0000 usa Palla Gelo!
+\xf000ā\x0001\x0000 selvatico usa Palla Gelo!
+\xf000ā\x0001\x0000 nemico usa Palla Gelo!
+\xf000ā\x0001\x0000 usa Pugnospine!
+\xf000ā\x0001\x0000 selvatico usa Pugnospine!
+\xf000ā\x0001\x0000 nemico usa Pugnospine!
+\xf000ā\x0001\x0000 usa Pigro!
+\xf000ā\x0001\x0000 selvatico usa Pigro!
+\xf000ā\x0001\x0000 nemico usa Pigro!
+\xf000ā\x0001\x0000 usa Granvoce!
+\xf000ā\x0001\x0000 selvatico usa Granvoce!
+\xf000ā\x0001\x0000 nemico usa Granvoce!
+\xf000ā\x0001\x0000 usa Velenodenti!
+\xf000ā\x0001\x0000 selvatico usa Velenodenti!
+\xf000ā\x0001\x0000 nemico usa Velenodenti!
+\xf000ā\x0001\x0000 usa Tritartigli!
+\xf000ā\x0001\x0000 selvatico usa Tritartigli!
+\xf000ā\x0001\x0000 nemico usa Tritartigli!
+\xf000ā\x0001\x0000 usa Incendio!
+\xf000ā\x0001\x0000 selvatico usa Incendio!
+\xf000ā\x0001\x0000 nemico usa Incendio!
+\xf000ā\x0001\x0000 usa Idrocannone!
+\xf000ā\x0001\x0000 selvatico usa Idrocannone!
+\xf000ā\x0001\x0000 nemico usa Idrocannone!
+\xf000ā\x0001\x0000 usa Meteorpugno!
+\xf000ā\x0001\x0000 selvatico usa Meteorpugno!
+\xf000ā\x0001\x0000 nemico usa Meteorpugno!
+\xf000ā\x0001\x0000 usa Sgomento!
+\xf000ā\x0001\x0000 selvatico usa Sgomento!
+\xf000ā\x0001\x0000 nemico usa Sgomento!
+\xf000ā\x0001\x0000 usa Palla Clima!
+\xf000ā\x0001\x0000 selvatico usa Palla Clima!
+\xf000ā\x0001\x0000 nemico usa Palla Clima!
+\xf000ā\x0001\x0000 usa Aromaterapia!
+\xf000ā\x0001\x0000 selvatico usa Aromaterapia!
+\xf000ā\x0001\x0000 nemico usa Aromaterapia!
+\xf000ā\x0001\x0000 usa Falselacrime!
+\xf000ā\x0001\x0000 selvatico usa Falselacrime!
+\xf000ā\x0001\x0000 nemico usa Falselacrime!
+\xf000ā\x0001\x0000 usa Aerasoio!
+\xf000ā\x0001\x0000 selvatico usa Aerasoio!
+\xf000ā\x0001\x0000 nemico usa Aerasoio!
+\xf000ā\x0001\x0000 usa Vampata!
+\xf000ā\x0001\x0000 selvatico usa Vampata!
+\xf000ā\x0001\x0000 nemico usa Vampata!
+\xf000ā\x0001\x0000 usa Segugio!
+\xf000ā\x0001\x0000 selvatico usa Segugio!
+\xf000ā\x0001\x0000 nemico usa Segugio!
+\xf000ā\x0001\x0000 usa Rocciotomba!
+\xf000ā\x0001\x0000 selvatico usa Rocciotomba!
+\xf000ā\x0001\x0000 nemico usa Rocciotomba!
+\xf000ā\x0001\x0000 usa Ventargenteo!
+\xf000ā\x0001\x0000 selvatico usa Ventargenteo!
+\xf000ā\x0001\x0000 nemico usa Ventargenteo!
+\xf000ā\x0001\x0000 usa Ferrostrido!
+\xf000ā\x0001\x0000 selvatico usa Ferrostrido!
+\xf000ā\x0001\x0000 nemico usa Ferrostrido!
+\xf000ā\x0001\x0000 usa Meloderba!
+\xf000ā\x0001\x0000 selvatico usa Meloderba!
+\xf000ā\x0001\x0000 nemico usa Meloderba!
+\xf000ā\x0001\x0000 usa Solletico!
+\xf000ā\x0001\x0000 selvatico usa Solletico!
+\xf000ā\x0001\x0000 nemico usa Solletico!
+\xf000ā\x0001\x0000 usa Cosmoforza!
+\xf000ā\x0001\x0000 selvatico usa Cosmoforza!
+\xf000ā\x0001\x0000 nemico usa Cosmoforza!
+\xf000ā\x0001\x0000 usa Zampillo!
+\xf000ā\x0001\x0000 selvatico usa Zampillo!
+\xf000ā\x0001\x0000 nemico usa Zampillo!
+\xf000ā\x0001\x0000 usa Segnoraggio!
+\xf000ā\x0001\x0000 selvatico usa Segnoraggio!
+\xf000ā\x0001\x0000 nemico usa Segnoraggio!
+\xf000ā\x0001\x0000 usa Pugnodombra!
+\xf000ā\x0001\x0000 selvatico usa Pugnodombra!
+\xf000ā\x0001\x0000 nemico usa Pugnodombra!
+\xf000ā\x0001\x0000 usa Extrasenso!
+\xf000ā\x0001\x0000 selvatico usa Extrasenso!
+\xf000ā\x0001\x0000 nemico usa Extrasenso!
+\xf000ā\x0001\x0000 usa Stramontante!
+\xf000ā\x0001\x0000 selvatico usa Stramontante!
+\xf000ā\x0001\x0000 nemico usa Stramontante!
+\xf000ā\x0001\x0000 usa Sabbiotomba!
+\xf000ā\x0001\x0000 selvatico usa Sabbiotomba!
+\xf000ā\x0001\x0000 nemico usa Sabbiotomba!
+\xf000ā\x0001\x0000 usa Purogelo!
+\xf000ā\x0001\x0000 selvatico usa Purogelo!
+\xf000ā\x0001\x0000 nemico usa Purogelo!
+\xf000ā\x0001\x0000 usa Fanghiglia!
+\xf000ā\x0001\x0000 selvatico usa Fanghiglia!
+\xf000ā\x0001\x0000 nemico usa Fanghiglia!
+\xf000ā\x0001\x0000 usa Semitraglia!
+\xf000ā\x0001\x0000 selvatico usa Semitraglia!
+\xf000ā\x0001\x0000 nemico usa Semitraglia!
+\xf000ā\x0001\x0000 usa Aeroassalto!
+\xf000ā\x0001\x0000 selvatico usa Aeroassalto!
+\xf000ā\x0001\x0000 nemico usa Aeroassalto!
+\xf000ā\x0001\x0000 usa Gelolancia!
+\xf000ā\x0001\x0000 selvatico usa Gelolancia!
+\xf000ā\x0001\x0000 nemico usa Gelolancia!
+\xf000ā\x0001\x0000 usa Ferroscudo!
+\xf000ā\x0001\x0000 selvatico usa Ferroscudo!
+\xf000ā\x0001\x0000 nemico usa Ferroscudo!
+\xf000ā\x0001\x0000 usa Blocco!
+\xf000ā\x0001\x0000 selvatico usa Blocco!
+\xf000ā\x0001\x0000 nemico usa Blocco!
+\xf000ā\x0001\x0000 usa Gridodilotta!
+\xf000ā\x0001\x0000 selvatico usa Gridodilotta!
+\xf000ā\x0001\x0000 nemico usa Gridodilotta!
+\xf000ā\x0001\x0000 usa Dragartigli!
+\xf000ā\x0001\x0000 selvatico usa Dragartigli!
+\xf000ā\x0001\x0000 nemico usa Dragartigli!
+\xf000ā\x0001\x0000 usa Radicalbero!
+\xf000ā\x0001\x0000 selvatico usa Radicalbero!
+\xf000ā\x0001\x0000 nemico usa Radicalbero!
+\xf000ā\x0001\x0000 usa Granfisico!
+\xf000ā\x0001\x0000 selvatico usa Granfisico!
+\xf000ā\x0001\x0000 nemico usa Granfisico!
+\xf000ā\x0001\x0000 usa Rimbalzo!
+\xf000ā\x0001\x0000 selvatico usa Rimbalzo!
+\xf000ā\x0001\x0000 nemico usa Rimbalzo!
+\xf000ā\x0001\x0000 usa Colpodifango!
+\xf000ā\x0001\x0000 selvatico usa Colpodifango!
+\xf000ā\x0001\x0000 nemico usa Colpodifango!
+\xf000ā\x0001\x0000 usa Velenocoda!
+\xf000ā\x0001\x0000 selvatico usa Velenocoda!
+\xf000ā\x0001\x0000 nemico usa Velenocoda!
+\xf000ā\x0001\x0000 usa Supplica!
+\xf000ā\x0001\x0000 selvatico usa Supplica!
+\xf000ā\x0001\x0000 nemico usa Supplica!
+\xf000ā\x0001\x0000 usa Locomovolt!
+\xf000ā\x0001\x0000 selvatico usa Locomovolt!
+\xf000ā\x0001\x0000 nemico usa Locomovolt!
+\xf000ā\x0001\x0000 usa Fogliamagica!
+\xf000ā\x0001\x0000 selvatico usa Fogliamagica!
+\xf000ā\x0001\x0000 nemico usa Fogliamagica!
+\xf000ā\x0001\x0000 usa Docciascudo!
+\xf000ā\x0001\x0000 selvatico usa Docciascudo!
+\xf000ā\x0001\x0000 nemico usa Docciascudo!
+\xf000ā\x0001\x0000 usa Calmamente!
+\xf000ā\x0001\x0000 selvatico usa Calmamente!
+\xf000ā\x0001\x0000 nemico usa Calmamente!
+\xf000ā\x0001\x0000 usa Fendifoglia!
+\xf000ā\x0001\x0000 selvatico usa Fendifoglia!
+\xf000ā\x0001\x0000 nemico usa Fendifoglia!
+\xf000ā\x0001\x0000 usa Dragodanza!
+\xf000ā\x0001\x0000 selvatico usa Dragodanza!
+\xf000ā\x0001\x0000 nemico usa Dragodanza!
+\xf000ā\x0001\x0000 usa Cadutamassi!
+\xf000ā\x0001\x0000 selvatico usa Cadutamassi!
+\xf000ā\x0001\x0000 nemico usa Cadutamassi!
+\xf000ā\x0001\x0000 usa Ondashock!
+\xf000ā\x0001\x0000 selvatico usa Ondashock!
+\xf000ā\x0001\x0000 nemico usa Ondashock!
+\xf000ā\x0001\x0000 usa Idropulsar!
+\xf000ā\x0001\x0000 selvatico usa Idropulsar!
+\xf000ā\x0001\x0000 nemico usa Idropulsar!
+\xf000ā\x0001\x0000 usa Obbliderio!
+\xf000ā\x0001\x0000 selvatico usa Obbliderio!
+\xf000ā\x0001\x0000 nemico usa Obbliderio!
+\xf000ā\x0001\x0000 usa Psicoslancio!
+\xf000ā\x0001\x0000 selvatico usa Psicoslancio!
+\xf000ā\x0001\x0000 nemico usa Psicoslancio!
+\xf000ā\x0001\x0000 usa Trespolo!
+\xf000ā\x0001\x0000 selvatico usa Trespolo!
+\xf000ā\x0001\x0000 nemico usa Trespolo!
+\xf000ā\x0001\x0000 usa Gravità!
+\xf000ā\x0001\x0000 selvatico usa Gravità!
+\xf000ā\x0001\x0000 nemico usa Gravità!
+\xf000ā\x0001\x0000 usa Miracolvista!
+\xf000ā\x0001\x0000 selvatico usa Miracolvista!
+\xf000ā\x0001\x0000 nemico usa Miracolvista!
+\xf000ā\x0001\x0000 usa Svegliopacca!
+\xf000ā\x0001\x0000 selvatico usa Svegliopacca!
+\xf000ā\x0001\x0000 nemico usa Svegliopacca!
+\xf000ā\x0001\x0000 usa Martelpugno!
+\xf000ā\x0001\x0000 selvatico usa Martelpugno!
+\xf000ā\x0001\x0000 nemico usa Martelpugno!
+\xf000ā\x0001\x0000 usa Vortexpalla!
+\xf000ā\x0001\x0000 selvatico usa Vortexpalla!
+\xf000ā\x0001\x0000 nemico usa Vortexpalla!
+\xf000ā\x0001\x0000 usa Curardore!
+\xf000ā\x0001\x0000 selvatico usa Curardore!
+\xf000ā\x0001\x0000 nemico usa Curardore!
+\xf000ā\x0001\x0000 usa Acquadisale!
+\xf000ā\x0001\x0000 selvatico usa Acquadisale!
+\xf000ā\x0001\x0000 nemico usa Acquadisale!
+\xf000ā\x0001\x0000 usa Dononaturale!
+\xf000ā\x0001\x0000 selvatico usa Dononaturale!
+\xf000ā\x0001\x0000 nemico usa Dononaturale!
+\xf000ā\x0001\x0000 usa Fintoattacco!
+\xf000ā\x0001\x0000 selvatico usa Fintoattacco!
+\xf000ā\x0001\x0000 nemico usa Fintoattacco!
+\xf000ā\x0001\x0000 usa Spennata!
+\xf000ā\x0001\x0000 selvatico usa Spennata!
+\xf000ā\x0001\x0000 nemico usa Spennata!
+\xf000ā\x0001\x0000 usa Ventoincoda!
+\xf000ā\x0001\x0000 selvatico usa Ventoincoda!
+\xf000ā\x0001\x0000 nemico usa Ventoincoda!
+\xf000ā\x0001\x0000 usa Acupressione!
+\xf000ā\x0001\x0000 selvatico usa Acupressione!
+\xf000ā\x0001\x0000 nemico usa Acupressione!
+\xf000ā\x0001\x0000 usa Metalscoppio!
+\xf000ā\x0001\x0000 selvatico usa Metalscoppio!
+\xf000ā\x0001\x0000 nemico usa Metalscoppio!
+\xf000ā\x0001\x0000 usa Retromarcia!
+\xf000ā\x0001\x0000 selvatico usa Retromarcia!
+\xf000ā\x0001\x0000 nemico usa Retromarcia!
+\xf000ā\x0001\x0000 usa Zuffa!
+\xf000ā\x0001\x0000 selvatico usa Zuffa!
+\xf000ā\x0001\x0000 nemico usa Zuffa!
+\xf000ā\x0001\x0000 usa Rivincita!
+\xf000ā\x0001\x0000 selvatico usa Rivincita!
+\xf000ā\x0001\x0000 nemico usa Rivincita!
+\xf000ā\x0001\x0000 usa Garanzia!
+\xf000ā\x0001\x0000 selvatico usa Garanzia!
+\xf000ā\x0001\x0000 nemico usa Garanzia!
+\xf000ā\x0001\x0000 usa Divieto!
+\xf000ā\x0001\x0000 selvatico usa Divieto!
+\xf000ā\x0001\x0000 nemico usa Divieto!
+\xf000ā\x0001\x0000 usa Lancio!
+\xf000ā\x0001\x0000 selvatico usa Lancio!
+\xf000ā\x0001\x0000 nemico usa Lancio!
+\xf000ā\x0001\x0000 usa Psicotrasfer!
+\xf000ā\x0001\x0000 selvatico usa Psicotrasfer!
+\xf000ā\x0001\x0000 nemico usa Psicotrasfer!
+\xf000ā\x0001\x0000 usa Asso!
+\xf000ā\x0001\x0000 selvatico usa Asso!
+\xf000ā\x0001\x0000 nemico usa Asso!
+\xf000ā\x0001\x0000 usa Anticura!
+\xf000ā\x0001\x0000 selvatico usa Anticura!
+\xf000ā\x0001\x0000 nemico usa Anticura!
+\xf000ā\x0001\x0000 usa Strizzata!
+\xf000ā\x0001\x0000 selvatico usa Strizzata!
+\xf000ā\x0001\x0000 nemico usa Strizzata!
+\xf000ā\x0001\x0000 usa Ingannoforza!
+\xf000ā\x0001\x0000 selvatico usa Ingannoforza!
+\xf000ā\x0001\x0000 nemico usa Ingannoforza!
+\xf000ā\x0001\x0000 usa Gastroacido!
+\xf000ā\x0001\x0000 selvatico usa Gastroacido!
+\xf000ā\x0001\x0000 nemico usa Gastroacido!
+\xf000ā\x0001\x0000 usa Fortuncanto!
+\xf000ā\x0001\x0000 selvatico usa Fortuncanto!
+\xf000ā\x0001\x0000 nemico usa Fortuncanto!
+\xf000ā\x0001\x0000 usa Precedenza!
+\xf000ā\x0001\x0000 selvatico usa Precedenza!
+\xf000ā\x0001\x0000 nemico usa Precedenza!
+\xf000ā\x0001\x0000 usa Copione!
+\xf000ā\x0001\x0000 selvatico usa Copione!
+\xf000ā\x0001\x0000 nemico usa Copione!
+\xf000ā\x0001\x0000 usa Barattoforza!
+\xf000ā\x0001\x0000 selvatico usa Barattoforza!
+\xf000ā\x0001\x0000 nemico usa Barattoforza!
+\xf000ā\x0001\x0000 usa Barattoscudo!
+\xf000ā\x0001\x0000 selvatico usa Barattoscudo!
+\xf000ā\x0001\x0000 nemico usa Barattoscudo!
+\xf000ā\x0001\x0000 usa Punizione!
+\xf000ā\x0001\x0000 selvatico usa Punizione!
+\xf000ā\x0001\x0000 nemico usa Punizione!
+\xf000ā\x0001\x0000 usa Ultimascelta!
+\xf000ā\x0001\x0000 selvatico usa Ultimascelta!
+\xf000ā\x0001\x0000 nemico usa Ultimascelta!
+\xf000ā\x0001\x0000 usa Affannoseme!
+\xf000ā\x0001\x0000 selvatico usa Affannoseme!
+\xf000ā\x0001\x0000 nemico usa Affannoseme!
+\xf000ā\x0001\x0000 usa Sbigoattacco!
+\xf000ā\x0001\x0000 selvatico usa Sbigoattacco!
+\xf000ā\x0001\x0000 nemico usa Sbigoattacco!
+\xf000ā\x0001\x0000 usa Fielepunte!
+\xf000ā\x0001\x0000 selvatico usa Fielepunte!
+\xf000ā\x0001\x0000 nemico usa Fielepunte!
+\xf000ā\x0001\x0000 usa Cuorbaratto!
+\xf000ā\x0001\x0000 selvatico usa Cuorbaratto!
+\xf000ā\x0001\x0000 nemico usa Cuorbaratto!
+\xf000ā\x0001\x0000 usa Acquanello!
+\xf000ā\x0001\x0000 selvatico usa Acquanello!
+\xf000ā\x0001\x0000 nemico usa Acquanello!
+\xf000ā\x0001\x0000 usa Magnetascesa!
+\xf000ā\x0001\x0000 selvatico usa Magnetascesa!
+\xf000ā\x0001\x0000 nemico usa Magnetascesa!
+\xf000ā\x0001\x0000 usa Fuococarica!
+\xf000ā\x0001\x0000 selvatico usa Fuococarica!
+\xf000ā\x0001\x0000 nemico usa Fuococarica!
+\xf000ā\x0001\x0000 usa Palmoforza!
+\xf000ā\x0001\x0000 selvatico usa Palmoforza!
+\xf000ā\x0001\x0000 nemico usa Palmoforza!
+\xf000ā\x0001\x0000 usa Forzasfera!
+\xf000ā\x0001\x0000 selvatico usa Forzasfera!
+\xf000ā\x0001\x0000 nemico usa Forzasfera!
+\xf000ā\x0001\x0000 usa Lucidatura!
+\xf000ā\x0001\x0000 selvatico usa Lucidatura!
+\xf000ā\x0001\x0000 nemico usa Lucidatura!
+\xf000ā\x0001\x0000 usa Velenpuntura!
+\xf000ā\x0001\x0000 selvatico usa Velenpuntura!
+\xf000ā\x0001\x0000 nemico usa Velenpuntura!
+\xf000ā\x0001\x0000 usa Neropulsar!
+\xf000ā\x0001\x0000 selvatico usa Neropulsar!
+\xf000ā\x0001\x0000 nemico usa Neropulsar!
+\xf000ā\x0001\x0000 usa Nottesferza!
+\xf000ā\x0001\x0000 selvatico usa Nottesferza!
+\xf000ā\x0001\x0000 nemico usa Nottesferza!
+\xf000ā\x0001\x0000 usa Idrondata!
+\xf000ā\x0001\x0000 selvatico usa Idrondata!
+\xf000ā\x0001\x0000 nemico usa Idrondata!
+\xf000ā\x0001\x0000 usa Semebomba!
+\xf000ā\x0001\x0000 selvatico usa Semebomba!
+\xf000ā\x0001\x0000 nemico usa Semebomba!
+\xf000ā\x0001\x0000 usa Eterelama!
+\xf000ā\x0001\x0000 selvatico usa Eterelama!
+\xf000ā\x0001\x0000 nemico usa Eterelama!
+\xf000ā\x0001\x0000 usa Forbice X!
+\xf000ā\x0001\x0000 selvatico usa Forbice X!
+\xf000ā\x0001\x0000 nemico usa Forbice X!
+\xf000ā\x0001\x0000 usa Ronzio!
+\xf000ā\x0001\x0000 selvatico usa Ronzio!
+\xf000ā\x0001\x0000 nemico usa Ronzio!
+\xf000ā\x0001\x0000 usa Dragopulsar!
+\xf000ā\x0001\x0000 selvatico usa Dragopulsar!
+\xf000ā\x0001\x0000 nemico usa Dragopulsar!
+\xf000ā\x0001\x0000 usa Dragofuria!
+\xf000ā\x0001\x0000 selvatico usa Dragofuria!
+\xf000ā\x0001\x0000 nemico usa Dragofuria!
+\xf000ā\x0001\x0000 usa Gemmoforza!
+\xf000ā\x0001\x0000 selvatico usa Gemmoforza!
+\xf000ā\x0001\x0000 nemico usa Gemmoforza!
+\xf000ā\x0001\x0000 usa Assorbipugno!
+\xf000ā\x0001\x0000 selvatico usa Assorbipugno!
+\xf000ā\x0001\x0000 nemico usa Assorbipugno!
+\xf000ā\x0001\x0000 usa Vuotonda!
+\xf000ā\x0001\x0000 selvatico usa Vuotonda!
+\xf000ā\x0001\x0000 nemico usa Vuotonda!
+\xf000ā\x0001\x0000 usa Focalcolpo!
+\xf000ā\x0001\x0000 selvatico usa Focalcolpo!
+\xf000ā\x0001\x0000 nemico usa Focalcolpo!
+\xf000ā\x0001\x0000 usa Energipalla!
+\xf000ā\x0001\x0000 selvatico usa Energipalla!
+\xf000ā\x0001\x0000 nemico usa Energipalla!
+\xf000ā\x0001\x0000 usa Baldeali!
+\xf000ā\x0001\x0000 selvatico usa Baldeali!
+\xf000ā\x0001\x0000 nemico usa Baldeali!
+\xf000ā\x0001\x0000 usa Geoforza!
+\xf000ā\x0001\x0000 selvatico usa Geoforza!
+\xf000ā\x0001\x0000 nemico usa Geoforza!
+\xf000ā\x0001\x0000 usa Rapidscambio!
+\xf000ā\x0001\x0000 selvatico usa Rapidscambio!
+\xf000ā\x0001\x0000 nemico usa Rapidscambio!
+\xf000ā\x0001\x0000 usa Gigaimpatto!
+\xf000ā\x0001\x0000 selvatico usa Gigaimpatto!
+\xf000ā\x0001\x0000 nemico usa Gigaimpatto!
+\xf000ā\x0001\x0000 usa Congiura!
+\xf000ā\x0001\x0000 selvatico usa Congiura!
+\xf000ā\x0001\x0000 nemico usa Congiura!
+\xf000ā\x0001\x0000 usa Pugnoscarica!
+\xf000ā\x0001\x0000 selvatico usa Pugnoscarica!
+\xf000ā\x0001\x0000 nemico usa Pugnoscarica!
+\xf000ā\x0001\x0000 usa Slavina!
+\xf000ā\x0001\x0000 selvatico usa Slavina!
+\xf000ā\x0001\x0000 nemico usa Slavina!
+\xf000ā\x0001\x0000 usa Geloscheggia!
+\xf000ā\x0001\x0000 selvatico usa Geloscheggia!
+\xf000ā\x0001\x0000 nemico usa Geloscheggia!
+\xf000ā\x0001\x0000 usa Ombrartigli!
+\xf000ā\x0001\x0000 selvatico usa Ombrartigli!
+\xf000ā\x0001\x0000 nemico usa Ombrartigli!
+\xf000ā\x0001\x0000 usa Fulmindenti!
+\xf000ā\x0001\x0000 selvatico usa Fulmindenti!
+\xf000ā\x0001\x0000 nemico usa Fulmindenti!
+\xf000ā\x0001\x0000 usa Gelodenti!
+\xf000ā\x0001\x0000 selvatico usa Gelodenti!
+\xf000ā\x0001\x0000 nemico usa Gelodenti!
+\xf000ā\x0001\x0000 usa Rogodenti!
+\xf000ā\x0001\x0000 selvatico usa Rogodenti!
+\xf000ā\x0001\x0000 nemico usa Rogodenti!
+\xf000ā\x0001\x0000 usa Furtivombra!
+\xf000ā\x0001\x0000 selvatico usa Furtivombra!
+\xf000ā\x0001\x0000 nemico usa Furtivombra!
+\xf000ā\x0001\x0000 usa Pantanobomba!
+\xf000ā\x0001\x0000 selvatico usa Pantanobomba!
+\xf000ā\x0001\x0000 nemico usa Pantanobomba!
+\xf000ā\x0001\x0000 usa Psicotaglio!
+\xf000ā\x0001\x0000 selvatico usa Psicotaglio!
+\xf000ā\x0001\x0000 nemico usa Psicotaglio!
+\xf000ā\x0001\x0000 usa Cozzata Zen!
+\xf000ā\x0001\x0000 selvatico usa Cozzata Zen!
+\xf000ā\x0001\x0000 nemico usa Cozzata Zen!
+\xf000ā\x0001\x0000 usa Cristalcolpo!
+\xf000ā\x0001\x0000 selvatico usa Cristalcolpo!
+\xf000ā\x0001\x0000 nemico usa Cristalcolpo!
+\xf000ā\x0001\x0000 usa Cannonflash!
+\xf000ā\x0001\x0000 selvatico usa Cannonflash!
+\xf000ā\x0001\x0000 nemico usa Cannonflash!
+\xf000ā\x0001\x0000 usa Scalaroccia!
+\xf000ā\x0001\x0000 selvatico usa Scalaroccia!
+\xf000ā\x0001\x0000 nemico usa Scalaroccia!
+\xf000ā\x0001\x0000 usa Scacciabruma!
+\xf000ā\x0001\x0000 selvatico usa Scacciabruma!
+\xf000ā\x0001\x0000 nemico usa Scacciabruma!
+\xf000ā\x0001\x0000 usa Distortozona!
+\xf000ā\x0001\x0000 selvatico usa Distortozona!
+\xf000ā\x0001\x0000 nemico usa Distortozona!
+\xf000ā\x0001\x0000 usa Dragobolide!
+\xf000ā\x0001\x0000 selvatico usa Dragobolide!
+\xf000ā\x0001\x0000 nemico usa Dragobolide!
+\xf000ā\x0001\x0000 usa Scarica!
+\xf000ā\x0001\x0000 selvatico usa Scarica!
+\xf000ā\x0001\x0000 nemico usa Scarica!
+\xf000ā\x0001\x0000 usa Lavasbuffo!
+\xf000ā\x0001\x0000 selvatico usa Lavasbuffo!
+\xf000ā\x0001\x0000 nemico usa Lavasbuffo!
+\xf000ā\x0001\x0000 usa Verdebufera!
+\xf000ā\x0001\x0000 selvatico usa Verdebufera!
+\xf000ā\x0001\x0000 nemico usa Verdebufera!
+\xf000ā\x0001\x0000 usa Vigorcolpo!
+\xf000ā\x0001\x0000 selvatico usa Vigorcolpo!
+\xf000ā\x0001\x0000 nemico usa Vigorcolpo!
+\xf000ā\x0001\x0000 usa Devastomasso!
+\xf000ā\x0001\x0000 selvatico usa Devastomasso!
+\xf000ā\x0001\x0000 nemico usa Devastomasso!
+\xf000ā\x0001\x0000 usa Velenocroce!
+\xf000ā\x0001\x0000 selvatico usa Velenocroce!
+\xf000ā\x0001\x0000 nemico usa Velenocroce!
+\xf000ā\x0001\x0000 usa Sporcolancio!
+\xf000ā\x0001\x0000 selvatico usa Sporcolancio!
+\xf000ā\x0001\x0000 nemico usa Sporcolancio!
+\xf000ā\x0001\x0000 usa Metaltestata!
+\xf000ā\x0001\x0000 selvatico usa Metaltestata!
+\xf000ā\x0001\x0000 nemico usa Metaltestata!
+\xf000ā\x0001\x0000 usa Bombagnete!
+\xf000ā\x0001\x0000 selvatico usa Bombagnete!
+\xf000ā\x0001\x0000 nemico usa Bombagnete!
+\xf000ā\x0001\x0000 usa Pietrataglio!
+\xf000ā\x0001\x0000 selvatico usa Pietrataglio!
+\xf000ā\x0001\x0000 nemico usa Pietrataglio!
+\xf000ā\x0001\x0000 usa Incanto!
+\xf000ā\x0001\x0000 selvatico usa Incanto!
+\xf000ā\x0001\x0000 nemico usa Incanto!
+\xf000ā\x0001\x0000 usa Levitoroccia!
+\xf000ā\x0001\x0000 selvatico usa Levitoroccia!
+\xf000ā\x0001\x0000 nemico usa Levitoroccia!
+\xf000ā\x0001\x0000 usa Laccioerboso!
+\xf000ā\x0001\x0000 selvatico usa Laccioerboso!
+\xf000ā\x0001\x0000 nemico usa Laccioerboso!
+\xf000ā\x0001\x0000 usa Schiamazzo!
+\xf000ā\x0001\x0000 selvatico usa Schiamazzo!
+\xf000ā\x0001\x0000 nemico usa Schiamazzo!
+\xf000ā\x0001\x0000 usa Giudizio!
+\xf000ā\x0001\x0000 selvatico usa Giudizio!
+\xf000ā\x0001\x0000 nemico usa Giudizio!
+\xf000ā\x0001\x0000 usa Coleomorso!
+\xf000ā\x0001\x0000 selvatico usa Coleomorso!
+\xf000ā\x0001\x0000 nemico usa Coleomorso!
+\xf000ā\x0001\x0000 usa Raggioscossa!
+\xf000ā\x0001\x0000 selvatico usa Raggioscossa!
+\xf000ā\x0001\x0000 nemico usa Raggioscossa!
+\xf000ā\x0001\x0000 usa Mazzuolegno!
+\xf000ā\x0001\x0000 selvatico usa Mazzuolegno!
+\xf000ā\x0001\x0000 nemico usa Mazzuolegno!
+\xf000ā\x0001\x0000 usa Acquagetto!
+\xf000ā\x0001\x0000 selvatico usa Acquagetto!
+\xf000ā\x0001\x0000 nemico usa Acquagetto!
+\xf000ā\x0001\x0000 usa Comandourto!
+\xf000ā\x0001\x0000 selvatico usa Comandourto!
+\xf000ā\x0001\x0000 nemico usa Comandourto!
+\xf000ā\x0001\x0000 usa Comandoscudo!
+\xf000ā\x0001\x0000 selvatico usa Comandoscudo!
+\xf000ā\x0001\x0000 nemico usa Comandoscudo!
+\xf000ā\x0001\x0000 usa Comandocura!
+\xf000ā\x0001\x0000 selvatico usa Comandocura!
+\xf000ā\x0001\x0000 nemico usa Comandocura!
+\xf000ā\x0001\x0000 usa Zuccata!
+\xf000ā\x0001\x0000 selvatico usa Zuccata!
+\xf000ā\x0001\x0000 nemico usa Zuccata!
+\xf000ā\x0001\x0000 usa Doppiosmash!
+\xf000ā\x0001\x0000 selvatico usa Doppiosmash!
+\xf000ā\x0001\x0000 nemico usa Doppiosmash!
+\xf000ā\x0001\x0000 usa Fragortempo!
+\xf000ā\x0001\x0000 selvatico usa Fragortempo!
+\xf000ā\x0001\x0000 nemico usa Fragortempo!
+\xf000ā\x0001\x0000 usa Fendispazio!
+\xf000ā\x0001\x0000 selvatico usa Fendispazio!
+\xf000ā\x0001\x0000 nemico usa Fendispazio!
+\xf000ā\x0001\x0000 usa Lunardanza!
+\xf000ā\x0001\x0000 selvatico usa Lunardanza!
+\xf000ā\x0001\x0000 nemico usa Lunardanza!
+\xf000ā\x0001\x0000 usa Sbriciolmano!
+\xf000ā\x0001\x0000 selvatico usa Sbriciolmano!
+\xf000ā\x0001\x0000 nemico usa Sbriciolmano!
+\xf000ā\x0001\x0000 usa Magmaclisma!
+\xf000ā\x0001\x0000 selvatico usa Magmaclisma!
+\xf000ā\x0001\x0000 nemico usa Magmaclisma!
+\xf000ā\x0001\x0000 usa Vuototetro!
+\xf000ā\x0001\x0000 selvatico usa Vuototetro!
+\xf000ā\x0001\x0000 nemico usa Vuototetro!
+\xf000ā\x0001\x0000 usa Infuriaseme!
+\xf000ā\x0001\x0000 selvatico usa Infuriaseme!
+\xf000ā\x0001\x0000 nemico usa Infuriaseme!
+\xf000ā\x0001\x0000 usa Funestovento!
+\xf000ā\x0001\x0000 selvatico usa Funestovento!
+\xf000ā\x0001\x0000 nemico usa Funestovento!
+\xf000ā\x0001\x0000 usa Oscurotuffo!
+\xf000ā\x0001\x0000 selvatico usa Oscurotuffo!
+\xf000ā\x0001\x0000 nemico usa Oscurotuffo!
+\xf000ā\x0001\x0000 usa Unghiaguzze!
+\xf000ā\x0001\x0000 selvatico usa Unghiaguzze!
+\xf000ā\x0001\x0000 nemico usa Unghiaguzze!
+\xf000ā\x0001\x0000 usa Bodyguard!
+\xf000ā\x0001\x0000 selvatico usa Bodyguard!
+\xf000ā\x0001\x0000 nemico usa Bodyguard!
+\xf000ā\x0001\x0000 usa Paridifesa!
+\xf000ā\x0001\x0000 selvatico usa Paridifesa!
+\xf000ā\x0001\x0000 nemico usa Paridifesa!
+\xf000ā\x0001\x0000 usa Pariattacco!
+\xf000ā\x0001\x0000 selvatico usa Pariattacco!
+\xf000ā\x0001\x0000 nemico usa Pariattacco!
+\xf000ā\x0001\x0000 usa Mirabilzona!
+\xf000ā\x0001\x0000 selvatico usa Mirabilzona!
+\xf000ā\x0001\x0000 nemico usa Mirabilzona!
+\xf000ā\x0001\x0000 usa Psicoshock!
+\xf000ā\x0001\x0000 selvatico usa Psicoshock!
+\xf000ā\x0001\x0000 nemico usa Psicoshock!
+\xf000ā\x0001\x0000 usa Velenoshock!
+\xf000ā\x0001\x0000 selvatico usa Velenoshock!
+\xf000ā\x0001\x0000 nemico usa Velenoshock!
+\xf000ā\x0001\x0000 usa Sganciapesi!
+\xf000ā\x0001\x0000 selvatico usa Sganciapesi!
+\xf000ā\x0001\x0000 nemico usa Sganciapesi!
+\xf000ā\x0001\x0000 usa Polverabbia!
+\xf000ā\x0001\x0000 selvatico usa Polverabbia!
+\xf000ā\x0001\x0000 nemico usa Polverabbia!
+\xf000ā\x0001\x0000 usa Telecinesi!
+\xf000ā\x0001\x0000 selvatico usa Telecinesi!
+\xf000ā\x0001\x0000 nemico usa Telecinesi!
+\xf000ā\x0001\x0000 usa Magicozona!
+\xf000ā\x0001\x0000 selvatico usa Magicozona!
+\xf000ā\x0001\x0000 nemico usa Magicozona!
+\xf000ā\x0001\x0000 usa Abbattimento!
+\xf000ā\x0001\x0000 selvatico usa Abbattimento!
+\xf000ā\x0001\x0000 nemico usa Abbattimento!
+\xf000ā\x0001\x0000 usa Tempestretta!
+\xf000ā\x0001\x0000 selvatico usa Tempestretta!
+\xf000ā\x0001\x0000 nemico usa Tempestretta!
+\xf000ā\x0001\x0000 usa Pirolancio!
+\xf000ā\x0001\x0000 selvatico usa Pirolancio!
+\xf000ā\x0001\x0000 nemico usa Pirolancio!
+\xf000ā\x0001\x0000 usa Fangonda!
+\xf000ā\x0001\x0000 selvatico usa Fangonda!
+\xf000ā\x0001\x0000 nemico usa Fangonda!
+\xf000ā\x0001\x0000 usa Eledanza!
+\xf000ā\x0001\x0000 selvatico usa Eledanza!
+\xf000ā\x0001\x0000 nemico usa Eledanza!
+\xf000ā\x0001\x0000 usa Pesobomba!
+\xf000ā\x0001\x0000 selvatico usa Pesobomba!
+\xf000ā\x0001\x0000 nemico usa Pesobomba!
+\xf000ā\x0001\x0000 usa Sincrumore!
+\xf000ā\x0001\x0000 selvatico usa Sincrumore!
+\xf000ā\x0001\x0000 nemico usa Sincrumore!
+\xf000ā\x0001\x0000 usa Energisfera!
+\xf000ā\x0001\x0000 selvatico usa Energisfera!
+\xf000ā\x0001\x0000 nemico usa Energisfera!
+\xf000ā\x0001\x0000 usa Inondazione!
+\xf000ā\x0001\x0000 selvatico usa Inondazione!
+\xf000ā\x0001\x0000 nemico usa Inondazione!
+\xf000ā\x0001\x0000 usa Nitrocarica!
+\xf000ā\x0001\x0000 selvatico usa Nitrocarica!
+\xf000ā\x0001\x0000 nemico usa Nitrocarica!
+\xf000ā\x0001\x0000 usa Arrotola!
+\xf000ā\x0001\x0000 selvatico usa Arrotola!
+\xf000ā\x0001\x0000 nemico usa Arrotola!
+\xf000ā\x0001\x0000 usa Calciobasso!
+\xf000ā\x0001\x0000 selvatico usa Calciobasso!
+\xf000ā\x0001\x0000 nemico usa Calciobasso!
+\xf000ā\x0001\x0000 usa Acidobomba!
+\xf000ā\x0001\x0000 selvatico usa Acidobomba!
+\xf000ā\x0001\x0000 nemico usa Acidobomba!
+\xf000ā\x0001\x0000 usa Ripicca!
+\xf000ā\x0001\x0000 selvatico usa Ripicca!
+\xf000ā\x0001\x0000 nemico usa Ripicca!
+\xf000ā\x0001\x0000 usa Ondisinvolta!
+\xf000ā\x0001\x0000 selvatico usa Ondisinvolta!
+\xf000ā\x0001\x0000 nemico usa Ondisinvolta!
+\xf000ā\x0001\x0000 usa Saltamicizia!
+\xf000ā\x0001\x0000 selvatico usa Saltamicizia!
+\xf000ā\x0001\x0000 nemico usa Saltamicizia!
+\xf000ā\x0001\x0000 usa Cortesia!
+\xf000ā\x0001\x0000 selvatico usa Cortesia!
+\xf000ā\x0001\x0000 nemico usa Cortesia!
+\xf000ā\x0001\x0000 usa Coro!
+\xf000ā\x0001\x0000 selvatico usa Coro!
+\xf000ā\x0001\x0000 nemico usa Coro!
+\xf000ā\x0001\x0000 usa Echeggiavoce!
+\xf000ā\x0001\x0000 selvatico usa Echeggiavoce!
+\xf000ā\x0001\x0000 nemico usa Echeggiavoce!
+\xf000ā\x0001\x0000 usa Insidia!
+\xf000ā\x0001\x0000 selvatico usa Insidia!
+\xf000ā\x0001\x0000 nemico usa Insidia!
+\xf000ā\x0001\x0000 usa Pulifumo!
+\xf000ā\x0001\x0000 selvatico usa Pulifumo!
+\xf000ā\x0001\x0000 nemico usa Pulifumo!
+\xf000ā\x0001\x0000 usa Veicolaforza!
+\xf000ā\x0001\x0000 selvatico usa Veicolaforza!
+\xf000ā\x0001\x0000 nemico usa Veicolaforza!
+\xf000ā\x0001\x0000 usa Anticipo!
+\xf000ā\x0001\x0000 selvatico usa Anticipo!
+\xf000ā\x0001\x0000 nemico usa Anticipo!
+\xf000ā\x0001\x0000 usa Cambiaposto!
+\xf000ā\x0001\x0000 selvatico usa Cambiaposto!
+\xf000ā\x0001\x0000 nemico usa Cambiaposto!
+\xf000ā\x0001\x0000 usa Idrovampata!
+\xf000ā\x0001\x0000 selvatico usa Idrovampata!
+\xf000ā\x0001\x0000 nemico usa Idrovampata!
+\xf000ā\x0001\x0000 usa Gettaguscio!
+\xf000ā\x0001\x0000 selvatico usa Gettaguscio!
+\xf000ā\x0001\x0000 nemico usa Gettaguscio!
+\xf000ā\x0001\x0000 usa Ondasana!
+\xf000ā\x0001\x0000 selvatico usa Ondasana!
+\xf000ā\x0001\x0000 nemico usa Ondasana!
+\xf000ā\x0001\x0000 usa Sciagura!
+\xf000ā\x0001\x0000 selvatico usa Sciagura!
+\xf000ā\x0001\x0000 nemico usa Sciagura!
+\xf000ā\x0001\x0000 usa Cadutalibera!
+\xf000ā\x0001\x0000 selvatico usa Cadutalibera!
+\xf000ā\x0001\x0000 nemico usa Cadutalibera!
+\xf000ā\x0001\x0000 usa Cambiomarcia!
+\xf000ā\x0001\x0000 selvatico usa Cambiomarcia!
+\xf000ā\x0001\x0000 nemico usa Cambiomarcia!
+\xf000ā\x0001\x0000 usa Ribaltiro!
+\xf000ā\x0001\x0000 selvatico usa Ribaltiro!
+\xf000ā\x0001\x0000 nemico usa Ribaltiro!
+\xf000ā\x0001\x0000 usa Bruciatutto!
+\xf000ā\x0001\x0000 selvatico usa Bruciatutto!
+\xf000ā\x0001\x0000 nemico usa Bruciatutto!
+\xf000ā\x0001\x0000 usa Spintone!
+\xf000ā\x0001\x0000 selvatico usa Spintone!
+\xf000ā\x0001\x0000 nemico usa Spintone!
+\xf000ā\x0001\x0000 usa Acrobazia!
+\xf000ā\x0001\x0000 selvatico usa Acrobazia!
+\xf000ā\x0001\x0000 nemico usa Acrobazia!
+\xf000ā\x0001\x0000 usa Riflettipo!
+\xf000ā\x0001\x0000 selvatico usa Riflettipo!
+\xf000ā\x0001\x0000 nemico usa Riflettipo!
+\xf000ā\x0001\x0000 usa Nemesi!
+\xf000ā\x0001\x0000 selvatico usa Nemesi!
+\xf000ā\x0001\x0000 nemico usa Nemesi!
+\xf000ā\x0001\x0000 usa Azzardo!
+\xf000ā\x0001\x0000 selvatico usa Azzardo!
+\xf000ā\x0001\x0000 nemico usa Azzardo!
+\xf000ā\x0001\x0000 usa Cediregalo!
+\xf000ā\x0001\x0000 selvatico usa Cediregalo!
+\xf000ā\x0001\x0000 nemico usa Cediregalo!
+\xf000ā\x0001\x0000 usa Marchiatura!
+\xf000ā\x0001\x0000 selvatico usa Marchiatura!
+\xf000ā\x0001\x0000 nemico usa Marchiatura!
+\xf000ā\x0001\x0000 usa Acquapatto!
+\xf000ā\x0001\x0000 selvatico usa Acquapatto!
+\xf000ā\x0001\x0000 nemico usa Acquapatto!
+\xf000ā\x0001\x0000 usa Fiammapatto!
+\xf000ā\x0001\x0000 selvatico usa Fiammapatto!
+\xf000ā\x0001\x0000 nemico usa Fiammapatto!
+\xf000ā\x0001\x0000 usa Erbapatto!
+\xf000ā\x0001\x0000 selvatico usa Erbapatto!
+\xf000ā\x0001\x0000 nemico usa Erbapatto!
+\xf000ā\x0001\x0000 usa Invertivolt!
+\xf000ā\x0001\x0000 selvatico usa Invertivolt!
+\xf000ā\x0001\x0000 nemico usa Invertivolt!
+\xf000ā\x0001\x0000 usa Entomoblocco!
+\xf000ā\x0001\x0000 selvatico usa Entomoblocco!
+\xf000ā\x0001\x0000 nemico usa Entomoblocco!
+\xf000ā\x0001\x0000 usa Battiterra!
+\xf000ā\x0001\x0000 selvatico usa Battiterra!
+\xf000ā\x0001\x0000 nemico usa Battiterra!
+\xf000ā\x0001\x0000 usa Alitogelido!
+\xf000ā\x0001\x0000 selvatico usa Alitogelido!
+\xf000ā\x0001\x0000 nemico usa Alitogelido!
+\xf000ā\x0001\x0000 usa Codadrago!
+\xf000ā\x0001\x0000 selvatico usa Codadrago!
+\xf000ā\x0001\x0000 nemico usa Codadrago!
+\xf000ā\x0001\x0000 usa Cuordileone!
+\xf000ā\x0001\x0000 selvatico usa Cuordileone!
+\xf000ā\x0001\x0000 nemico usa Cuordileone!
+\xf000ā\x0001\x0000 usa Elettrotela!
+\xf000ā\x0001\x0000 selvatico usa Elettrotela!
+\xf000ā\x0001\x0000 nemico usa Elettrotela!
+\xf000ā\x0001\x0000 usa Sprizzalampo!
+\xf000ā\x0001\x0000 selvatico usa Sprizzalampo!
+\xf000ā\x0001\x0000 nemico usa Sprizzalampo!
+\xf000ā\x0001\x0000 usa Giravvita!
+\xf000ā\x0001\x0000 selvatico usa Giravvita!
+\xf000ā\x0001\x0000 nemico usa Giravvita!
+\xf000ā\x0001\x0000 usa Doppiocolpo!
+\xf000ā\x0001\x0000 selvatico usa Doppiocolpo!
+\xf000ā\x0001\x0000 nemico usa Doppiocolpo!
+\xf000ā\x0001\x0000 usa Cuorestampo!
+\xf000ā\x0001\x0000 selvatico usa Cuorestampo!
+\xf000ā\x0001\x0000 nemico usa Cuorestampo!
+\xf000ā\x0001\x0000 usa Legnicorno!
+\xf000ā\x0001\x0000 selvatico usa Legnicorno!
+\xf000ā\x0001\x0000 nemico usa Legnicorno!
+\xf000ā\x0001\x0000 usa Spadasolenne!
+\xf000ā\x0001\x0000 selvatico usa Spadasolenne!
+\xf000ā\x0001\x0000 nemico usa Spadasolenne!
+\xf000ā\x0001\x0000 usa Conchilama!
+\xf000ā\x0001\x0000 selvatico usa Conchilama!
+\xf000ā\x0001\x0000 nemico usa Conchilama!
+\xf000ā\x0001\x0000 usa Marchiafuoco!
+\xf000ā\x0001\x0000 selvatico usa Marchiafuoco!
+\xf000ā\x0001\x0000 nemico usa Marchiafuoco!
+\xf000ā\x0001\x0000 usa Vorticerba!
+\xf000ā\x0001\x0000 selvatico usa Vorticerba!
+\xf000ā\x0001\x0000 nemico usa Vorticerba!
+\xf000ā\x0001\x0000 usa Rulloduro!
+\xf000ā\x0001\x0000 selvatico usa Rulloduro!
+\xf000ā\x0001\x0000 nemico usa Rulloduro!
+\xf000ā\x0001\x0000 usa Cotonscudo!
+\xf000ā\x0001\x0000 selvatico usa Cotonscudo!
+\xf000ā\x0001\x0000 nemico usa Cotonscudo!
+\xf000ā\x0001\x0000 usa Urtoscuro!
+\xf000ā\x0001\x0000 selvatico usa Urtoscuro!
+\xf000ā\x0001\x0000 nemico usa Urtoscuro!
+\xf000ā\x0001\x0000 usa Psicobotta!
+\xf000ā\x0001\x0000 selvatico usa Psicobotta!
+\xf000ā\x0001\x0000 nemico usa Psicobotta!
+\xf000ā\x0001\x0000 usa Spazzasberla!
+\xf000ā\x0001\x0000 selvatico usa Spazzasberla!
+\xf000ā\x0001\x0000 nemico usa Spazzasberla!
+\xf000ā\x0001\x0000 usa Tifone!
+\xf000ā\x0001\x0000 selvatico usa Tifone!
+\xf000ā\x0001\x0000 nemico usa Tifone!
+\xf000ā\x0001\x0000 usa Ricciolata!
+\xf000ā\x0001\x0000 selvatico usa Ricciolata!
+\xf000ā\x0001\x0000 nemico usa Ricciolata!
+\xf000ā\x0001\x0000 usa Ingracolpo!
+\xf000ā\x0001\x0000 selvatico usa Ingracolpo!
+\xf000ā\x0001\x0000 nemico usa Ingracolpo!
+\xf000ā\x0001\x0000 usa Sparafuoco!
+\xf000ā\x0001\x0000 selvatico usa Sparafuoco!
+\xf000ā\x0001\x0000 nemico usa Sparafuoco!
+\xf000ā\x0001\x0000 usa Tecnobotto!
+\xf000ā\x0001\x0000 selvatico usa Tecnobotto!
+\xf000ā\x0001\x0000 nemico usa Tecnobotto!
+\xf000ā\x0001\x0000 usa Cantoantico!
+\xf000ā\x0001\x0000 selvatico usa Cantoantico!
+\xf000ā\x0001\x0000 nemico usa Cantoantico!
+\xf000ā\x0001\x0000 usa Spadamistica!
+\xf000ā\x0001\x0000 selvatico usa Spadamistica!
+\xf000ā\x0001\x0000 nemico usa Spadamistica!
+\xf000ā\x0001\x0000 usa Gelamondo!
+\xf000ā\x0001\x0000 selvatico usa Gelamondo!
+\xf000ā\x0001\x0000 nemico usa Gelamondo!
+\xf000ā\x0001\x0000 usa Lucesiluro!
+\xf000ā\x0001\x0000 selvatico usa Lucesiluro!
+\xf000ā\x0001\x0000 nemico usa Lucesiluro!
+\xf000ā\x0001\x0000 usa Fuocoblu!
+\xf000ā\x0001\x0000 selvatico usa Fuocoblu!
+\xf000ā\x0001\x0000 nemico usa Fuocoblu!
+\xf000ā\x0001\x0000 usa Voldifuoco!
+\xf000ā\x0001\x0000 selvatico usa Voldifuoco!
+\xf000ā\x0001\x0000 nemico usa Voldifuoco!
+\xf000ā\x0001\x0000 usa Elettrogelo!
+\xf000ā\x0001\x0000 selvatico usa Elettrogelo!
+\xf000ā\x0001\x0000 nemico usa Elettrogelo!
+\xf000ā\x0001\x0000 usa Vampagelida!
+\xf000ā\x0001\x0000 selvatico usa Vampagelida!
+\xf000ā\x0001\x0000 nemico usa Vampagelida!
+\xf000ā\x0001\x0000 usa Urlorabbia!
+\xf000ā\x0001\x0000 selvatico usa Urlorabbia!
+\xf000ā\x0001\x0000 nemico usa Urlorabbia!
+\xf000ā\x0001\x0000 usa Scagliagelo!
+\xf000ā\x0001\x0000 selvatico usa Scagliagelo!
+\xf000ā\x0001\x0000 nemico usa Scagliagelo!
+\xf000ā\x0001\x0000 usa Generatore V!
+\xf000ā\x0001\x0000 selvatico usa Generatore V!
+\xf000ā\x0001\x0000 nemico usa Generatore V!
+\xf000ā\x0001\x0000 usa Incrofiamma!
+\xf000ā\x0001\x0000 selvatico usa Incrofiamma!
+\xf000ā\x0001\x0000 nemico usa Incrofiamma!
+\xf000ā\x0001\x0000 usa Incrotuono!
+\xf000ā\x0001\x0000 selvatico usa Incrotuono!
+\xf000ā\x0001\x0000 nemico usa Incrotuono!

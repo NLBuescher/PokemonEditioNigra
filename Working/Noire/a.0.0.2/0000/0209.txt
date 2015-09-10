@@ -1,0 +1,150 @@
+
+
+\xf000Ā\x0001\x0000 est à la recherche\xfffed'un adversaire.
+\xf000Ā\x0001\x0000 cherche un Dresseur\xfffeavec qui faire un échange.
+
+Que recherchez-vous?
+Recherche de participants...
+Annuler votre invitation?
+Communication en cours...\xfffeVeuillez patienter.
+
+
+\xf000Ā\x0001\x0000 vous invite\xfffeà un tchat vocal!
+\xf000Ā\x0001\x0000 semble être occupé(e)...
+Vous ne pouvez pas entrer en contact\xfffeavec \xf000Ā\x0001\x0000.
+Communication avec \xf000Ā\x0001\x0000...
+\xf000Ā\x0001\x0000 n'a pas répondu...
+\xf000Ā\x0001\x0000 a mis fin\xfffeau tchat vocal.
+Voulez-vous mettre fin\xfffeau tchat vocal?
+
+
+
+
+COMBATTRE
+
+
+ÉCHANGER
+
+TCHAT VOCAL
+
+
+
+
+RETOUR
+\xf000Ā\x0001\x0000
+
+DONNÉES COMBAT
+V:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+D:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+ÉCHANGES ⒆⒇
+\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+
+
+DERNIÈRE RENCONTRE
+
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+
+\xf000Ā\x0001\x0000 veut jouer avec vous!\xf000븂\x0001<
+
+
+En attente...
+
+\xf000Ā\x0001\x0000 est en plein combat.
+\xf000Ā\x0001\x0000 est en plein échange.
+\xf000Ā\x0001\x0000 est en\xfffeplein tchat vocal.
+
+Se reconnecter à la\xfffeconnexion Wi-Fi Nintendo?
+
+Tchat vocal actif.
+Tchat vocal inactif.
+???
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIO
+COMBAT ROTATIF
+TOUT EST PERMIS
+DANS LES RÈGLES
+AVEC SHOOTER-MIRACLE
+SANS SHOOTER-MIRACLE
+Votre ami(e) a mis fin au\xfffecombat en ligne.
+Communication en cours...\xfffeVeuillez patienter.
+
+Annuler votre invitation?
+Le tchat vocal sera activé quand\xfffevous jouerez avec cette personne.\xf000븁\x0000\xfffeVoulez-vous vous joindre à elle?
+Le tchat vocal sera désactivé quand \xfffevous jouerez avec cette personne.\xf000븁\x0000\xfffeVoulez-vous vous joindre à elle?
+Demande annulée.
+
+En attente d'une réponse de\xfffevotre ami(e). Veuillez patienter.
+みちぼしゅうちゅう
+じょうたいかいじょ
+
+
+
+
+
+
+
+
+
+VOKIT
+\xf000Ā\x0001\x0000 semble être occupé(e)...
+\xf000Ā\x0001\x0000 veut tchater avec vous.
+\xf000Ā\x0001\x0000 est en pleine conversation\xfffesur son Vokit.
+\xf000Ā\x0001\x0000 cherche un partenaire\xfffepour le Vokit.
+SE CONNECTER
+\xf000Ā\x0001\x0000 vient vous parler...
+Voulez-vous jouer avec \xf000Ā\x0001\x0000?
+Que voulez-vous faire avec \xf000Ā\x0001\x0000?
+Voulez-vous tchater avec \xf000Ā\x0001\x0000?
+Voulez-vous utiliser le Vokit\xfffeavec \xf000Ā\x0001\x0000?
+Voulez-vous échanger avec \xf000Ā\x0001\x0000?
+OK
+RÈGLES
+ÉQUIPE ⒆⒇
+BOÎTE COMBAT
+Vous ne remplissez pas les conditions.\xfffeLe combat n'aura pas lieu.
+Voulez-vous faire un Combat Solo\xfffeoù tout est permis?
+Voulez-vous faire un Combat Duo\xfffeoù tout est permis?
+Voulez-vous faire un Combat Trio\xfffeoù tout est permis?
+Voulez-vous faire un Combat Rotatif\xfffeoù tout est permis?
+Voulez-vous faire un Combat Solo\xfffedans les règles?
+Voulez-vous faire un Combat Duo\xfffedans les règles?
+Voulez-vous faire un Combat Trio\xfffedans les règles?
+Voulez-vous faire un Combat Rotatif\xfffedans les règles?
+Choisissez vos Pokémon parmi votre\xfffeéquipe ou ceux de la Boîte Combat.
+Vous avez décliné l'offre.
+Votre ami(e) a abandonné.
+L\xf000Ȃ\x0001\x0000
+\xf000\xff00\x0001\x0002⑭\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001⑮\xf000\xff00\x0001\x0000
+Voulez-vous jouer avec \xf000Ā\x0001\x0000\xfffeune nouvelle fois?
+
+Vous devez posséder au moins deux\xfffePokémon pour faire un échange!
+En conversation...
+Vous pouvez mettre fin au tchat\xfffeen appuyant sur le bouton B.
+Fin de la conversation.
+Votre ami(e) semble occupé(e).\xfffeFin de la communication.
+En attente d'une réponse de\xfffe\xf000Ā\x0001\x0000...
+
+
+
+
+TYPE DE COMBAT:\xf000봅\x0001x\xf000\xff00\x0001\x0002COMBAT SOLO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT:\xf000봅\x0001x\xf000\xff00\x0001\x0002COMBAT DUO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT:\xf000봅\x0001x\xf000\xff00\x0001\x0002COMBAT TRIO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT:\xf000봅\x0001x\xf000\xff00\x0001\x0002COMBAT ROTATIF\xf000\xff00\x0001\x0000
+RÈGLE:\xf000봅\x0001x\xf000\xff00\x0001\x0002TOUT EST PERMIS\xf000\xff00\x0001\x0000
+RÈGLE:\xf000봅\x0001x\xf000\xff00\x0001\x0002DANS LES RÈGLES\xf000\xff00\x0001\x0000
+SHOOTER-MIRACLE:\xf000봅\x0001x\xf000\xff00\x0001\x0002AVEC\xf000\xff00\x0001\x0000
+SHOOTER-MIRACLE:\xf000봅\x0001x\xf000\xff00\x0001\x0002SANS\xf000\xff00\x0001\x0000
+
+Vous ne pouvez pas tchater maintenant.
+SOLO
+DUO
+TRIO
+ROTATIF
+Veuillez choisir les Pokémon\xfffedevant participer.
+Veuillez choisir les 3 Pokémon\xfffeque vous voulez inscrire.
+Veuillez choisir les 4 Pokémon\xfffeque vous voulez inscrire.
+Veuillez choisir les 6 Pokémon\xfffeque vous voulez inscrire.
+Envoi d'image à votre ami(e)\xfffeà partir de l'appareil photo.\xf000븀\x0000\xfffeConfirmer?

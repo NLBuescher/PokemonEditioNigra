@@ -1,0 +1,111 @@
+NOMBRE
+
+CARÁCTER
+POKÉDEX
+DINERO
+N.º ID:
+TIEMPO DE JUEGO:
+COMIENZO AVENTURA:
+DEBUT EN HALL DE LA FAMA:
+NÚMERO DE CONEXIONES:
+COMBATES EN CONEXIÓN:
+VICTORIAS EN CONEXIÓN:
+DERROTAS EN CONEXIÓN:
+INTERCAMBIOS POR CONEXIÓN:
+POKÉMON ENCONTRADOS:
+ENTRENADORES ENCONTRADOS:
+PERSONAS ENCUESTADAS:
+TEST DE COMPATIBILIDAD:
+PODERES REGALO DISPONIBLES:
+PARTICIPACIONES EN MUSICAL:
+RÉCORD EN EL POKÉTRANSFER:
+RÉCORD EN EL TEST DE COMBATE:
+
+:
+__-__-__ __:__
+
+
+
+
+
+
+Fuerte
+Huraño
+Audaz
+Firme
+Pícaro
+Osado
+Dócil
+Plácido
+Agitado
+Flojo
+Miedoso
+Activo
+Serio
+Alegre
+Ingenuo
+Modesto
+Afable
+Manso
+Tímido
+Alocado
+Sereno
+Amable
+Grosero
+Cauto
+Raro
+
+\xf000Ȇ\x0001\x0000 $
+\xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000 \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
+\xf000Ȃ\x0001\x0000
+Líderes del Gimnasio de Ciudad Gres:\xfffeZeo, Maíz y Millo.
+El Desafío Triangular.
+¡Conocer la relación entre tipos de\xfffePokémon es fundamental para el combate!
+Líder del Gimnasio de Ciudad Esmalte:\xfffeAloe.
+Una madraza nata.
+La curiosidad es la sal de la vida.\xfffe¡Es lo que le da sabrosura!
+Líder del Gimnasio de Ciudad Porcelana:\xfffeCamus.
+Sus insectos constituyen el décimo arte.
+¿Necesitas inspiración?\xfffe¡Usa Pokémon de tipo Bicho!
+Líder del Gimnasio de Ciudad Mayólica:\xfffeCamila.
+Una belleza deslumbrante.
+Espero que a partir de ahora sigas\xfffehaciendo brillar a quienes te rodean.
+Líder del Gimnasio de Ciudad Fayenza:\xfffeYakón.
+Un as de los yacimientos subterráneos.
+Ante todo, honestidad, tanto con las\xfffepersonas como con los Pokémon.
+Líder del Gimnasio de Ciudad Loza:\xfffeGerania.
+Chica de altos vuelos.
+¡En cuanto te ven, todos sonríen!
+Líder del Gimnasio de Ciudad Teja:\xfffeJunco.
+El Enmascarado de Hielo.
+No te limites al frío o al calor.\xfffeContrólalos ambos a voluntad.
+Líder del Gimnasio de Ciudad Caolín:\xfffeLirio.
+El Alcalde Espartano.
+Tu corazón es sincero.\xfffe¡No dejes de esforzarte!
+Líder del Gimnasio de Ciudad Caolín:\xfffeIris.
+La joven que susurra a los dragones.
+¡Nunca olvidaré lo fuerte que eres!
+Medalla Trío\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 20 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Base\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 30 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Élitro\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 40 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Voltio\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 50 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Temblor\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 60 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Jet\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 70 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Candelizo\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Los Pokémon de hasta Nivel 80 que\xfffehayas intercambiado te obedecerán.
+
+Medalla Leyenda\xfffeConseguida el \xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000.
+Todos los Pokémon que hayas\xfffeintercambiado te obedecerán.

@@ -1,0 +1,24 @@
+Número de Pokémon:
+Nv. de los Pokémon:
+Pokémon especiales:
+Mismos Pokémon:
+Mismos objetos:
+Superlanzador:
+Sin restricciones
+\xf000Ȁ\x0001\x0000
+Al menos \xf000Ȁ\x0001\x0000
+De \xf000Ȁ\x0001\x0000 a \xf000Ȁ\x0001\x0001
+Sin restricciones
+Todos al Nv. \xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000 como máximo
+\xf000Ȃ\x0001\x0000 como mínimo
+\xf000Ȃ\x0001\x0000 o inferior
+\xf000Ȃ\x0001\x0000 o superior
+Permitidos
+No permitidos
+Permitidos
+No permitidos
+Permitidos
+No permitidos
+Sí
+No

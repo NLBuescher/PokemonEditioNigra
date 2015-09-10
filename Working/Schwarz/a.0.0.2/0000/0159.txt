@@ -1,0 +1,163 @@
+TAUSCH
+ZURÜCK
+ANBIETEN
+BERICHT
+TAUSCH
+ZURÜCK
+Verbindung wird hergestellt.\xfffeBitte warten...
+
+
+
+
+
+
+
+
+
+IM TEAM
+\xf000Ă\x0001\x0000 gegen \xf000Ă\x0001\x0001\xfffetauschen?
+Lv. \xf000Ȃ\x0001\x0000
+
+
+
+
+
+JA
+NEIN
+
+NR. \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000
+\xf000Ă\x0001\x0000
+KP
+ANGRIFF
+VERT.
+SP.-ANG.
+SP.-VER.
+INIT.
+WESEN
+FÄHIGK.
+
+\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
+\xf000Ȃ\x0001\x0000
+\xf000Ĉ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+ATTACKEN
+\xf000ć\x0001\x0000
+⑭
+⑮
+\xf000Ā\x0001\x0000 versandte \xf000Ă\x0001\x0001.
+Kümmere dich gut um \xf000Ă\x0001\x0001!
+Datenübertragung läuft.\xfffeBitte warten...
+Gib den ersten Buchstaben des\xfffegesuchten Pokémon an.
+Kein Pokémon mit dem gewünschten\xfffeAnfangsbuchstaben gefunden.
+\xf000봂\x0000A
+\xf000봂\x0000B
+\xf000봂\x0000C
+\xf000봂\x0000D
+\xf000봂\x0000E
+\xf000봂\x0000F
+\xf000봂\x0000G
+\xf000봂\x0000H
+\xf000봂\x0000I
+\xf000봂\x0000J
+\xf000봂\x0000K
+\xf000봂\x0000L
+\xf000봂\x0000M
+\xf000봂\x0000N
+\xf000봂\x0000O
+\xf000봂\x0000P
+\xf000봂\x0000Q
+\xf000봂\x0000R
+\xf000봂\x0000S
+\xf000봂\x0000T
+\xf000봂\x0000U
+\xf000봂\x0000V
+\xf000봂\x0000W
+\xf000봂\x0000X
+\xf000봂\x0000Y
+\xf000봂\x0000Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Tausch wurde\xfffeabgebrochen.
+Wenn du dieses Pokémon tauschst, kannst\xfffedu dein Abenteuer nicht fortsetzen!
+Der Tauschpartner bietet ein Pokémon an,\xfffedas nicht getauscht werden kann.
+Du bietest ein Pokémon an, das nicht\xfffegetauscht werden kann.
+Das Pokémon verfügt über eine wichtige\xfffeAttacke. Tausch ist unmöglich.
+Dein Gegenüber möchte\xfffePokémon tauschen.
+Möchtest du den\xfffeTausch abbrechen?
+Warte auf den anderen Spieler...
+Ei
+Der Brief, den das Pokémon trug,\xfffewurde auf den PC übertragen.
+
+
+
+
+Dein Gegenüber kann den Brief nicht\xfffeannehmen. Der Tausch wird abgebrochen.
+
+Wähle maximal 3 Pokémon aus,\xfffedie du zur Auswahl stellen möchtest.
+\xf000봃\x0001\x0000AUSWAHL LÄUFT
+\xf000봃\x0001\x0000O.K.
+\xf000봃\x0001\x0000WARTESCHLEIFE
+Von \xf000Ā\x0001\x0000\xfffegewünschte ⒆⒇:
+Alle
+Coole Pokémon
+Niedliche Pokémon
+Gruselige Pokémon
+Seltsame Pokémon
+Egal
+Lv. 1 bis 49
+Lv. 50
+Lv. 51 bis 100
+
+\xf000Ā\x0001\x0000
+Du gibst \xf000Ă\x0001\x0000 in die Obhut\xfffevon \xf000Ā\x0001\x0001. Mach's gut, \xf000Ă\x0001\x0000!
+Du gibst \xf000Ă\x0001\x0000 an \xf000Ā\x0001\x0001\xfffezurück. Danke für alles, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0001 ist von \xf000Ā\x0001\x0000\xfffezurückgekehrt!
+Willkommen zu Hause, \xf000Ă\x0001\x0001!
+Tauschwunsch
+Wähle maximal 3 Pokémon aus,\xfffedie du zur Auswahl stellen möchtest.
+Ist deine Auswahl so in Ordnung?
+Warte auf die Auswahl des Gegenübers.\xfffeBitte warte einen Moment...
+Jeder kann ein Pokémon aus der Auslage\xfffedes Gegenübers wählen. Einverstanden?
+Dein Gegenüber hat den Tausch\xfffeabgebrochen.
+Dein Gegenüber möchte\xfffeoffenbar tauschen.
+Den Tauschvorgang abbrechen?
+Der Tauschvorgang wurde abgebrochen.
+Dieses Pokémon kann nicht zum\xfffeTausch angeboten werden.
+Eins deiner Pokémon kann nicht\xfffegetauscht werden. Triff eine neue Wahl.
+Ein Pokémon des Gegenübers kann nicht\xfffegetauscht werden. Triff eine neue Wahl.
+Wähle ein Pokémon aus dem Angebot\xfffedes Gegenübers, das dir zusagt.
+Du erhältst \xf000Ă\x0001\x0000 im Tausch gegen\xfffedein \xf000Ă\x0001\x0001. Einverstanden?
+Dein Gegenüber bricht den Tausch ab.\xfffeBitte triff eine neue Wahl.
+Willst du die Auswahl der Pokémon, die\xfffedu zum Tausch angeboten hast, ändern?
+Der Tausch wurde abgebrochen.\xfffeBitte triff eine neue Wahl.
+Der Tausch wurde abgebrochen. Bitte\xfffewähle ein Pokémon erneut aus.
+Dein Gegenüber bricht den Tausch ab.\xfffeBitte wähle ein Pokémon erneut aus.
+\xf000Ă\x0001\x0000 wird angeboten.
+\xf000Ă\x0001\x0001 wurde aus dem\xfffeAngebot genommen.
+AUSLOGGEN
+\xf000Ă\x0001\x0000 wird\xfffe\xf000Ā\x0001\x0001 zugesandt.
+\xf000Ā\x0001\x0000 versandte \xf000Ă\x0001\x0001.
+Fehler bei der Datenübertragung.
+Fehler bei der Datenübertragung.\xfffeFehler-Code: 13280
+Fehler bei der Datenübertragung.\xfffeFehler-Code: 13281
+Fehler bei der Datenübertragung.\xfffeFehler-Code: 13282
+Fehler bei der Datenübertragung.\xfffeFehler-Code: 13283
+???

@@ -1,0 +1,140 @@
+USAR
+TIRAR
+ASIGNAR
+DAR
+
+VALE
+BAJARME
+
+SALIR
+
+
+
+
+
+
+
+VER
+
+ANULAR
+
+
+
+
+ -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¿Qué quieres hacer con el objeto\xfffe\xf000ĉ\x0001\x0000?
+
+
+
+El objeto \xf000ĉ\x0001\x0000 no se puede llevar.
+
+
+
+
+
+¿Cuántas unidades de \xf000ĉ\x0001\x0000\xfffequieres tirar?
+¡Has tirado \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000!
+¿Seguro que quieres tirar\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Las palabras de la Prof.ª Encina te vienen\xfffea la memoria: “¡Cada cosa en su momento!".
+¡Aquí no puedes bajarte de la Bici!
+Las palabras de la Prof.ª Encina te vienen\xfffea la memoria: “¡Cada cosa en su momento!".
+
+MT activada.
+MO activada.
+¡Contiene el movimiento \xf000ć\x0001\x0000!\xf000븁\x0000\xfffe¿Quieres enseñarle \xf000ć\x0001\x0000\xfffea un Pokémon?
+¡\xf000Ā\x0001\x0000 ha usado \xf000ĉ\x0001\x0001!
+El Repelente sigue haciendo efecto.\xfffeNo puedes usarlo todavía.
+
+
+
+
+\xf000봂\x0000N.º \xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
+
+\xf000봂\x0000MO\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001
+
+
+
+
+
+¿\xf000ĉ\x0001\x0000? No, lo siento.\xfffeNo puedo comprar eso.
+¿Cuántas unidades de \xf000ĉ\x0001\x0000\xfffequieres vender?
+Puedo pagarte \xf000Ȇ\x0001\x0000 $.\xfffe¿Te parece bien?
+¡Recibes \xf000Ȇ\x0001\x0001 $ por la venta\xfffede \xf000ĉ\x0001\x0000!
+DINERO
+\xf000Ȇ\x0001\x0000 $
+
+\xf000Ȇ\x0001\x0000 $
+
+
+
+
+
+PP
+POTENCIA
+PRECISIÓN
+CATEGORÍA
+\xf000ȁ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+
+
+
+
+
+
+TIPO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000ĉ\x0001\x0000
+x \xf000Ȃ\x0001\x0000
+SÍ
+NO
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+Está vacío.
+
+
+¡Se han ordenado los objetos!
+\xf000Ē\x0001\x0000

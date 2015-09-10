@@ -1,0 +1,627 @@
+???
+Assurément la Ball la plus performante.\xfffeElle permet de capturer à coup sûr un\xfffePokémon sauvage.
+Une Ball ultraperformante dont le taux\xfffede réussite est supérieur à celui de la\xfffeSuper Ball.
+Une Ball très performante dont le taux\xfffede réussite est supérieur à celui de la\xfffePoké Ball.
+Un objet pareil à une capsule, qui\xfffecapture les Pokémon sauvages. Il suffit\xfffepour cela de le jeter comme une balle.
+Une Poké Ball spéciale dont l'usage\xfffeest réservé au Parc Safari. Elle est\xfffedécorée d'un motif camouflage.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien\xfffesur les Pokémon Eau ou Insecte.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien\xfffesur les Pokémon sous-marins.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien\xfffesur les Pokémon les plus faibles.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur\xfffeles espèces de Pokémon déjà capturées.
+Une Poké Ball un peu spéciale qui\xfffefonctionne de mieux en mieux à\xfffemesure que le combat s'éternise.
+Une Poké Ball pratique qui permet\xfffede gagner rapidement l'amitié d'un\xfffePokémon sauvage attrapé.
+Une Poké Ball assez rare qui fut créée\xfffepour un événement particulier.
+Une Poké Ball efficace pour attraper\xfffeles Pokémon de nuit ou dans des\xfffeendroits sombres tels que les grottes.
+Une Poké Ball de soin qui rend tous les\xfffePV du Pokémon attrapé et qui soigne\xfffetous les changements de statut.
+Une Poké Ball qui permet d'attraper un\xfffePokémon sauvage plus facilement si on\xfffel'utilise au début du combat.
+Une Poké Ball plutôt rare qui fut créée\xfffepour une occasion spéciale.
+Un spray qui soigne les blessures.\xfffeRestaure 20 PV à un Pokémon.
+Un médicament sous forme de spray.\xfffeGuérit un Pokémon empoisonné.
+Un médicament sous forme de spray.\xfffeSoigne les brûlures d'un Pokémon.
+Un médicament sous forme de spray.\xfffeRéchauffe un Pokémon gelé.
+Un médicament sous forme de spray.\xfffeRéveille un Pokémon endormi.
+Un médicament sous forme de spray.\xfffeSoigne un Pokémon de la paralysie.
+Un médicament qui restaure tous les\xfffePV d'un Pokémon et soigne tous ses\xfffeproblèmes de statut.
+Un spray qui soigne les blessures.\xfffeRestaure tous les PV d'un Pokémon.
+Un spray qui soigne les blessures.\xfffeRestaure 200 PV à un Pokémon.
+Un spray qui soigne les blessures.\xfffeRestaure 50 PV à un Pokémon.
+Un médicament sous forme de spray.\xfffeSoigne tous les problèmes de statut\xfffed'un Pokémon.
+Un médicament qui ranime un Pokémon\xfffeK.O. et restaure la moitié de ses PV\xfffemax.
+Un médicament qui ranime un Pokémon\xfffeK.O. et restaure tous ses PV.
+Une eau riche en minéraux.\xfffeRestaure 50 PV à un Pokémon.
+Une boisson pétillante.\xfffeRestaure 60 PV à un Pokémon.
+Une boisson très sucrée.\xfffeRestaure 80 PV à un Pokémon.
+Un lait très nourrissant.\xfffeRestaure 100 PV à un Pokémon.
+Une poudre médicinale très amère.\xfffeRestaure 50 PV à un Pokémon.
+Une racine très amère.\xfffeRestaure 200 PV à un Pokémon.
+Une poudre médicinale très amère.\xfffeSoigne tous les problèmes de statut\xfffed'un Pokémon.
+Une herbe médicinale très amère.\xfffeRanime un Pokémon K.O. et restaure\xfffetous ses PV.
+Restaure jusqu'à 10 PP d'une\xfffecapacité sélectionnée.
+Restaure tous les PP d'une capacité\xfffesélectionnée.
+Restaure 10 PP de toutes les\xfffecapacités d'un Pokémon.
+Restaure tous les PP de toutes\xfffeles capacités d'un Pokémon.
+La spécialité de la ville de Vermilava.\xfffeSoigne tous les problèmes de statut\xfffed'un Pokémon.
+Une boisson 100% pur jus de Baies.\xfffeRestaure 20 PV à un Pokémon.
+Ranime tous les Pokémon K.O. et\xffferestaure tous leurs PV.
+Une boisson très nutritive qui monte\xfffeles PV de base d'un Pokémon.
+Une boisson très nutritive qui monte\xfffel'Attaque de base d'un Pokémon.
+Une boisson très nutritive qui monte\xfffela Défense de base d'un Pokémon.
+Une boisson très nutritive qui monte\xfffela Vitesse de base d'un Pokémon.
+Une boisson très nutritive qui\xfffemonte l'Attaque Spéciale de\xfffebase d'un Pokémon.
+Un bonbon plein d'énergie.\xfffeIl permet à un Pokémon de gagner\xfffeun niveau d'expérience.
+Monte un peu les PP max d'une\xfffecapacité sélectionnée.
+Une boisson très nutritive qui monte\xfffela Défense Spéciale d'un Pokémon.
+Monte sensiblement les PP max d'une\xfffecapacité sélectionnée.
+Spécialité du Vieux Château. Il\xfffesoigne tous les problèmes de\xfffestatut d'un Pokémon.
+Empêche la réduction des stats\xfffede tous les Pokémon de l'équipe\xfffependant 5 tours.
+Monte fortement le taux de critiques.\xfffeUtilisable une seule fois. L'effet\xfffedisparaît si le Pokémon se retire.
+Monte l'Attaque pendant un combat.\xfffeL'effet s'estompe si le Pokémon se\xffferetire.
+Monte la Défense pendant un combat.\xfffeL'effet s'estompe si le Pokémon se\xffferetire.
+Monte la Vitesse pendant un combat.\xfffeL'effet s'estompe si le Pokémon se\xffferetire.
+Monte la Précision pendant un combat.\xfffeL'effet s'estompe si le Pokémon se\xffferetire.
+Monte l'Attaque Spéciale pendant\xfffeun combat. L'effet s'estompe si\xfffele Pokémon se retire.
+Monte la Défense Spéciale pendant\xfffeun combat. L'effet s'estompe si le\xfffePokémon se retire.
+Poupée qui attire les Pokémon. Permet\xfffede s'enfuir d'un combat contre un\xfffePokémon sauvage.
+Objet qui attire les Pokémon. Permet\xfffede s'enfuir d'un combat contre un\xfffePokémon sauvage.
+Jouet en forme de flûte en verre\xfffebleu. Les amateurs en donnent\xfffeun bon prix.
+Jouet en forme de flûte en verre\xfffejaune. Les amateurs en donnent\xfffeun bon prix.
+Jouet en forme de flûte en verre\xffferouge. Les amateurs en donnent\xfffeun bon prix.
+Jouet en forme de flûte en verre\xfffenoir. Les amateurs en donnent\xfffeun bon prix.
+Jouet en forme de flûte en verre\xfffeblanc. Les amateurs en donnent\xfffeun bon prix.
+Sel pur provenant des profondeurs\xfffede la Grotte Tréfonds. Les amateurs\xfffeen donnent un bon prix.
+Joli coquillage provenant des\xfffeprofondeurs de la Grotte Tréfonds.\xfffeLes amateurs en donnent un bon prix.
+Petit tesson rouge.\xfffeIl semble provenir d'un outil très\xfffeancien.
+Petit tesson bleu.\xfffeIl semble provenir d'un outil très\xfffeancien.
+Petit tesson jaune.\xfffeIl semble provenir d'un outil très\xfffeancien.
+Petit tesson vert.\xfffeIl semble provenir d'un outil très\xfffeancien.
+Repousse les Pokémon sauvages\xfffefaibles pendant 200 pas.
+Repousse les Pokémon sauvages\xfffefaibles pendant 250 pas.
+Une corde longue et solide permettant\xfffede sortir rapidement d'une grotte ou\xfffed'un donjon.
+Repousse les Pokémon sauvages\xfffefaibles pendant 100 pas.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle est rouge comme le soleil.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle est noire comme la nuit.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle est jaune et orange.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeUn éclair est dessiné dessus.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle est de couleur bleue.
+Une pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeUne feuille est dessinée dessus.
+Un petit champignon plutôt rare.\xfffeIl est plutôt populaire parmi\xfffecertains fans dévoués.
+Un grand champignon plutôt rare.\xfffeIl est très populaire parmi\xfffecertains fans dévoués.
+Une petite perle qui brille d'une jolie\xfffecouleur argent. Peut être vendue\xfffeà bas prix aux magasins.
+Une grande perle qui brille d'une jolie\xfffecouleur argent. Peut être vendue à\xfffebon prix aux magasins.
+Sable rouge ravissant, aux grains très\xfffefins. Peut être vendu à bon prix aux\xfffemagasins.
+Fragment de gemme qui brille d'un éclat\xffferouge. Peut se vendre à bon prix aux\xfffemagasins.
+Pépite d'or pur qui brille\xfffemagnifiquement. Peut être vendue\xfffeà bon prix aux magasins.
+Une jolie écaille en forme de cœur qui\xfffeest très rare. Elle brille légèrement\xfffed'un éclat arc-en-ciel.
+Un miel au parfum riche qui, utilisé dans\xfffel'herbe, une grotte ou sur des arbres\xfffespéciaux, attire les Pokémon sauvages.
+Un engrais utilisé sur sol meuble.\xfffeLes amateurs en donnent un bon prix.
+Un engrais utilisé sur sol meuble.\xfffeLes amateurs en donnent un bon prix.
+Un engrais utilisé sur sol meuble.\xfffeLes amateurs en donnent un bon prix.
+Un engrais utilisé sur sol meuble.\xfffeLes amateurs en donnent un bon prix.
+Fossile d'un ancien Pokémon aquatique.\xfffeOn dirait un morceau de racine de\xfffeplante.
+Fossile d'un ancien Pokémon aquatique.\xfffeOn dirait un morceau de griffe.
+Fossile d'un ancien Pokémon aquatique.\xfffeOn dirait un morceau de coquillage.
+Fossile d'un ancien Pokémon aquatique.\xfffeOn dirait un morceau de carapace.
+Un morceau d'ambre contenant\xfffel'ADN d'un ancien Pokémon. Il\xfffeest de couleur jaune.
+Fossile d'un Pokémon préhistorique\xfffeterrestre. On dirait une partie d'un\xfffecollier.
+Fossile d'un Pokémon préhistorique\xfffeterrestre. On dirait une partie d'un\xfffecrâne.
+Un os d'une grande valeur pour\xfffel'archéologie Pokémon. Peut être\xfffevendu à bon prix aux magasins.
+Pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon. Elle\xfffebrille d'une lumière aveuglante.
+Pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon. Elle\xfffeest sombre comme une nuit sans lune.
+Pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle brille comme un œil.
+Pierre étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle a la forme d'un œuf.
+Objet très important qui empêche une\xfffetour en pierre de s'écrouler. Des\xfffebruits de voix en sortent parfois.
+Mystérieux objet destiné à Giratina.\xfffeAméliore les capacités de type Dragon\xfffeet Spectre.
+
+
+
+Tenu par Genesect, ce module\xfffechange la capacité TechnoBuster\xfffeen une capacité de type Eau.
+Tenu par Genesect, ce module\xfffechange la capacité TechnoBuster\xfffeen une capacité de type Électrik.
+Tenu par Genesect, ce module\xfffechange la capacité TechnoBuster\xfffeen une capacité de type Feu.
+Tenu par Genesect, ce module\xfffechange la capacité TechnoBuster\xfffeen une capacité de type Glace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un chocolat extrêmement\xfffesucré. Restaure 20 PV\xfffeà un Pokémon.
+Orbe très brillant destiné à Dialga.\xfffeAugmente la puissance des capacités\xfffede type Dragon et Acier.
+Bel orbe luisant destiné à Palkia.\xfffeAugmente la puissance des capacités\xfffede type Dragon et Eau.
+Un papier à lettres idéal pour\xfffese présenter. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres idéal pour parler\xfffede ce que l'on aime. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres idéal pour\xfffeles invitations. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres idéal pour les\xffferemerciements. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres idéal pour\xfffeposer des questions. Peut être\xfffetenu et livré par un Pokémon.
+Un papier à lettres idéal pour\xfffedonner des conseils. Peut être\xfffetenu et livré par un Pokémon.
+Un papier à lettres idéal pour répondre\xfffeà un autre courrier. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres avec un motif de\xfffepont traversant le ciel. Peut être\xfffetenu et livré par un Pokémon.
+Un papier à lettres avec un motif de\xfffepont mobile rouge. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres avec un motif de\xfffepont suspendu en acier. Peut être\xfffetenu et livré par un Pokémon.
+Un papier à lettres avec un motif\xfffede pont en briques. Peut être tenu\xfffeet livré par un Pokémon.
+Un papier à lettres avec un motif de\xfffepont bâti sur des arches. Peut être\xfffetenu et livré par un Pokémon.
+Baie qui soigne la paralysie lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui soigne le sommeil lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui soigne l'empoisonnement\xfffelorsqu'elle est tenue par un Pokémon.
+Baie qui soigne les brûlures lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui soigne le gel lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui restaure 10 PP lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui restaure 10 PV lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui soigne la confusion lorsqu'elle\xfffeest tenue par un Pokémon.
+Baie qui soigne tous les problèmes\xfffede statut lorsqu'elle est tenue\xfffepar un Pokémon.
+Baie qui restaure quelques PV\xfffelorsqu'elle est tenue par un Pokémon.
+Tenue, cette Baie restaure des PV en\xfffecas de besoin, mais rend confus si\xfffele Pokémon n'aime pas son goût.
+Tenue, cette Baie restaure des PV en\xfffecas de besoin, mais rend confus si\xfffele Pokémon n'aime pas son goût.
+Tenue, cette Baie restaure des PV en\xfffecas de besoin, mais rend confus si\xfffele Pokémon n'aime pas son goût.
+Tenue, cette Baie restaure des PV en\xfffecas de besoin, mais rend confus si\xfffele Pokémon n'aime pas son goût.
+Tenue, cette Baie restaure des PV en\xfffecas de besoin, mais rend confus si\xfffele Pokémon n'aime pas son goût.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leurs PV de base.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leur stat Attaque de base.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leur stat Défense de base.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leur stat Attaque Spéciale de\xfffebase.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leur stat Défense Spéciale de\xfffebase.
+Rend les Pokémon plus amicaux, mais\xfffebaisse leur stat Vitesse de base.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Baie très rare à Unys.\xfffeLes amateurs en donnent un bon prix.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Feu.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Eau.
+Tenue, cette Baie affaiblit une\xfffeattaque ennemie super efficace\xfffede type Électrik.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Plante.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Glace.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Combat.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Poison.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Sol.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Vol.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Psy.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Insecte.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Roche.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Spectre.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Dragon.
+Tenue, cette Baie affaiblit une\xfffeattaque ennemie super efficace\xfffede type Ténèbres.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie super efficace de type Acier.
+Tenue, cette Baie affaiblit une attaque\xfffeennemie de type Normal.
+Tenue, cette Baie monte l'Attaque\xfffeen cas de besoin.
+Tenue, cette Baie monte la Défense\xfffeen cas de besoin.
+Tenue, cette Baie monte la Vitesse\xfffeen cas de besoin.
+Tenue, cette Baie monte l'Atq. Spé.\xfffeen cas de besoin.
+Tenue, cette Baie monte la Déf. Spé.\xfffeen cas de besoin.
+Tenue, cette Baie monte le taux de\xfffecritiques en cas de besoin.
+Tenue, cette Baie monte beaucoup une\xfffedes stats en cas de besoin.
+Tenue, cette Baie restaure les PV\xfffedu Pokémon s'il subit une attaque\xfffesuper efficace.
+Tenue, cette Baie augmente une fois\xfffela Précision d'une capacité en cas de\xfffebesoin.
+Tenue, cette Baie permet d'attaquer\xfffeen premier une fois en cas de besoin.
+Tenue, cette Baie inflige des dégâts\xfffeà l'ennemi s'il utilise une attaque\xfffephysique qui atteint son but.
+Tenue, cette Baie inflige des dégâts\xfffeà l'ennemi s'il utilise une attaque\xfffespéciale qui atteint son but.
+Objet à tenir qui intimide et baisse\xfffela Précision de l'ennemi.
+Objet à tenir qui restaure les stats\xfffebaissées. Ne peut être utilisé qu'une\xfffefois.
+Objet à tenir. C'est un bracelet dur\xfffeet lourd qui rend le porteur plus fort,\xfffemais baisse sa Vitesse.
+Objet à tenir. Le porteur reçoit une\xfffepartie des points Exp. du combat sans\xfffeavoir à combattre.
+Objet à tenir. Griffe légère mais\xfffetranchante qui permet parfois de\xfffefrapper le premier.
+Objet à tenir. Grelot dont le carillon\xfffecalme le porteur et favorise l'amitié.
+Objet à tenir qui annule l'attirance\xfffed'un Pokémon. Ne peut être utilisé\xfffequ'une fois.
+Objet à tenir. Ce bandeau monte\xfffel'Attaque, mais ne permet d'utiliser\xfffequ'une seule capacité par combat.
+Objet à tenir. Peut apeurer l'ennemi\xfffelorsque le porteur lui inflige des\xfffedégâts.
+Objet à tenir. Poudre d'argent\xfffebrillante qui monte la puissance\xfffedes capacités de type Insecte.
+Objet à tenir. Double l'argent gagné\xfffesi le porteur se joint au combat.
+Objet à tenir. Aide à repousser les\xfffePokémon sauvages si le porteur est\xfffele premier Pokémon de l'équipe.
+Orbe prodigieux à faire tenir à Latios\xfffeou Latias qui monte leur Attaque\xfffeSpéciale et leur Défense Spéciale.
+Objet à faire tenir à Coquiperl.\xfffeDent de couleur argent montant\xfffeson Attaque Spéciale.
+Objet à faire tenir à Coquiperl.\xfffeÉcaille de couleur rose montant\xfffesa Défense Spéciale.
+Objet à tenir. Permet au porteur de\xfffes'enfuir à coup sûr face à un Pokémon\xfffesauvage.
+Objet à tenir. Pierre merveilleuse\xfffeempêchant l'évolution.
+Objet à tenir pouvant parfois empêcher\xfffed'être mis K.O., ne laissant qu'un PV.
+Objet à tenir. Œuf rempli de joie qui\xfffeaugmente le nombre de points Exp.\xfffegagnés au combat.
+Objet à tenir. Lentille qui augmente le\xfffetaux de critiques du porteur.
+Objet à tenir. Pellicule métallique\xfffespéciale qui monte la puissance des\xfffecapacités de type Acier.
+Objet à tenir permettant de restaurer\xfffeles PV du porteur graduellement durant\xfffele combat.
+Une écaille épaisse et dure tenue\xfffeparfois par les Pokémon de type Dragon\xfffequand ils sont attrapés.
+Objet à faire tenir par Pikachu. Orbe\xfffeénigmatique qui monte son Attaque et\xfffeson Attaque Spéciale.
+Objet à tenir. Sable fin et soyeux\xfffemontant la puissance des capacités\xfffede type Sol.
+Objet à tenir. Pierre incassable qui\xfffemonte la puissance des capacités de\xfffetype Roche.
+Objet à tenir. Graine remplie de vie qui\xfffemonte la puissance des capacités de\xfffetype Plante.
+Objet à tenir. Paire de lunettes à\xfffel'aspect louche qui monte la puissance\xfffedes capacités de type Ténèbres.
+Objet à tenir. Ceinture qui augmente\xfffela détermination et la puissance des\xfffecapacités de type Combat.
+Objet à tenir. Aimant puissant montant\xfffela puissance des capacités de type\xfffeÉlectrik.
+Objet à tenir. Gemme en forme de\xfffegoutte d'eau montant la puissance\xfffedes capacités de type Eau.
+Objet à tenir. Bec long et pointu\xfffemontant la puissance des capacités\xfffede type Vol.
+Objet à tenir. Petit pic empoisonné\xfffemontant la puissance des capacités\xfffede type Poison.
+Objet à tenir. Morceau de glace qui\xffferéfléchit la chaleur et monte la\xfffepuissance des capacités de type Glace.
+Objet à tenir. Plaque sinistre et\xfffeétrange montant la puissance des\xfffecapacités de type Spectre.
+Objet à tenir. Cuillère contenant un\xfffepouvoir télékinésique montant la\xfffepuissance des capacités de type Psy.
+Objet à tenir. Combustible montant la\xfffepuissance des capacités de type Feu.
+Objet à tenir. Croc dur et pointu\xfffemontant la puissance des capacités\xfffede type Dragon.
+Objet à tenir. Mouchoir somptueux\xfffemontant la puissance des capacités\xfffede type Normal.
+Dispositif transparent rempli de\xfffedonnées diverses et variées.\xfffeFabriqué par la Sylphe SARL.
+Objet à tenir. Restaure un peu les PV\xfffedu porteur à chaque fois qu'il inflige\xfffedes dégâts.
+Objet à tenir. Encens au parfum curieux\xfffequi augmente la puissance des capacités\xfffede type Eau.
+Objet à tenir. Le parfum trompeur\xfffede cet encens baisse la Précision de\xfffel'ennemi.
+Objet à faire tenir à Leveinard. Paire\xfffede gants montant son taux de critiques.
+Objet à faire tenir à Métamorph. Cette\xfffepoudre étrange, très fine mais\xffferésistante, booste sa Défense.
+Objet à faire tenir à Osselait ou\xfffeOssatueur. Os dur qui monte leur\xfffeAttaque.
+Objet à faire tenir à Canarticho.\xfffePoireau très long et solide qui\xfffemonte son taux de critiques.
+Objet à tenir. Augmente le Sang-froid\xfffed'un Pokémon dans les Concours.
+Objet à tenir. Augmente la Beauté\xfffed'un Pokémon dans les Concours.
+Objet à tenir. Augmente la Grâce\xfffed'un Pokémon dans les Concours.
+Objet à tenir. Augmente l'Intelligence\xfffed'un Pokémon dans les Concours.
+Objet à tenir. Augmente la Robustesse\xfffed'un Pokémon dans les Concours.
+Objet à tenir. Magnifique loupe\xfffeaugmentant un peu la Précision\xfffedes capacités.
+Objet à tenir. Bandeau augmentant\xfffelégèrement la puissance des attaques\xfffephysiques.
+Objet à tenir. Paire de lunettes\xfffeépaisses augmentant un peu la\xfffepuissance des attaques spéciales.
+Objet à tenir. Ceinture usée\xfffeaugmentant légèrement la puissance\xfffedes capacités super efficaces.
+Objet à tenir augmentant la durée\xfffede capacités barrières telles que\xfffeMur Lumière et Protection.
+Objet à tenir augmentant la puissance\xfffedes capacités, mais qui dépense des\xfffePV à chaque coup.
+Objet à tenir et à usage unique. Permet\xfffed'utiliser immédiatement une capacité\xfffequi devrait se charger au premier tour.
+Objet à tenir. Orbe bizarre\xfffeempoisonnant gravement son\xfffeporteur durant le combat.
+Objet à tenir. Orbe bizarre brûlant\xfffeson porteur durant le combat.
+Objet à faire tenir à Métamorph. Cette\xfffepoudre étrange, très fine mais\xffferésistante, augmente sa Vitesse.
+Objet à tenir permettant au porteur,\xfffes'il a ses PV pleins, d'éviter un\xfffepotentiel K.O. en conservant un PV.
+Objet à tenir. Augmente la Précision\xfffedu porteur s'il attaque après l'ennemi.
+Objet à tenir boostant une capacité\xfffeutilisée à répétition. L'effet s'annule\xfffesi une autre capacité est utilisée.
+Objet à tenir réduisant la Vitesse. Rend\xfffeles porteurs de type Vol et lévitant\xfffesensibles aux capacités de type Sol.
+Objet à tenir extrêmement lourd qui\xffferalentit le porteur.
+Un long fil rouge vif à faire tenir à un\xfffePokémon. Si le porteur succombe à\xfffel'attirance, l'ennemi aussi.
+Objet à tenir restaurant peu à peu les\xfffePV des Pokémon de type Poison. Inflige\xfffedes dégâts à tous les autres types.
+Objet à tenir augmentant la durée\xfffede la capacité Grêle utilisée par le\xfffeporteur.
+Objet à tenir augmentant la durée de\xfffela capacité Tempêtesable utilisée par\xfffele porteur.
+Objet à tenir augmentant la durée\xfffede la capacité Zénith utilisée par le\xfffeporteur.
+Objet à tenir augmentant la durée\xfffede la capacité Danse Pluie utilisée\xfffepar le porteur.
+Objet à tenir augmentant la durée des\xfffeattaques à tours multiples telles que\xfffeLigotage et Étreinte.
+Objet à tenir augmentant la Vitesse,\xfffemais ne permettant d'utiliser qu'une\xfffeseule capacité par combat.
+Objet à tenir blessant le porteur à\xfffechaque tour. Peut s'accrocher aux\xfffeennemis qui attaquent le porteur.
+Objet à tenir augmentant l'Attaque\xfffelors des montées de niveau, mais\xffferéduisant la Vitesse pendant le combat.
+Objet à tenir augmentant la Défense\xfffelors des montées de niveau, mais\xffferéduisant la Vitesse pendant le combat.
+Objet à tenir augmentant l'Attaque\xfffeSpéciale lors des montées de niveau mais\xffferéduisant la Vitesse pendant le combat.
+Objet à tenir augmentant la Défense\xfffeSpéciale lors des montées de niveau mais\xffferéduisant la Vitesse pendant le combat.
+Objet à tenir. Il augmente la Vitesse\xfffelors des montées de niveau mais réduit\xfffela Vitesse pendant le combat.
+Objet à tenir augmentant les PV lors\xfffedes montées de niveau, mais réduisant\xfffela Vitesse pendant le combat.
+Objet à tenir. Carapace dure qui permet\xfffeau porteur de se retirer même s'il est\xfffeaffecté par une attaque immobilisante.
+Objet à tenir augmentant la puissance\xfffedes attaques volant des PV.
+Objet à tenir augmentant l'Attaque\xfffeSpéciale, mais ne permettant d'utiliser\xfffequ'une seule capacité par combat.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Feu.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Eau.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Électrik.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Plante.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Glace.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Combat.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Poison.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Sol.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Vol.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Psy.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Insecte.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Roche.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Spectre.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Dragon.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Ténèbres.
+Objet à tenir. Tablette en pierre\xfffeaugmentant la puissance des capacités\xfffede type Acier.
+Objet à tenir. Encens au parfum\xfffeexotique augmentant la puissance\xfffedes capacités de type Psy.
+Objet à tenir. Encens au parfum\xfffeexotique augmentant la puissance\xfffedes capacités de type Roche.
+Objet à tenir. Encens au parfum\xfffeexotique gonflant son porteur et\xfffele faisant se déplacer lentement.
+Objet à tenir. Encens au parfum\xfffeexotique augmentant la puissance\xfffedes capacités de type Eau.
+Objet à tenir. Encens au parfum\xfffeexotique augmentant la puissance\xfffedes capacités de type Plante.
+Objet à tenir. Double l'argent gagné\xfffesi le porteur se joint au combat.
+Objet à tenir. Aide à repousser les\xfffePokémon sauvages si le porteur est\xfffele premier Pokémon de l'équipe.
+Objet protecteur très dur et très\xfffelourd, apprécié d'un certain Pokémon.
+Une boîte remplie d'une énorme quantité\xfffed'énergie électrique. Appréciée d'un\xfffecertain Pokémon.
+Une boîte remplie d'une énorme quantité\xfffed'énergie magmatique. Appréciée d'un\xfffecertain Pokémon.
+Appareil transparent rempli de données\xfffedouteuses. Son fabricant n'est pas\xfffeconnu.
+Un tissu imprégné d'une énergie\xfffespirituelle horriblement puissante.\xfffeApprécié d'un certain Pokémon.
+Objet à tenir. Griffe crochue\xfffeet pointue augmentant le taux\xfffede critiques.
+Objet à tenir pouvant apeurer l'ennemi\xfffequand le porteur lui inflige des dégâts.
+Le lanceur s'aiguise les griffes.\xfffeAugmente l'Attaque et la Précision.
+Le lanceur lacère l'ennemi de ses\xfffegrandes griffes aiguisées.
+Le lanceur matérialise des ondes\xfffemystérieuses qu'il projette sur\xfffel'ennemi. Inflige des dégâts physiques.
+Le lanceur se concentre et fait le vide\xfffedans son esprit pour monter son\xfffeAtq. Spé. et sa Déf. Spé.
+Effraie le Pokémon visé et le\xffferemplace par un autre. Dans\xfffela nature, met fin au combat.
+Empoisonne gravement l'ennemi. Les\xfffedégâts dus au poison augmentent à\xfffechaque tour.
+Invoque une tempête de grêle qui dure\xfffe5 tours. Ne blesse pas les Pokémon de\xfffetype Glace.
+Le lanceur tend ses muscles pour se\xfffegonfler, ce qui booste son Attaque et\xfffesa Défense.
+Le lanceur inocule un poison spécial\xfffeà l'ennemi. L'effet est doublé si\xfffel'ennemi est déjà empoisonné.
+La puissance et le type de la\xfffecapacité dépendent de l'aptitude\xfffecachée du lanceur.
+Fait briller le soleil pendant 5 tours et\xfffeaméliore les capacités de type Feu.
+Provoque l'ennemi. L'oblige à n'utiliser\xfffeque des attaques pendant 3 tours.
+Un rayon de glace frappe l'ennemi.\xfffePeut aussi le geler.
+Une violente tempête de neige est\xfffedéclenchée sur l'ennemi. Peut aussi\xfffele geler.
+Projette un puissant rayon sur\xfffel'ennemi. Le lanceur doit se reposer\xfffeau tour suivant.
+Un fabuleux mur de lumière qui réduit\xfffeles dégâts causés par les attaques\xfffespéciales durant 5 tours.
+Le lanceur esquive toutes les attaques.\xfffePlus la capacité est utilisée de fois à la\xfffesuite, plus elle risque d'échouer.
+Invoque de fortes pluies qui durent\xfffe5 tours et améliorent les capacités\xfffede type Eau.
+Un pouvoir qui fait flotter l'ennemi\xfffedans les airs. Pendant 3 tours, il\xfffedevient plus facile à atteindre.
+Champ protecteur empêchant tous les\xfffeproblèmes de statut pendant 5 tours.
+Moins le Pokémon aime son Dresseur,\xfffeplus cette attaque est puissante.
+Absorbe la lumière au premier tour\xfffeet envoie un rayon puissant au\xfffetour suivant.
+Le lanceur jette toutes sortes\xfffede projectiles à un ennemi. Si ce\xfffedernier vole, il tombe au sol.
+Une grosse décharge électrique tombe\xfffesur l'ennemi. Peut aussi le paralyser.
+La foudre tombe sur l'ennemi pour\xfffelui infliger des dégâts. Peut aussi\xfffele paralyser.
+Le lanceur provoque un tremblement\xfffede terre touchant tous les Pokémon\xfffeautour de lui.
+Une attaque furieuse dont la puissance\xfffeaugmente quand le Pokémon apprécie\xfffeson Dresseur.
+Le lanceur creuse au 1⑩ tour et\xfffefrappe au 2⒅. Permet aussi de\xfffes'échapper d'un donjon.
+Une puissante force télékinésique\xfffefrappe l'ennemi. Peut aussi faire\xfffebaisser sa Défense Spéciale.
+Projette une grande ombre sur\xfffel'ennemi. Peut aussi faire baisser\xfffesa Défense Spéciale.
+Une attaque avec la main ou autre.\xfffePeut briser les barrières comme Mur\xfffeLumière et Protection.
+Le lanceur se déplace si vite qu'il crée\xfffedes copies illusoires de lui, augmentant\xfffeson Esquive.
+Un fabuleux mur de lumière qui réduit\xfffeles dégâts causés par les attaques\xfffephysiques durant 5 tours.
+Attaque tout ce qui se trouve autour\xfffeavec une vague de crasse. Peut aussi\xfffeempoisonner.
+L'ennemi reçoit un torrent de flammes.\xfffePeut aussi le brûler.
+Envoie des détritus sur l'ennemi. Peut\xfffeaussi l'empoisonner.
+Une tempête de sable de 5 tours\xfffequi blesse tous les Pokémon sauf\xfffeles types Roche, Sol et Acier.
+Un déluge de flammes ardentes submerge\xfffel'ennemi. Peut le brûler.
+Des rochers frappent l'ennemi. Réduit\xfffeaussi sa Vitesse en l'empêchant de\xfffese déplacer.
+Le lanceur prend l'ennemi de vitesse\xfffeet le lacère. N'échoue jamais.
+Le lanceur irrite l'ennemi pour\xfffel'empêcher d'utiliser la même\xfffecapacité 2 fois de suite.
+Une attaque dont la puissance double\xfffelorsque le lanceur est empoisonné,\xfffeparalysé ou brûlé.
+Le lanceur s'entoure de feu\xfffeet charge l'ennemi. Augmente\xfffeaussi la Vitesse.
+Le lanceur dort pendant 2 tours. Il\xffferegagne tous ses PV et n'a plus de\xfffeproblèmes de statut.
+Si l'ennemi est du sexe opposé, il\xfffetombe amoureux et rechigne alors\xfffeà attaquer.
+Le lanceur attaque la cible et vole\xfffeson objet. Le lanceur ne peut rien\xfffevoler s'il tient déjà un objet.
+Un coup rapide qui vise les pieds\xfffede l'ennemi et diminue sa Vitesse.
+Le lanceur chante et attaque l'ennemi.\xfffeSi plusieurs Pokémon déclenchent cette\xfffeattaque à la suite, l'effet augmente.
+Attaque l'ennemi avec la voix. Cette\xfffeattaque devient plus efficace si à\xfffechaque tour quelqu'un l'utilise.
+Attaque l'ennemi à pleine puissance.\xfffeLe contrecoup baisse énormément\xfffel'Attaque Spéciale du lanceur.
+Le lanceur se téléporte à l'aide d'un\xfffepouvoir mystérieux. Il échange sa place\xfffeavec celle d'un allié sur le terrain.
+Le lanceur rassemble ses forces et\xfffelaisse éclater son pouvoir. Peut aussi\xfffebaisser la Défense Spéciale de l'ennemi.
+Utilise les pouvoirs de la nature pour\xfffeattaquer l'ennemi. Peut aussi baisser\xfffela Défense Spéciale de l'ennemi.
+Le lanceur retient ses coups pour\xfffeque l'ennemi garde au moins 1 PV et\xfffene tombe pas K.O.
+Envoie un jet d'eau bouillante.\xfffeInflige des dégâts et peut\xfffeparfois brûler.
+Le lanceur envoie l'objet qu'il tient\xfffesur l'ennemi. La puissance et les\xfffeeffets dépendent de l'objet.
+Le lanceur tire un rayon chargé\xfffed'électricité. Peut aussi augmenter\xfffeson Attaque Spéciale.
+Le lanceur emmène l'ennemi dans les airs\xfffeau 1⑩ tour et le lâche dans le vide au\xfffe2⒅. L'ennemi saisi ne peut pas attaquer.
+Des flammes calcinent l'ennemi.\xfffeS'il tient une Baie, elle est brûlée\xfffeet devient inutilisable.
+Retient la cible de force,\xfffel'obligeant à agir en dernier.
+Lance une sinistre flamme violette à\xfffel'ennemi pour lui infliger une brûlure.
+Attaque agile. Si le lanceur ne tient\xfffepas d'objet, l'attaque inflige\xfffedavantage de dégâts.
+Empêche l'ennemi d'utiliser un objet\xfffetenu et son Dresseur d'utiliser un\xfffeobjet sur lui.
+Le lanceur explose et inflige des\xfffedégâts à tous les Pokémon autour\xfffede lui. Met K.O. le lanceur.
+Attaque avec une griffe puissante faite\xfffed'ombres. Taux de critiques élevé.
+Le lanceur charge son énergie, puis\xfffeattaque. La puissance est doublée\xfffesi le lanceur agit après l'ennemi.
+Venge un Pokémon de l'équipe mis K.O.\xfffeSi un Pokémon de l'équipe a été mis\xfffeK.O. au tour d'avant, l'effet augmente.
+Le lanceur charge l'ennemi de toute sa\xfffepuissance. Il doit ensuite se reposer\xfffeau tour suivant.
+Le lanceur polit son corps pour\xfffediminuer sa résistance au vent.\xfffeAugmente fortement la Vitesse.
+Explosion lumineuse qui fait baisser\xfffela Précision de l'ennemi. Permet\xfffeaussi d'éclairer les grottes.
+Fait surgir des pierres aiguisées sous\xfffel'ennemi. Taux de critiques élevé.
+Après son attaque, le lanceur revient à\xfffetoute vitesse et change de place avec\xfffeun Pokémon de l'équipe prêt au combat.
+Un faible choc électrique frappe\xfffel'ennemi. Si l'attaque touche, l'ennemi\xfffeest paralysé.
+Le lanceur effectue une rotation et\xfffefrappe l'ennemi. Plus le lanceur est\xfffelent, plus il fait de dégâts.
+Danse frénétique qui exalte l'esprit\xfffecombatif. Augmente beaucoup\xfffel'Attaque du lanceur.
+Le lanceur résiste et attaque.\xfffeBaisse l'Attaque Spéciale de l'ennemi.
+Une autohypnose qui permet au lanceur\xfffede copier les changements de stats de\xfffela cible.
+Le lanceur piétine le sol et inflige des\xfffedégâts à tous les Pokémon autour\xfffede lui. Baisse aussi la Vitesse.
+Un souffle froid blesse l'ennemi.\xfffeL'effet est toujours critique.
+Envoie de gros rochers sur l'ennemi\xfffepour infliger des dégâts. Peut\xfffel'apeurer.
+Le lanceur taillade l'ennemi en utilisant\xfffeses faux ou ses griffes comme une\xfffepaire de ciseaux.
+Un coup puissant qui blesse la cible\xfffeet l'envoie balader. Dans la nature,\xfffemet fin au combat.
+Le lanceur se rengorge. Augmente\xfffel'Attaque et l'Attaque Spéciale.
+Attaque l'ennemi avec un tentacule ou\xfffeun bras plein de poison. Peut aussi\xfffel'empoisonner.
+Attaque réservée aux ennemis endormis.\xfffeLe lanceur récupère en PV la moitié des\xfffedégâts infligés.
+L'ennemi est piégé dans de l'herbe qui\xfffele fait trébucher. Plus il est lourd,\xfffeplus il reçoit de dégâts.
+Fait enrager la cible et la plonge dans\xfffela confusion, mais augmente fortement\xfffeson Attaque.
+Le lanceur picore l'ennemi. S'il tient\xfffeune Baie, le lanceur s'en empare et\xfffeprofite de ses effets.
+Après son attaque, le lanceur revient à\xfffetoute vitesse et change de place avec\xfffeun Pokémon de l'équipe prêt au combat.
+Le lanceur fait une copie de lui-même\xfffeen sacrifiant quelques PV. La copie\xfffesert de leurre.
+Le lanceur concentre son énergie\xfffelumineuse et la fait exploser. Peut\xfffeaussi baisser la Déf. Spé. de l'ennemi.
+Le lanceur crée une zone étrange\xfffeoù les Pokémon les plus lents\xfffefrappent en 1⑩ pendant 5 tours.
+Coupe l'ennemi avec des lames ou des\xfffegriffes. Hors combat, permet de couper\xfffedes arbres fins.
+Le lanceur s'envole au 1⑩ tour et\xfffefrappe au 2⒅. Permet aussi de voler\xfffejusqu'à une ville déjà visitée.
+Une énorme vague s'abat sur le\xfffechamp de bataille. Permet aussi\xfffede voyager sur l'eau.
+Le lanceur cogne l'ennemi de toutes\xfffeses forces. Permet aussi de déplacer\xfffedes rochers.
+Le lanceur charge l'ennemi à une\xfffevitesse remarquable. Permet aussi\xfffede franchir une cascade.
+Le lanceur plonge sous l'eau au\xfffe1⑩ tour et frappe au 2⒅. Permet\xfffeaussi de plonger au fond de l'eau.
+
+
+Sac contenant des objets utiles\xfffeà l'exploration. Permet d'entrer\xfffedans le Souterrain.
+Grand sac robuste utilisé pour\xfffetransporter le butin obtenu dans\xfffela mine de charbon.
+La liste des règles de combat. Vous\xfffepouvez choisir les règles des combats\xfffeen Link.
+Objet permettant de trouver les\xfffePokémon qui se cachent dans l'herbe.\xfffeSe recharge quand vous marchez.
+Carte indiquant le nombre de Points\xfffede Combat obtenus.
+Journal de bord qui garde en mémoire\xfffevos aventures quotidiennes.
+Boîte contenant les Sceaux pouvant\xfffeêtre placés sur les capsules des\xfffePoké Balls.
+Boîte permettant de ranger\xfffeles Parures pour habiller les\xfffePokémon au Music-Hall.
+Petit sac pouvant contenir dix Sceaux\xfffepour décorer les Poké Balls.
+Un carnet bien pratique pour\xfffeenregistrer vos amis, les codes\xfffeami et des données de jeu.
+Grande clé servant à ouvrir la porte\xfffede la centrale Les Éoliennes du canyon.\xfffeUn sbire de la Team Galaxie la détenait.
+Un ancien porte-bonheur fait d'os de\xfffePokémon à porter à la doyenne de\xfffeCélestia.
+Clé magnétique servant à désactiver les\xfffesystèmes de sécurité du QG Galaxie.\xfffeLa perdre entraîne une punition.
+Chaîne mystique qui serait reliée au\xfffePokémon légendaire ayant créé la\xffferégion de Sinnoh.
+Une carte très pratique pouvant\xfffeêtre consultée n'importe quand. Elle\xfffeindique votre position actuelle.
+Un appareil indiquant les Dresseurs\xfffeprêts à se battre. La batterie se\xffferecharge quand vous marchez.
+Une boîte pour conserver les Jetons\xfffeobtenus au Casino.\xfffePeut contenir jusqu'à 50 000 Jetons.
+Une vieille canne usée. Utilisez-la pour\xfffepêcher des Pokémon sauvages dans\xfffeles points d'eau.
+Une canne neuve et de bonne qualité.\xfffeUtilisez-la pour pêcher des Pokémon\xfffesauvages dans les points d'eau.
+Une canne à pêche ultramoderne.\xfffeUtilisez-la pour pêcher des Pokémon\xfffesauvages dans les points d'eau.
+Arrosoir en forme de Psykokwak. Aide\xfffeà la croissance des Baies plantées dans\xfffeles sols meubles.
+Boîte pour ranger les Poffins faits\xfffeà partir de Baies.
+Une Bicyclette pliable permettant de se\xfffedéplacer plus rapidement qu'avec les\xfffeChaussures de Sport.
+Clé de l'une des suites de l'hôtel de\xfffeluxe se trouvant près du lac.\xfffeBizarrement, elle disparaît souvent.
+Lettre du Prof. Chen vous demandant de\xfffevous rendre sur la Route 224.
+Plume qui brille comme la lune. On dit\xfffequ'elle a le pouvoir de chasser les\xfffecauchemars.
+Carte nécessaire pour entrer à\xfffel'auberge de Joliberges. Le dernier\xfffetampon date d'il y a 50 ans!
+Flûte produisant des sons qui semblent\xfffeprovenir d'un autre monde. On ne sait\xfffepas qui l'a fabriquée.
+Un ticket nécessaire pour embarquer\xfffesur le Bateau Express Aquaria.\xfffeIl y a un bateau dessiné dessus.
+La carte requise pour participer aux\xfffeConcours Pokémon. Il y a un ruban\xfffedessiné dessus.
+Pierre formée à partir de roche en\xfffefusion solidifiée. Elle contient du\xfffemagma.
+Paquet qu'on vous a confié. Vous devez\xfffele remettre à votre ami d'enfance qui a\xfffequitté Bonaugure.
+Un des trois bons à échanger contre\xfffeune Pokémontre.
+Un des trois bons à échanger contre\xfffeune Pokémontre.
+Un des trois bons à échanger contre\xfffeune Pokémontre.
+La clé de l'entrepôt de la Team Galaxie\xfffesitué à la périphérie de Voilaroc.
+Médicament génial vendu à la pharmacie\xfffed'Irisia. Soigne totalement un Pokémon\xfffede tout problème de statut.
+Appareil utile permettant d'enregistrer\xfffeles combats entre amis et ceux ayant\xfffelieu dans un bâtiment de combat.
+Fleur que l'on offre en gage de\xfffereconnaissance, notamment à\xfffel'occasion d'un anniversaire.
+Clé destinée à une serrure très\xfffecomplexe. Ouvre une porte en\xfffetransmettant un signal électrique.
+Une boîte bien pratique qui peut\xfffecontenir jusqu'à 99 Noigrumes.
+Un carnet permettant de noter toutes\xfffeles formes de Zarbi capturées.
+Un accessoire portatif qui permet de\xfffecultiver des Baies en tout lieu et à\xfffetout moment.
+Un appareil high-tech qui indique\xfffel'emplacement des objets invisibles\xfffeen émettant un son et en clignotant.
+Une carte pour accumuler les points de\xfffel'émission “Le Mot de Passe de Buena".
+Une queue d'origine inconnue tout à fait\xfffesavoureuse, vendue très cher.
+Une cloche antique au tintement\xfffeapaisant.
+Une clé en forme de carte permettant\xfffed'ouvrir les cloisons de la Tour Radio.
+Une clé qui permet d'ouvrir la porte\xfffeau fond du Doublon-Tunnel.
+Un arrosoir qui permet de faire croître\xffferapidement les Baies plantées dans le\xfffePlante-Baies.
+Une écaille du Léviator apparu au Lac\xfffeColère. Elle rougeoie comme une flamme.
+Poupée Mime Jr. perdue par la Copieuse.
+Un ticket nécessaire pour monter\xfffeà bord du Train Magnétique.\xfffeUtilisable à volonté.
+Une pièce essentielle du générateur\xfffede la Centrale.
+Une étrange plume qui brille\xfffed'un éclat argenté.
+Une étrange plume qui brille\xfffed'un éclat arc-en-ciel.
+Un œuf étrange confié par M. Pokémon.\xfffePersonne ne sait ce qu'il contient.
+Un Noigrume de couleur rouge.\xfffeIl dégage un puissant arôme.
+Un Noigrume de couleur bleue.\xfffeIl dégage un arôme un peu aigre.
+Un Noigrume de couleur jaune.\xfffeIl dégage un arôme délicat.
+Un Noigrume de couleur verte.\xfffeIl dégage un arôme étonnamment riche.
+Un Noigrume de couleur rose.\xfffeIl dégage un arôme sucré.
+Un Noigrume de couleur blanche.\xfffeIl ne dégage aucun arôme.
+Un Noigrume de couleur noire.\xfffeIl dégage un arôme indéfinissable.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur\xfffeles Pokémon qui ont tendance à fuir.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur\xfffeles Pokémon de niveau inférieur au sien.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur les\xfffePokémon ferrés avec une canne à pêche.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur\xfffeles Pokémon lourds.
+Une Poké Ball un peu spéciale qui\xfffefonctionne mieux sur un Pokémon de\xfffela même espèce mais de sexe opposé.
+Une Poké Ball un peu spéciale qui\xfffepermet de rendre rapidement amicaux\xfffeles Pokémon sauvages attrapés avec.
+Une Poké Ball un peu spéciale qui\xfffefonctionne particulièrement bien sur les\xfffePokémon évoluant avec une Pierre Lune.
+Une Poké Ball spéciale utilisée au\xfffeConcours de Capture d'insecte.
+Une Poké Ball spéciale utilisée au\xfffeParc des Amis.
+Un album décoré de photos souvenir\xfffeprises pendant le voyage.
+Un lecteur de musique qui permet de se\xfffeplonger dans une atmosphère rétro. Une\xfffepression suffit pour changer de mode.
+Une cloche antique au tintement\xfffeapaisant.
+Un bonbon, spécialité d'Acajou.\xfffeIl constitue un cadeau très réputé.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit votre\xfffenombre de victoires au Pokéathlon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede fois où vous avez fini en dernier.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede sprints de vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede sauts de vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires à la Cours'Obstacles.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires à la Course de Relais.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires au Capture Drapeau.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires au Casse Roc.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires à l'Attrap'Disques.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires à la Bataille Neige.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede points gagnés par vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffed'erreurs de vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede points perdus par vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede charges de vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede fois où vos Pokémon sont tombés.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires au Combat Ring-Out.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires au Saute-Lumière.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires au Cercle Musical.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires en Link.
+Contient vos données du Pokéathlon.\xfffeIl y est inscrit le nombre de fois où\xfffevous avez fini en dernier en Link.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit votre\xfffenombre de victoires aux épreuves.
+Contient vos données du Pokéathlon.\xfffeIl y est inscrit le nombre de fois où\xfffevous avez fini en dernier aux épreuves.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede fois où vous avez changé de Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le nombre\xfffede victoires à la Balle au But.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit votre\xfffenombre de prix individuels.
+Contient vos données du Pokéathlon.\xfffeIl y est inscrit le nombre de fois\xfffeoù vous avez touché vos Pokémon.
+Contient vos données du Pokéathlon.\xfffeSur cette carte est inscrit le temps\xfffeque vous avez passé à y jouer.
+Un orbe viride dont on dit qu'il a un\xfffelien très étroit avec les légendes\xfffede Hoenn.
+Un écrin résistant qui ne s'ouvre\xfffequ'avec une clé spéciale.
+Un orbe incarnat dont on dit qu'il a\xfffeun lien très étroit avec les légendes\xfffede Hoenn.
+Un orbe céruléen dont on dit qu'il a\xfffeun lien très étroit avec les légendes\xfffede Hoenn.
+Un orbe cristallin fraîchement déterré.\xfffeIl est encore pris dans une gangue de\xfffeterre et de roche.
+Une écaille étrange qui fait évoluer\xfffecertaines espèces de Pokémon.\xfffeElle a une couleur arc-en-ciel.
+Un étrange concentré d'évolution qui\xfffeaugmente la Défense et la Déf. Spé.\xfffed'un Pokémon pouvant évoluer.
+Une pierre très légère.\xfffeElle réduit le poids du\xfffePokémon qui la tient.
+Tenu, cet objet inflige des dégâts\xfffeà l'attaquant si ce dernier utilise une\xfffeattaque physique qui atteint son but.
+Tenu par un Pokémon, cet objet lui\xfffepermet de flotter dans les airs.\xfffeIl éclate en cas d'attaque.
+Carte au pouvoir mystérieux.\xfffeTenue, elle force un Pokémon touchant\xfffele porteur à se retirer du combat.
+Un Pokémon tenant cet objet devient\xfffesensible aux capacités autrement\xfffeinefficaces en raison de son type.
+Objet à tenir augmentant la puissance\xfffedes attaques immobilisantes telles\xfffeque Ligotage ou Étreinte.
+Bulbe jetable. Tenu, il augmente la\xfffeDéfense Spéciale lorsque le Pokémon\xfffesubit une attaque de type Eau.
+Pile jetable. Tenue, elle augmente\xfffel'Attaque lorsque le Pokémon subit\xfffeune attaque de type Électrik.
+Si le Pokémon qui le tient subit une\xfffeattaque, il s'enfuit pour être remplacé\xfffepar un autre membre de l'équipe.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Feu.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Eau.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Électrik.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Plante.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Glace.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Combat.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Poison.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Sol.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Vol.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Psy.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Insecte.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Roche.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Spectre.
+Objet à tenir. Joyau augmentant \xfffeune fois la puissance des capacités\xfffede type Dragon.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Ténèbres.
+Objet à tenir. Joyau augmentant \xfffeune fois la puissance des capacités\xfffede type Acier.
+Objet à tenir. Joyau augmentant\xfffeune fois la puissance des capacités\xfffede type Normal.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu ses PV lors\xfffed'une montée de niveau.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu son Attaque\xfffelors d'une montée de niveau.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu sa Défense\xfffelors d'une montée de niveau.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu son Atq. Spé.\xfffelors d'une montée de niveau.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu sa Déf. Spé.\xfffelors d'une montée de niveau.
+Objet à utiliser sur un Pokémon.\xfffeIl augmente un peu sa Vitesse\xfffelors d'une montée de niveau.
+Une plume très jolie, mais ordinaire\xfffeet sans effet particulier.
+Fossile d'un ancien Pokémon\xfffeaquatique. Il semble que ce\xfffesoit une partie de son dos.
+Fossile d'un ancien Pokémon\xfffevolant. Il semble que ce soit\xfffeun morceau d'aile.
+Ticket spécial permettant de se\xffferendre sur l'Île Liberté à bord\xfffedu bateau de Volucité.
+Sphère mystérieuse contenant\xfffel'Aura d'Unys et utilisable\xfffeavec l'Offri-Aura.
+Poké Ball du rêve. Apparue dans le\xfffeSac à la Forêt du Heylink. Permet\xfffed'attraper n'importe quel Pokémon.
+Objet qui attire les Pokémon. Permet\xfffede s'enfuir d'un combat contre un\xfffePokémon sauvage.
+Boîte permettant de ranger\xfffeles Parures pour habiller les\xfffePokémon au Music-Hall.
+Crâne d'un Pokémon qui\xfffeaurait survolé librement\xfffela mer déchaînée.
+Champignon rare qui répand un\xfffeagréable parfum autour de lui.\xfffeLes amateurs en donnent un bon prix.
+Grosse pépite d'or pur qui brille\xfffemagnifiquement.\xfffeLes amateurs en donnent un bon prix.
+Une très grosse perle qui brille\xfffed'une jolie couleur argent. \xfffeLes amateurs en donnent un bon prix.
+Un fragment de comète, tombé au sol\xfffequand elle traversait l'atmosphère.\xfffeLes amateurs en donnent un bon prix.
+Une pièce de cuivre d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Une pièce d'argent d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Une pièce d'or d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Un vase d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Un bijou d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Une statuette d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Une couronne d'une civilisation\xfffevieille de plus de 3 000 ans.\xfffeLes amateurs en donnent un bon prix.
+Spécialité de Volucité. Elle\xfffesoigne tous les problèmes\xfffede statut d'un Pokémon.
+Augmente le taux de critiques. Plus\xfffeefficace à chaque utilisation. L'effet\xfffes'estompe si le Pokémon se retire.
+Monte un peu la Vitesse pendant\xfffeun combat. L'effet s'estompe si\xfffele Pokémon se retire.
+Monte un peu l'Atq. Spé. pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte un peu la Déf. Spé. pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte un peu la Défense pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte un peu l'Attaque pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte un peu la Précision pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement la Vitesse pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement l'Atq. Spé. pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement la Déf. Spé.\xfffependant un combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement la Défense pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement l'Attaque pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte sensiblement la Précision\xfffependant un combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement la Vitesse pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement l'Atq. Spé. pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement la Déf. Spé. pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement la Défense pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement l'Attaque pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Monte fortement la Précision pendant\xfffeun combat. L'effet s'estompe\xfffesi le Pokémon se retire.
+Déclenche la capacité spéciale\xfffed'un Pokémon de l'équipe.
+Retire tout objet tenu par\xfffeun Pokémon de l'équipe.
+Permet d'utiliser immédiatement\xfffel'objet tenu par un Pokémon de\xfffel'équipe.
+Permet d'annuler les variations de\xfffestats d'un Pokémon de l'équipe.
+Monte fortement le taux de critiques.\xfffePlus efficace à chaque utilisation.\xfffeEffet estompé si le Pokémon se retire.
+Ce sont les derniers restes du corps\xfffede Reshiram. On dit qu'ils attendent\xfffel'apparition d'un héros.
+Ce sont les derniers restes du corps\xfffede Zekrom. On dit qu'ils attendent\xfffel'apparition d'un héros.
+Une charge électrique violente qui\xfffeblesse aussi légèrement le lanceur.
+Porte un coup dévastateur à l'ennemi.\xfffePeut briser des rochers fissurés.\xfffePeut baisser la Défense.
+Le lanceur hurle sur l'ennemi.\xfffeBaisse l'Atq. Spé. de l'ennemi.
+Transmetteur high-tech permettant\xfffeà 4 personnes de communiquer par\xfffele son et l'image.
+Une pierre fantomatique.
+Un courrier important\xfffetransporté par un Goélise.
+Un courrier important\xfffetransporté par un Goélise.
+Un courrier important\xfffetransporté par un Goélise.
+Transmetteur high-tech permettant\xfffeà 4 personnes de communiquer par\xfffele son et l'image.

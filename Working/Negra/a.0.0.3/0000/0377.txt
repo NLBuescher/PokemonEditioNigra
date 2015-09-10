@@ -1,0 +1,21 @@
+Bel: ¡¡\xf000Ā\x0001\x0000!!\xf000븁\x0000
+¿Sabes qué? Últimamente no paro de darle\xfffevueltas a la cabeza.\xf000븁\x0000\xfffePienso en lo que podría hacer,\xfffeen lo que quiero hacer...\xf000븁\x0000\xfffeMi sueño es ser una supermodelo\xfffecomo Camila.\xf000븁\x0000\xfffeY también quiero estudiar los Pokémon\xfffecomo hace la Prof.ª Encina.\xf000븁\x0000\xfffeAsí que tengo que empezar desde ya.\xf000븁\x0000\xfffe¡Y para eso no hay nada mejor que\xfffeun buen combate!\xf000븁\x0000
+Bel: ¡Sí! ¡Eres lo más, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe¡Me he emocionado tanto que te voy a\xffferegalar esto!\xf000븁\x0000
+Bel: ¡Yo lo sé muy bien porque el Equipo\xfffePlasma me robó mi Pokémon en\xf000븀\x0000\xfffeCiudad Porcelana!\xf000븁\x0000\xfffe¡Si esos tipos los liberan a la fuerza,\xfffeel mundo se va a llenar de caras tristes!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000! ¡Tienes que pararles\xfffelos pies!\xf000븁\x0000\xfffe¡Impide que le roben sus Pokémon\xfffea la gente que los quiere tanto!\xf000븁\x0000\xfffeCreo que esa es la verdad y el ideal\xfffeque tú persigues, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Bel: Perdona... Con lo que está pasando\xfffey soltarte eso...\xf000븁\x0000\xfffeY yo que en realidad quería\xfffetranquilizarte, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffePero tú no tendrás problema.\xfffe¡Sí, todo saldrá bien! ¡Y yo te apoyaré!\xf000븁\x0000\xfffeY..., bueno..., a mí no se me dan bien\xfffeestas cosas.\xf000븁\x0000\xfffe¡¡Adiós!!\xf000븁\x0000
+Equipo Plasma: Parece que tenemos\xfffecompañeros en la Torre Duodraco,\xf000븀\x0000\xfffecerca de Ciudad Teja.
+Equipo Plasma: Parece que tenemos\xfffecompañeros en el Castillo Ancestral,\xf000븀\x0000\xfffeen la Zona Desierto.
+Equipo Plasma: Parece que tenemos\xfffecompañeros en la Torre Duodraco,\xf000븀\x0000\xfffecerca de Ciudad Teja.
+Equipo Plasma: Parece que tenemos\xfffecompañeros en el Castillo Ancestral,\xf000븀\x0000\xfffeen la Zona Desierto.
+¡Tengo el parasol lleno de MT!\xfffe¿No quieres tú una?\xf000븁\x0000
+¡Imagen! ¡Imagen! ¡Vale para todo!\xfffe¡Si te queman, paralizan o envenenan,\xf000븀\x0000\xfffela fuerza de su ataque se duplica!
+Así es... Encuentras una roca\xfffey la conviertes en un regalo.\xf000븁\x0000\xfffeEsa es mi idea de una vida sencilla.\xfffeMe caes bien...\xf000븁\x0000
+Te voy a regalar esta Roca Lluvia que me\xfffehe encontrado esta mañana.\xf000븁\x0000
+Te voy a regalar esta Roca Calor que me\xfffehe encontrado este mediodía.\xf000븁\x0000
+Te voy a regalar esta Roca Suave que me\xfffehe encontrado esta tarde.\xf000븁\x0000
+Te voy a regalar esta Roca Helada que me\xfffehe encontrado esta noche.\xf000븁\x0000
+Ya veo...\xf000븁\x0000\xfffeSi te gustan las rocas, vuelve mañana.\xfffeEn otro momento del día, a ser posible.
+Ruta 8
+
+¡Pistas para Entrenadores!\xf000븁\x0000\xfffe\xfffeSi quieres ordenar los objetos\xfffeque has guardado en tu Bolsa,\xf000븀\x0000\xfffepulsa SELECT. ¡Y tachán!
+Puente Axial\xfffeEl orgullo férreo de Teselia.

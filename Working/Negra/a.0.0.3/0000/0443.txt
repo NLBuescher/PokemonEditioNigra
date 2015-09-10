@@ -1,0 +1,15 @@
+Esta es una Poké Ball que conseguí hace\xfffemucho tiempo.\xf000븀\x0000\xfffeCreo que debería dártela.\xf000븁\x0000
+¡Si no tienes Poké Balls, no podrás\xfffecapturar a ningún Pokémon!\xf000븁\x0000\xfffeHay muchas Poké Balls, así que piensa\xfffecuál te viene mejor para cada ocasión.
+¡Pat, pat, pat!
+¡Oye, oye! ¿Jugamos a Pokémon\xfffepiedra, papel o tijera?
+¡Qué decepción!\xfffe¡Menudo rollo!
+¡Que voy! \xfffePokémon piedra, papel o... ¡tijera!
+Tú has elegido Fuego,\xfffeyo he elegido Planta...\xf000븁\x0000\xfffeLos Pokémon de tipo Planta son\xfffedébiles contra los de tipo Fuego...\xf000븀\x0000\xfffeO sea, yo pierdo.
+Tú has elegido Fuego,\xfffeyo he elegido Agua...\xf000븁\x0000\xfffe¡Los Pokémon de tipo Fuego son\xfffedébiles contra los de tipo Agua!\xf000븀\x0000\xfffeO sea... ¡yo gano!
+Tú has elegido Agua,\xfffeyo he elegido Fuego...\xf000븁\x0000\xfffeLos Pokémon de tipo Fuego son\xfffedébiles contra los de tipo Agua...\xf000븀\x0000\xfffeO sea, yo pierdo.
+Tú has elegido Agua,\xfffeyo he elegido Planta...\xf000븁\x0000\xfffe¡Los Pokémon de tipo Agua son\xfffedébiles contra los de tipo Planta!\xf000븀\x0000\xfffeO sea... ¡yo gano!
+Tú has elegido Planta,\xfffeyo he elegido Agua...\xf000븁\x0000\xfffeLos Pokémon de tipo Agua son\xfffedébiles contra los de tipo Planta...\xf000븀\x0000\xfffeO sea, yo pierdo.
+Tú has elegido Planta,\xfffeyo he elegido Fuego...\xf000븁\x0000\xfffe¡Los Pokémon de tipo Planta son débiles\xfffecontra los de tipo Fuego!\xf000븀\x0000\xfffeO sea... ¡yo gano!
+FUEGO
+PLANTA
+AGUA

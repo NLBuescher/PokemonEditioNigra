@@ -1,0 +1,69 @@
+REGISTRE AMI
+VOIR LISTE D'AMIS
+ENREGISTRER UN CODE AMI
+CODE DE \xf000Ā\x0001\x0000
+
+LISTE D'AMIS
+
+
+CONSULTER
+MODIFIER LE NOM
+EFFACER
+RETOUR
+Que souhaitez-vous faire avec les\xfffedonnées de \xf000Ā\x0001\x0000?
+DONNÉES DE \xf000Ā\x0001\x0000
+
+
+
+
+
+DONNÉES COMBAT
+GAGNÉ
+PERDU
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+ÉCHANGES POKÉMON
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+
+
+DERNIÈRE RENCONTRE
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODE DE \xf000Ā\x0001\x0000
+
+
+En échangeant vos codes ami,\xfffevous pourrez participer à des\xfffeéchanges ou des combats via\xfffela connexion Wi-Fi Nintendo.
+Pour obtenir votre code ami,\xfffeveuillez vous connecter via\xfffela connexion Wi-Fi Nintendo.
+Le code ami \xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003 de\xfffe\xf000Ā\x0001\x0000 sera enregistré.
+Le code ami \xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffeest incorrect.
+\xf000Ā\x0001\x0000 sera effacé(e).\xfffeConfirmer?
+Votre liste d'amis est pleine!
+Ce code ami a déjà été enregistré.
+Code ami de \xf000Ā\x0001\x0000:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003.
+VOIR CODE AMI
+
+
+
+
+OUI
+NON
+Veuillez vous rendre au Club Wi-Fi\xfffeavec \xf000Ā\x0001\x0000.

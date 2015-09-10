@@ -1,0 +1,21 @@
+Bell: \xf000Ā\x0001\x0000!\xf000븁\x0000
+In letzter Zeit habe ich mir so meine\xfffeGedanken gemacht... ähm... ich meine\xf000븀\x0000\xfffedarüber, was ich machen möchte, und\xf000븀\x0000\xfffeauch darüber, was ich überhaupt\xf000븀\x0000\xfffeerreichen kann.\xf000븁\x0000\xfffeIch wäre natürlich gern ein bildschönes\xfffeMannequin wie Kamilla, andererseits\xf000븀\x0000\xfffewürde ich mein Leben auch gern der\xf000븀\x0000\xfffeErforschung der Pokémon widmen,\xf000븀\x0000\xfffewie Prof. Esche es zum Beispiel tut.\xf000븁\x0000\xfffeAber dafür reicht mein Wissen über die\xfffePokémon noch nicht aus. Also muss ich\xf000븀\x0000\xfffenoch viel mehr Kämpfe bestreiten!\xf000븁\x0000
+Bell: Wow, \xf000Ā\x0001\x0000! Ich komme ja\xfffeaus dem Staunen gar nicht mehr heraus!\xf000븁\x0000\xfffeDafür hast du dir ein kleines Geschenk\xffferedlich verdient!\xf000븁\x0000
+Bell: Als mir diese Schufte von\xfffeTeam Plasma in Stratos City mein\xf000븀\x0000\xfffeherzallerliebstes Pokémon entrissen,\xf000븀\x0000\xfffeda habe ich es am eigenen Leib gespürt!\xf000븁\x0000\xfffeWenn dieses vermaledeite Team Plasma\xfffenach eigenem Gutdünken den Leuten ihre\xf000븀\x0000\xfffePokémon stiehlt, bricht es so zahllosen\xf000븀\x0000\xfffeMenschen das Herz!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, ich bitte dich!\xfffeGebiete den Schurken von Team Plasma\xf000븀\x0000\xfffeund ihren Machenschaften Einhalt!\xf000븁\x0000\xfffeNiemand hat das Recht, Pokémon von\xfffeden Menschen zu trennen, die sie lieben!\xf000븁\x0000\xfffeDas ist doch auch dein Wunsch, nach dem\xfffedu strebst, nicht wahr, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeOder ist es doch eher die Wahrheit, der\xfffedu zu ihrem Recht verhelfen willst?\xf000븁\x0000
+Bell: So, das wäre dann auch schon alles,\xfffewas ich dir sagen wollte.\xf000븁\x0000\xfffeEs tut mir echt leid! Ich hätte dich nur\xfffeallzu gern ein wenig aufgeheitert,\xf000븀\x0000\xfffeaber die Lage ist nun einmal ernst. Und\xf000븀\x0000\xfffeschließlich bist du ja nicht aus Zucker!\xf000븁\x0000\xfffeNun denn, alles wird gut. Nein, es wird\xfffebesser als gut, glaub mir! Darauf gebe\xf000븀\x0000\xfffeich dir Brief und Siegel!\xf000븁\x0000\xfffeAlso, bis dann! Ciao!\xf000븁\x0000
+Team Plasma: Eine unserer Einheiten\xfffedürfte gerade in der Drachenstiege\xf000븀\x0000\xfffenahe Nevaio City mit einem Auftrag\xf000븀\x0000\xfffezugange sein.
+Team Plasma: Eine unserer Einheiten\xfffedürfte gerade im Alten Palast des\xf000븀\x0000\xfffeWüstenresorts mit einem Auftrag\xf000븀\x0000\xfffezugange sein.
+Team Plasma: Eine unserer Einheiten\xfffedürfte gerade in der Drachenstiege\xf000븀\x0000\xfffenahe Nevaio City mit einem Auftrag\xf000븀\x0000\xfffezugange sein.
+Team Plasma: Eine unserer Einheiten\xfffedürfte gerade im Alten Palast des\xf000븀\x0000\xfffeWüstenresorts mit einem Auftrag\xf000븀\x0000\xfffezugange sein.
+Mein Schirm ist randvoll\xfffemit unterschiedlichen TM.\xf000븀\x0000\xfffeMöchtest du auch eine haben?\xf000븁\x0000
+Fassade! Fassade! Bei Vergiftung,\xfffeParalyse oder Verbrennung verdoppelt\xf000븀\x0000\xfffesich die Stärke des Angriffs!
+Tja, was soll ich schon sagen?\xf000븁\x0000\xfffeIch finde hin und wieder ein paar Brocken\xfffeund verschenke sie dann an die Leute.\xf000븁\x0000\xfffeDa staunst du, was? Das ist mein Leben!\xfffeEinfach, aber zufriedenstellend!\xf000븁\x0000
+Heute Morgen habe ich einen Nassbrocken\xfffegefunden! Hier, den schenke ich dir!\xf000븁\x0000
+Heute Mittag habe ich einen Heißbrocken\xfffegefunden! Hier, den schenke ich dir!\xf000븁\x0000
+Heute Abend habe ich einen Glattbrocken\xfffegefunden! Hier, den schenke ich dir!\xf000븁\x0000
+Heute Nacht habe ich einen Eisbrocken\xfffegefunden! Hier, den schenke ich dir!\xf000븁\x0000
+Tja, was soll ich schon sagen?\xf000븁\x0000\xfffeWenn du so vernarrt in diese Brocken\xfffebist, dann komm mich doch morgen einfach\xf000븀\x0000\xfffewieder besuchen. Jedoch zu einer anderen\xf000븀\x0000\xfffeTageszeit, wenn es dir möglich ist!
+Route 8
+
+Tipps für Trainer\xf000븁\x0000\xfffe\xfffeUm die Anordnung der Items in\xfffedeinem Beutel zu ändern, brauchst\xf000븀\x0000\xfffedu nichts weiter tun, als SELECT\xf000븀\x0000\xfffezu drücken! Es ist kinderleicht!
+Die Zylinderbrücke\xf000븁\x0000\xfffe\xfffeStählerner Stolz der Einall-Region

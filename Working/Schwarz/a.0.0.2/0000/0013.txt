@@ -1,0 +1,1680 @@
+!
+!
+!
+\xf000ā\x0001\x0000 setzt\xfffePfund ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePfund ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePfund ein!
+\xf000ā\x0001\x0000 setzt\xfffeKarateschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKarateschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKarateschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeDuplexhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDuplexhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDuplexhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeKometenhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKometenhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKometenhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeMegahieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMegahieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMegahieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeZahltag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZahltag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZahltag ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeEishieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEishieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEishieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonnerschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonnerschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonnerschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeKratzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKratzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKratzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlammer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlammer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlammer ein!
+\xf000ā\x0001\x0000 setzt\xfffeGuillotine ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGuillotine ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGuillotine ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlingensturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlingensturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlingensturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchwerttanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchwerttanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchwerttanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeZerschneider ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZerschneider ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZerschneider ein!
+\xf000ā\x0001\x0000 setzt\xfffeWindstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWindstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWindstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlügelschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlügelschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlügelschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeWirbelwind ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWirbelwind ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWirbelwind ein!
+\xf000ā\x0001\x0000 setzt\xfffeFliegen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFliegen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFliegen ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlammergriff ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlammergriff ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlammergriff ein!
+\xf000ā\x0001\x0000 setzt\xfffeSlam ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSlam ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSlam ein!
+\xf000ā\x0001\x0000 setzt\xfffeRankenhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRankenhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRankenhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeStampfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStampfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStampfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeDoppelkick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDoppelkick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDoppelkick ein!
+\xf000ā\x0001\x0000 setzt\xfffeMegakick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMegakick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMegakick ein!
+\xf000ā\x0001\x0000 setzt\xfffeSprungkick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSprungkick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSprungkick ein!
+\xf000ā\x0001\x0000 setzt\xfffeFegekick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFegekick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFegekick ein!
+\xf000ā\x0001\x0000 setzt\xfffeSandwirbel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSandwirbel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSandwirbel ein!
+\xf000ā\x0001\x0000 setzt\xfffeKopfnuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKopfnuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKopfnuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeHornattacke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHornattacke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHornattacke ein!
+\xf000ā\x0001\x0000 setzt\xfffeFurienschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFurienschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFurienschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeHornbohrer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHornbohrer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHornbohrer ein!
+\xf000ā\x0001\x0000 setzt\xfffeTackle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTackle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTackle ein!
+\xf000ā\x0001\x0000 setzt\xfffeBodyslam ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBodyslam ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBodyslam ein!
+\xf000ā\x0001\x0000 setzt\xfffeWickel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWickel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWickel ein!
+\xf000ā\x0001\x0000 setzt\xfffeBodycheck ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBodycheck ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBodycheck ein!
+\xf000ā\x0001\x0000 setzt\xfffeFuchtler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFuchtler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFuchtler ein!
+\xf000ā\x0001\x0000 setzt\xfffeRisikotackle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRisikotackle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRisikotackle ein!
+\xf000ā\x0001\x0000 setzt\xfffeRutenschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRutenschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRutenschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftstachel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftstachel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftstachel ein!
+\xf000ā\x0001\x0000 setzt\xfffeDuonadel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDuonadel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDuonadel ein!
+\xf000ā\x0001\x0000 setzt\xfffeNadelrakete ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNadelrakete ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNadelrakete ein!
+\xf000ā\x0001\x0000 setzt\xfffeSilberblick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSilberblick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSilberblick ein!
+\xf000ā\x0001\x0000 setzt\xfffeBiss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBiss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBiss ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeuler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeuler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeuler ein!
+\xf000ā\x0001\x0000 setzt\xfffeBrüller ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBrüller ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBrüller ein!
+\xf000ā\x0001\x0000 setzt\xfffeGesang ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGesang ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGesang ein!
+\xf000ā\x0001\x0000 setzt\xfffeSuperschall ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSuperschall ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSuperschall ein!
+\xf000ā\x0001\x0000 setzt\xfffeUltraschall ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUltraschall ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUltraschall ein!
+\xf000ā\x0001\x0000 setzt\xfffeAussetzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAussetzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAussetzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeSäure ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSäure ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSäure ein!
+\xf000ā\x0001\x0000 setzt\xfffeGlut ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGlut ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGlut ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlammenwurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlammenwurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlammenwurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeWeißnebel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWeißnebel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWeißnebel ein!
+\xf000ā\x0001\x0000 setzt\xfffeAquaknarre ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAquaknarre ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAquaknarre ein!
+\xf000ā\x0001\x0000 setzt\xfffeHydropumpe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHydropumpe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHydropumpe ein!
+\xf000ā\x0001\x0000 setzt\xfffeSurfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSurfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSurfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisstrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisstrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisstrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlizzard ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlizzard ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlizzard ein!
+\xf000ā\x0001\x0000 setzt\xfffePsystrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsystrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsystrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlubbstrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlubbstrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlubbstrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeAurorastrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAurorastrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAurorastrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeHyperstrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHyperstrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHyperstrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchnabel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchnabel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchnabel ein!
+\xf000ā\x0001\x0000 setzt\xfffeBohrschnabel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBohrschnabel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBohrschnabel ein!
+\xf000ā\x0001\x0000 setzt\xfffeÜberroller ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeÜberroller ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeÜberroller ein!
+\xf000ā\x0001\x0000 setzt\xfffeFußkick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFußkick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFußkick ein!
+\xf000ā\x0001\x0000 setzt\xfffeKonter ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKonter ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKonter ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeowurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeowurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeowurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeStärke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStärke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStärke ein!
+\xf000ā\x0001\x0000 setzt\xfffeAbsorber ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAbsorber ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAbsorber ein!
+\xf000ā\x0001\x0000 setzt\xfffeMegasauger ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMegasauger ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMegasauger ein!
+\xf000ā\x0001\x0000 setzt\xfffeEgelsamen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEgelsamen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEgelsamen ein!
+\xf000ā\x0001\x0000 setzt\xfffeWachstum ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWachstum ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWachstum ein!
+\xf000ā\x0001\x0000 setzt\xfffeRasierblatt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRasierblatt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRasierblatt ein!
+\xf000ā\x0001\x0000 setzt\xfffeSolarstrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSolarstrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSolarstrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftpuder ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftpuder ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftpuder ein!
+\xf000ā\x0001\x0000 setzt\xfffeStachelspore ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStachelspore ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStachelspore ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlafpuder ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlafpuder ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlafpuder ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlättertanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlättertanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlättertanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeFadenschuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFadenschuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFadenschuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachenwut ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachenwut ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachenwut ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerwirbel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerwirbel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerwirbel ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonnerschock ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonnerschock ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonnerschock ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonnerblitz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonnerblitz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonnerblitz ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonnerwelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonnerwelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonnerwelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonner ein!
+\xf000ā\x0001\x0000 setzt\xfffeSteinwurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSteinwurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSteinwurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeErdbeben ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeErdbeben ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeErdbeben ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeofissur ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeofissur ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeofissur ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchaufler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchaufler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchaufler ein!
+\xf000ā\x0001\x0000 setzt\xfffeToxin ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeToxin ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeToxin ein!
+\xf000ā\x0001\x0000 setzt\xfffeKonfusion ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKonfusion ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKonfusion ein!
+\xf000ā\x0001\x0000 setzt\xfffePsychokinese ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsychokinese ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsychokinese ein!
+\xf000ā\x0001\x0000 setzt\xfffeHypnose ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHypnose ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHypnose ein!
+\xf000ā\x0001\x0000 setzt\xfffeMeditation ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMeditation ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMeditation ein!
+\xf000ā\x0001\x0000 setzt\xfffeAgilität ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAgilität ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAgilität ein!
+\xf000ā\x0001\x0000 setzt\xfffeRuckzuckhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRuckzuckhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRuckzuckhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeRaserei ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRaserei ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRaserei ein!
+\xf000ā\x0001\x0000 setzt\xfffeTeleport ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTeleport ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTeleport ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachtnebel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachtnebel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachtnebel ein!
+\xf000ā\x0001\x0000 setzt\xfffeMimikry ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMimikry ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMimikry ein!
+\xf000ā\x0001\x0000 setzt\xfffeKreideschrei ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKreideschrei ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKreideschrei ein!
+\xf000ā\x0001\x0000 setzt\xfffeDoppelteam ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDoppelteam ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDoppelteam ein!
+\xf000ā\x0001\x0000 setzt\xfffeGenesung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGenesung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGenesung ein!
+\xf000ā\x0001\x0000 setzt\xfffeHärtner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHärtner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHärtner ein!
+\xf000ā\x0001\x0000 setzt\xfffeKomprimator ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKomprimator ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKomprimator ein!
+\xf000ā\x0001\x0000 setzt\xfffeRauchwolke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRauchwolke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRauchwolke ein!
+\xf000ā\x0001\x0000 setzt\xfffeKonfustrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKonfustrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKonfustrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffePanzerschutz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePanzerschutz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePanzerschutz ein!
+\xf000ā\x0001\x0000 setzt\xfffeEinigler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEinigler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEinigler ein!
+\xf000ā\x0001\x0000 setzt\xfffeBarriere ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBarriere ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBarriere ein!
+\xf000ā\x0001\x0000 setzt\xfffeLichtschild ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLichtschild ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLichtschild ein!
+\xf000ā\x0001\x0000 setzt\xfffeDunkelnebel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDunkelnebel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDunkelnebel ein!
+\xf000ā\x0001\x0000 setzt\xfffeReflektor ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeReflektor ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeReflektor ein!
+\xf000ā\x0001\x0000 setzt\xfffeEnergiefokus ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEnergiefokus ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEnergiefokus ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeduld ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeduld ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeduld ein!
+\xf000ā\x0001\x0000 setzt\xfffeMetronom ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMetronom ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMetronom ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpiegeltrick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpiegeltrick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpiegeltrick ein!
+\xf000ā\x0001\x0000 setzt\xfffeFinale ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFinale ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFinale ein!
+\xf000ā\x0001\x0000 setzt\xfffeEierbombe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEierbombe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEierbombe ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlecker ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlecker ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlecker ein!
+\xf000ā\x0001\x0000 setzt\xfffeSmog ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSmog ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSmog ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlammbad ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlammbad ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlammbad ein!
+\xf000ā\x0001\x0000 setzt\xfffeKnochenkeule ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKnochenkeule ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKnochenkeule ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuersturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuersturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuersturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeKaskade ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKaskade ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKaskade ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchnapper ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchnapper ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchnapper ein!
+\xf000ā\x0001\x0000 setzt\xfffeSternschauer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSternschauer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSternschauer ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchädelwumme ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchädelwumme ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchädelwumme ein!
+\xf000ā\x0001\x0000 setzt\xfffeDornkanone ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDornkanone ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDornkanone ein!
+\xf000ā\x0001\x0000 setzt\xfffeUmklammerung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUmklammerung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUmklammerung ein!
+\xf000ā\x0001\x0000 setzt\xfffeAmnesie ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAmnesie ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAmnesie ein!
+\xf000ā\x0001\x0000 setzt\xfffePsykraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsykraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsykraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeWeichei ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWeichei ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWeichei ein!
+\xf000ā\x0001\x0000 setzt\xfffeTurmkick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTurmkick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTurmkick ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftblick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftblick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftblick ein!
+\xf000ā\x0001\x0000 setzt\xfffeTraumfresser ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTraumfresser ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTraumfresser ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftwolke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftwolke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftwolke ein!
+\xf000ā\x0001\x0000 setzt\xfffeStakkato ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStakkato ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStakkato ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlutsauger ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlutsauger ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlutsauger ein!
+\xf000ā\x0001\x0000 setzt\xfffeTodeskuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTodeskuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTodeskuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeHimmelsfeger ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHimmelsfeger ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHimmelsfeger ein!
+\xf000ā\x0001\x0000 setzt\xfffeWandler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWandler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWandler ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlubber ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlubber ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlubber ein!
+\xf000ā\x0001\x0000 setzt\xfffeIrrschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeIrrschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeIrrschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffePilzspore ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePilzspore ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePilzspore ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlitz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlitz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlitz ein!
+\xf000ā\x0001\x0000 setzt\xfffePsywelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsywelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsywelle ein!
+\xf000ā\x0001\x0000 setzt\xfffePlatscher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePlatscher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePlatscher ein!
+\xf000ā\x0001\x0000 setzt\xfffeSäurepanzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSäurepanzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSäurepanzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeKrabbhammer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKrabbhammer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKrabbhammer ein!
+\xf000ā\x0001\x0000 setzt\xfffeExplosion ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeExplosion ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeExplosion ein!
+\xf000ā\x0001\x0000 setzt\xfffeKratzfurie ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKratzfurie ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKratzfurie ein!
+\xf000ā\x0001\x0000 setzt\xfffeKnochmerang ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKnochmerang ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKnochmerang ein!
+\xf000ā\x0001\x0000 setzt\xfffeErholung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeErholung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeErholung ein!
+\xf000ā\x0001\x0000 setzt\xfffeSteinhagel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSteinhagel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSteinhagel ein!
+\xf000ā\x0001\x0000 setzt\xfffeHyperzahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHyperzahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHyperzahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchärfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchärfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchärfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeUmwandlung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUmwandlung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUmwandlung ein!
+\xf000ā\x0001\x0000 setzt\xfffeTriplette ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTriplette ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTriplette ein!
+\xf000ā\x0001\x0000 setzt\xfffeSuperzahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSuperzahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSuperzahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlitzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlitzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlitzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeDelegator ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDelegator ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDelegator ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerzweifler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerzweifler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerzweifler ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachahmer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachahmer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachahmer ein!
+\xf000ā\x0001\x0000 setzt\xfffeDreifachkick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDreifachkick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDreifachkick ein!
+\xf000ā\x0001\x0000 setzt\xfffeRaub ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRaub ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRaub ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpinnennetz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpinnennetz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpinnennetz ein!
+\xf000ā\x0001\x0000 setzt\xfffeWillensleser ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWillensleser ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWillensleser ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachtmahr ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachtmahr ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachtmahr ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlammenrad ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlammenrad ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlammenrad ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchnarcher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchnarcher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchnarcher ein!
+\xf000ā\x0001\x0000 setzt\xfffeFluch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFluch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFluch ein!
+\xf000ā\x0001\x0000 setzt\xfffeDreschflegel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDreschflegel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDreschflegel ein!
+\xf000ā\x0001\x0000 setzt\xfffeUmwandlung2 ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUmwandlung2 ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUmwandlung2 ein!
+\xf000ā\x0001\x0000 setzt\xfffeLuftstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLuftstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLuftstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeBaumwollsaat ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBaumwollsaat ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBaumwollsaat ein!
+\xf000ā\x0001\x0000 setzt\xfffeGegenschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGegenschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGegenschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeGroll ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGroll ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGroll ein!
+\xf000ā\x0001\x0000 setzt\xfffePulverschnee ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePulverschnee ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePulverschnee ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchutzschild ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchutzschild ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchutzschild ein!
+\xf000ā\x0001\x0000 setzt\xfffeTempohieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTempohieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTempohieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeGrimasse ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGrimasse ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGrimasse ein!
+\xf000ā\x0001\x0000 setzt\xfffeFinte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFinte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFinte ein!
+\xf000ā\x0001\x0000 setzt\xfffeBitterkuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBitterkuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBitterkuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeBauchtrommel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBauchtrommel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBauchtrommel ein!
+\xf000ā\x0001\x0000 setzt\xfffeMatschbombe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMatschbombe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMatschbombe ein!
+\xf000ā\x0001\x0000 setzt\xfffeLehmschelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLehmschelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLehmschelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeOctazooka ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeOctazooka ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeOctazooka ein!
+\xf000ā\x0001\x0000 setzt\xfffeStachler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStachler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStachler ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlitzkanone ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlitzkanone ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlitzkanone ein!
+\xf000ā\x0001\x0000 setzt\xfffeGesichte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGesichte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGesichte ein!
+\xf000ā\x0001\x0000 setzt\xfffeAbgangsbund ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAbgangsbund ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAbgangsbund ein!
+\xf000ā\x0001\x0000 setzt\xfffeAbgesang ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAbgesang ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAbgesang ein!
+\xf000ā\x0001\x0000 setzt\xfffeEissturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEissturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEissturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeScanner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeScanner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeScanner ein!
+\xf000ā\x0001\x0000 setzt\xfffeKnochenhatz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKnochenhatz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKnochenhatz ein!
+\xf000ā\x0001\x0000 setzt\xfffeZielschuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZielschuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZielschuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeWutanfall ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWutanfall ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWutanfall ein!
+\xf000ā\x0001\x0000 setzt\xfffeSandsturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSandsturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSandsturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeGigasauger ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGigasauger ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGigasauger ein!
+\xf000ā\x0001\x0000 setzt\xfffeAusdauer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAusdauer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAusdauer ein!
+\xf000ā\x0001\x0000 setzt\xfffeCharme ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeCharme ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeCharme ein!
+\xf000ā\x0001\x0000 setzt\xfffeWalzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWalzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWalzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeTrugschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTrugschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTrugschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeAngeberei ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAngeberei ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAngeberei ein!
+\xf000ā\x0001\x0000 setzt\xfffeMilchgetränk ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMilchgetränk ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMilchgetränk ein!
+\xf000ā\x0001\x0000 setzt\xfffeFunkensprung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFunkensprung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFunkensprung ein!
+\xf000ā\x0001\x0000 setzt\xfffeZornklinge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZornklinge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZornklinge ein!
+\xf000ā\x0001\x0000 setzt\xfffeStahlflügel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStahlflügel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStahlflügel ein!
+\xf000ā\x0001\x0000 setzt\xfffeHorrorblick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHorrorblick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHorrorblick ein!
+\xf000ā\x0001\x0000 setzt\xfffeAnziehung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAnziehung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAnziehung ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlafrede ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlafrede ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlafrede ein!
+\xf000ā\x0001\x0000 setzt\xfffeVitalglocke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVitalglocke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVitalglocke ein!
+\xf000ā\x0001\x0000 setzt\xfffeRückkehr ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRückkehr ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRückkehr ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeschenk ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeschenk ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeschenk ein!
+\xf000ā\x0001\x0000 setzt\xfffeFrustration ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFrustration ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFrustration ein!
+\xf000ā\x0001\x0000 setzt\xfffeBodyguard ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBodyguard ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBodyguard ein!
+\xf000ā\x0001\x0000 setzt\xfffeLeidteiler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLeidteiler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLeidteiler ein!
+\xf000ā\x0001\x0000 setzt\xfffeLäuterfeuer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLäuterfeuer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLäuterfeuer ein!
+\xf000ā\x0001\x0000 setzt\xfffeIntensität ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeIntensität ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeIntensität ein!
+\xf000ā\x0001\x0000 setzt\xfffeWuchtschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWuchtschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWuchtschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeVielender ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVielender ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVielender ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerodem ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerodem ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerodem ein!
+\xf000ā\x0001\x0000 setzt\xfffeStaffette ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStaffette ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStaffette ein!
+\xf000ā\x0001\x0000 setzt\xfffeZugabe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZugabe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZugabe ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerfolgung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerfolgung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerfolgung ein!
+\xf000ā\x0001\x0000 setzt\xfffeTurbodreher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTurbodreher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTurbodreher ein!
+\xf000ā\x0001\x0000 setzt\xfffeLockduft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLockduft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLockduft ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisenschweif ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisenschweif ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisenschweif ein!
+\xf000ā\x0001\x0000 setzt\xfffeMetallklaue ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMetallklaue ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMetallklaue ein!
+\xf000ā\x0001\x0000 setzt\xfffeÜberwurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeÜberwurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeÜberwurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeMorgengrauen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMorgengrauen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMorgengrauen ein!
+\xf000ā\x0001\x0000 setzt\xfffeSynthese ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSynthese ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSynthese ein!
+\xf000ā\x0001\x0000 setzt\xfffeMondschein ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMondschein ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMondschein ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftreserve ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftreserve ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftreserve ein!
+\xf000ā\x0001\x0000 setzt\xfffeKreuzhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKreuzhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKreuzhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeWindhose ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWindhose ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWindhose ein!
+\xf000ā\x0001\x0000 setzt\xfffeRegentanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRegentanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRegentanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeSonnentag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSonnentag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSonnentag ein!
+\xf000ā\x0001\x0000 setzt\xfffeKnirscher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKnirscher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKnirscher ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpiegelcape ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpiegelcape ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpiegelcape ein!
+\xf000ā\x0001\x0000 setzt\xfffePsycho-Plus ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsycho-Plus ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsycho-Plus ein!
+\xf000ā\x0001\x0000 setzt\xfffeTurbotempo ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTurbotempo ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTurbotempo ein!
+\xf000ā\x0001\x0000 setzt\xfffeAntik-Kraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAntik-Kraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAntik-Kraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpukball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpukball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpukball ein!
+\xf000ā\x0001\x0000 setzt\xfffeSeher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSeher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSeher ein!
+\xf000ā\x0001\x0000 setzt\xfffeZertrümmerer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZertrümmerer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZertrümmerer ein!
+\xf000ā\x0001\x0000 setzt\xfffeWhirlpool ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWhirlpool ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWhirlpool ein!
+\xf000ā\x0001\x0000 setzt\xfffePrügler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePrügler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePrügler ein!
+\xf000ā\x0001\x0000 setzt\xfffeMogelhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMogelhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMogelhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeAufruhr ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAufruhr ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAufruhr ein!
+\xf000ā\x0001\x0000 setzt\xfffeHorter ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHorter ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHorter ein!
+\xf000ā\x0001\x0000 setzt\xfffeEntfessler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEntfessler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEntfessler ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerzehrer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerzehrer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerzehrer ein!
+\xf000ā\x0001\x0000 setzt\xfffeHitzewelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHitzewelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHitzewelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeHagelsturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHagelsturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHagelsturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeFolterknecht ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFolterknecht ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFolterknecht ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchmeichler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchmeichler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchmeichler ein!
+\xf000ā\x0001\x0000 setzt\xfffeIrrlicht ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeIrrlicht ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeIrrlicht ein!
+\xf000ā\x0001\x0000 setzt\xfffeMemento-Mori ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMemento-Mori ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMemento-Mori ein!
+\xf000ā\x0001\x0000 setzt\xfffeFassade ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFassade ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFassade ein!
+\xf000ā\x0001\x0000 setzt\xfffePower-Punch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePower-Punch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePower-Punch ein!
+\xf000ā\x0001\x0000 setzt\xfffeRiechsalz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRiechsalz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRiechsalz ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpotlight ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpotlight ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpotlight ein!
+\xf000ā\x0001\x0000 setzt\xfffeNatur-Kraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNatur-Kraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNatur-Kraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeLadevorgang ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLadevorgang ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLadevorgang ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerhöhner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerhöhner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerhöhner ein!
+\xf000ā\x0001\x0000 setzt\xfffeRechte Hand ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRechte Hand ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRechte Hand ein!
+\xf000ā\x0001\x0000 setzt\xfffeTrickbetrug ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTrickbetrug ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTrickbetrug ein!
+\xf000ā\x0001\x0000 setzt\xfffeRollentausch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRollentausch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRollentausch ein!
+\xf000ā\x0001\x0000 spricht einen\xfffeWunschtraum aus!
+\xf000ā\x0001\x0000 (Wild) spricht einen\xfffeWunschtraum aus!
+\xf000ā\x0001\x0000 (Gegner) spricht einen\xfffeWunschtraum aus!
+\xf000ā\x0001\x0000 setzt\xfffeZuschuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZuschuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZuschuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerwurzler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerwurzler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerwurzler ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftkoloss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftkoloss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftkoloss ein!
+\xf000ā\x0001\x0000 setzt\xfffeMagiemantel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMagiemantel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMagiemantel ein!
+\xf000ā\x0001\x0000 setzt\xfffeAufbereitung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAufbereitung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAufbereitung ein!
+\xf000ā\x0001\x0000 setzt\xfffeVergeltung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVergeltung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVergeltung ein!
+\xf000ā\x0001\x0000 setzt\xfffeDurchbruch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDurchbruch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDurchbruch ein!
+\xf000ā\x0001\x0000 setzt\xfffeGähner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGähner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGähner ein!
+\xf000ā\x0001\x0000 setzt\xfffeAbschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAbschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAbschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeNotsituation ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNotsituation ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNotsituation ein!
+\xf000ā\x0001\x0000 setzt\xfffeEruption ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEruption ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEruption ein!
+\xf000ā\x0001\x0000 setzt\xfffeWertewechsel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWertewechsel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWertewechsel ein!
+\xf000ā\x0001\x0000 setzt\xfffeBegrenzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBegrenzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBegrenzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeilung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeilung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeilung ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachspiel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachspiel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachspiel ein!
+\xf000ā\x0001\x0000 setzt\xfffeÜbernahme ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeÜbernahme ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeÜbernahme ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeheimpower ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeheimpower ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeheimpower ein!
+\xf000ā\x0001\x0000 setzt\xfffeTaucher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTaucher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTaucher ein!
+\xf000ā\x0001\x0000 setzt\xfffeArmstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeArmstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeArmstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeTarnung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTarnung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTarnung ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchweifglanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchweifglanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchweifglanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeScheinwerfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeScheinwerfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeScheinwerfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeNebelball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNebelball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNebelball ein!
+\xf000ā\x0001\x0000 setzt\xfffeDaunenreigen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDaunenreigen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDaunenreigen ein!
+\xf000ā\x0001\x0000 setzt\xfffeTaumeltanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTaumeltanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTaumeltanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerfeger ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerfeger ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerfeger ein!
+\xf000ā\x0001\x0000 setzt\xfffeLehmsuhler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLehmsuhler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLehmsuhler ein!
+\xf000ā\x0001\x0000 setzt\xfffeFrostbeule ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFrostbeule ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFrostbeule ein!
+\xf000ā\x0001\x0000 setzt\xfffeNietenranke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNietenranke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNietenranke ein!
+\xf000ā\x0001\x0000 setzt\xfffeTagedieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTagedieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTagedieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchallwelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchallwelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchallwelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftzahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftzahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftzahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeZermalmklaue ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZermalmklaue ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZermalmklaue ein!
+\xf000ā\x0001\x0000 setzt\xfffeLohekanonade ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLohekanonade ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLohekanonade ein!
+\xf000ā\x0001\x0000 setzt\xfffeAquahaubitze ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAquahaubitze ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAquahaubitze ein!
+\xf000ā\x0001\x0000 setzt\xfffeSternenhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSternenhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSternenhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeErstauner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeErstauner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeErstauner ein!
+\xf000ā\x0001\x0000 setzt\xfffeMeteorologe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMeteorologe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMeteorologe ein!
+\xf000ā\x0001\x0000 setzt\xfffeAromakur ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAromakur ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAromakur ein!
+\xf000ā\x0001\x0000 setzt\xfffeTrugträne ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTrugträne ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTrugträne ein!
+\xf000ā\x0001\x0000 setzt\xfffeWindschnitt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWindschnitt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWindschnitt ein!
+\xf000ā\x0001\x0000 setzt\xfffeHitzekoller ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHitzekoller ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHitzekoller ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchnüffler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchnüffler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchnüffler ein!
+\xf000ā\x0001\x0000 setzt\xfffeFelsgrab ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFelsgrab ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFelsgrab ein!
+\xf000ā\x0001\x0000 setzt\xfffeSilberhauch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSilberhauch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSilberhauch ein!
+\xf000ā\x0001\x0000 setzt\xfffeMetallsound ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMetallsound ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMetallsound ein!
+\xf000ā\x0001\x0000 setzt\xfffeGrasflöte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGrasflöte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGrasflöte ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpaßkanone ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpaßkanone ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpaßkanone ein!
+\xf000ā\x0001\x0000 setzt\xfffeKosmik-Kraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKosmik-Kraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKosmik-Kraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeFontränen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFontränen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFontränen ein!
+\xf000ā\x0001\x0000 setzt\xfffeAmpelleuchte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAmpelleuchte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAmpelleuchte ein!
+\xf000ā\x0001\x0000 setzt\xfffeFinsterfaust ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFinsterfaust ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFinsterfaust ein!
+\xf000ā\x0001\x0000 setzt\xfffeSondersensor ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSondersensor ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSondersensor ein!
+\xf000ā\x0001\x0000 setzt\xfffeHimmelhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHimmelhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHimmelhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeSandgrab ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSandgrab ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSandgrab ein!
+\xf000ā\x0001\x0000 setzt\xfffeEiseskälte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEiseskälte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEiseskälte ein!
+\xf000ā\x0001\x0000 setzt\xfffeLehmbrühe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLehmbrühe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLehmbrühe ein!
+\xf000ā\x0001\x0000 setzt\xfffeKugelsaat ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKugelsaat ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKugelsaat ein!
+\xf000ā\x0001\x0000 setzt\xfffeAero-Ass ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAero-Ass ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAero-Ass ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisspeer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisspeer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisspeer ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisenabwehr ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisenabwehr ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisenabwehr ein!
+\xf000ā\x0001\x0000 setzt\xfffeRückentzug ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRückentzug ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRückentzug ein!
+\xf000ā\x0001\x0000 setzt\xfffeJauler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeJauler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeJauler ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachenklaue ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachenklaue ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachenklaue ein!
+\xf000ā\x0001\x0000 setzt\xfffeFauna-Statue ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFauna-Statue ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFauna-Statue ein!
+\xf000ā\x0001\x0000 setzt\xfffeProtzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeProtzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeProtzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeSprungfeder ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSprungfeder ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSprungfeder ein!
+\xf000ā\x0001\x0000 setzt\xfffeLehmschuss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLehmschuss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLehmschuss ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftschweif ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftschweif ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftschweif ein!
+\xf000ā\x0001\x0000 setzt\xfffeBezirzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBezirzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBezirzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeVolttackle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVolttackle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVolttackle ein!
+\xf000ā\x0001\x0000 setzt\xfffeZauberblatt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZauberblatt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZauberblatt ein!
+\xf000ā\x0001\x0000 setzt\xfffeNassmacher ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNassmacher ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNassmacher ein!
+\xf000ā\x0001\x0000 setzt\xfffeGedankengut ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGedankengut ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGedankengut ein!
+\xf000ā\x0001\x0000 setzt\xfffeLaubklinge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLaubklinge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLaubklinge ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachentanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachentanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachentanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeFelswurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFelswurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFelswurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchockwelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchockwelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchockwelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeAquawelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAquawelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAquawelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeKismetwunsch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKismetwunsch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKismetwunsch ein!
+\xf000ā\x0001\x0000 setzt\xfffePsyschub ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsyschub ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsyschub ein!
+\xf000ā\x0001\x0000 setzt\xfffeRuheort ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRuheort ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRuheort ein!
+\xf000ā\x0001\x0000 setzt\xfffeErdanziehung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeErdanziehung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeErdanziehung ein!
+\xf000ā\x0001\x0000 setzt\xfffeWunderauge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWunderauge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWunderauge ein!
+\xf000ā\x0001\x0000 setzt\xfffeWeckruf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWeckruf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWeckruf ein!
+\xf000ā\x0001\x0000 setzt\xfffeHammerarm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHammerarm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHammerarm ein!
+\xf000ā\x0001\x0000 setzt\xfffeGyroball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGyroball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGyroball ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeilopfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeilopfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeilopfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeLake ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLake ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLake ein!
+\xf000ā\x0001\x0000 setzt\xfffeBeerenkräfte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBeerenkräfte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBeerenkräfte ein!
+\xf000ā\x0001\x0000 setzt\xfffeOffenlegung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeOffenlegung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeOffenlegung ein!
+\xf000ā\x0001\x0000 setzt\xfffePflücker ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePflücker ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePflücker ein!
+\xf000ā\x0001\x0000 setzt\xfffeRückenwind ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRückenwind ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRückenwind ein!
+\xf000ā\x0001\x0000 setzt\xfffeAkupressur ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAkupressur ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAkupressur ein!
+\xf000ā\x0001\x0000 setzt\xfffeMetallstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMetallstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMetallstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeKehrtwende ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKehrtwende ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKehrtwende ein!
+\xf000ā\x0001\x0000 setzt\xfffeNahkampf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNahkampf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNahkampf ein!
+\xf000ā\x0001\x0000 setzt\xfffeGegenstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGegenstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGegenstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeGewissheit ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGewissheit ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGewissheit ein!
+\xf000ā\x0001\x0000 setzt\xfffeItemsperre ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeItemsperre ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeItemsperre ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchleuder ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchleuder ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchleuder ein!
+\xf000ā\x0001\x0000 setzt\xfffePsybann ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsybann ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsybann ein!
+\xf000ā\x0001\x0000 setzt\xfffeTrumpfkarte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTrumpfkarte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTrumpfkarte ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeilblockade ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeilblockade ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeilblockade ein!
+\xf000ā\x0001\x0000 setzt\xfffeAuswringen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAuswringen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAuswringen ein!
+\xf000ā\x0001\x0000 setzt\xfffeKrafttrick ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKrafttrick ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKrafttrick ein!
+\xf000ā\x0001\x0000 setzt\xfffeMagensäfte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMagensäfte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMagensäfte ein!
+\xf000ā\x0001\x0000 setzt\xfffeBeschwörung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBeschwörung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBeschwörung ein!
+\xf000ā\x0001\x0000 setzt\xfffeEgotrip ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEgotrip ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEgotrip ein!
+\xf000ā\x0001\x0000 setzt\xfffeImitator ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeImitator ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeImitator ein!
+\xf000ā\x0001\x0000 setzt\xfffeKrafttausch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKrafttausch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKrafttausch ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchutztausch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchutztausch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchutztausch ein!
+\xf000ā\x0001\x0000 setzt\xfffeStrafattacke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStrafattacke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStrafattacke ein!
+\xf000ā\x0001\x0000 setzt\xfffeZuflucht ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZuflucht ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZuflucht ein!
+\xf000ā\x0001\x0000 setzt\xfffeSorgensamen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSorgensamen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSorgensamen ein!
+\xf000ā\x0001\x0000 setzt\xfffeTiefschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTiefschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTiefschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftspitzen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftspitzen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftspitzen ein!
+\xf000ā\x0001\x0000 setzt\xfffeStatustausch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStatustausch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStatustausch ein!
+\xf000ā\x0001\x0000 setzt\xfffeWasserring ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWasserring ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWasserring ein!
+\xf000ā\x0001\x0000 setzt\xfffeMagnetflug ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMagnetflug ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMagnetflug ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlammenblitz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlammenblitz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlammenblitz ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftwelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftwelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftwelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeAurasphäre ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAurasphäre ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAurasphäre ein!
+\xf000ā\x0001\x0000 setzt\xfffeSteinpolitur ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSteinpolitur ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSteinpolitur ein!
+\xf000ā\x0001\x0000 setzt\xfffeGifthieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGifthieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGifthieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeFinsteraura ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFinsteraura ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFinsteraura ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachthieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachthieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachthieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeNassschweif ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNassschweif ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNassschweif ein!
+\xf000ā\x0001\x0000 setzt\xfffeSamenbomben ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSamenbomben ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSamenbomben ein!
+\xf000ā\x0001\x0000 setzt\xfffeLuftschnitt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLuftschnitt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLuftschnitt ein!
+\xf000ā\x0001\x0000 setzt\xfffeKreuzschere ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKreuzschere ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKreuzschere ein!
+\xf000ā\x0001\x0000 setzt\xfffeKäfergebrumm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKäfergebrumm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKäfergebrumm ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachenpuls ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachenpuls ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachenpuls ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachenstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachenstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachenstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeJuwelenkraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeJuwelenkraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeJuwelenkraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeAbleithieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAbleithieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAbleithieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeVakuumwelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVakuumwelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVakuumwelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeFokusstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFokusstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFokusstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeEnergieball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEnergieball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEnergieball ein!
+\xf000ā\x0001\x0000 setzt\xfffeSturzflug ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSturzflug ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSturzflug ein!
+\xf000ā\x0001\x0000 setzt\xfffeErdkräfte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeErdkräfte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeErdkräfte ein!
+\xf000ā\x0001\x0000 setzt\xfffeWechseldich ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWechseldich ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWechseldich ein!
+\xf000ā\x0001\x0000 setzt\xfffeGigastoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGigastoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGigastoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeRänkeschmied ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRänkeschmied ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRänkeschmied ein!
+\xf000ā\x0001\x0000 setzt\xfffePatronenhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePatronenhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePatronenhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeLawine ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLawine ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLawine ein!
+\xf000ā\x0001\x0000 setzt\xfffeEissplitter ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEissplitter ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEissplitter ein!
+\xf000ā\x0001\x0000 setzt\xfffeDunkelklaue ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDunkelklaue ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDunkelklaue ein!
+\xf000ā\x0001\x0000 setzt\xfffeDonnerzahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDonnerzahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDonnerzahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeEiszahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEiszahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEiszahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerzahn ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerzahn ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerzahn ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchattenstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchattenstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchattenstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlammbombe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlammbombe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlammbombe ein!
+\xf000ā\x0001\x0000 setzt\xfffePsychoklinge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsychoklinge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsychoklinge ein!
+\xf000ā\x0001\x0000 setzt\xfffeZen-Kopfstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZen-Kopfstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZen-Kopfstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeSpiegelsalve ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSpiegelsalve ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSpiegelsalve ein!
+\xf000ā\x0001\x0000 setzt\xfffeLichtkanone ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLichtkanone ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLichtkanone ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraxler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraxler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraxler ein!
+\xf000ā\x0001\x0000 setzt\xfffeAuflockern ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAuflockern ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAuflockern ein!
+\xf000ā\x0001\x0000 setzt\xfffeBizarroraum ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBizarroraum ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBizarroraum ein!
+\xf000ā\x0001\x0000 setzt\xfffeDraco Meteor ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDraco Meteor ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDraco Meteor ein!
+\xf000ā\x0001\x0000 setzt\xfffeLadungsstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLadungsstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLadungsstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlammensturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlammensturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlammensturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlättersturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlättersturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlättersturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlattgeißel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlattgeißel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlattgeißel ein!
+\xf000ā\x0001\x0000 setzt\xfffeFelswerfer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFelswerfer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFelswerfer ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftstreich ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftstreich ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftstreich ein!
+\xf000ā\x0001\x0000 setzt\xfffeMülltreffer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMülltreffer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMülltreffer ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisenschädel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisenschädel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisenschädel ein!
+\xf000ā\x0001\x0000 setzt\xfffeMagnetbombe ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMagnetbombe ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMagnetbombe ein!
+\xf000ā\x0001\x0000 setzt\xfffeSteinkante ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSteinkante ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSteinkante ein!
+\xf000ā\x0001\x0000 setzt\xfffeLiebreiz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLiebreiz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLiebreiz ein!
+\xf000ā\x0001\x0000 setzt\xfffeTarnsteine ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTarnsteine ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTarnsteine ein!
+\xf000ā\x0001\x0000 setzt\xfffeStrauchler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStrauchler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStrauchler ein!
+\xf000ā\x0001\x0000 setzt\xfffeGeschwätz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGeschwätz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGeschwätz ein!
+\xf000ā\x0001\x0000 setzt\xfffeUrteilskraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUrteilskraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUrteilskraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeKäferbiss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKäferbiss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKäferbiss ein!
+\xf000ā\x0001\x0000 setzt\xfffeLadestrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLadestrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLadestrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeHolzhammer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHolzhammer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHolzhammer ein!
+\xf000ā\x0001\x0000 setzt\xfffeWasserdüse ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWasserdüse ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWasserdüse ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlagbefehl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlagbefehl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlagbefehl ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlockbefehl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlockbefehl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlockbefehl ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeilbefehl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeilbefehl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeilbefehl ein!
+\xf000ā\x0001\x0000 setzt\xfffeKopfstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKopfstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKopfstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeDoppelschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDoppelschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDoppelschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeZeitenlärm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZeitenlärm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZeitenlärm ein!
+\xf000ā\x0001\x0000 setzt\xfffeRaumschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRaumschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRaumschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeLunartanz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLunartanz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLunartanz ein!
+\xf000ā\x0001\x0000 setzt\xfffeQuetschgriff ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeQuetschgriff ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeQuetschgriff ein!
+\xf000ā\x0001\x0000 setzt\xfffeLavasturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeLavasturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeLavasturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlummerort ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlummerort ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlummerort ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchocksamen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchocksamen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchocksamen ein!
+\xf000ā\x0001\x0000 setzt\xfffeUnheilböen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUnheilböen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUnheilböen ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchemenkraft ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchemenkraft ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchemenkraft ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlauenwetzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlauenwetzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlauenwetzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeRundumschutz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRundumschutz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRundumschutz ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchutzteiler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchutzteiler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchutzteiler ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftteiler ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftteiler ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftteiler ein!
+\xf000ā\x0001\x0000 setzt\xfffeWunderraum ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWunderraum ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWunderraum ein!
+\xf000ā\x0001\x0000 setzt\xfffePsychoschock ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsychoschock ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsychoschock ein!
+\xf000ā\x0001\x0000 setzt\xfffeGiftschock ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGiftschock ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGiftschock ein!
+\xf000ā\x0001\x0000 setzt\xfffeAutotomie ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAutotomie ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAutotomie ein!
+\xf000ā\x0001\x0000 setzt\xfffeWutpulver ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWutpulver ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWutpulver ein!
+\xf000ā\x0001\x0000 setzt\xfffeTelekinese ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTelekinese ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTelekinese ein!
+\xf000ā\x0001\x0000 setzt\xfffeMagieraum ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMagieraum ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMagieraum ein!
+\xf000ā\x0001\x0000 setzt\xfffeKatapult ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKatapult ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKatapult ein!
+\xf000ā\x0001\x0000 setzt\xfffeBergsturm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBergsturm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBergsturm ein!
+\xf000ā\x0001\x0000 setzt\xfffeFunkenflug ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFunkenflug ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFunkenflug ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlammwoge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlammwoge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlammwoge ein!
+\xf000ā\x0001\x0000 setzt\xfffeFalterreigen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFalterreigen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFalterreigen ein!
+\xf000ā\x0001\x0000 setzt\xfffeRammboss ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRammboss ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRammboss ein!
+\xf000ā\x0001\x0000 setzt\xfffeSynchrolärm ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSynchrolärm ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSynchrolärm ein!
+\xf000ā\x0001\x0000 setzt\xfffeElektroball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeElektroball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeElektroball ein!
+\xf000ā\x0001\x0000 setzt\xfffeÜberflutung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeÜberflutung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeÜberflutung ein!
+\xf000ā\x0001\x0000 setzt\xfffeNitroladung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNitroladung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNitroladung ein!
+\xf000ā\x0001\x0000 setzt\xfffeEinrollen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEinrollen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEinrollen ein!
+\xf000ā\x0001\x0000 setzt\xfffeFußtritt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFußtritt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFußtritt ein!
+\xf000ā\x0001\x0000 setzt\xfffeSäurespeier ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSäurespeier ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSäurespeier ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchmarotzer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchmarotzer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchmarotzer ein!
+\xf000ā\x0001\x0000 setzt\xfffeWankelstrahl ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWankelstrahl ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWankelstrahl ein!
+\xf000ā\x0001\x0000 setzt\xfffeZwango ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZwango ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZwango ein!
+\xf000ā\x0001\x0000 setzt\xfffeGalanterie ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGalanterie ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGalanterie ein!
+\xf000ā\x0001\x0000 stimmt\xfffeeinen Kanon an!
+\xf000ā\x0001\x0000 (Wild) stimmt\xfffeeinen Kanon an!
+\xf000ā\x0001\x0000 (Gegner) stimmt\xfffeeinen Kanon an!
+\xf000ā\x0001\x0000 setzt\xfffeWiderhall ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWiderhall ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWiderhall ein!
+\xf000ā\x0001\x0000 setzt\xfffeZermürben ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeZermürben ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeZermürben ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlärsmog ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlärsmog ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlärsmog ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftvorrat ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftvorrat ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftvorrat ein!
+\xf000ā\x0001\x0000 setzt\xfffeRapidschutz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeRapidschutz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeRapidschutz ein!
+\xf000ā\x0001\x0000 setzt\xfffeSeitentausch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSeitentausch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSeitentausch ein!
+\xf000ā\x0001\x0000 setzt\xfffeSiedewasser ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSiedewasser ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSiedewasser ein!
+\xf000ā\x0001\x0000 setzt\xfffeHausbruch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHausbruch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHausbruch ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeilwoge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeilwoge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeilwoge ein!
+\xf000ā\x0001\x0000 setzt\xfffeBürde ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBürde ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBürde ein!
+\xf000ā\x0001\x0000 setzt\xfffeFreier Fall ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFreier Fall ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFreier Fall ein!
+\xf000ā\x0001\x0000 setzt\xfffeGangwechsel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGangwechsel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGangwechsel ein!
+\xf000ā\x0001\x0000 setzt\xfffeÜberkopfwurf ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeÜberkopfwurf ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeÜberkopfwurf ein!
+\xf000ā\x0001\x0000 setzt\xfffeEinäschern ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEinäschern ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEinäschern ein!
+\xf000ā\x0001\x0000 setzt\xfffeVerzögerung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVerzögerung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVerzögerung ein!
+\xf000ā\x0001\x0000 setzt\xfffeAkrobatik ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeAkrobatik ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeAkrobatik ein!
+\xf000ā\x0001\x0000 setzt\xfffeTypenspiegel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTypenspiegel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTypenspiegel ein!
+\xf000ā\x0001\x0000 setzt\xfffeHeimzahlung ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHeimzahlung ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHeimzahlung ein!
+\xf000ā\x0001\x0000 setzt\xfffeWagemut ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWagemut ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWagemut ein!
+\xf000ā\x0001\x0000 setzt\xfffeOfferte ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeOfferte ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeOfferte ein!
+\xf000ā\x0001\x0000 setzt\xfffeInferno ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeInferno ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeInferno ein!
+\xf000ā\x0001\x0000 setzt\xfffeWassersäulen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWassersäulen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWassersäulen ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuersäulen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuersäulen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuersäulen ein!
+\xf000ā\x0001\x0000 setzt\xfffePflanzsäulen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePflanzsäulen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePflanzsäulen ein!
+\xf000ā\x0001\x0000 setzt\xfffeVoltwechsel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeVoltwechsel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeVoltwechsel ein!
+\xf000ā\x0001\x0000 setzt\xfffeKäfertrutz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKäfertrutz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKäfertrutz ein!
+\xf000ā\x0001\x0000 setzt\xfffeDampfwalze ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDampfwalze ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDampfwalze ein!
+\xf000ā\x0001\x0000 setzt\xfffeEisesodem ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEisesodem ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEisesodem ein!
+\xf000ā\x0001\x0000 setzt\xfffeDrachenrute ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDrachenrute ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDrachenrute ein!
+\xf000ā\x0001\x0000 setzt\xfffeKraftschub ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKraftschub ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKraftschub ein!
+\xf000ā\x0001\x0000 setzt\xfffeElektronetz ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeElektronetz ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeElektronetz ein!
+\xf000ā\x0001\x0000 setzt\xfffeStromstoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStromstoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStromstoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeSchlagbohrer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSchlagbohrer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSchlagbohrer ein!
+\xf000ā\x0001\x0000 setzt\xfffeDoppelhieb ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeDoppelhieb ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeDoppelhieb ein!
+\xf000ā\x0001\x0000 setzt\xfffeHerzstempel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHerzstempel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHerzstempel ein!
+\xf000ā\x0001\x0000 setzt\xfffeHolzgeweih ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeHolzgeweih ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeHolzgeweih ein!
+\xf000ā\x0001\x0000 setzt\xfffeSanctoklinge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSanctoklinge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSanctoklinge ein!
+\xf000ā\x0001\x0000 setzt\xfffeKalkklinge ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKalkklinge ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKalkklinge ein!
+\xf000ā\x0001\x0000 setzt\xfffeBrandstempel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBrandstempel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBrandstempel ein!
+\xf000ā\x0001\x0000 setzt\xfffeGrasmixer ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeGrasmixer ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeGrasmixer ein!
+\xf000ā\x0001\x0000 setzt\xfffeQuetschwalze ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeQuetschwalze ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeQuetschwalze ein!
+\xf000ā\x0001\x0000 setzt\xfffeWatteschild ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeWatteschild ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeWatteschild ein!
+\xf000ā\x0001\x0000 setzt\xfffeNachtflut ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeNachtflut ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeNachtflut ein!
+\xf000ā\x0001\x0000 setzt\xfffePsychostoß ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffePsychostoß ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffePsychostoß ein!
+\xf000ā\x0001\x0000 setzt\xfffeKehrschelle ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKehrschelle ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKehrschelle ein!
+\xf000ā\x0001\x0000 setzt\xfffeOrkan ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeOrkan ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeOrkan ein!
+\xf000ā\x0001\x0000 setzt\xfffeSteinschädel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeSteinschädel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeSteinschädel ein!
+\xf000ā\x0001\x0000 setzt\xfffeKlikkdiskus ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKlikkdiskus ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKlikkdiskus ein!
+\xf000ā\x0001\x0000 setzt\xfffeFlammenball ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFlammenball ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFlammenball ein!
+\xf000ā\x0001\x0000 setzt\xfffeTechblaster ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeTechblaster ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeTechblaster ein!
+\xf000ā\x0001\x0000 setzt\xfffeUrgesang ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeUrgesang ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeUrgesang ein!
+\xf000ā\x0001\x0000 setzt\xfffeMystoschwert ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeMystoschwert ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeMystoschwert ein!
+\xf000ā\x0001\x0000 setzt\xfffeEiszeit ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEiszeit ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEiszeit ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlitzschlag ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlitzschlag ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlitzschlag ein!
+\xf000ā\x0001\x0000 setzt\xfffeBlauflammen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeBlauflammen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeBlauflammen ein!
+\xf000ā\x0001\x0000 setzt\xfffeFeuerreigen ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFeuerreigen ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFeuerreigen ein!
+\xf000ā\x0001\x0000 setzt\xfffeFrostvolt ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFrostvolt ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFrostvolt ein!
+\xf000ā\x0001\x0000 setzt\xfffeFrosthauch ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeFrosthauch ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeFrosthauch ein!
+\xf000ā\x0001\x0000 setzt\xfffeStandpauke ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeStandpauke ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeStandpauke ein!
+\xf000ā\x0001\x0000 setzt\xfffeEiszapfhagel ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeEiszapfhagel ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeEiszapfhagel ein!
+\xf000ā\x0001\x0000 setzt\xfffeV-Generator ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeV-Generator ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeV-Generator ein!
+\xf000ā\x0001\x0000 setzt\xfffeKreuzflamme ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKreuzflamme ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKreuzflamme ein!
+\xf000ā\x0001\x0000 setzt\xfffeKreuzdonner ein!
+\xf000ā\x0001\x0000 (Wild) setzt\xfffeKreuzdonner ein!
+\xf000ā\x0001\x0000 (Gegner) setzt\xfffeKreuzdonner ein!

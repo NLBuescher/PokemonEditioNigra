@@ -1,0 +1,10 @@
+Tocca dieci volte il touch screen con\xfffeun ritmo a piacere.
+Controllo terminato.\xfffeInizia il collegamento a infrarossi.
+Controllo in corso.\xfffeMantieni il collegamento a infrarossi.
+Il collegamento a infrarossi è stato\xfffeavviato.
+Il collegamento a infrarossi è stato\xfffeinterrotto. Riprova.
+
+
+CONTROLLO RITMO
+
+

@@ -1,0 +1,40 @@
+\xf000Ā\x0001\x0000 accende il PC.\xf000븁\x0000
+A quale PC vuoi accedere?
+PC di ???
+PC di Mico
+PC di \xf000Ā\x0001\x0000
+PC della Prof.ssa Aralia
+Guarda record
+Aiuto
+Disconnetti
+
+I dati della Sala d'Onore sono\xfffedanneggiati.\xf000븁\x0000\xfffeAccedi nuovamente alla Sala d'Onore per\xffferipristinarli.\xf000븁\x0000
+Complimenti per aver completato il gioco!\xf000븁\x0000\xfffeCome ricompensa ricevi degli sfondi.\xf000븁\x0000
+Complimenti per aver ottenuto il titolo di\xfffeCampione!\xf000븁\x0000\xfffeCome ricompensa ricevi degli sfondi.\xf000븁\x0000
+Sistema Memoria Pokémon aperto.\xf000븁\x0000
+Deposita Pokémon
+Ritira Pokémon
+Sposta Pokémon
+Sposta Strumenti
+Spegni il PC
+Box Lotta
+Deposita i Pokémon della tua squadra nei\xfffeBox del Sistema Memoria.
+Ritira i Pokémon dai Box per metterli nella\xfffetua squadra.
+Organizza i Pokémon nei Box e nella tua\xfffesquadra.
+Organizza gli strumenti tenuti dai\xfffePokémon della tua squadra o dei Box.
+Esci dal Sistema Memoria Pokémon.
+Registra dei Pokémon al di fuori della tua\xfffesquadra per lottare.
+Accesso al PC di \xf000Ā\x0001\x0000.\xf000븁\x0000
+Messaggi
+Spegni
+Puoi conservare fino a 20 Messaggi.
+Spegni il tuo PC.
+1° completamento del gioco
+Sala d'Onore
+Spegni
+Accesso all'archivio record.\xf000븁\x0000
+Guarda i Pokémon con cui hai completato\xfffeil gioco la prima volta.
+Guarda i Pokémon con cui hai varcato la\xfffeSala d'Onore.
+Esci dall'archivio record.
+Accesso al PC della Prof.ssa Aralia.\xf000븁\x0000
+Accesso al sistema di aiuto.\xf000븁\x0000

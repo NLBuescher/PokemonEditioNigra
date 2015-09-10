@@ -1,0 +1,52 @@
+KP-/AP-
+ERHOLUNG
+STATUS-
+HEILMITTEL
+
+
+KAMPFITEMS
+BÄLLE
+Zuletzt verwendetes Item
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+
+KP-/AP-
+ERHOLUNG
+STATUS-
+HEILMITTEL
+BÄLLE
+KAMPFITEMS
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+EINSETZEN
+
+
+
+
+
+
+
+
+
+
+
+
+Das klappt nicht! Man kann nicht\xfffezielen, wenn 2 Pokémon da sind.
+Du kannst keine weiteren Pokémon\xfffefangen. Alle Boxen im PC sind voll.
+
+Das wird nichts! Man kann auf ein\xfffenicht sichtbares Pokémon nicht zielen.
+
+Du verfügst nicht über genügend Energie.
+Prof. Esche sagt immer:„Dies ist weder der\xffferechte Ort, noch die rechte Zeit dafür!“
+Wenn du dich nicht auf eine Sache\xfffekonzentrierst, triffst du dein Ziel nie!

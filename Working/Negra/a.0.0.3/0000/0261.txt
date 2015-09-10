@@ -1,0 +1,9 @@
+SALIR
+PB
+P1
+
+P10
+P21
+P46
+P54
+¿A qué piso desea ir?

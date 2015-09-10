@@ -1,0 +1,1680 @@
+!
+!
+!
+\xf000ā\x0001\x0000 utilise\xfffeÉcras'Face!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉcras'Face!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉcras'Face!
+\xf000ā\x0001\x0000 utilise\xfffePoing-Karaté!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing-Karaté!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing-Karaté!
+\xf000ā\x0001\x0000 utilise\xfffeTorgnoles!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTorgnoles!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTorgnoles!
+\xf000ā\x0001\x0000 utilise\xfffePoing Comète!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing Comète!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing Comète!
+\xf000ā\x0001\x0000 utilise\xfffeUltimapoing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeUltimapoing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeUltimapoing!
+\xf000ā\x0001\x0000 utilise\xfffeJackpot!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeJackpot!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeJackpot!
+\xf000ā\x0001\x0000 utilise\xfffePoing de Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing de Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing de Feu!
+\xf000ā\x0001\x0000 utilise\xfffePoinglace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoinglace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoinglace!
+\xf000ā\x0001\x0000 utilise\xfffePoing-Éclair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing-Éclair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing-Éclair!
+\xf000ā\x0001\x0000 utilise\xfffeGriffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGriffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGriffe!
+\xf000ā\x0001\x0000 utilise\xfffeForce Poigne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForce Poigne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForce Poigne!
+\xf000ā\x0001\x0000 utilise\xfffeGuillotine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGuillotine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGuillotine!
+\xf000ā\x0001\x0000 utilise\xfffeCoupe-Vent!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoupe-Vent!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoupe-Vent!
+\xf000ā\x0001\x0000 utilise\xfffeDanse-Lames!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse-Lames!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse-Lames!
+\xf000ā\x0001\x0000 utilise\xfffeCoupe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoupe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoupe!
+\xf000ā\x0001\x0000 utilise\xfffeTornade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTornade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTornade!
+\xf000ā\x0001\x0000 utilise\xfffeCru-Aile!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCru-Aile!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCru-Aile!
+\xf000ā\x0001\x0000 utilise\xfffeCyclone!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCyclone!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCyclone!
+\xf000ā\x0001\x0000 utilise\xfffeVol!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVol!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVol!
+\xf000ā\x0001\x0000 utilise\xfffeÉtreinte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉtreinte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉtreinte!
+\xf000ā\x0001\x0000 utilise\xfffeSouplesse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSouplesse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSouplesse!
+\xf000ā\x0001\x0000 utilise\xfffeFouet Lianes!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFouet Lianes!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFouet Lianes!
+\xf000ā\x0001\x0000 utilise\xfffeÉcrasement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉcrasement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉcrasement!
+\xf000ā\x0001\x0000 utilise\xfffeDouble Pied!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDouble Pied!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDouble Pied!
+\xf000ā\x0001\x0000 utilise\xfffeUltimawashi!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeUltimawashi!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeUltimawashi!
+\xf000ā\x0001\x0000 utilise\xfffePied Sauté!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePied Sauté!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePied Sauté!
+\xf000ā\x0001\x0000 utilise\xfffeMawashi Geri!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMawashi Geri!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMawashi Geri!
+\xf000ā\x0001\x0000 utilise\xfffeJet de Sable!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeJet de Sable!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeJet de Sable!
+\xf000ā\x0001\x0000 utilise\xfffeCoup d'Boule!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup d'Boule!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup d'Boule!
+\xf000ā\x0001\x0000 utilise\xfffeKoud'Korne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeKoud'Korne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeKoud'Korne!
+\xf000ā\x0001\x0000 utilise\xfffeFurie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFurie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFurie!
+\xf000ā\x0001\x0000 utilise\xfffeEmpal'Korne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEmpal'Korne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEmpal'Korne!
+\xf000ā\x0001\x0000 utilise\xfffeCharge!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCharge!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCharge!
+\xf000ā\x0001\x0000 utilise\xfffePlaquage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePlaquage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePlaquage!
+\xf000ā\x0001\x0000 utilise\xfffeLigotage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLigotage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLigotage!
+\xf000ā\x0001\x0000 utilise\xfffeBélier!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBélier!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBélier!
+\xf000ā\x0001\x0000 utilise\xfffeMania!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMania!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMania!
+\xf000ā\x0001\x0000 utilise\xfffeDamoclès!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDamoclès!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDamoclès!
+\xf000ā\x0001\x0000 utilise\xfffeMimi-Queue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMimi-Queue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMimi-Queue!
+\xf000ā\x0001\x0000 utilise\xfffeDard-Venin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDard-Venin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDard-Venin!
+\xf000ā\x0001\x0000 utilise\xfffeDouble-Dard!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDouble-Dard!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDouble-Dard!
+\xf000ā\x0001\x0000 utilise\xfffeDard-Nuée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDard-Nuée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDard-Nuée!
+\xf000ā\x0001\x0000 utilise\xfffeGroz'Yeux!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGroz'Yeux!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGroz'Yeux!
+\xf000ā\x0001\x0000 utilise\xfffeMorsure!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMorsure!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMorsure!
+\xf000ā\x0001\x0000 utilise\xfffeRugissement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRugissement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRugissement!
+\xf000ā\x0001\x0000 utilise\xfffeHurlement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHurlement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHurlement!
+\xf000ā\x0001\x0000 utilise\xfffeBerceuse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBerceuse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBerceuse!
+\xf000ā\x0001\x0000 utilise\xfffeUltrason!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeUltrason!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeUltrason!
+\xf000ā\x0001\x0000 utilise\xfffeSonicboom!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSonicboom!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSonicboom!
+\xf000ā\x0001\x0000 utilise\xfffeEntrave!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEntrave!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEntrave!
+\xf000ā\x0001\x0000 utilise\xfffeAcide!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAcide!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAcide!
+\xf000ā\x0001\x0000 utilise\xfffeFlammèche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlammèche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlammèche!
+\xf000ā\x0001\x0000 utilise\xfffeLance-Flamme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLance-Flamme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLance-Flamme!
+\xf000ā\x0001\x0000 utilise\xfffeBrume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBrume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBrume!
+\xf000ā\x0001\x0000 utilise\xfffePistolet à O!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePistolet à O!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePistolet à O!
+\xf000ā\x0001\x0000 utilise\xfffeHydrocanon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHydrocanon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHydrocanon!
+\xf000ā\x0001\x0000 utilise\xfffeSurf!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSurf!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSurf!
+\xf000ā\x0001\x0000 utilise\xfffeLaser Glace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLaser Glace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLaser Glace!
+\xf000ā\x0001\x0000 utilise\xfffeBlizzard!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBlizzard!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBlizzard!
+\xf000ā\x0001\x0000 utilise\xfffeRafale Psy!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRafale Psy!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRafale Psy!
+\xf000ā\x0001\x0000 utilise\xfffeBulles d'O!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBulles d'O!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBulles d'O!
+\xf000ā\x0001\x0000 utilise\xfffeOnde Boréale!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOnde Boréale!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOnde Boréale!
+\xf000ā\x0001\x0000 utilise\xfffeUltralaser!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeUltralaser!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeUltralaser!
+\xf000ā\x0001\x0000 utilise\xfffePicpic!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePicpic!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePicpic!
+\xf000ā\x0001\x0000 utilise\xfffeBec Vrille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBec Vrille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBec Vrille!
+\xf000ā\x0001\x0000 utilise\xfffeSacrifice!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSacrifice!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSacrifice!
+\xf000ā\x0001\x0000 utilise\xfffeBalayage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBalayage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBalayage!
+\xf000ā\x0001\x0000 utilise\xfffeRiposte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRiposte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRiposte!
+\xf000ā\x0001\x0000 utilise\xfffeFrappe Atlas!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFrappe Atlas!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFrappe Atlas!
+\xf000ā\x0001\x0000 utilise\xfffeForce!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForce!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForce!
+\xf000ā\x0001\x0000 utilise\xfffeVol-Vie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVol-Vie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVol-Vie!
+\xf000ā\x0001\x0000 utilise\xfffeMéga-Sangsue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMéga-Sangsue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMéga-Sangsue!
+\xf000ā\x0001\x0000 utilise\xfffeVampigraine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVampigraine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVampigraine!
+\xf000ā\x0001\x0000 utilise\xfffeCroissance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCroissance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCroissance!
+\xf000ā\x0001\x0000 utilise\xfffeTranch'Herbe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTranch'Herbe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTranch'Herbe!
+\xf000ā\x0001\x0000 utilise\xfffeLance-Soleil!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLance-Soleil!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLance-Soleil!
+\xf000ā\x0001\x0000 utilise\xfffePoudre Toxik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoudre Toxik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoudre Toxik!
+\xf000ā\x0001\x0000 utilise\xfffePara-Spore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePara-Spore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePara-Spore!
+\xf000ā\x0001\x0000 utilise\xfffePoudre Dodo!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoudre Dodo!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoudre Dodo!
+\xf000ā\x0001\x0000 utilise\xfffeDanse-Fleur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse-Fleur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse-Fleur!
+\xf000ā\x0001\x0000 utilise\xfffeSécrétion!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSécrétion!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSécrétion!
+\xf000ā\x0001\x0000 utilise\xfffeDraco-Rage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDraco-Rage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDraco-Rage!
+\xf000ā\x0001\x0000 utilise\xfffeDanseflamme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanseflamme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanseflamme!
+\xf000ā\x0001\x0000 utilise\xfffeÉclair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclair!
+\xf000ā\x0001\x0000 utilise\xfffeTonnerre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTonnerre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTonnerre!
+\xf000ā\x0001\x0000 utilise\xfffeCage-Éclair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCage-Éclair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCage-Éclair!
+\xf000ā\x0001\x0000 utilise\xfffeFatal-Foudre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFatal-Foudre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFatal-Foudre!
+\xf000ā\x0001\x0000 utilise\xfffeJet-Pierres!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeJet-Pierres!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeJet-Pierres!
+\xf000ā\x0001\x0000 utilise\xfffeSéisme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSéisme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSéisme!
+\xf000ā\x0001\x0000 utilise\xfffeAbîme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAbîme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAbîme!
+\xf000ā\x0001\x0000 utilise\xfffeTunnel!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTunnel!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTunnel!
+\xf000ā\x0001\x0000 utilise\xfffeToxik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeToxik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeToxik!
+\xf000ā\x0001\x0000 utilise\xfffeChoc Mental!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChoc Mental!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChoc Mental!
+\xf000ā\x0001\x0000 utilise\xfffePsyko!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePsyko!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePsyko!
+\xf000ā\x0001\x0000 utilise\xfffeHypnose!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHypnose!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHypnose!
+\xf000ā\x0001\x0000 utilise\xfffeYoga!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeYoga!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeYoga!
+\xf000ā\x0001\x0000 utilise\xfffeHâte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHâte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHâte!
+\xf000ā\x0001\x0000 utilise\xfffeVive-Attaque!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVive-Attaque!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVive-Attaque!
+\xf000ā\x0001\x0000 utilise\xfffeFrénésie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFrénésie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFrénésie!
+\xf000ā\x0001\x0000 utilise\xfffeTéléport!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTéléport!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTéléport!
+\xf000ā\x0001\x0000 utilise\xfffeTénèbres!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTénèbres!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTénèbres!
+\xf000ā\x0001\x0000 utilise\xfffeCopie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCopie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCopie!
+\xf000ā\x0001\x0000 utilise\xfffeGrincement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGrincement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGrincement!
+\xf000ā\x0001\x0000 utilise\xfffeReflet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeReflet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeReflet!
+\xf000ā\x0001\x0000 utilise\xfffeSoin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSoin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSoin!
+\xf000ā\x0001\x0000 utilise\xfffeArmure!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeArmure!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeArmure!
+\xf000ā\x0001\x0000 utilise\xfffeLilliput!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLilliput!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLilliput!
+\xf000ā\x0001\x0000 utilise\xfffeBrouillard!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBrouillard!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBrouillard!
+\xf000ā\x0001\x0000 utilise\xfffeOnde Folie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOnde Folie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOnde Folie!
+\xf000ā\x0001\x0000 utilise\xfffeRepli!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRepli!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRepli!
+\xf000ā\x0001\x0000 utilise\xfffeBoul'Armure!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoul'Armure!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoul'Armure!
+\xf000ā\x0001\x0000 utilise\xfffeBouclier!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBouclier!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBouclier!
+\xf000ā\x0001\x0000 utilise\xfffeMur Lumière!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMur Lumière!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMur Lumière!
+\xf000ā\x0001\x0000 utilise\xfffeBuée Noire!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBuée Noire!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBuée Noire!
+\xf000ā\x0001\x0000 utilise\xfffeProtection!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeProtection!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeProtection!
+\xf000ā\x0001\x0000 utilise\xfffePuissance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePuissance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePuissance!
+\xf000ā\x0001\x0000 utilise\xfffePatience!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePatience!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePatience!
+\xf000ā\x0001\x0000 utilise\xfffeMétronome!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMétronome!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMétronome!
+\xf000ā\x0001\x0000 utilise\xfffeMimique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMimique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMimique!
+\xf000ā\x0001\x0000 utilise\xfffeDestruction!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDestruction!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDestruction!
+\xf000ā\x0001\x0000 utilise\xfffeBomb'Œuf!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBomb'Œuf!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBomb'Œuf!
+\xf000ā\x0001\x0000 utilise\xfffeLéchouille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLéchouille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLéchouille!
+\xf000ā\x0001\x0000 utilise\xfffePurédpois!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePurédpois!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePurédpois!
+\xf000ā\x0001\x0000 utilise\xfffeDétritus!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDétritus!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDétritus!
+\xf000ā\x0001\x0000 utilise\xfffeMassd'Os!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMassd'Os!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMassd'Os!
+\xf000ā\x0001\x0000 utilise\xfffeDéflagration!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDéflagration!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDéflagration!
+\xf000ā\x0001\x0000 utilise\xfffeCascade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCascade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCascade!
+\xf000ā\x0001\x0000 utilise\xfffeClaquoir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeClaquoir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeClaquoir!
+\xf000ā\x0001\x0000 utilise\xfffeMétéores!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMétéores!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMétéores!
+\xf000ā\x0001\x0000 utilise\xfffeCoud'Krâne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoud'Krâne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoud'Krâne!
+\xf000ā\x0001\x0000 utilise\xfffePicanon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePicanon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePicanon!
+\xf000ā\x0001\x0000 utilise\xfffeConstriction!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeConstriction!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeConstriction!
+\xf000ā\x0001\x0000 utilise\xfffeAmnésie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAmnésie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAmnésie!
+\xf000ā\x0001\x0000 utilise\xfffeTélékinésie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTélékinésie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTélékinésie!
+\xf000ā\x0001\x0000 utilise\xfffeE-Coque!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeE-Coque!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeE-Coque!
+\xf000ā\x0001\x0000 utilise\xfffePied Voltige!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePied Voltige!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePied Voltige!
+\xf000ā\x0001\x0000 utilise\xfffeIntimidation!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeIntimidation!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeIntimidation!
+\xf000ā\x0001\x0000 utilise\xfffeDévorêve!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDévorêve!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDévorêve!
+\xf000ā\x0001\x0000 utilise\xfffeGaz Toxik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGaz Toxik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGaz Toxik!
+\xf000ā\x0001\x0000 utilise\xfffePilonnage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePilonnage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePilonnage!
+\xf000ā\x0001\x0000 utilise\xfffeVampirisme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVampirisme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVampirisme!
+\xf000ā\x0001\x0000 utilise\xfffeGrobisou!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGrobisou!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGrobisou!
+\xf000ā\x0001\x0000 utilise\xfffePique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePique!
+\xf000ā\x0001\x0000 utilise\xfffeMorphing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMorphing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMorphing!
+\xf000ā\x0001\x0000 utilise\xfffeÉcume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉcume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉcume!
+\xf000ā\x0001\x0000 utilise\xfffeUppercut!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeUppercut!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeUppercut!
+\xf000ā\x0001\x0000 utilise\xfffeSpore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSpore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSpore!
+\xf000ā\x0001\x0000 utilise\xfffeFlash!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlash!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlash!
+\xf000ā\x0001\x0000 utilise\xfffeVague Psy!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVague Psy!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVague Psy!
+\xf000ā\x0001\x0000 utilise\xfffeTrempette!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTrempette!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTrempette!
+\xf000ā\x0001\x0000 utilise\xfffeAcidarmure!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAcidarmure!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAcidarmure!
+\xf000ā\x0001\x0000 utilise\xfffePince-Masse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePince-Masse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePince-Masse!
+\xf000ā\x0001\x0000 utilise\xfffeExplosion!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeExplosion!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeExplosion!
+\xf000ā\x0001\x0000 utilise\xfffeCombo-Griffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCombo-Griffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCombo-Griffe!
+\xf000ā\x0001\x0000 utilise\xfffeOsmerang!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOsmerang!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOsmerang!
+\xf000ā\x0001\x0000 utilise\xfffeRepos!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRepos!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRepos!
+\xf000ā\x0001\x0000 utilise\xfffeÉboulement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉboulement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉboulement!
+\xf000ā\x0001\x0000 utilise\xfffeCroc de Mort!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCroc de Mort!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCroc de Mort!
+\xf000ā\x0001\x0000 utilise\xfffeAffûtage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAffûtage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAffûtage!
+\xf000ā\x0001\x0000 utilise\xfffeAdaptation!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAdaptation!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAdaptation!
+\xf000ā\x0001\x0000 utilise\xfffeTriplattaque!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTriplattaque!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTriplattaque!
+\xf000ā\x0001\x0000 utilise\xfffeCroc Fatal!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCroc Fatal!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCroc Fatal!
+\xf000ā\x0001\x0000 utilise\xfffeTranche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTranche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTranche!
+\xf000ā\x0001\x0000 utilise\xfffeClonage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeClonage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeClonage!
+\xf000ā\x0001\x0000 utilise\xfffeLutte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLutte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLutte!
+\xf000ā\x0001\x0000 utilise\xfffeGribouille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGribouille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGribouille!
+\xf000ā\x0001\x0000 utilise\xfffeTriple Pied!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTriple Pied!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTriple Pied!
+\xf000ā\x0001\x0000 utilise\xfffeLarcin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLarcin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLarcin!
+\xf000ā\x0001\x0000 utilise\xfffeToile!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeToile!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeToile!
+\xf000ā\x0001\x0000 utilise\xfffeLire-Esprit!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLire-Esprit!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLire-Esprit!
+\xf000ā\x0001\x0000 utilise\xfffeCauchemar!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCauchemar!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCauchemar!
+\xf000ā\x0001\x0000 utilise\xfffeRoue de Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRoue de Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRoue de Feu!
+\xf000ā\x0001\x0000 utilise\xfffeRonflement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRonflement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRonflement!
+\xf000ā\x0001\x0000 utilise\xfffeMalédiction!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMalédiction!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMalédiction!
+\xf000ā\x0001\x0000 utilise\xfffeFléau!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFléau!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFléau!
+\xf000ā\x0001\x0000 utilise\xfffeConversion 2!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeConversion 2!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeConversion 2!
+\xf000ā\x0001\x0000 utilise\xfffeAéroblast!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAéroblast!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAéroblast!
+\xf000ā\x0001\x0000 utilise\xfffeSpore Coton!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSpore Coton!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSpore Coton!
+\xf000ā\x0001\x0000 utilise\xfffeContre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeContre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeContre!
+\xf000ā\x0001\x0000 utilise\xfffeDépit!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDépit!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDépit!
+\xf000ā\x0001\x0000 utilise\xfffePoudreuse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoudreuse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoudreuse!
+\xf000ā\x0001\x0000 utilise\xfffeAbri!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAbri!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAbri!
+\xf000ā\x0001\x0000 utilise\xfffeMach Punch!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMach Punch!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMach Punch!
+\xf000ā\x0001\x0000 utilise\xfffeGrimace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGrimace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGrimace!
+\xf000ā\x0001\x0000 utilise\xfffeFeinte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeinte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeinte!
+\xf000ā\x0001\x0000 utilise\xfffeDoux Baiser!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDoux Baiser!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDoux Baiser!
+\xf000ā\x0001\x0000 utilise\xfffeCognobidon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCognobidon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCognobidon!
+\xf000ā\x0001\x0000 utilise\xfffeBomb-Beurk!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBomb-Beurk!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBomb-Beurk!
+\xf000ā\x0001\x0000 utilise\xfffeCoud'Boue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoud'Boue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoud'Boue!
+\xf000ā\x0001\x0000 utilise\xfffeOctazooka!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOctazooka!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOctazooka!
+\xf000ā\x0001\x0000 utilise\xfffePicots!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePicots!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePicots!
+\xf000ā\x0001\x0000 utilise\xfffeÉlecanon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉlecanon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉlecanon!
+\xf000ā\x0001\x0000 utilise\xfffeClairvoyance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeClairvoyance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeClairvoyance!
+\xf000ā\x0001\x0000 utilise\xfffePrlvt Destin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePrlvt Destin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePrlvt Destin!
+\xf000ā\x0001\x0000 utilise\xfffeRequiem!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRequiem!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRequiem!
+\xf000ā\x0001\x0000 utilise\xfffeVent Glace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVent Glace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVent Glace!
+\xf000ā\x0001\x0000 utilise\xfffeDétection!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDétection!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDétection!
+\xf000ā\x0001\x0000 utilise\xfffeCharge-Os!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCharge-Os!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCharge-Os!
+\xf000ā\x0001\x0000 utilise\xfffeVerrouillage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVerrouillage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVerrouillage!
+\xf000ā\x0001\x0000 utilise\xfffeColère!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeColère!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeColère!
+\xf000ā\x0001\x0000 utilise\xfffeTempêtesable!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTempêtesable!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTempêtesable!
+\xf000ā\x0001\x0000 utilise\xfffeGiga-Sangsue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGiga-Sangsue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGiga-Sangsue!
+\xf000ā\x0001\x0000 utilise\xfffeTénacité!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTénacité!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTénacité!
+\xf000ā\x0001\x0000 utilise\xfffeCharme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCharme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCharme!
+\xf000ā\x0001\x0000 utilise\xfffeRoulade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRoulade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRoulade!
+\xf000ā\x0001\x0000 utilise\xfffeFaux-Chage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFaux-Chage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFaux-Chage!
+\xf000ā\x0001\x0000 utilise\xfffeVantardise!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVantardise!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVantardise!
+\xf000ā\x0001\x0000 utilise\xfffeLait à Boire!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLait à Boire!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLait à Boire!
+\xf000ā\x0001\x0000 utilise\xfffeÉtincelle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉtincelle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉtincelle!
+\xf000ā\x0001\x0000 utilise\xfffeTaillade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTaillade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTaillade!
+\xf000ā\x0001\x0000 utilise\xfffeAile d'Acier!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAile d'Acier!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAile d'Acier!
+\xf000ā\x0001\x0000 utilise\xfffeRegard Noir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRegard Noir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRegard Noir!
+\xf000ā\x0001\x0000 utilise\xfffeAttraction!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAttraction!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAttraction!
+\xf000ā\x0001\x0000 utilise\xfffeBlabla Dodo!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBlabla Dodo!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBlabla Dodo!
+\xf000ā\x0001\x0000 utilise\xfffeGlas de Soin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGlas de Soin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGlas de Soin!
+\xf000ā\x0001\x0000 utilise\xfffeRetour!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRetour!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRetour!
+\xf000ā\x0001\x0000 utilise\xfffeCadeau!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCadeau!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCadeau!
+\xf000ā\x0001\x0000 utilise\xfffeFrustration!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFrustration!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFrustration!
+\xf000ā\x0001\x0000 utilise\xfffeRune Protect!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRune Protect!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRune Protect!
+\xf000ā\x0001\x0000 utilise\xfffeBalance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBalance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBalance!
+\xf000ā\x0001\x0000 utilise\xfffeFeu Sacré!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeu Sacré!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeu Sacré!
+\xf000ā\x0001\x0000 utilise\xfffeAmpleur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAmpleur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAmpleur!
+\xf000ā\x0001\x0000 utilise\xfffeDynamopoing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDynamopoing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDynamopoing!
+\xf000ā\x0001\x0000 utilise\xfffeMégacorne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMégacorne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMégacorne!
+\xf000ā\x0001\x0000 utilise\xfffeDracosouffle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDracosouffle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDracosouffle!
+\xf000ā\x0001\x0000 utilise\xfffeRelais!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRelais!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRelais!
+\xf000ā\x0001\x0000 utilise\xfffeEncore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEncore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEncore!
+\xf000ā\x0001\x0000 utilise\xfffePoursuite!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoursuite!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoursuite!
+\xf000ā\x0001\x0000 utilise\xfffeTour Rapide!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTour Rapide!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTour Rapide!
+\xf000ā\x0001\x0000 utilise\xfffeDoux Parfum!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDoux Parfum!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDoux Parfum!
+\xf000ā\x0001\x0000 utilise\xfffeQueue de Fer!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeQueue de Fer!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeQueue de Fer!
+\xf000ā\x0001\x0000 utilise\xfffeGriffe Acier!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGriffe Acier!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGriffe Acier!
+\xf000ā\x0001\x0000 utilise\xfffeCorps Perdu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCorps Perdu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCorps Perdu!
+\xf000ā\x0001\x0000 utilise\xfffeAurore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAurore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAurore!
+\xf000ā\x0001\x0000 utilise\xfffeSynthèse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSynthèse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSynthèse!
+\xf000ā\x0001\x0000 utilise\xfffeRayon Lune!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRayon Lune!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRayon Lune!
+\xf000ā\x0001\x0000 utilise\xfffePuis. Cachée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePuis. Cachée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePuis. Cachée!
+\xf000ā\x0001\x0000 utilise\xfffeCoup-Croix!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup-Croix!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup-Croix!
+\xf000ā\x0001\x0000 utilise\xfffeOuragan!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOuragan!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOuragan!
+\xf000ā\x0001\x0000 utilise\xfffeDanse Pluie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse Pluie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse Pluie!
+\xf000ā\x0001\x0000 utilise\xfffeZénith!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeZénith!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeZénith!
+\xf000ā\x0001\x0000 utilise\xfffeMâchouille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMâchouille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMâchouille!
+\xf000ā\x0001\x0000 utilise\xfffeVoile Miroir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVoile Miroir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVoile Miroir!
+\xf000ā\x0001\x0000 utilise\xfffeBoost!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoost!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoost!
+\xf000ā\x0001\x0000 utilise\xfffeVit.Extrême!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVit.Extrême!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVit.Extrême!
+\xf000ā\x0001\x0000 utilise\xfffePouv.Antique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePouv.Antique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePouv.Antique!
+\xf000ā\x0001\x0000 utilise\xfffeBall'Ombre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBall'Ombre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBall'Ombre!
+\xf000ā\x0001\x0000 utilise\xfffePrescience!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePrescience!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePrescience!
+\xf000ā\x0001\x0000 utilise\xfffeÉclate-Roc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclate-Roc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclate-Roc!
+\xf000ā\x0001\x0000 utilise\xfffeSiphon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSiphon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSiphon!
+\xf000ā\x0001\x0000 utilise\xfffeBaston!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBaston!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBaston!
+\xf000ā\x0001\x0000 utilise\xfffeBluff!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBluff!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBluff!
+\xf000ā\x0001\x0000 utilise\xfffeBrouhaha!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBrouhaha!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBrouhaha!
+\xf000ā\x0001\x0000 utilise\xfffeStockage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeStockage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeStockage!
+\xf000ā\x0001\x0000 utilise\xfffeRelâche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRelâche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRelâche!
+\xf000ā\x0001\x0000 utilise\xfffeAvale!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAvale!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAvale!
+\xf000ā\x0001\x0000 utilise\xfffeCanicule!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCanicule!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCanicule!
+\xf000ā\x0001\x0000 utilise\xfffeGrêle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGrêle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGrêle!
+\xf000ā\x0001\x0000 utilise\xfffeTourmente!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTourmente!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTourmente!
+\xf000ā\x0001\x0000 utilise\xfffeFlatterie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlatterie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlatterie!
+\xf000ā\x0001\x0000 utilise\xfffeFeu Follet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeu Follet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeu Follet!
+\xf000ā\x0001\x0000 utilise\xfffeSouvenir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSouvenir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSouvenir!
+\xf000ā\x0001\x0000 utilise\xfffeFaçade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFaçade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFaçade!
+\xf000ā\x0001\x0000 utilise\xfffeMitra-Poing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMitra-Poing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMitra-Poing!
+\xf000ā\x0001\x0000 utilise\xfffeStimulant!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeStimulant!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeStimulant!
+\xf000ā\x0001\x0000 utilise\xfffePar Ici!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePar Ici!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePar Ici!
+\xf000ā\x0001\x0000 utilise\xfffeForce-Nature!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForce-Nature!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForce-Nature!
+\xf000ā\x0001\x0000 utilise\xfffeChargeur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChargeur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChargeur!
+\xf000ā\x0001\x0000 utilise\xfffeProvoc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeProvoc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeProvoc!
+\xf000ā\x0001\x0000 utilise\xfffeCoup d'Main!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup d'Main!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup d'Main!
+\xf000ā\x0001\x0000 utilise\xfffeTourmagik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTourmagik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTourmagik!
+\xf000ā\x0001\x0000 utilise\xfffeImitation!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeImitation!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeImitation!
+\xf000ā\x0001\x0000 fait un Vœu!
+Le \xf000ā\x0001\x0000 sauvage fait un Vœu!
+Le \xf000ā\x0001\x0000 ennemi fait un Vœu!
+\xf000ā\x0001\x0000 utilise\xfffeAssistance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAssistance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAssistance!
+\xf000ā\x0001\x0000 utilise\xfffeRacines!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRacines!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRacines!
+\xf000ā\x0001\x0000 utilise\xfffeSurpuissance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSurpuissance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSurpuissance!
+\xf000ā\x0001\x0000 utilise\xfffeReflet Magik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeReflet Magik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeReflet Magik!
+\xf000ā\x0001\x0000 utilise\xfffeRecyclage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRecyclage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRecyclage!
+\xf000ā\x0001\x0000 utilise\xfffeVendetta!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVendetta!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVendetta!
+\xf000ā\x0001\x0000 utilise\xfffeCasse-Brique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCasse-Brique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCasse-Brique!
+\xf000ā\x0001\x0000 utilise\xfffeBâillement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBâillement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBâillement!
+\xf000ā\x0001\x0000 utilise\xfffeSabotage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSabotage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSabotage!
+\xf000ā\x0001\x0000 utilise\xfffeEffort!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEffort!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEffort!
+\xf000ā\x0001\x0000 utilise\xfffeÉruption!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉruption!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉruption!
+\xf000ā\x0001\x0000 utilise\xfffeÉchange!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉchange!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉchange!
+\xf000ā\x0001\x0000 utilise\xfffePossessif!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePossessif!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePossessif!
+\xf000ā\x0001\x0000 utilise\xfffeRégénération!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRégénération!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRégénération!
+\xf000ā\x0001\x0000 utilise\xfffeRancune!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRancune!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRancune!
+\xf000ā\x0001\x0000 utilise\xfffeSaisie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSaisie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSaisie!
+\xf000ā\x0001\x0000 utilise\xfffeForce Cachée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForce Cachée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForce Cachée!
+\xf000ā\x0001\x0000 utilise\xfffePlongée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePlongée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePlongée!
+\xf000ā\x0001\x0000 utilise\xfffeCogne!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCogne!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCogne!
+\xf000ā\x0001\x0000 utilise\xfffeCamouflage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCamouflage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCamouflage!
+\xf000ā\x0001\x0000 utilise\xfffeLumiqueue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLumiqueue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLumiqueue!
+\xf000ā\x0001\x0000 utilise\xfffeLumi-Éclat!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLumi-Éclat!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLumi-Éclat!
+\xf000ā\x0001\x0000 utilise\xfffeBall'Brume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBall'Brume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBall'Brume!
+\xf000ā\x0001\x0000 utilise\xfffeDanse-Plume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse-Plume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse-Plume!
+\xf000ā\x0001\x0000 utilise\xfffeDanse-Folle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse-Folle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse-Folle!
+\xf000ā\x0001\x0000 utilise\xfffePied Brûleur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePied Brûleur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePied Brûleur!
+\xf000ā\x0001\x0000 utilise\xfffeLance-Boue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLance-Boue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLance-Boue!
+\xf000ā\x0001\x0000 utilise\xfffeBall'Glace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBall'Glace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBall'Glace!
+\xf000ā\x0001\x0000 utilise\xfffePoing Dard!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing Dard!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing Dard!
+\xf000ā\x0001\x0000 utilise\xfffeParesse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeParesse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeParesse!
+\xf000ā\x0001\x0000 utilise\xfffeMégaphone!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMégaphone!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMégaphone!
+\xf000ā\x0001\x0000 utilise\xfffeCrochetvenin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCrochetvenin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCrochetvenin!
+\xf000ā\x0001\x0000 utilise\xfffeÉclategriffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclategriffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclategriffe!
+\xf000ā\x0001\x0000 utilise\xfffeRafale Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRafale Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRafale Feu!
+\xf000ā\x0001\x0000 utilise\xfffeHydroblast!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHydroblast!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHydroblast!
+\xf000ā\x0001\x0000 utilise\xfffePoing Météor!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing Météor!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing Météor!
+\xf000ā\x0001\x0000 utilise\xfffeÉtonnement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉtonnement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉtonnement!
+\xf000ā\x0001\x0000 utilise\xfffeBall'Météo!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBall'Météo!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBall'Météo!
+\xf000ā\x0001\x0000 utilise\xfffeAromathérapi!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAromathérapi!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAromathérapi!
+\xf000ā\x0001\x0000 utilise\xfffeCroco Larme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCroco Larme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCroco Larme!
+\xf000ā\x0001\x0000 utilise\xfffeTranch'Air!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTranch'Air!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTranch'Air!
+\xf000ā\x0001\x0000 utilise\xfffeSurchauffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSurchauffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSurchauffe!
+\xf000ā\x0001\x0000 utilise\xfffeFlair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlair!
+\xf000ā\x0001\x0000 utilise\xfffeTomberoche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTomberoche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTomberoche!
+\xf000ā\x0001\x0000 utilise\xfffeVent Argenté!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVent Argenté!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVent Argenté!
+\xf000ā\x0001\x0000 utilise\xfffeStrido-Son!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeStrido-Son!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeStrido-Son!
+\xf000ā\x0001\x0000 utilise\xfffeSiffl'Herbe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSiffl'Herbe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSiffl'Herbe!
+\xf000ā\x0001\x0000 utilise\xfffeChatouille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChatouille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChatouille!
+\xf000ā\x0001\x0000 utilise\xfffeForce Cosmik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForce Cosmik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForce Cosmik!
+\xf000ā\x0001\x0000 utilise\xfffeGiclédo!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGiclédo!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGiclédo!
+\xf000ā\x0001\x0000 utilise\xfffeRayon Signal!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRayon Signal!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRayon Signal!
+\xf000ā\x0001\x0000 utilise\xfffePoing Ombre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoing Ombre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoing Ombre!
+\xf000ā\x0001\x0000 utilise\xfffeExtrasenseur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeExtrasenseur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeExtrasenseur!
+\xf000ā\x0001\x0000 utilise\xfffeStratopercut!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeStratopercut!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeStratopercut!
+\xf000ā\x0001\x0000 utilise\xfffeTourbi-Sable!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTourbi-Sable!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTourbi-Sable!
+\xf000ā\x0001\x0000 utilise\xfffeGlaciation!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGlaciation!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGlaciation!
+\xf000ā\x0001\x0000 utilise\xfffeOcroupi!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOcroupi!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOcroupi!
+\xf000ā\x0001\x0000 utilise\xfffeBalle Graine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBalle Graine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBalle Graine!
+\xf000ā\x0001\x0000 utilise\xfffeAéropique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAéropique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAéropique!
+\xf000ā\x0001\x0000 utilise\xfffeStalagtite!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeStalagtite!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeStalagtite!
+\xf000ā\x0001\x0000 utilise\xfffeMur de Fer!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMur de Fer!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMur de Fer!
+\xf000ā\x0001\x0000 utilise\xfffeBarrage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBarrage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBarrage!
+\xf000ā\x0001\x0000 utilise\xfffeGrondement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGrondement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGrondement!
+\xf000ā\x0001\x0000 utilise\xfffeDracogriffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDracogriffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDracogriffe!
+\xf000ā\x0001\x0000 utilise\xfffeVégé-Attak!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVégé-Attak!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVégé-Attak!
+\xf000ā\x0001\x0000 utilise\xfffeGonflette!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGonflette!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGonflette!
+\xf000ā\x0001\x0000 utilise\xfffeRebond!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRebond!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRebond!
+\xf000ā\x0001\x0000 utilise\xfffeTir de Boue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTir de Boue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTir de Boue!
+\xf000ā\x0001\x0000 utilise\xfffeQueue-Poison!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeQueue-Poison!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeQueue-Poison!
+\xf000ā\x0001\x0000 utilise\xfffeImplore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeImplore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeImplore!
+\xf000ā\x0001\x0000 utilise\xfffeÉlectacle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉlectacle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉlectacle!
+\xf000ā\x0001\x0000 utilise\xfffeFeuillemagik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeuillemagik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeuillemagik!
+\xf000ā\x0001\x0000 utilise\xfffeTourniquet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTourniquet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTourniquet!
+\xf000ā\x0001\x0000 utilise\xfffePlénitude!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePlénitude!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePlénitude!
+\xf000ā\x0001\x0000 utilise\xfffeLame-Feuille!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLame-Feuille!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLame-Feuille!
+\xf000ā\x0001\x0000 utilise\xfffeDanse Draco!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse Draco!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse Draco!
+\xf000ā\x0001\x0000 utilise\xfffeBoule Roc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoule Roc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoule Roc!
+\xf000ā\x0001\x0000 utilise\xfffeOnde de Choc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOnde de Choc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOnde de Choc!
+\xf000ā\x0001\x0000 utilise\xfffeVibraqua!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVibraqua!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVibraqua!
+\xf000ā\x0001\x0000 utilise\xfffeCarnareket!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCarnareket!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCarnareket!
+\xf000ā\x0001\x0000 utilise\xfffePsycho Boost!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePsycho Boost!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePsycho Boost!
+\xf000ā\x0001\x0000 utilise\xfffeAtterrissage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAtterrissage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAtterrissage!
+\xf000ā\x0001\x0000 utilise\xfffeGravité!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGravité!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGravité!
+\xf000ā\x0001\x0000 utilise\xfffeŒil Miracle!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeŒil Miracle!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeŒil Miracle!
+\xf000ā\x0001\x0000 utilise\xfffeRéveil Forcé!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRéveil Forcé!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRéveil Forcé!
+\xf000ā\x0001\x0000 utilise\xfffeMarto-Poing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMarto-Poing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMarto-Poing!
+\xf000ā\x0001\x0000 utilise\xfffeGyroballe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGyroballe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGyroballe!
+\xf000ā\x0001\x0000 utilise\xfffeVœu Soin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVœu Soin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVœu Soin!
+\xf000ā\x0001\x0000 utilise\xfffeSaumure!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSaumure!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSaumure!
+\xf000ā\x0001\x0000 utilise\xfffeDon Naturel!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDon Naturel!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDon Naturel!
+\xf000ā\x0001\x0000 utilise\xfffeRuse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRuse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRuse!
+\xf000ā\x0001\x0000 utilise\xfffePicore!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePicore!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePicore!
+\xf000ā\x0001\x0000 utilise\xfffeVent Arrière!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVent Arrière!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVent Arrière!
+\xf000ā\x0001\x0000 utilise\xfffeAcupression!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAcupression!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAcupression!
+\xf000ā\x0001\x0000 utilise\xfffeFulmifer!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFulmifer!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFulmifer!
+\xf000ā\x0001\x0000 utilise\xfffeDemi-Tour!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDemi-Tour!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDemi-Tour!
+\xf000ā\x0001\x0000 utilise\xfffeClose Combat!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeClose Combat!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeClose Combat!
+\xf000ā\x0001\x0000 utilise\xfffeReprésailles!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeReprésailles!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeReprésailles!
+\xf000ā\x0001\x0000 utilise\xfffeAssurance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAssurance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAssurance!
+\xf000ā\x0001\x0000 utilise\xfffeEmbargo!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEmbargo!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEmbargo!
+\xf000ā\x0001\x0000 utilise\xfffeDégommage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDégommage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDégommage!
+\xf000ā\x0001\x0000 utilise\xfffeÉchange Psy!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉchange Psy!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉchange Psy!
+\xf000ā\x0001\x0000 utilise\xfffeAtout!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAtout!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAtout!
+\xf000ā\x0001\x0000 utilise\xfffeAnti-Soin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAnti-Soin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAnti-Soin!
+\xf000ā\x0001\x0000 utilise\xfffeEssorage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEssorage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEssorage!
+\xf000ā\x0001\x0000 utilise\xfffeAstuce Force!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAstuce Force!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAstuce Force!
+\xf000ā\x0001\x0000 utilise\xfffeSuc Digestif!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSuc Digestif!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSuc Digestif!
+\xf000ā\x0001\x0000 utilise\xfffeAir Veinard!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAir Veinard!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAir Veinard!
+\xf000ā\x0001\x0000 utilise\xfffeMoi d'Abord!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMoi d'Abord!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMoi d'Abord!
+\xf000ā\x0001\x0000 utilise\xfffePhotocopie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePhotocopie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePhotocopie!
+\xf000ā\x0001\x0000 utilise\xfffePermuforce!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePermuforce!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePermuforce!
+\xf000ā\x0001\x0000 utilise\xfffePermugarde!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePermugarde!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePermugarde!
+\xf000ā\x0001\x0000 utilise\xfffePunition!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePunition!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePunition!
+\xf000ā\x0001\x0000 utilise\xfffeDernierecour!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDernierecour!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDernierecour!
+\xf000ā\x0001\x0000 utilise\xfffeSoucigraine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSoucigraine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSoucigraine!
+\xf000ā\x0001\x0000 utilise\xfffeCoup Bas!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup Bas!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup Bas!
+\xf000ā\x0001\x0000 utilise\xfffePics Toxik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePics Toxik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePics Toxik!
+\xf000ā\x0001\x0000 utilise\xfffePermucœur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePermucœur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePermucœur!
+\xf000ā\x0001\x0000 utilise\xfffeAnneau Hydro!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAnneau Hydro!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAnneau Hydro!
+\xf000ā\x0001\x0000 utilise\xfffeVol Magnétik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVol Magnétik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVol Magnétik!
+\xf000ā\x0001\x0000 utilise\xfffeBoutefeu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoutefeu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoutefeu!
+\xf000ā\x0001\x0000 utilise\xfffeForte-Paume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForte-Paume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForte-Paume!
+\xf000ā\x0001\x0000 utilise\xfffeAurasphère!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAurasphère!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAurasphère!
+\xf000ā\x0001\x0000 utilise\xfffePoliroche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoliroche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoliroche!
+\xf000ā\x0001\x0000 utilise\xfffeDirect Toxik!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDirect Toxik!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDirect Toxik!
+\xf000ā\x0001\x0000 utilise\xfffeVibrobscur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVibrobscur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVibrobscur!
+\xf000ā\x0001\x0000 utilise\xfffeTranche-Nuit!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTranche-Nuit!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTranche-Nuit!
+\xf000ā\x0001\x0000 utilise\xfffeHydroqueue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHydroqueue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHydroqueue!
+\xf000ā\x0001\x0000 utilise\xfffeCanon Graine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCanon Graine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCanon Graine!
+\xf000ā\x0001\x0000 utilise\xfffeLame d'Air!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLame d'Air!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLame d'Air!
+\xf000ā\x0001\x0000 utilise\xfffePlaie-Croix!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePlaie-Croix!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePlaie-Croix!
+\xf000ā\x0001\x0000 utilise\xfffeBourdon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBourdon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBourdon!
+\xf000ā\x0001\x0000 utilise\xfffeDracochoc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDracochoc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDracochoc!
+\xf000ā\x0001\x0000 utilise\xfffeDracocharge!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDracocharge!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDracocharge!
+\xf000ā\x0001\x0000 utilise\xfffeRayon Gemme!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRayon Gemme!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRayon Gemme!
+\xf000ā\x0001\x0000 utilise\xfffeVampipoing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVampipoing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVampipoing!
+\xf000ā\x0001\x0000 utilise\xfffeOnde Vide!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOnde Vide!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOnde Vide!
+\xf000ā\x0001\x0000 utilise\xfffeExploforce!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeExploforce!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeExploforce!
+\xf000ā\x0001\x0000 utilise\xfffeÉco-Sphère!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉco-Sphère!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉco-Sphère!
+\xf000ā\x0001\x0000 utilise\xfffeRapace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRapace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRapace!
+\xf000ā\x0001\x0000 utilise\xfffeTelluriforce!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTelluriforce!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTelluriforce!
+\xf000ā\x0001\x0000 utilise\xfffePasse-Passe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePasse-Passe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePasse-Passe!
+\xf000ā\x0001\x0000 utilise\xfffeGiga Impact!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGiga Impact!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGiga Impact!
+\xf000ā\x0001\x0000 utilise\xfffeMachination!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMachination!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMachination!
+\xf000ā\x0001\x0000 utilise\xfffePisto-Poing!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePisto-Poing!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePisto-Poing!
+\xf000ā\x0001\x0000 utilise\xfffeAvalanche!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAvalanche!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAvalanche!
+\xf000ā\x0001\x0000 utilise\xfffeÉclats Glace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclats Glace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclats Glace!
+\xf000ā\x0001\x0000 utilise\xfffeGriffe Ombre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGriffe Ombre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGriffe Ombre!
+\xf000ā\x0001\x0000 utilise\xfffeCrocs Éclair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCrocs Éclair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCrocs Éclair!
+\xf000ā\x0001\x0000 utilise\xfffeCrocs Givre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCrocs Givre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCrocs Givre!
+\xf000ā\x0001\x0000 utilise\xfffeCrocs Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCrocs Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCrocs Feu!
+\xf000ā\x0001\x0000 utilise\xfffeOmbre Portée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeOmbre Portée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeOmbre Portée!
+\xf000ā\x0001\x0000 utilise\xfffeBoue-Bombe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoue-Bombe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoue-Bombe!
+\xf000ā\x0001\x0000 utilise\xfffeCoupe Psycho!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoupe Psycho!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoupe Psycho!
+\xf000ā\x0001\x0000 utilise\xfffePsykoud'Boul!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePsykoud'Boul!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePsykoud'Boul!
+\xf000ā\x0001\x0000 utilise\xfffeMiroi-Tir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMiroi-Tir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMiroi-Tir!
+\xf000ā\x0001\x0000 utilise\xfffeLuminocanon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLuminocanon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLuminocanon!
+\xf000ā\x0001\x0000 utilise\xfffeEscalade!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEscalade!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEscalade!
+\xf000ā\x0001\x0000 utilise\xfffeAnti-Brume!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAnti-Brume!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAnti-Brume!
+\xf000ā\x0001\x0000 utilise\xfffeDistorsion!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDistorsion!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDistorsion!
+\xf000ā\x0001\x0000 utilise\xfffeDraco Météor!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDraco Météor!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDraco Météor!
+\xf000ā\x0001\x0000 utilise\xfffeCoup d'Jus!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup d'Jus!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup d'Jus!
+\xf000ā\x0001\x0000 utilise\xfffeÉbullilave!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉbullilave!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉbullilave!
+\xf000ā\x0001\x0000 utilise\xfffeTempêteverte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTempêteverte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTempêteverte!
+\xf000ā\x0001\x0000 utilise\xfffeMégafouet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMégafouet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMégafouet!
+\xf000ā\x0001\x0000 utilise\xfffeRoc-Boulet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRoc-Boulet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRoc-Boulet!
+\xf000ā\x0001\x0000 utilise\xfffePoison-Croix!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoison-Croix!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoison-Croix!
+\xf000ā\x0001\x0000 utilise\xfffeDétricanon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDétricanon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDétricanon!
+\xf000ā\x0001\x0000 utilise\xfffeTête de Fer!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTête de Fer!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTête de Fer!
+\xf000ā\x0001\x0000 utilise\xfffeBombaimant!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBombaimant!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBombaimant!
+\xf000ā\x0001\x0000 utilise\xfffeLame de Roc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLame de Roc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLame de Roc!
+\xf000ā\x0001\x0000 utilise\xfffeSéduction!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSéduction!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSéduction!
+\xf000ā\x0001\x0000 utilise\xfffePiège de Roc!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePiège de Roc!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePiège de Roc!
+\xf000ā\x0001\x0000 utilise\xfffeNœud Herbe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeNœud Herbe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeNœud Herbe!
+\xf000ā\x0001\x0000 utilise\xfffeBabil!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBabil!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBabil!
+\xf000ā\x0001\x0000 utilise\xfffeJugement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeJugement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeJugement!
+\xf000ā\x0001\x0000 utilise\xfffePiqûre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePiqûre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePiqûre!
+\xf000ā\x0001\x0000 utilise\xfffeRayon Chargé!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRayon Chargé!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRayon Chargé!
+\xf000ā\x0001\x0000 utilise\xfffeMartobois!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeMartobois!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeMartobois!
+\xf000ā\x0001\x0000 utilise\xfffeAqua-Jet!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAqua-Jet!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAqua-Jet!
+\xf000ā\x0001\x0000 utilise\xfffeAppel Attak!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAppel Attak!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAppel Attak!
+\xf000ā\x0001\x0000 utilise\xfffeAppel Défens!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAppel Défens!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAppel Défens!
+\xf000ā\x0001\x0000 utilise\xfffeAppel Soins!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAppel Soins!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAppel Soins!
+\xf000ā\x0001\x0000 utilise\xfffeFracass'Tête!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFracass'Tête!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFracass'Tête!
+\xf000ā\x0001\x0000 utilise\xfffeCoup Double!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoup Double!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoup Double!
+\xf000ā\x0001\x0000 utilise\xfffeHurle-Temps!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeHurle-Temps!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeHurle-Temps!
+\xf000ā\x0001\x0000 utilise\xfffeSpatio-Rift!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSpatio-Rift!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSpatio-Rift!
+\xf000ā\x0001\x0000 utilise\xfffeDanse-Lune!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse-Lune!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse-Lune!
+\xf000ā\x0001\x0000 utilise\xfffePresse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePresse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePresse!
+\xf000ā\x0001\x0000 utilise\xfffeVortex Magma!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVortex Magma!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVortex Magma!
+\xf000ā\x0001\x0000 utilise\xfffeTrou Noir!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTrou Noir!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTrou Noir!
+\xf000ā\x0001\x0000 utilise\xfffeFulmigraine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFulmigraine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFulmigraine!
+\xf000ā\x0001\x0000 utilise\xfffeVent Mauvais!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVent Mauvais!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVent Mauvais!
+\xf000ā\x0001\x0000 utilise\xfffeRevenant!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRevenant!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRevenant!
+\xf000ā\x0001\x0000 utilise\xfffeAiguisage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAiguisage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAiguisage!
+\xf000ā\x0001\x0000 utilise\xfffeGarde Large!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeGarde Large!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeGarde Large!
+\xf000ā\x0001\x0000 utilise\xfffePartageGarde!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePartageGarde!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePartageGarde!
+\xf000ā\x0001\x0000 utilise\xfffePartageForce!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePartageForce!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePartageForce!
+\xf000ā\x0001\x0000 utilise\xfffeZone Étrange!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeZone Étrange!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeZone Étrange!
+\xf000ā\x0001\x0000 utilise\xfffeChoc Psy!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChoc Psy!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChoc Psy!
+\xf000ā\x0001\x0000 utilise\xfffeChoc Venin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChoc Venin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChoc Venin!
+\xf000ā\x0001\x0000 utilise\xfffeAllègement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAllègement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAllègement!
+\xf000ā\x0001\x0000 utilise\xfffePoudreFureur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePoudreFureur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePoudreFureur!
+\xf000ā\x0001\x0000 utilise\xfffeLévikinésie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLévikinésie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLévikinésie!
+\xf000ā\x0001\x0000 utilise\xfffeZone Magique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeZone Magique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeZone Magique!
+\xf000ā\x0001\x0000 utilise\xfffeAnti-Air!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAnti-Air!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAnti-Air!
+\xf000ā\x0001\x0000 utilise\xfffeYama Arashi!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeYama Arashi!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeYama Arashi!
+\xf000ā\x0001\x0000 utilise\xfffeRebondifeu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRebondifeu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRebondifeu!
+\xf000ā\x0001\x0000 utilise\xfffeCradovague!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCradovague!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCradovague!
+\xf000ā\x0001\x0000 utilise\xfffePapillodanse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePapillodanse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePapillodanse!
+\xf000ā\x0001\x0000 utilise\xfffeTacle Lourd!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTacle Lourd!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTacle Lourd!
+\xf000ā\x0001\x0000 utilise\xfffeSynchropeine!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSynchropeine!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSynchropeine!
+\xf000ā\x0001\x0000 utilise\xfffeBoule Élek!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBoule Élek!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBoule Élek!
+\xf000ā\x0001\x0000 utilise\xfffeDétrempage!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDétrempage!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDétrempage!
+\xf000ā\x0001\x0000 utilise\xfffeNitrocharge!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeNitrocharge!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeNitrocharge!
+\xf000ā\x0001\x0000 utilise\xfffeEnroulement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEnroulement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEnroulement!
+\xf000ā\x0001\x0000 utilise\xfffeBalayette!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBalayette!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBalayette!
+\xf000ā\x0001\x0000 utilise\xfffeBombe Acide!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBombe Acide!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBombe Acide!
+\xf000ā\x0001\x0000 utilise\xfffeTricherie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTricherie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTricherie!
+\xf000ā\x0001\x0000 utilise\xfffeRayon Simple!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRayon Simple!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRayon Simple!
+\xf000ā\x0001\x0000 utilise\xfffeTen-danse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTen-danse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTen-danse!
+\xf000ā\x0001\x0000 utilise\xfffeAprès Vous!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAprès Vous!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAprès Vous!
+\xf000ā\x0001\x0000 utilise\xfffeChant Canon!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChant Canon!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChant Canon!
+\xf000ā\x0001\x0000 utilise\xfffeÉcho!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉcho!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉcho!
+\xf000ā\x0001\x0000 utilise\xfffeAttrition!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAttrition!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAttrition!
+\xf000ā\x0001\x0000 utilise\xfffeBain de Smog!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBain de Smog!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBain de Smog!
+\xf000ā\x0001\x0000 utilise\xfffeForceAjoutée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeForceAjoutée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeForceAjoutée!
+\xf000ā\x0001\x0000 utilise\xfffePrévention!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePrévention!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePrévention!
+\xf000ā\x0001\x0000 utilise\xfffeInterversion!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeInterversion!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeInterversion!
+\xf000ā\x0001\x0000 utilise\xfffeÉbullition!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉbullition!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉbullition!
+\xf000ā\x0001\x0000 utilise\xfffeExuviation!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeExuviation!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeExuviation!
+\xf000ā\x0001\x0000 utilise\xfffeVibra Soin!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVibra Soin!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVibra Soin!
+\xf000ā\x0001\x0000 utilise\xfffeChâtiment!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChâtiment!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChâtiment!
+\xf000ā\x0001\x0000 utilise\xfffeChute Libre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChute Libre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChute Libre!
+\xf000ā\x0001\x0000 utilise\xfffeChgt Vitesse!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChgt Vitesse!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChgt Vitesse!
+\xf000ā\x0001\x0000 utilise\xfffeProjection!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeProjection!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeProjection!
+\xf000ā\x0001\x0000 utilise\xfffeCalcination!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCalcination!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCalcination!
+\xf000ā\x0001\x0000 utilise\xfffeÀ la Queue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÀ la Queue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÀ la Queue!
+\xf000ā\x0001\x0000 utilise\xfffeAcrobatie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAcrobatie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAcrobatie!
+\xf000ā\x0001\x0000 utilise\xfffeCopie Type!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCopie Type!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCopie Type!
+\xf000ā\x0001\x0000 utilise\xfffeVengeance!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVengeance!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVengeance!
+\xf000ā\x0001\x0000 utilise\xfffeTout ou Rien!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTout ou Rien!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTout ou Rien!
+\xf000ā\x0001\x0000 utilise\xfffePasse-Cadeau!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePasse-Cadeau!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePasse-Cadeau!
+\xf000ā\x0001\x0000 utilise\xfffeFeu d'Enfer!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeu d'Enfer!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeu d'Enfer!
+\xf000ā\x0001\x0000 utilise\xfffeAire d'Eau!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAire d'Eau!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAire d'Eau!
+\xf000ā\x0001\x0000 utilise\xfffeAire de Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAire de Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAire de Feu!
+\xf000ā\x0001\x0000 utilise\xfffeAire d'Herbe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAire d'Herbe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAire d'Herbe!
+\xf000ā\x0001\x0000 utilise\xfffeChangeÉclair!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChangeÉclair!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChangeÉclair!
+\xf000ā\x0001\x0000 utilise\xfffeSurvinsecte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSurvinsecte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSurvinsecte!
+\xf000ā\x0001\x0000 utilise\xfffePiétisol!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePiétisol!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePiétisol!
+\xf000ā\x0001\x0000 utilise\xfffeSouffleGlacé!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeSouffleGlacé!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeSouffleGlacé!
+\xf000ā\x0001\x0000 utilise\xfffeDraco-Queue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDraco-Queue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDraco-Queue!
+\xf000ā\x0001\x0000 utilise\xfffeRengorgement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeRengorgement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeRengorgement!
+\xf000ā\x0001\x0000 utilise\xfffeToile Élek!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeToile Élek!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeToile Élek!
+\xf000ā\x0001\x0000 utilise\xfffeÉclair Fou!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclair Fou!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclair Fou!
+\xf000ā\x0001\x0000 utilise\xfffeTunnelier!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTunnelier!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTunnelier!
+\xf000ā\x0001\x0000 utilise\xfffeDouble Baffe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDouble Baffe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDouble Baffe!
+\xf000ā\x0001\x0000 utilise\xfffeCrèvecœur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCrèvecœur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCrèvecœur!
+\xf000ā\x0001\x0000 utilise\xfffeEncornebois!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeEncornebois!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeEncornebois!
+\xf000ā\x0001\x0000 utilise\xfffeLame Sainte!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLame Sainte!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLame Sainte!
+\xf000ā\x0001\x0000 utilise\xfffeCoquilame!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoquilame!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoquilame!
+\xf000ā\x0001\x0000 utilise\xfffeTacle Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTacle Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTacle Feu!
+\xf000ā\x0001\x0000 utilise\xfffePhytomixeur!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePhytomixeur!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePhytomixeur!
+\xf000ā\x0001\x0000 utilise\xfffeBulldoboule!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeBulldoboule!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeBulldoboule!
+\xf000ā\x0001\x0000 utilise\xfffeCotogarde!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCotogarde!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCotogarde!
+\xf000ā\x0001\x0000 utilise\xfffeExplonuit!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeExplonuit!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeExplonuit!
+\xf000ā\x0001\x0000 utilise\xfffeFrappe Psy!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFrappe Psy!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFrappe Psy!
+\xf000ā\x0001\x0000 utilise\xfffePlumo-Queue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePlumo-Queue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePlumo-Queue!
+\xf000ā\x0001\x0000 utilise\xfffeVent Violent!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeVent Violent!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeVent Violent!
+\xf000ā\x0001\x0000 utilise\xfffePeignée!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffePeignée!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffePeignée!
+\xf000ā\x0001\x0000 utilise\xfffeLancécrou!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLancécrou!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLancécrou!
+\xf000ā\x0001\x0000 utilise\xfffeIncendie!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeIncendie!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeIncendie!
+\xf000ā\x0001\x0000 utilise\xfffeTechnoBuster!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeTechnoBuster!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeTechnoBuster!
+\xf000ā\x0001\x0000 utilise\xfffeChantAntique!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChantAntique!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChantAntique!
+\xf000ā\x0001\x0000 utilise\xfffeLame Ointe!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeLame Ointe!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeLame Ointe!
+\xf000ā\x0001\x0000 utilise\xfffeÈreGlaciaire!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÈreGlaciaire!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÈreGlaciaire!
+\xf000ā\x0001\x0000 utilise\xfffeChargeFoudre!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChargeFoudre!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChargeFoudre!
+\xf000ā\x0001\x0000 utilise\xfffeFlamme Bleue!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlamme Bleue!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlamme Bleue!
+\xf000ā\x0001\x0000 utilise\xfffeDanse du Feu!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeDanse du Feu!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeDanse du Feu!
+\xf000ā\x0001\x0000 utilise\xfffeÉclair Gelé!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclair Gelé!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclair Gelé!
+\xf000ā\x0001\x0000 utilise\xfffeFeu Glacé!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFeu Glacé!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFeu Glacé!
+\xf000ā\x0001\x0000 utilise\xfffeAboiement!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeAboiement!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeAboiement!
+\xf000ā\x0001\x0000 utilise\xfffeChute Glace!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeChute Glace!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeChute Glace!
+\xf000ā\x0001\x0000 utilise\xfffeCoupVictoire!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeCoupVictoire!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeCoupVictoire!
+\xf000ā\x0001\x0000 utilise\xfffeFlamme Croix!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeFlamme Croix!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeFlamme Croix!
+\xf000ā\x0001\x0000 utilise\xfffeÉclair Croix!
+Le \xf000ā\x0001\x0000 sauvage utilise\xfffeÉclair Croix!
+Le \xf000ā\x0001\x0000 ennemi utilise\xfffeÉclair Croix!

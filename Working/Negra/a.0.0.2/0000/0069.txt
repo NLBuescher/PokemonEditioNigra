@@ -1,0 +1,43 @@
+Nexárbol de \xf000Ā\x0001\x0000
+ACEPTAR UNA MISIÓN
+COGER UN PODER REGALO
+VER ESTADO
+Ya hay una misión en curso.
+Nivel acumulado en el Nexárbol: \xf000Ȃ\x0001\x0000
+
+
+◆ Nv. Blanco: \xf000ȃ\x0001\x0000
+◇ Nv. Negro: \xf000ȃ\x0001\x0000
+Poderes Regalo disponibles: \xf000ȃ\x0001\x0000
+Tiempo en la Zona Nexo: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Misiones cumplidas: \xf000Ȅ\x0001\x0000
+ESTADO DEL NEXÁRBOL
+COMENZAR LA MISIÓN
+MISIÓN EN CURSO
+¡Se va a iniciar la misión!\xf000븂\x0001Z
+Ya hay una misión en curso.
+Selecciona una misión entre\xfffelas seis disponibles.
+Selecciona una misión.
+Esta misión no puede aceptarse cuando\xfffehay tres mundos conectados.
+El otro jugador está en la Zona Nexo.\xfffeNo puedes seleccionar esta misión.
+Con una de estas misiones puedes ayudar\xfffea otro jugador.\xf000븁\x0000\xfffeEmpieza seleccionando una “Misión\xfffede ayuda" de entre las disponibles.
+Has escogido una misión diferente.\xfffeSelecciona una “Misión de ayuda".
+
+
+
+
+
+
+SÍ
+NO
+¿Quieres coger este Poder Regalo\xfffedel Nexárbol?
+
+PODERES REGALO DISPONIBLES
+¡Has cogido un \xf000Ĝ\x0001\x0000\xfffedel Nexárbol!\xf000븁\x0000\xfffeEl \xf000Ĝ\x0001\x0000 se ha registrado\xfffeen el C-Gear.
+COGER ESTE PODER
+Selecciona el Poder Regalo que quieras\xfffedel Nexárbol.
+PODER REGALO REGISTRADO ACTUALMENTE
+No has registrado ningún Poder Regalo.
+Regalosf.: \xf000ȃ\x0001\x0000/vez
+\xf000봂\x0000◆ Disponible con Nivel Blanco: \xf000Ȃ\x0001\x0000 ◆\xfffe\xfffeNiveles actuales:\xfffe◇ Nivel Negro: \xf000Ȃ\x0001\x0002  ◆ Nivel Blanco: \xf000Ȃ\x0001\x0001
+\xf000봂\x0000◇ Disponible con Nivel Negro: \xf000Ȃ\x0001\x0000 ◇\xfffe\xfffeNiveles actuales:\xfffe◇ Nivel Negro: \xf000Ȃ\x0001\x0002  ◆ Nivel Blanco: \xf000Ȃ\x0001\x0001

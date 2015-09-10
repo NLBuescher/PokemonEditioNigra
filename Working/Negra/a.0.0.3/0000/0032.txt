@@ -1,0 +1,15 @@
+¡Hola! Tú entrenas Pokémon, ¿verdad?\xf000븁\x0000\xfffe¡Cuando estás de viaje, es muy útil llevar\xfffesiempre contigo alguna Poción!
+¡Me alegro de haber comprado\xfffemás Poké Balls!\xf000븁\x0000\xfffe¡Aunque antes he querido atrapar\xfffeun Pokémon y se me ha escapado!
+¡Eh, oye, tú!\xf000븁\x0000\xfffe¿Qué te gusta más?\xfffe¿Jugar en casa o fuera de casa?
+Claro, claro. Ya veo.\xf000븁\x0000\xfffeY otra pregunta:\xfffe¿Qué te interesa más?\xf000븁\x0000\xfffe¿Lo que sabe todo el mundo\xfffeo lo que no sabe nadie?
+¿Sí? ¿En serio?\xf000븁\x0000
+¡Veo que eres una persona equilibrada!
+¡Veo que eres una persona muy activa!
+¡Veo que eres una persona\xfffecon una gran curiosidad!
+¡Veo que eres una persona\xfffebastante tranquila!
+¡Veo que eres una persona\xfffeun tanto maniática!
+FUERA DE CASA
+EN CASA
+CUALQUIERA DE LAS DOS
+LO QUE SABE TODO EL MUNDO
+LO QUE NO SABE NADIE

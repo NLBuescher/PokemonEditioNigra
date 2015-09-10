@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Verbindung wird getrennt.
+
+
+
+
+
+
+
+
+\xf000Ā\x0001\x0000 hat die Kontaktebene\xfffevon \xf000Ā\x0001\x0001 betreten.
+\xf000Ā\x0001\x0000 ist in die eigene\xfffeKontaktebene zurückgekehrt.
+Eine Verbindung zur Welt von\xfffe\xf000Ā\x0001\x0000 wurde hergestellt!
+\xf000Ā\x0001\x0000 ist in die eigene\xfffeSpielwelt zurückgekehrt.
+Gleich geht's los! Eine Mission!\xfffeTeilnahme über das Feld „TEILNEHMEN“.
+Gleich geht's los! Eine Mission!\xfffeBitte warte einen Augenblick...
+Offenbar in eine Mission verwickelt...
+Die Mission war erfolgreich!
+Die Mission ist fehlgeschlagen...
+\xf000Ā\x0001\x0000 erhält Transferkraft aus\xfffeder Kontaktebene von \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 erhält Transferkraft\xfffeaus der eigenen Kontaktebene!
+\xf000Ā\x0001\x0000 hält sich an diesem Ort auf.
+Verbindungsaufbau zur Spielwelt\xfffevon \xf000Ā\x0001\x0000. Bitte warten...
+Verbindungsaufbau zu den Spielwelten von\xfffe\xf000Ā\x0001\x0000 und \xf000Ā\x0001\x0001. Bitte warten...
+\xf000Ā\x0001\x0000 hält sich in\xfffenördlicher Richtung (↑) auf.
+\xf000Ā\x0001\x0000 hält sich\xfffein südlicher Richtung (↓) auf.
+\xf000Ā\x0001\x0000 hält sich\xfffein östlicher Richtung (→) auf.
+\xf000Ā\x0001\x0000 hält sich\xfffein westlicher Richtung (←) auf.
+\xf000Ā\x0001\x0000 ist verschwunden, müsste sich\xfffeaber irgendwo in der Nähe (?) verstecken.
+Diesen Ort hast du noch nicht besucht.
+Jemand befindet sich in der näheren\xfffeUmgebung und möchte spielen!
+Jemand hat sich in diese Spielwelt\xfffebegeben, um zu spielen!
+Verbindungsaufbau... suche die Umgebung\xfffeder Kontaktebene nach Spielern ab.
+Jemand ist zu Besuch in dieser Spielwelt!
+Die Verbindung zur Spielwelt eines\xfffeSpielers droht abzureißen...
+\xf000Ā\x0001\x0000 ist hier gerade in einen\xfffeKampf verwickelt.
+Berühre den Ort, wo sich der Abenteurer\xfffeaufhält, um dich dorthin zu teleportieren.
+Berühre den Ort, wo sich der Abenteurer\xfffeaufhält, um dich dorthin zu teleportieren.
+Berühre den Ort, wo sich der Abenteurer\xfffeaufhält, um dich dorthin zu teleportieren.
+Berühre den Ort, wo sich der Abenteurer\xfffeaufhält, um dich dorthin zu teleportieren.
+Berühre den Ort, wo das Item versteckt\xfffewerden soll, um dorthin zu gelangen.
+Berühre den Ort, wo sich der Abenteurer\xfffeaufhält, um dich dorthin zu teleportieren.
+
+
+
+
+
+Berühren, um die Kontaktebene zu betreten.
+Deine Spielwelt
+Spielwelt von \xf000Ā\x0001\x0000
+O.K.
+ZURÜCK
+
+
+Du untersuchst den Kontaktbaum\xfffedeiner eigenen Kontaktebene.
+Du untersuchst den Kontaktbaum\xfffeder Kontaktebene von \xf000Ā\x0001\x0000.
+
+
+
+Du bist zurück in deiner eigenen Spielwelt\xfffeund nimmst wieder deine normale Gestalt an.
+Während einer Mission kannst du keine\xfffeandere Kontaktebene betreten!
+Während einer Mission kannst du keine\xfffeandere Kontaktebene betreten!
+Du hast die Welt von \xf000Ā\x0001\x0000 betreten.\xfffeDeine Gestalt hat sich verändert!
+Es konnte noch keine Verbindung zu einer\xfffeanderen Spielwelt aufgebaut werden...
+Bitte warte auf der Brücke, bis ein\xfffeanderer Spieler gefunden wurde...
+Von hier aus kannst du in deine\xfffeursprüngliche Spielwelt zurückkehren.\xf000븁\x0000\xfffeWillst du zurück in deine eigene Spielwelt?
+
+Du bist zurück in deiner eigenen\xfffeKontaktebene. Die andere Spielwelt\xf000븀\x0000\xfffeist verschwunden.
+Mission fehlgeschlagen!\xfffeDa war wohl jemand schneller als du...\xf000븁\x0000\xfffeDie Spielwelt ist verschwunden. Du bist\xfffewieder in deiner Kontaktebene.
+Mission fehlgeschlagen!\xfffeDie Zeit ist abgelaufen...\xf000븁\x0000\xfffeDie Spielwelt ist verschwunden. Du bist\xfffewieder in deiner Kontaktebene.
+Du wurdest plötzlich zu deinem\xfffeKontaktbaum zurückgeschickt!\xf000븁\x0000\xfffeDie andere Spielwelt ist verschwunden.
+Du wurdest plötzlich zu deinem\xfffeKontaktbaum zurückgeschickt!\xf000븁\x0000\xfffeDie andere Spielwelt ist verschwunden.
+
+Mission fehlgeschlagen!\xfffeDer andere Spieler hat abgelehnt...\xf000븁\x0000\xfffeDie Spielwelt ist verschwunden. Du bist\xfffewieder in deiner Kontaktebene.
+
+
+
+Eine Mission zu deiner Unterstützung\xfffewurde gestartet.\xf000븁\x0000\xfffeDu kehrst in deine eigene Spielwelt zurück.\xf000븁\x0000

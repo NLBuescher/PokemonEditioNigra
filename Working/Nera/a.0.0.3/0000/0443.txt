@@ -1,0 +1,15 @@
+È una mia vecchia Poké Ball. Tieni, te la\xfffevoglio regalare!\xf000븁\x0000
+Senza Poké Ball non si possono catturare\xfffei Pokémon!\xf000븁\x0000\xfffeCe ne sono di diversi tipi, impara a usarle\xfffetutte!
+Squeeeeeeeee!
+Ehi! Giochiamo alla Pokémorra cinese!
+Come? Non ti va? Peccato!
+Iniziamo allora! Uno, due, tre... via!
+Tu hai Fuoco e io Erba.\xf000븁\x0000\xfffeI Pokémon di tipo Erba sono deboli contro\xfffequelli di tipo Fuoco.\xf000븀\x0000\xfffeQuindi hai vinto tu.
+Tu hai Fuoco e io Acqua.\xf000븁\x0000\xfffeI Pokémon di tipo Fuoco sono deboli\xfffecontro quelli di tipo Acqua.\xf000븀\x0000\xfffeQuindi ho vinto io!
+Tu hai Acqua e io Fuoco.\xf000븁\x0000\xfffeI Pokémon di tipo Fuoco sono deboli\xfffecontro quelli di tipo Acqua.\xf000븀\x0000\xfffeQuindi hai vinto tu.
+Tu hai Acqua e io Erba.\xf000븁\x0000\xfffeI Pokémon di tipo Acqua sono deboli\xfffecontro quelli di tipo Erba.\xf000븀\x0000\xfffeQuindi ho vinto io!
+Tu hai Erba e io Acqua.\xf000븁\x0000\xfffeI Pokémon di tipo Acqua sono deboli\xfffecontro quelli di tipo Erba.\xf000븀\x0000\xfffeQuindi hai vinto tu.
+Tu hai Erba e io Fuoco...\xf000븁\x0000\xfffeI Pokémon di tipo Erba sono deboli contro\xfffequelli di tipo Fuoco...\xf000븀\x0000\xfffeQuindi ho vinto io!
+FUOCO
+ERBA
+ACQUA

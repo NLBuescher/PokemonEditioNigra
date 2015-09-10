@@ -1,0 +1,8 @@
+Reste dans le chemin et te voilà dehors;\xfffeécarte-t'en même un peu et perds-toi\xf000븀\x0000\xfffedans un labyrinthe naturel.\xf000븁\x0000\xfffeQuel sera ton choix?
+Artie: Devant nous se dresse\xfffela Forêt d'Empoigne!\xf000븁\x0000\xfffeTout en trompe-l'œil. S'ils se sont\xfffeenfuis ici, ce ne sera pas facile de\xf000븀\x0000\xfffeles retrouver!\xf000븁\x0000
+Oh! Un Dresseur en voyage!\xfffeTu entraînes des Pokémon?\xf000븀\x0000\xfffeAlors prends ceci si tu le veux bien.\xf000븁\x0000
+Éclate-Roc permet parfois de diminuer\xfffela Défense de l'ennemi.\xf000븁\x0000\xfffeEt sur les Pokémon de type Normal\xfffequ'utilise Aloé, les résultats sont\xf000븀\x0000\xfffespectaculaires!
+Il y a un rocher d'entraînement.\xf000븁\x0000\xfffeVoulez-vous que \xf000Ă\x0001\x0000\xfffeessaye de le casser?
+\xf000Ă\x0001\x0000 essaye de\xfffecasser le rocher!\xf000븁\x0000\xfffeIl n'en brise qu'un fragment, mais...\xfffec'est un Morceau d'Étoile!\xf000븁\x0000
+Il y a un rocher d'entraînement.
+Vers: Forêt d'Empoigne\xfffeAvez-vous assez d'Antidotes?

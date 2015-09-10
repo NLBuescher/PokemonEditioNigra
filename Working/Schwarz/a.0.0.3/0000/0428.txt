@@ -1,0 +1,54 @@
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIch verstehe ja, dass du am liebsten\xfffegleich mit deinem Pokémon losziehen\xf000븀\x0000\xfffewürdest...\xf000븁\x0000\xfffeDu solltest dich aber zunächst bei\xfffeProf. Esche bedanken.\xf000븁\x0000\xfffeSchau mal, zu ihrem Labor geht es\xfffehier entlang!\xf000븁\x0000
+Cheren: Könntest du kurz zu Bell\xfffenach Hause gehen?\xf000븁\x0000\xfffeSie hat es sich gewiss zu Hause\xfffebequem gemacht, so wie immer.\xf000븀\x0000\xfffeBell bringt echt nichts aus der Ruhe.
+Bell: Was vorhin bei mir zu Hause passiert\xfffeist, bleibt unser Geheimnis, okay?
+Cheren: Jetzt aber los!\xfffeAuf zu Prof. Esche!\xf000븁\x0000
+Bell: Hey!\xfffe\xf000Ā\x0001\x0000, warte auf mich!\xf000븁\x0000
+Bell: Hey!\xfffe\xf000Ā\x0001\x0000, nun warte doch!\xf000븁\x0000
+Mutter: Da seid ihr ja!\xfffeUnd, was hat Prof. Esche gesagt?\xf000븁\x0000\xfffeSie hat euch also gebeten, den\xfffePokédex zu vervollständigen?\xf000븁\x0000\xfffeDas ist ja großartig!\xf000븁\x0000
+Nun ja...\xf000븁\x0000\xfffeAlso ehrlich gesagt, habe ich\xfffedas schon vorher gewusst.\xf000븁\x0000
+In diesem Sinne, nehmt\xfffebitte diese Karten mit!\xf000븁\x0000
+Mutter: Hier, bitte schön, Cheren.\xf000븁\x0000
+Cheren: Ich werde sorgfältig\xfffedamit umgehen.\xf000븁\x0000
+Mutter: Hier, auch für dich, Bell...\xf000븁\x0000
+Bell: Vielen herzlichen Dank!\xf000븁\x0000
+Mutter: Das Zimmer von \xf000Ā\x0001\x0000\xfffewerde ich schon aufräumen.\xf000븀\x0000\xfffeMacht euch darum bitte keine Gedanken.\xf000븁\x0000\xfffeO.K., \xf000Ā\x0001\x0000?\xf000븁\x0000
+Mutter: Pokémon sind wirklich\xfffefaszinierende Geschöpfe!\xf000븁\x0000\xfffeErstaunlich, wie diese kleinen Kerlchen\xfffesolch ein Chaos veranstalten können!\xf000븁\x0000\xfffeDas sieht man ihnen wirklich nicht an!\xf000븁\x0000\xfffeWenn man mit solchen Pokémon unterwegs\xfffeist, hat man gar nichts zu befürchten!\xf000븁\x0000
+Keine Sorge, ich werde euren Eltern\xfffedie besten Grüße von euch ausrichten!\xf000븁\x0000\xfffeIhr werdet nicht nur Pokémon, sondern\xfffeauch viele großartige Orte der\xf000븀\x0000\xfffeEinall-Region entdecken und so zu\xf000븀\x0000\xfffereifen Persönlichkeiten heranwachsen.\xf000븁\x0000\xfffeAlso dann, gute Reise!\xf000븁\x0000
+Cheren: Ein Blick auf die Karte verrät dir\xfffeim Nu, wo du dich gerade befindest...\xf000븁\x0000\xfffeEine tolle Sache, nicht wahr?\xf000븁\x0000\xfffeDann begeben wir uns mal auf Route 1,\xfffedenn Prof. Esche erwartet uns bereits.\xf000븁\x0000
+Bell: Augenblick, ich komme mit!\xfffeLos, \xf000Ā\x0001\x0000, wir sollten uns sputen!\xf000븁\x0000
+Bell: \xf000Ā\x0001\x0000, hier entlang!\xf000븁\x0000
+Cheren: Bell möchte, dass wir drei\xfffeden ersten Schritt unserer Reise\xf000븀\x0000\xfffegemeinsam tun.\xf000븁\x0000
+Bell: Also, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeLasst uns alle drei zugleich\xfffeRoute 1 betreten!\xf000븁\x0000
+Cheren: Also, los geht's!\xf000븁\x0000
+
+Bell: Eins, zwei und LOS!\xf000븁\x0000
+Die moderne Technik ist schon was Tolles.\xf000븁\x0000\xfffeMan denke da nur mal an die vielen\xfffeverschiedenen Möglichkeiten,\xf000븀\x0000\xfffedie uns die Infrarotverbindung eröffnet!
+Glaubst du, so eine Reise mit Pokémon als\xfffeBegleiter kann einen Menschen verändern?
+Du hast recht! Auf einer Reise denkt man\xfffeeben viel nach und entwickelt sich weiter!
+Du hast recht. Man sollte sich nicht so\xfffeviele Gedanken machen und seine Reise\xf000븀\x0000\xfffeeinfach genießen!
+Auf der Welt soll es unzählige Pokémon\xfffeund viele verschiedene Menschen geben...\xf000븁\x0000\xfffeWenn ich das höre, verspüre ich mit einem\xfffeMal so ein Kribbeln in den Fingern!
+Bell: Meine Güte! Ich bin vielleicht\xfffeaufgeregt, kann ich dir sagen.\xf000븁\x0000
+Cheren: Ja, so geht es mir auch! Aber\xfffelasst uns gehen, Prof. Esche wartet.\xf000븁\x0000
+Avenitia\xf000븁\x0000\xfffe\xfffeDie Stadt, in der alles\xfffeseinen Ursprung hat
+Haus von \xf000Ā\x0001\x0000
+Haus von Cheren
+Haus von Bell
+Pokémon-Labor von Prof. Esche
+Cheren: Sag mal, \xf000Ā\x0001\x0000, ist der\xfffeVortrag von LeBelle schon vorbei?\xf000븁\x0000
+Bell: Entschuldigt bitte, ihr zwei!\xf000븁\x0000\xfffeIch hatte mich zu den Arenaleitern von\xfffeOrion City aufgemacht, doch in der\xf000븀\x0000\xfffeZwischenzeit war alles bereits vorbei...\xf000븁\x0000
+Cheren: Ich habe mich auch nicht gerade\xfffemit Ruhm bekleckert!\xf000븁\x0000\xfffeDas Finstrio hat meine Unachtsamkeit\xfffegeschickt genutzt, um G-Cis die Flucht\xf000븀\x0000\xfffezu ermöglichen.\xf000븁\x0000
+Bell: G-Cis? Finstrio?\xfffeWovon sprichst du überhaupt?\xf000븁\x0000
+Cheren: Über den Vorfall im Schloss werde\xfffeich dir später ausführlich berichten.\xf000븁\x0000\xfffeViel wichtiger ist jedoch, was ihr nun\xfffeunternehmen möchtet!\xf000븁\x0000
+Bell: Also ich... ich habe vor, zum\xfffeWeißen Wald zu gehen!\xf000븁\x0000
+Bell: Also ich werde der Schwarzen Stadt\xfffeeinen Besuch abstatten!\xf000븁\x0000
+Cheren: Ach so, hinter Route 16 also,\xfffedie an Rayono City anschließt!\xf000븁\x0000\xfffeVerstehe, in der Gegend kann man\xfffesicher noch viele unbekannte\xf000븀\x0000\xfffePokémon treffen!\xf000븁\x0000
+Eberhard Esche: Na, ihr kommt ja\xfffewie gerufen!\xf000븁\x0000\xfffeGut, dass ihr alle beisammen seid!\xf000븁\x0000
+Neulich habe ich von einem Bekannten\xfffeDaten des Nationalen Pokédex erhalten.\xf000븁\x0000\xfffeWo wir gerade dabei sind, kann ich gleich\xfffeeuren Pokédex zum Nationalen Pokédex\xf000븀\x0000\xfffeerweitern.\xf000븁\x0000\xfffeDas wird euren Aktionsradius ganz\xfffeschön vergrößern, stimmt's?\xf000븁\x0000\xfffeSo werdet ihr automatisch\xfffemehr Pokémon begegnen.\xf000븁\x0000\xfffeGebt mir kurz einmal euren Pokédex!\xf000븁\x0000
+Für dich, Bell!\xf000븁\x0000
+Und für dich, Cheren!\xf000븁\x0000
+Und dich wollen wir natürlich\xfffeauch nicht vergessen!\xf000븁\x0000
+Der Pokédex von \xf000Ā\x0001\x0000 wurde\xfffezum Nationalen Pokédex erweitert.
+Eberhard Esche: Somit könnt ihr nun\xfffenach Lust und Laune vom Pokédex zum\xf000븀\x0000\xfffeNationalen Pokédex wechseln.\xf000븁\x0000\xfffeDiesen zu vervollständigen ist gewiss\xfffekein Kinderspiel, aber seid ganz\xf000븀\x0000\xfffelocker und freut euch darauf,\xf000븀\x0000\xfffeviele neue Pokémon zu treffen.\xf000븁\x0000
+Bell: Klasse, ein Nationaler Pokédex!\xf000븁\x0000\xfffeEs gibt ja immer noch so viele Pokémon,\xfffedie mir völlig unbekannt sind!\xf000븁\x0000\xfffeHuch! Ich muss den Pokédex ja\xfffenoch Mama und Papa zeigen!\xf000븁\x0000\xfffeAlso dann, ihr zwei, man sieht sich!\xf000븁\x0000
+Cheren: Bell, wie sie leibt und lebt!\xfffeDaran ändert auch das Reisen nicht viel.\xf000븁\x0000
+Ich werde noch mal zur Route 1\xfffezurückkehren und von dort die\xf000븀\x0000\xfffeEinall-Region erkunden.\xf000븁\x0000\xfffeIch werde dort bestimmt viele neue\xfffeEntdeckungen machen, die mich\xf000븀\x0000\xfffeauf die Fährte der Sieben Weisen bringen.\xf000븁\x0000\xfffeAlso dann, alles Gute, \xf000Ā\x0001\x0000!\xfffeWenn wir uns wiedersehen, lassen wir\xf000븀\x0000\xfffeunsere Pokémon gegeneinander antreten!\xf000븁\x0000

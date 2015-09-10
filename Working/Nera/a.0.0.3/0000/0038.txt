@@ -1,0 +1,39 @@
+Tra un po' si mangia! È valsa la pena di\xfffeaspettare in fila!\xf000븁\x0000
+Vengo dalla lontana Quattroventi per\xfffeassaggiare la specialità locale!\xf000븁\x0000
+Le prelibatezze che fanno qui vanno\xfffedavvero a ruba!\xf000븁\x0000
+Wow! C'è davvero un sacco di gente!\xfffeC'è sempre la coda nei negozi in voga!\xf000븁\x0000
+In questo negozio si può comprare la\xfffespecialità di Austropoli!\xf000븁\x0000\xfffeVuoi metterti anche tu in fila per\xfffecomprarla?
+Una cosa è certa... ci sarà un bel po' da\xfffeaspettare!\xf000븁\x0000\xfffePerò ne vale davvero la pena!\xf000븁\x0000
+È vero, in effetti c'è tanta gente.\xf000븁\x0000\xfffeMa, detto fra noi, oggi ce n'è meno del\xfffesolito. Gli altri giorni a quest'ora è già\xf000븀\x0000\xfffetutto venduto!\xf000븁\x0000
+In questo negozio si può comprare la\xfffespecialità di Austropoli!\xf000븁\x0000\xfffeOggi però è già tutto esaurito.\xfffeL'ultimo Conostropoli l'ho comprato io!\xf000븁\x0000
+In questo negozio si può comprare la\xfffespecialità di Austropoli!\xf000븁\x0000\xfffeOggi però è già tutto esaurito.\xfffeL'ultimo Conostropoli l'ho comprato io!\xf000븁\x0000\xfffeProva a tornare un altro giorno.\xf000븁\x0000
+Ecco la specialità di Austropoli:\xfffeil Conostropoli!\xf000븁\x0000\xfffeUno costa $100. Vuoi comprarlo?
+Davvero? Non lo vuoi proprio comprare?\xfffeNon ne sono rimasti molti!
+Grazie per l'acquisto!\xf000븁\x0000\xfffeGoditi questa incredibile prelibatezza!\xf000븁\x0000
+Grazie tante!\xf000븁\x0000\xfffeOh, mi dispiace, ma a quanto pare i soldi\xfffenon bastano!\xf000븁\x0000\xfffeSarà per la prossima volta!\xf000븁\x0000
+Grazie tante!\xf000븁\x0000\xfffeOh, mi dispiace, ma a quanto pare la Borsa\xfffeè piena!\xf000븁\x0000\xfffeSarà per la prossima volta!\xf000븁\x0000
+Dopo tutta quell'attesa! Mi dispiace\xfffedavvero. Torna ancora!\xf000븁\x0000
+La specialità di Austropoli, il famoso\xfffeConostropoli è in vendita solo qui!\xf000븁\x0000\xfffePer volontà del proprietario, non è però\xfffedisponibile nei mesi invernali!\xf000븀\x0000\xfffeTorna quando farà più caldo!
+Compra
+Esci
+Atelier Austropoli
+Il famoso Conostropoli non è in\xfffevendita nei freddi mesi invernali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

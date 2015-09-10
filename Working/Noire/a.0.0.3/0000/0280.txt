@@ -1,0 +1,33 @@
+Cet arbre semble pouvoir être\xfffecoupé. Utiliser Coupe?
+\xf000Ă\x0001\x0000 utilise Coupe.\xf000븁\x0000
+Cet arbre semble pouvoir être coupé.
+
+
+
+C'est un gros rocher, mais un Pokémon\xfffepourrait le déplacer. Utiliser Force?
+
+C'est un gros rocher, mais un Pokémon\xfffepeut être apte à le déplacer.
+Force permet de déplacer le rocher.
+\xf000Ă\x0001\x0000 utilise Force.\xf000븁\x0000
+La capacité Force de \xf000Ă\x0001\x0000\xfffepermet de déplacer le rocher.
+
+L'eau est teintée d'un bleu foncé...\xfffeVoulez-vous utiliser Surf?
+\xf000Ă\x0001\x0000 utilise Surf.\xf000븁\x0000
+Vous ne pouvez pas utiliser Surf s'il y a\xfffequelqu'un avec vous.
+
+
+
+
+
+
+
+C'est une grande cascade.\xfffeVoulez-vous utiliser Cascade?
+\xf000Ă\x0001\x0000 utilise Cascade.\xf000븁\x0000
+Un mur d'eau s'abat dans un vacarme\xfffeassourdissant.
+
+\xf000Ă\x0001\x0000 utilise Flash.\xf000븁\x0000
+\xf000Ă\x0001\x0000 utilise Téléport.\xf000븁\x0000
+\xf000Ă\x0001\x0000 utilise Tunnel!\xf000븁\x0000
+La mer est profonde! Un Pokémon\xfffepourrait vous aider à plonger.
+La mer est profonde!\xfffeVoulez-vous utiliser Plongée?
+\xf000Ă\x0001\x0000 utilise Plongée!\xf000븁\x0000

@@ -1,0 +1,10 @@
+Ein \xf000ā\x0001\x0000 hüpft munter umher!
+Das \xf000ā\x0001\x0000 freut sich,\xfffe\xf000Ā\x0001\x0001 zu treffen!\xf000븁\x0000
+\xf000ā\x0001\x0000 möchte bei\xfffe\xf000Ā\x0001\x0001 bleiben...\xf000븁\x0000
+Möchtest du es in dein Team aufnehmen?
+Soll \xf000ā\x0001\x0000 ins Waldesinnere gehen?
+Das Waldesinnere ist voll.\xfffe\xf000ā\x0001\x0000 konnte nicht dorthin gehen!
+Soll \xf000ā\x0001\x0000 auf die Waldlichtung\xfffegehen?
+Die Waldlichtung ist voll.\xfffe\xf000ā\x0001\x0000 konnte nicht dorthin gehen!
+\xf000ā\x0001\x0000 ist\xfffeins Waldesinnere gegangen.\xf000븁\x0000
+\xf000ā\x0001\x0000 ist\xfffeauf die Waldlichtung gegangen!\xf000븁\x0000

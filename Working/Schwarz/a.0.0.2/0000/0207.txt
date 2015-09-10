@@ -1,0 +1,17 @@
+Willkommen bei Geonet, dem\xfffeHightech-Globus!\xf000븁\x0000
+Was möchtest du tun?
+Hier kannst du eintragen, wo du lebst.\xf000븁\x0000\xfffeDiese Information wird Freunden, aber\xfffeauch Fremden, über die Drahtlose\xf000븀\x0000\xfffeDS-Datenübertragung oder über die\xf000븀\x0000\xfffeNintendo WFC mitgeteilt.\xf000븁\x0000\xfffeMöchtest du das Gebiet, in dem du\xfffelebst, auf dem Globus eintragen?
+Bitte wähle das Gebiet, in dem du lebst.
+Bitte wähle die Region, in der du lebst.
+Sobald du dich eingetragen hast, kannst\xfffedu die Angaben nicht mehr ändern.\xf000븁\x0000\xfffeSoll dieser Ort als der eingetragen\xfffewerden, an dem du lebst?
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Ja
+Nein
+Globus ansehen
+Eintragen
+Zurück
+PRÜFEN
+Du hast folgenden Ort eingetragen:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Platziere den Cursor. Drücke den\xfffeX-Knopf, um registr. Orte anzuzeigen.
+ENDE

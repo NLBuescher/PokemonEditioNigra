@@ -1,0 +1,378 @@
+
+
+
+\xf000ē\x0001\x0000
+OUI
+NON
+Ce qui est à la mode?\xfffeCe que les gens aiment?\xf000븁\x0000\xfffeCes questions, tu te les es\xfffecertainement déjà posées.\xf000븁\x0000\xfffeTu te trouves au QG du\xfffeBureau d'Enquêtes Rencontres.\xf000븁\x0000\xfffeC'est ici que les agneaux perdus comme\xfffetoi trouvent la vérité.\xf000븁\x0000\xfffeJe vois que tes yeux débordent\xfffede curiosité...\xf000븁\x0000\xfffeBien! Je t'accorde spécialement\xfffele titre d'Enquêteur du Bureau!\xf000븁\x0000
+\xf000Ā\x0001\x0001 reçoit le titre\xfffed'Enquêteur du Bureau!\xf000븁\x0000
+Un Enquêteur n'a qu'un seul objectif:\xfffefaire les enquêtes qu'on lui commande!\xf000븁\x0000\xfffeEt la première commande à honorer\xfffeest la mienne.\xf000븁\x0000\xfffeEnsuite, il faut choisir l'enquête de\xfffeson choix sur le Radar Enquête.\xf000븁\x0000\xfffeIl suffit ensuite de rencontrer, ou\xfffemême de croiser beaucoup de gens.\xf000븁\x0000\xfffeLe Radar s'actionnera tout seul. Et\xfffebien sûr, qui dit travail dit récompense!\xf000븁\x0000\xfffeEnquêteur \xf000Ā\x0001\x0001!\xfffeNe nous déçois pas!\xf000븁\x0000
+Bienvenue, Enquêteur \xf000Ā\x0001\x0001!\xfffeLes enquêtes avancent bien?\xf000븁\x0000
+Tu as effectué toutes les enquêtes.\xf000븁\x0000\xfffeTu peux maintenant enquêter sur\xfffele sujet de ton choix.
+Alors, qu'allons-nous faire aujourd'hui?
+Faire une enquête
+Faire son rapport
+Rien du tout
+Vérifier une enquête
+Tu veux faire une enquête?\xf000븁\x0000\xfffeCommence par choisir le type d'enquête.
+Enquête par temps
+Enquête par panel
+Retour
+Une enquête par temps?\xf000븁\x0000\xfffeIl s'agit de rassembler des données\xfffedans un temps limité.\xf000븁\x0000
+Une enquête par panel?\xf000븁\x0000\xfffeIl s'agit de rassembler les données\xfffed'un nombre fixe de personnes.\xf000븁\x0000
+Choisis la commande d'enquête\xfffeque tu veux effectuer!
+Très bien.\xf000븁\x0000\xfffeSi tu veux recevoir une commande,\xfffereviens me voir!
+Tu as déjà reçu une commande\xfffed'enquête!\xf000븀\x0000\xfffeAllez, tu dois l'honorer!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles annuler\xfffela commande?
+Cela veut dire que tu vas perdre\xfffetoutes les données que tu as récoltées\xf000븀\x0000\xfffepour cette enquête... Aucun regret?
+Très bien...\xf000븁\x0000\xfffeSi tu veux recevoir une commande,\xfffereviens nous voir...
+Alors, continue ton enquête!
+Avez-vous Pokémon Noir / Pokémon Blanc?
+Avec quel Pokémon avez-vous commencé?
+Combien d'heures avez-vous joué?
+Y a-t-il plus de garçons ou de filles?
+Quel est le travail le plus fréquent?
+Quel est le loisir le plus populaire?
+Préférez-vous combattre ou échanger?
+Quel genre de Pokémon préfère-t-on?
+Quel est votre type de Pokémon favori?
+Êtes-vous plutôt ville ou campagne?
+Qu'est-ce qui est le plus précieux?
+Comment aime-t-on autrui?
+Quelle est la saison préférée?
+Qu'en est-il de l'art?
+Quelle est la musique favorite?
+Que regarde-t-on?
+Que préférez-vous à l'école?
+Qu'en est-il des études?
+Votre sport préféré?
+Que fait-on pendant les vacances?
+Que veut-on le plus devenir?
+Quel est le Champion d'Arène favori?
+Quel élément du jeu préférez-vous?
+Retour
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 2 heures pour savoir\xfffesi le jeu le plus joué est Pokémon Noir\xf000븀\x0000\xfffeou Pokémon Blanc.\xf000븁\x0000\xfffeJ'ai envie de commencer à y jouer,\xfffeet j'aimerais savoir lequel est\xf000븀\x0000\xfffele plus populaire.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Professeur Pokémon.\xf000븁\x0000\xfffeEnquête plus de 2 heures pour savoir\xfffequel est le Pokémon de départ\xf000븀\x0000\xfffele plus choisi.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeapparemment utile dans ses recherches.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine mère de famille.\xf000븁\x0000\xfffeEnquête plus de 4 heures pour connaître\xfffela durée de jeu la plus fréquente.\xf000븁\x0000\xfffeLe résultat de l'enquête lui permettra\xfffede mieux évaluer le temps de jeu\xf000븀\x0000\xfffede ses enfants.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain magazine.\xf000븁\x0000\xfffeEnquête plus de 4 heures pour savoir\xfffes'il y a plus de garçons ou de filles.\xf000븁\x0000\xfffeIls aimeraient publier le résultat de\xfffel'enquête dans l'édition de demain.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain journaliste.\xf000븁\x0000\xfffeEnquête plus de 4 heures pour savoir\xfffequel est le travail le plus courant.\xf000븁\x0000\xfffeLe résultat de l'enquête l'aidera à\xfffeécrire un article.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine entreprise de loisirs.\xf000븁\x0000\xfffeEnquête plus de 4 heures pour savoir\xfffequel est le loisir le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffepermettra de redéfinir sa stratégie.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 8 heures pour savoir\xfffesi les gens préfèrent combattre\xf000븀\x0000\xfffeou échanger.\xf000븁\x0000\xfffeJe n'arrête pas de jouer ces temps-ci,\xfffeet je suis curieux de savoir comment\xf000븀\x0000\xfffeles autres jouent.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine jeune fille.\xf000븁\x0000\xfffeEnquête plus de 8 heures pour savoir\xfffequel genre de Pokémon est\xf000븀\x0000\xfffele plus populaire.\xf000븁\x0000\xfffeElle aimerait utiliser le résultat de\xfffel'enquête dans son devoir de classe.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Dresseur.\xf000븁\x0000\xfffeEnquête plus de 8 heures pour savoir\xfffequel type de Pokémon\xf000븀\x0000\xfffeest le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile en combat.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine agence immobilière. \xf000븁\x0000\xfffeEnquête plus de 8 heures pour savoir\xfffesi les gens préfèrent la ville\xf000븀\x0000\xfffeou la campagne.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeutile à l'avenir.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 12 heures pour savoir\xfffesi les gens voudraient avoir plus\xf000븀\x0000\xfffede temps ou d'argent.\xf000븁\x0000\xfffeDemande-leur également quelles\xfffesont les personnes ayant le plus\xf000븀\x0000\xfffed'importance à leurs yeux.\xf000븁\x0000\xfffeJ'ai vraiment besoin de le savoir...\xf000븁\x0000\xfffeQuoi? Pourquoi?\xfffeC'est pas tes oignons!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 12 heures pour savoir\xfffesi l'on est plus populaire quand on est\xf000븀\x0000\xfffeintelligent ou sportif,\xf000븁\x0000\xfffeet si les gens accordent davantage\xfffed'importance à l'apparence\xf000븀\x0000\xfffeou à la personnalité.\xf000븁\x0000\xfffeC'est une enquête pour savoir quel\xfffegenre de personne est le plus populaire.\xf000븁\x0000\xfffePardon?\xfffeSi ça me touche particulièrement?\xf000븁\x0000\xfffeMais non! Pas du tout!\xfffeOccupe-toi de ton enquête!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 12 heures pour savoir\xfffequelle saison et quel type de nourriture\xf000븀\x0000\xfffesont les plus populaires...\xf000븁\x0000\xfffeJ'aimerais lui faire goûter un mets\xfffeen accord avec la saison...\xf000븁\x0000\xfffeÀ qui?\xfffeC'est un secret! Arrête de fouiner!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain artiste.\xf000븁\x0000\xfffeEnquête plus de 12 heures pour connaître\xfffela couleur et le genre musical\xf000븀\x0000\xfffeles plus populaires.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile pour créer.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine starlette.\xf000븁\x0000\xfffeEnquête plus de 16 heures pour connaître\xfffele genre musical le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui servira\xfffeà écrire sa nouvelle chanson.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 16 heures pour savoir\xfffequels genres d'émissions de télé et de\xf000븀\x0000\xfffefilms sont les plus populaires.\xf000븁\x0000\xfffeC'est le genre d'information utile pour\xfffebriller dans une conversation, non?\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain écolier.\xf000븁\x0000\xfffeEnquête plus de 16 heures pour savoir\xfffequel est le moment le plus populaire\xf000븀\x0000\xfffeà l'école.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeutile dans sa vie scolaire.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain enseignant.\xf000븁\x0000\xfffeEnquête plus de 16 heures pour savoir\xfffequelles sont les matières les plus\xf000븀\x0000\xfffepopulaires et les moins populaires.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile dans ses cours.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain sportif.\xf000븁\x0000\xfffeEnquête plus de 20 heures pour savoir\xfffequel est le sport le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile sur le terrain.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 20 heures pour savoir\xfffecomment les gens aiment occuper\xf000븀\x0000\xfffeleur temps libre, et où.\xf000븁\x0000\xfffeJ'ai un rendez-vous le week-end prochain,\xfffealors j'aimerais savoir où l'emmener pour\xf000븀\x0000\xfffene pas avoir l'air idiot.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain fan de Pokémon.\xf000븁\x0000\xfffeEnquête plus de 20 heures pour savoir\xfffece que les gens aimeraient devenir\xf000븀\x0000\xfffes'ils pouvaient.\xf000븁\x0000\xfffeLe résultat de l'enquête lui permettra\xfffede faire de la pub pour le jeu.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Champion d'Arène.\xf000븁\x0000\xfffeEnquête plus de 24 heures pour savoir\xfffequi est le Champion le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui servira\xfffepour réorganiser son Arène.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeEnquête plus de 24 heures pour savoir\xfffequel est l'aspect du monde des Pokémon\xf000븀\x0000\xfffeque les gens préfèrent.\xf000븁\x0000\xfffe... Beaucoup de choses arrivent\xfffequand on devient adulte, tu sais...\xf000븁\x0000\xfffe... Et j'ai décidé de me retrancher\xfffeentièrement dans le monde des Pokémon!\xf000븁\x0000\xfffeJe ne veux plus étudier qu'eux!\xf000븁\x0000
+... Oh?\xf000븁\x0000\xfffeTu as déjà croisé tous ces gens?!\xf000븁\x0000\xfffeFormidable, Enquêteur \xf000Ā\x0001\x0001!\xfffeTu as accumulé suffisamment de données.\xf000븁\x0000\xfffeAlors, vite, c'est l'heure du rapport!\xfffeDis-moi le résultat de ton enquête!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 5 personnes pour savoir\xfffesi le jeu le plus joué est Pokémon Noir\xf000븀\x0000\xfffeou Pokémon Blanc.\xf000븁\x0000\xfffeJ'ai envie de commencer à y jouer,\xfffeet j'aimerais savoir lequel est\xf000븀\x0000\xfffele plus populaire.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Professeur Pokémon.\xf000븁\x0000\xfffeCroise au moins 5 personnes pour savoir\xfffequel est le Pokémon de départ\xf000븀\x0000\xfffele plus choisi.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeapparemment utile dans ses recherches.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine mère de famille.\xf000븁\x0000\xfffeCroise au moins 10 personnes pour savoir\xfffela durée de jeu la plus fréquente.\xf000븁\x0000\xfffeLe résultat de l'enquête lui permettra\xfffede mieux évaluer le temps de jeu\xf000븀\x0000\xfffede ses enfants.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain magazine.\xf000븁\x0000\xfffeCroise au moins 10 personnes pour savoir\xfffes'il y a plus de garçons ou de filles.\xf000븁\x0000\xfffeIls aimeraient publier le résultat de\xfffel'enquête dans l'édition de demain.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain journaliste.\xf000븁\x0000\xfffeCroise au moins 10 personnes pour savoir\xfffequel est le travail le plus courant.\xf000븁\x0000\xfffeLe résultat de l'enquête l'aidera à\xfffeécrire un article.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine entreprise de loisirs.\xf000븁\x0000\xfffeCroise au moins 10 personnes pour savoir\xfffequel est le loisir le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui permettra\xfffede redéfinir sa stratégie.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 20 personnes pour savoir\xfffesi les gens préfèrent combattre\xf000븀\x0000\xfffeou échanger.\xf000븁\x0000\xfffeJe n'arrête pas de jouer ces temps-ci,\xfffeet je suis curieux de savoir comment\xf000븀\x0000\xfffeles autres jouent.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine jeune fille.\xf000븁\x0000\xfffeCroise au moins 20 personnes pour savoir\xfffequel genre de Pokémon est\xf000븀\x0000\xfffele plus populaire.\xf000븁\x0000\xfffeElle aimerait utiliser le résultat de\xfffel'enquête dans son devoir de classe.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Dresseur.\xf000븁\x0000\xfffeCroise au moins 20 personnes pour savoir\xfffequel type de Pokémon\xf000븀\x0000\xfffeest le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile en combat.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine agence immobilière. \xf000븁\x0000\xfffeCroise au moins 20 personnes pour savoir\xfffesi les gens préfèrent la ville\xf000븀\x0000\xfffeou la campagne.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeutile à l'avenir.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 30 personnes pour savoir\xfffesi les gens voudraient avoir plus\xf000븀\x0000\xfffede temps ou d'argent.\xf000븁\x0000\xfffeDemande-leur également quelles\xfffesont les personnes ayant le plus\xf000븀\x0000\xfffed'importance à leurs yeux.\xf000븁\x0000\xfffeJ'ai vraiment besoin de le savoir...\xf000븁\x0000\xfffeQuoi? Pourquoi?\xfffeC'est pas tes oignons!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 30 personnes pour savoir\xfffesi l'on est plus populaire quand on est\xf000븀\x0000\xfffeintelligent ou sportif,\xf000븁\x0000\xfffeet si les gens accordent davantage\xfffed'importance à l'apparence\xf000븀\x0000\xfffeou à la personnalité.\xf000븁\x0000\xfffeC'est pour une enquête pour savoir quel\xfffegenre de personne est le plus populaire.\xf000븁\x0000\xfffePardon?\xfffeSi ça me touche particulièrement?\xf000븁\x0000\xfffeMais non! Pas du tout!\xfffeOccupe-toi de ton enquête!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 30 personnes pour savoir\xfffequelle saison et quel type de nourriture\xf000븀\x0000\xfffesont les plus populaires...\xf000븁\x0000\xfffeJ'aimerais lui faire goûter un mets\xfffeen accord avec la saison...\xf000븁\x0000\xfffeÀ qui?\xfffeC'est un secret! Arrête de fouiner!\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain artiste.\xf000븁\x0000\xfffeCroise au moins 30 personnes pour savoir\xfffela couleur et le genre musical\xf000븀\x0000\xfffeles plus populaires.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile pour créer.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'une certaine starlette.\xf000븁\x0000\xfffeCroise au moins 40 personnes pour savoir\xfffele genre musical le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui servira\xfffeà écrire sa nouvelle chanson.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 40 personnes pour savoir\xfffequels genres d'émissions de télé et de\xf000븀\x0000\xfffefilms sont les plus populaires.\xf000븁\x0000\xfffeC'est le genre d'information utile pour\xfffebriller dans une conversation, non?\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain écolier.\xf000븁\x0000\xfffeCroise au moins 40 personnes pour savoir\xfffequel est le moment le plus populaire\xf000븀\x0000\xfffeà l'école.\xf000븁\x0000\xfffeLe résultat de l'enquête lui sera\xfffeutile dans sa vie scolaire.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain enseignant.\xf000븁\x0000\xfffeCroise au moins 40 personnes pour savoir\xfffequelles sont les matières les plus\xf000븀\x0000\xfffepopulaires et les moins populaires.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile dans ses cours.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain sportif.\xf000븁\x0000\xfffeCroise au moins 50 personnes pour savoir\xfffequel est le sport le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui\xfffesera utile sur le terrain.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 50 personnes pour savoir\xfffecomment les gens aiment occuper\xf000븀\x0000\xfffeleur temps libre, et où.\xf000븁\x0000\xfffeJ'ai un rendez-vous le week-end prochain,\xfffealors j'aimerais savoir où l'emmener pour\xf000븀\x0000\xfffene pas avoir l'air idiot.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain fan de Pokémon.\xf000븁\x0000\xfffeCroise au moins 50 personnes pour savoir\xfffece que les gens aimeraient devenir\xf000븀\x0000\xfffes'ils pouvaient.\xf000븁\x0000\xfffeLe résultat de l'enquête lui permettra\xfffede faire de la pub pour le jeu.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffed'un certain Champion d'Arène.\xf000븁\x0000\xfffeCroise au moins 100 personnes pour savoir\xfffequi est le Champion le plus populaire.\xf000븁\x0000\xfffeLe résultat de l'enquête lui servira\xfffepour réorganiser son Arène.\xf000븁\x0000
+Cette enquête est une commande...\xf000븁\x0000\xfffede moi.\xf000븁\x0000\xfffeCroise au moins 100 personnes pour savoir\xfffequel est l'aspect du monde des Pokémon\xf000븀\x0000\xfffeque les gens préfèrent.\xf000븁\x0000\xfffe... Beaucoup de choses arrivent\xfffequand on devient adulte, tu sais...\xf000븁\x0000\xfffe... Et j'ai décidé de me retrancher\xfffeentièrement dans le monde des Pokémon!\xf000븁\x0000\xfffeJe ne veux plus étudier qu'eux!\xf000븁\x0000
+... Oh?\xf000븁\x0000\xfffeTu as déjà accumulé assez de données?!\xf000븁\x0000\xfffeFormidable, Enquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeAlors, vite, c'est l'heure du rapport!\xfffeDis-moi le résultat de ton enquête!\xf000븁\x0000
+Veux-tu accepter cette\xfffecommande d'enquête?
+\xf000Ā\x0001\x0001 a accepté la commande\xfffed'enquête “Avez-vous Pokémon Noir\xf000븀\x0000\xfffeou Pokémon Blanc?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Avec quel Pokémon avez-vous commencé?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Combien d'heures avez-vous joué?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Y a-t-il plus de garçons ou de filles?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel est le travail le plus fréquent?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel est le loisir le plus populaire?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Préférez-vous combattre ou échanger?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel genre de Pokémon préfère-t-on?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel est votre type de Pokémon favori?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Êtes-vous plutôt ville ou campagne?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Qu'est-ce qui est le plus précieux?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Comment aime-t-on autrui?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quelle est la saison préférée?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Qu'en est-il de l'art?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quelle est la musique favorite?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Que regarde-t-on?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Que préférez-vous à l'école?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Qu'en est-il des études?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Votre sport préféré?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Que fait-on pendant les vacances?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Que veut-on le plus devenir?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel est le Champion d'Arène favori?"\xf000븁\x0000
+\xf000Ā\x0001\x0001 a accepté\xfffela commande d'enquête\xf000븀\x0000\xfffe“Quel élément du jeu préférez-vous?"\xf000븁\x0000
+Viens me faire ton rapport quand\xfffetu auras fini ton enquête!
+Viens me faire ton rapport quand\xfffetu auras fini ton enquête!\xf000븁\x0000
+Veux-tu accepter une autre commande?
+Tu as fini ton enquête, je vois?\xfffeVas-y, fais-moi ton rapport!\xf000븁\x0000
+L'enquête “Avez-vous Pokémon Noir\xfffeou Pokémon Blanc?" n'est pas\xf000븀\x0000\xfffeencore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “ Avec quel Pokémon avez-vous\xfffecommencé?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Combien d'heures avez-vous\xfffejoué?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Y a-t-il plus de garçons\xfffeou de filles?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le travail le plus\xfffefréquent?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le loisir le plus\xfffepopulaire?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Préférez-vous combattre\xfffeou échanger?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel genre de Pokémon\xfffepréfère-t-on?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est votre type de\xfffePokémon favori?" n'est pas encore\xf000븀\x0000\xfffeachevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Êtes-vous plutôt ville\xfffeou campagne?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'est-ce qui est le plus\xfffeprécieux?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Comment aime-t-on autrui?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la saison\xfffepréférée?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il de l'art?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la musique\xfffefavorite?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que regarde-t-on?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que préférez-vous\xfffeà l'école?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il des études?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Votre sport préféré?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que fait-on pendant les\xfffevacances?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que veut-on le plus devenir?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qui est le Champion d'Arène\xfffefavori?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel élément du jeu \xfffepréférez-vous?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore mener l'enquête\xfffependant au moins \xf000ȁ\x0001\x0002 h!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Avez-vous Pokémon Noir\xfffeou Pokémon Blanc?" n'est pas\xf000븀\x0000\xfffeencore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Avec quel Pokémon avez-vous\xfffecommencé?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Combien d'heures avez-vous\xfffejoué?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Y a-t-il plus de garçons\xfffeou de filles?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le travail le plus\xfffefréquent?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le loisir le plus\xfffepopulaire?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Préférez-vous combattre\xfffeou échanger?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel genre de Pokémon\xfffepréfère-t-on?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est votre type de\xfffePokémon favori?" n'est pas encore\xf000븀\x0000\xfffeachevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Êtes-vous plutôt ville ou\xfffecampagne?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'est-ce qui est le plus\xfffeprécieux?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Comment aime-t-on autrui?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la saison\xfffepréférée?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il de l'art?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la musique\xfffefavorite?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que regarde-t-on?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que préférez-vous\xfffeà l'école?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il des études?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Votre sport préféré?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que fait-on pendant les\xfffevacances?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que veut-on le plus devenir?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qui est le Champion d'Arène\xfffefavori?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel élément du jeu\xfffepréférez-vous?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffeune personne!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Avez-vous Pokémon Noir\xfffeou Pokémon Blanc?" n'est pas\xf000븀\x0000\xfffeencore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Avec quel Pokémon avez-vous\xfffecommencé?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Combien d'heures avez-vous\xfffejoué?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Y a-t-il plus de garçons ou\xfffede filles?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le travail le plus\xfffefréquent?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est le loisir le plus\xfffepopulaire?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Préférez-vous combattre\xfffeou échanger?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel genre de Pokémon\xfffepréfère-t-on?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel est votre type de\xfffePokémon favori?" n'est pas encore\xf000븀\x0000\xfffeachevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Êtes-vous plutôt ville ou\xfffecampagne?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'est-ce qui est le plus\xfffeprécieux?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Comment aime-t-on autrui?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la saison\xfffepréférée?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il de l'art?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quelle est la musique\xfffefavorite?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que regarde-t-on?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que préférez-vous\xfffeà l'école?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qu'en est-il des études?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Votre sport préféré?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que fait-on pendant les\xfffevacances?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Que veut-on le plus devenir?"\xfffen'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Qui est le Champion d'Arène\xfffefavori?" n'est pas encore achevée!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+L'enquête “Quel élément du jeu\xfffepréférez-vous?" n'est pas encore finie!\xf000븁\x0000\xfffeIl faut encore interroger au moins\xfffe\xf000Ȃ\x0001\x0001 personne(s)!\xf000븁\x0000\xfffeAllez, courage!\xf000븁\x0000\xfffeÀ moins que tu ne veuilles\xffferenoncer à enquêter?
+Tu n'as pas reçu de commande\xfffed'enquête.\xf000븁\x0000\xfffeReviens si tu veux en recevoir.
+Vous faites votre rapport sur l'enquête\xfffe“Avez-vous Pokémon Noir\xf000븀\x0000\xfffeou Pokémon Blanc"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Avec quel Pokémon avez-vous commencé"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Combien d'heures avez-vous joué"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Y a-t-il plus de garçons ou de filles"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel est le travail le plus fréquent"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel est le loisir le plus populaire"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Préférez-vous combattre ou échanger"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel genre de Pokémon préfère-t-on"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel est votre type de Pokémon favori"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Êtes-vous plutôt ville ou campagne"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Qu'est-ce qui est le plus précieux"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Comment aime-t-on autrui"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quelle est la saison préférée"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Qu'en est-il de l'art"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quelle est la musique favorite"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Que regarde-t-on"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Que préférez-vous à l'école"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Qu'en est-il des études"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Votre sport préféré"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Que fait-on pendant les vacances"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Que veut-on le plus devenir"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel est le Champion d'Arène favori"!\xf000븁\x0000
+Vous faites votre rapport sur l'enquête\xfffe“Quel élément du jeu préférez-vous"!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeEntre Pokémon Noir et Pokémon Blanc,\xfffec'est “Pokémon \xf000ē\x0001\x0000"\xf000븀\x0000\xfffele plus fréquent.\xf000븁\x0000\xfffeJe m'en souviendrai.\xf000븁\x0000\xfffeMais comme ils sont aussi amusants l'un\xfffeque l'autre, j'hésite toujours autant...\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeBeaucoup de joueurs ont plutôt choisi\xfffe“\xf000ē\x0001\x0000" au départ...\xf000븁\x0000\xfffeC'est une réponse inattendue! C'était\xfffevraiment utile de faire cette enquête!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe temps de jeu le plus fréquent\xfffeest “\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeC'est bien que ces gens aient passé\xfffeautant d'heures à apprécier le jeu!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeIl y a une majorité de “\xf000ē\x0001\x0000s"\xfffequi jouent à ce jeu.\xf000븁\x0000\xfffeMais chacun peut apprécier le monde des\xfffePokémon, garçon comme fille!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe travail le plus fréquent est\xfffe“\xf000ē\x0001\x0000"...?\xf000븁\x0000\xfffeDécidément, il n'y a pas deux joueurs\xfffequi se ressemblent...\xf000븁\x0000\xfffeQue c'est intéressant!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe loisir le plus fréquent est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeC'est une bonne chose d'avoir\xfffedes loisirs variés!\xf000븁\x0000\xfffeÇa élargit ses horizons!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeEntre combattre et échanger, les gens\xfffepréfèrent “\xf000ē\x0001\x0000"?\xf000븁\x0000\xfffeHum... Intéressant.\xf000븁\x0000\xfffeIl n'y a pas qu'une seule façon\xfffed'apprécier le monde des Pokémon!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa réponse la plus fréquente est\xfffeun Pokémon “\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeIl y a tellement de Pokémon...!\xfffeOn aimerait tous les rencontrer!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe type le plus populaire est\xfffe“\xf000ē\x0001\x0000"...?\xf000븁\x0000\xfffeC'est une information précieuse à savoir\xfffeavant de combattre d'autres Dresseurs!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLes gens préfèrent\xfffela “\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeSouvent, les gens préfèrent là où ils\xfffevivent, donc c'est difficile d'avoir\xf000븀\x0000\xfffeune réponse claire.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLes gens préféreraient avoir\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeEt le plus important pour les gens semble\xfffeêtre “\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeC'est intéressant.\xf000븁\x0000\xfffeIl faut toujours garder à l'esprit\xfffece qui est vraiment important.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLes gens préféreraient un partenaire\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeEt ils pensent que le plus important est\xfffe“\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeQuant à la qualité humaine favorite,\xfffec'est “\xf000ē\x0001\x0002".\xf000븁\x0000\xfffeIntéressant.\xf000븁\x0000\xfffeLes êtres humains ont toutes sortes\xfffede qualités séduisantes...\xf000븁\x0000\xfffePourquoi ne voit-elle pas mes\xfffequalités, enfin, cette...\xf000븁\x0000\xfffeQuoi? Tu es encore là, toi? C'est malpoli\xfffed'écouter les monologues d'autrui!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa saison préférée est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeLa nourriture la plus populaire est\xfffecelle qui est “\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeIntéressant.\xf000븁\x0000\xfffeEn grandissant, tu apprendras que les\xfffegoûts changent en fonction des saisons.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa couleur préférée est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeLe genre de musique préféré est\xfffe“\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeCe n'est pas parce qu'une chose est\xfffeà la mode qu'elle est intéressante...\xf000븁\x0000\xfffeC'est important de suivre ses propres\xfffeinclinations.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe genre de musique préféré est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeLa musique adoucit les mœurs...\xf000븁\x0000\xfffeJ'y penserai en faisant\xfffemes prochaines enquêtes.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeCe que les gens préfèrent à la télé,\xfffec'est “\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeEt au cinéma, c'est\xfffe“\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeIntéressant...\xf000븁\x0000\xfffeVoilà qui me permettra de ne pas rester\xfffemuet pendant mon rendez-vous...\xf000븁\x0000\xfffeMaintenant, je sais qu'il vaut mieux\xfffeparler de choses banales que rester...\xf000븁\x0000\xfffeHmm, ça suffit, c'est un sujet pour\xfffeles grandes personnes!\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe moment préféré à l'école est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeAh, l'école... Que de souvenirs!\xf000븁\x0000\xfffeJ'étais content rien qu'en étant\xfffeentre ces quatre murs, à l'époque...\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa matière la plus populaire est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeEt celle qui l'est le moins est\xfffe“\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffePour devenir un adulte accompli, il faut\xfffedécouvrir qu'apprendre, c'est un jeu.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa réponse pour le sport préféré est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeC'est important de se dépenser.\xfffeÇa aide à se maintenir en bonne santé.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa réponse majoritaire quant à la\xfffefaçon d'occuper son temps libre\xf000븀\x0000\xfffeest “\xf000ē\x0001\x0000"... \xf000븁\x0000\xfffeEt l'endroit où l'on préfère le passer\xfffeest “\xf000ē\x0001\x0001"...\xf000븁\x0000\xfffeIntéressant...\xf000븁\x0000\xfffeJ'espère qu'avec ça, mon rendez-vous\xfffede ce week-end sera un succès...\xf000븁\x0000\xfffeNe me regarde pas comme ça, je ne te\xfffedirai pas avec qui!\xf000븁\x0000\xfffePersonne ne me prend au sérieux quand\xfffej'essaye d'expliquer, de toute façon...\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLes gens aimeraient pouvoir devenir\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeC'est bien d'avoir des rêves, mais c'est\xfffeaussi important de savoir qui on est.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLe Champion d'Arène le plus populaire est\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeLes Champions sont des modèles pour\xfffeles enfants, d'une certaine façon...\xf000븁\x0000\xfffeJe pense qu'ils sont tous sympathiques.\xf000븁\x0000
+Hum... Je vois...\xf000븁\x0000\xfffeLa chose que les gens préfèrent\xfffedans le monde des Pokémon, c'est\xf000븀\x0000\xfffe“\xf000ē\x0001\x0000"...\xf000븁\x0000\xfffeIntéressant...\xf000븁\x0000\xfffeC'est vraiment un monde très riche...\xfffeOn peut s'y perdre pendant des heures...\xf000븁\x0000
+Excellente enquête!\xf000븁\x0000\xfffeJe suis fier de toi,\xfffeEnquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeTiens, en remerciement pour\xfffeton travail!\xf000븁\x0000
+Comme toujours, la qualité de ton travail\xfffeest stupéfiante... Bien!\xf000븁\x0000\xfffeDès aujourd'hui, tu peux t'enorgueillir\xfffedu titre d'Enquêteur de rang B!\xf000븁\x0000
+Comme toujours, la qualité de ton travail\xfffeest stupéfiante... Bien!\xf000븁\x0000\xfffeDès aujourd'hui, tu peux t'enorgueillir\xfffedu titre d'Enquêteur de rang A!\xf000븁\x0000
+Comme toujours, la qualité de ton travail\xfffeest stupéfiante... Bien!\xf000븁\x0000\xfffeDès aujourd'hui, tu peux t'enorgueillir\xfffedu titre d'Enquêteur de rang S!\xf000븁\x0000
+Comme toujours, la qualité de ton travail\xfffeest stupéfiante... Bien!\xf000븁\x0000\xfffeDès aujourd'hui, tu peux t'enorgueillir\xfffedu titre d'Enquêteur de rang SuperS!\xf000븁\x0000
+\xf000Ā\x0001\x0001 a reçu le titre\xfffed'Enquêteur de rang B!\xf000븁\x0000
+\xf000Ā\x0001\x0001 a reçu le titre\xfffed'Enquêteur de rang A!\xf000븁\x0000
+\xf000Ā\x0001\x0001 a reçu le titre\xfffed'Enquêteur de rang S!\xf000븁\x0000
+\xf000Ā\x0001\x0001 a reçu le titre\xfffed'Enquêteur de rang SuperS!\xf000븁\x0000
+Pour prétendre au titre d'Enquêteur de\xffferang B, le nombre de commandes qu'il\xf000븀\x0000\xfffereste à honorer est de \xf000ȁ\x0001\x0001. Courage!\xf000븁\x0000
+Pour prétendre au titre d'Enquêteur de\xffferang A, le nombre de commandes qu'il\xf000븀\x0000\xfffereste à honorer est de \xf000ȁ\x0001\x0001. Courage!\xf000븁\x0000
+Pour prétendre au titre d'Enquêteur de\xffferang S, le nombre de commandes qu'il\xf000븀\x0000\xfffereste à honorer est de \xf000ȁ\x0001\x0001. Courage!\xf000븁\x0000
+Pour prétendre au titre d'Enquêteur de\xffferang SuperS, le nombre de commandes\xf000븀\x0000\xfffequ'il reste à honorer est de \xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeCourage!\xf000븁\x0000
+Bonne chance pour ta prochaine enquête,\xfffeEnquêteur \xf000Ā\x0001\x0001!
+... Tu as honoré toutes les commandes\xfffed'enquêtes que nous avions...\xf000븁\x0000\xfffeEnquêteur \xf000Ā\x0001\x0001, excellent travail!\xf000븁\x0000\xfffeJe suis fier de toi à en perdre la tête!\xf000븁\x0000\xfffeTu mérites bien une récompense,\xfffereçois-la sans façon!\xf000븁\x0000
+Maintenant, tu peux enquêter sur\xfffele sujet qui te chante.\xf000븁\x0000\xfffeJe suis sûr que tu feras un\xfffetravail formidable encore une fois!
+Oh... Tu sais, je n'ai pas grand monde\xfffeà qui parler, alors, si tu voulais venir\xf000븀\x0000\xfffeme tenir compagnie, de temps à autre...
+Vous vous trouvez au QG du Bureau\xfffed'Enquêtes Rencontres.\xf000븁\x0000\xfffeSi vous voulez nous rejoindre, vous\xfffedevriez aller parler au chef.
+Hello, Enquêteur \xf000Ā\x0001\x0001!\xfffeÇa enquête bien?\xf000븁\x0000
+Ah! Vous êtes la nouvelle recrue?\xfffeUn instant!\xf000븁\x0000
+En fait, j'ai quelque chose\xfffeà vous demander.\xf000븁\x0000\xfffeJe demande à tous les membres\xfffede répondre à une enquête.\xf000븁\x0000\xfffeVous voulez bien participer?\xf000븁\x0000
+J'aurais encore besoin de vos\xffferéponses... Ça serait possible?
+Oh, tant pis alors.\xf000븁\x0000\xfffeSi vous changez d'avis, venez me voir!
+Oh? Vous avez répondu à toutes\xfffemes questions!\xf000븁\x0000\xfffeVoulez-vous changer vos réponses?
+Alors, dites-moi à quelle enquête\xfffevous désirez répondre.
+Enquête “Personnes Rencontrées"
+Enquête “Pokémon Préférés"
+Enquête “Chacun son Idéal"
+Enquête “Êtres Aimés"
+Enquête “Les Goûts et les Couleurs"
+Enquête “Les Loisirs"
+Enquête “Vie Scolaire"
+Enquête “Temps Libre"
+Enquête “Monde des Pokémon"
+Cette enquête?
+Vous pouvez répondre à une enquête\xfffeautant de fois que vous voulez,\xf000븁\x0000\xfffealors si vous changez d'avis sur\xfffeune question, venez me parler!
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Les Personnes Rencontrées".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Les Pokémon Préférés".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Chacun son Idéal".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Les Êtres Aimés".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Les Goûts et les Couleurs".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Les Loisirs".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“La Vie Scolaire".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Le Temps Libre".\xf000븁\x0000
+Alors commençons!\xfffeCette enquête a pour thème...\xf000븁\x0000\xfffe“Le Monde des Pokémon".\xf000븁\x0000
+“Quels sont vos loisirs?"
+“Préférez-vous combattre ou échanger?"
+“Êtes-vous plutôt ville ou campagne?"
+“Vous préféreriez un partenaire..."
+“Quelle est votre saison préférée?"
+“Quel genre de musique aimez-vous?"
+“Que préférez-vous à l'école?"
+“Votre choix de vacances favori?"
+“Quel élément du jeu préférez-vous?"
+“Quel genre de travail faites-vous?"
+“Quel genre de Pokémon préférez-vous?"
+“Vous préféreriez avoir plutôt..."
+“Quelle qualité vous attire?"
+“Quel genre de nourriture aimez-vous?"
+“Quel genre d'émission aimez-vous?"
+“Votre matière préférée?"
+“Que faites-vous de vos jours de repos?"
+“Si vous le pouviez, vous deviendriez..."
+
+“Quel est votre type de Pokémon favori?"
+“Le plus important selon vous?"
+“Quelle qualité humaine aimez-vous?"
+“Votre couleur préférée?"
+“Quel genre de film aimez-vous?"
+“La matière que vous aimez le moins?"
+“Votre sport préféré?"
+“Quel est votre Champion d'Arène\xfffefavori?"
+Je vois, je vois...\xfffeJe comprends.\xf000븁\x0000\xfffeEnsuite...\xf000븁\x0000
+Je vois, je vois...\xfffeJe comprends.\xf000븁\x0000\xfffeEt voilà! C'était la dernière!\xf000븁\x0000\xfffeMerci.\xfffeVos réponses me seront utiles!\xf000븁\x0000
+Ah, et voici un formulaire vierge\xfffede cette enquête!\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Personnes Rencontrées".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Pokémon Préférés".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Chacun son Idéal".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Êtres Aimés".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Les Goûts et les Couleurs".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Les Loisirs".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Vie Scolaire".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Temps Libre".\xf000븁\x0000
+Votre Radar Enquête a un nouveau sujet:\xfffe“Monde des Pokémon".\xf000븁\x0000
+Ah... Et voici un petit quelque chose\xfffeen guise de remerciement.\xf000븁\x0000
+Vous avez répondu à toutes les\xfffeenquêtes. Merci!\xf000븁\x0000\xfffeJ'ai l'impression de mieux vous\xfffeconnaître, à présent.\xf000븁\x0000
+Vous pouvez répondre à une enquête\xfffeautant de fois que vous voulez,\xf000븁\x0000\xfffealors si vous changez d'avis sur\xfffeune question, venez me parler!
+Alors... Combien reste-t-il d'enquêtes...\xfffeAh! Il en reste \xf000Ȁ\x0001\x0001.\xf000븁\x0000
+Si vous voulez répondre aux autres,\xfffevenez me parler!
+Puisque vous êtes là, pourquoi ne pas\xffferépondre aussi à une autre enquête?
+BONJOUUUUR!!!\xfffeSaluer les gens, c'est important.\xf000븁\x0000
+Je peux savoir ce que tu leur dis, aux\xfffegens, quand tu les rencontres?
+Tu veux bien me répéter ce que tu dis\xfffeaux gens quand tu les rencontres?
+Bonjour!
+Alors à la prochaine!\xf000븁\x0000\xfffeJe te saluerai avec\xfffela même énergie!
+Ah! C'est un très bon salut!\xfffePlein d'énergie!\xf000븁\x0000\xfffeReviens me saluer une autre fois!\xfffeJe t'attendrai là!
+Bonjour.\xfffeIl est important d'être reconnaissant.\xf000븁\x0000
+Regarde, tu as fait tomber\xfffecette Poké Ball.\xf000븀\x0000\xfffeTiens, elle est à toi.\xf000븁\x0000
+\xf000Ā\x0001\x0001 reçoit la Poké Ball\xfffetombée à terre.\xf000븁\x0000
+...\xfffe...\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeMais...! Et la politesse alors?!\xf000븁\x0000\xfffeQuand quelqu'un t'a rendu un service,\xfffemême tout petit, il faut le remercier!\xf000븁\x0000\xfffeAlors, peux-tu me dire comment\xfffetu remercies les gens?
+Veux-tu me montrer comment\xfffetu remercies les gens?
+Merci!
+À bientôt.\xf000븁\x0000\xfffeN'oublie pas, la reconnaissance est\xfffeun sentiment vital en société.
+C'est très élégant.\xfffeCela réchauffe le cœur.\xf000븁\x0000\xfffeLorsque quelqu'un se portera à ton\xfffesecours, n'oublie pas ce sentiment.\xf000븁\x0000\xfffeJe suis sûre que l'autre personne aura\xfffela même sensation que moi maintenant.
+Tu sais ce qu'est le rang d'Enquêteur?\xf000븁\x0000\xfffeEn honorant plusieurs commandes \xfffed'enquête, tu peux augmenter ton rang!\xf000븁\x0000\xfffeQuand ton rang augmente, les gens\xffferespectent ton niveau d'Enquêteur,\xf000븁\x0000\xfffeet tu peux recevoir des enquêtes\xfffequi rapportent de belles récompenses!
+Tu sais ce qu'est le rang d'Enquêteur?\xf000븁\x0000\xfffeAh, mais c'est vous, Enquêteur\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeVous êtes déjà au rang B!\xfffeVous travaillez dur, je vois!\xf000븁\x0000\xfffePlus votre rang augmente, plus\xfffeles commandes disponibles s'étoffent!\xf000븀\x0000\xfffeRetournez parler au chef!
+Tu sais ce qu'est le rang d'Enquêteur?\xf000븁\x0000\xfffeAh, mais c'est vous, Enquêteur\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeVous êtes déjà au rang A!\xfffeQuelle abnégation!\xf000븁\x0000\xfffeIl va vraiment falloir que j'enquête\xfffesérieusement si je veux vous rejoindre!\xf000븁\x0000\xfffeLes enquêtes de niveau A sont difficiles,\xfffeà ce qu'il paraît... Bon courage!
+Tu sais ce qu'est le rang d'Enquêteur?\xf000븁\x0000\xfffeAh, mais c'est vous, Enquêteur\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeVous êtes déjà au rang S!\xfffePlus que quelques efforts, et vous\xf000븀\x0000\xfffeatteindrez le rang SuperS!\xf000븁\x0000\xfffeTenez bon! Je vous encourage\xfffede tout mon cœur!
+Tu sais ce qu'est le rang d'Enquêteur?\xf000븁\x0000\xfffeAh, mais c'est vous, Enquêteur\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeVous êtes déjà au rang SuperS!\xfffeVeuillez excuser mon impolitesse...\xf000븁\x0000\xfffeJe ferai de mon mieux pour me montrer\xfffedigne de vous!
+Si tu veux connaître tes propres\xfffedonnées, regarde le papier affiché\xf000븀\x0000\xfffesur le mur du fond.\xf000븁\x0000\xfffeDes informations sur tous les Enquêteurs\xfffey sont indiquées.\xf000븁\x0000\xfffeEt tu ne fais pas exception!
+Tu as déjà répondu aux enquêtes?\xf000븁\x0000\xfffeTu devrais au moins répondre à celles\xfffequi te concernent personnellement...
+Tu as un problème? Tu manques\xfffede sujets pour ton Radar Enquête?\xf000븁\x0000\xfffeSi tu en veux davantage, réponds\xfffetoi-même à plus d'enquêtes!
+Tu es un Enquêteur de rang S, tu as déjà\xffferépondu à toutes les enquêtes, non?\xf000븁\x0000\xfffeCe que tu veux savoir d'autrui,\xfffeautrui veut le savoir sur toi!\xf000븁\x0000\xfffeTu dois répondre scrupuleusement\xfffeà toutes les questions!
+Félicitations, Enquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeLe nombre d'Enquêteurs a augmenté.\xfffeMaintenant, ce bureau est bien vivant!\xf000븁\x0000\xfffeNous allons obtenir des tas de données,\xfffecomme ça!
+Plus on enquête, plus ça devient\xfffeamusant!\xf000븁\x0000\xfffeIl faut rencontrer autant de personnes\xfffeque possible!\xf000븁\x0000\xfffePlutôt que d'enquêter tout seul,\xfffemieux vaut enquêter à plusieurs, non?
+Tu as du mal à finir les enquêtes?\xf000븁\x0000\xfffeSi tu as du mal à rencontrer assez de\xfffegens, essaye l'enquête par temps.\xf000븁\x0000\xfffeC'est plus lent, mais il suffit de\xffferencontrer une seule personne pour\xf000븀\x0000\xfffeles réussir!
+Je vais t'apprendre un truc utile.\xf000븁\x0000\xfffeSi tu vas dans un endroit où il y a\xfffebeaucoup de monde, fais une\xf000븀\x0000\xfffeenquête par panel.\xf000븁\x0000\xfffeTu obtiendras des tas de données, et ton\xfffeenquête sera finie en un rien de temps!
+Bienvenue, Enquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeIl ne vous a pas fallu longtemps\xfffepour devenir notre meilleur élément!\xf000븁\x0000\xfffeJe vais dorénavant prendre exemple\xfffesur vous!
+J'ai répondu à une enquête, et j'ai reçu\xfffeun formulaire vierge...\xf000븁\x0000\xfffeJe devrais peut-être répondre\xfffeà toutes les enquêtes...
+Lorsque tu reçois un formulaire,\xfffetu peux partir enquêter!\xf000븁\x0000\xfffeSélectionne le sujet de ton choix\xfffesur ton Radar Enquête...\xf000븀\x0000\xfffeEt pars te promener!
+Les nouvelles recrues ne répondent\xfffepas aux enquêtes...\xf000븁\x0000\xfffePourtant, s'ils le faisaient, ils\xfffepourraient enquêter sur\xf000븀\x0000\xfffed'autres sujets...\xf000븀\x0000\xfffeQuel dommage!
+Bonjour, Enquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeJe peux maintenant apprendre aux\xfffenouvelles recrues comment faire\xf000븀\x0000\xfffeune enquête!
+Je me demande quels films sont\xfffepopulaires ces temps-ci...\xf000븁\x0000\xfffeVous le savez, vous?
+Je me demande quel genre de nourriture\xfffeest populaire ces temps-ci...\xf000븁\x0000\xfffeVous le savez, vous?
+Je me demande quel...\xfffeAh! Enquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeOui, c'est à moi d'enquêter pour trouver\xfffela réponse...\xf000븁\x0000\xfffePfff... J'ai pas envie de sortir...
+Les commandes d'enquête du chef\xfffesont difficiles...\xf000븁\x0000\xfffeEt elles deviennent de plus en plus\xfffedures, en plus...
+Bonjour et bienvenue,\xfffeEnquêteur \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeAvez-vous honoré toutes les commandes\xfffedu chef?\xf000븁\x0000\xfffeIl paraît qu'on reçoit un truc super\xfffesi on y parvient!
+Ah, Enquêteur \xf000Ā\x0001\x0001!\xfffeQuel honneur de vous rencontrer!\xf000븁\x0000\xfffeKyaaaah! J'ai adressé la parole\xfffeà l'Enquêteur \xf000Ā\x0001\x0001!\xf000븀\x0000\xfffeMes copines me croiront jamais!
+On recrute des Enquêteurs!\xfffePlus d'infos: Allez voir le chef!
+\xf000Ā\x0001\x0000\xfffeRang d'Enquêteur: C\xfffePersonnes rencontrées: \xf000Ȅ\x0001\x0001\xfffeRéponses remerciement: \xf000Ȅ\x0001\x0002 fois
+\xf000Ā\x0001\x0000\xfffeRang d'Enquêteur: B\xfffePersonnes rencontrées: \xf000Ȅ\x0001\x0001\xfffeRéponses remerciement: \xf000Ȅ\x0001\x0002 fois
+\xf000Ā\x0001\x0000\xfffeRang d'Enquêteur: A\xfffePersonnes rencontrées: \xf000Ȅ\x0001\x0001\xfffeRéponses remerciement: \xf000Ȅ\x0001\x0002 fois
+\xf000Ā\x0001\x0000\xfffeRang d'Enquêteur: S\xfffePersonnes rencontrées: \xf000Ȅ\x0001\x0001\xfffeRéponses remerciement: \xf000Ȅ\x0001\x0002 fois
+\xf000Ā\x0001\x0000\xfffeRang d'Enquêteur: SuperS\xfffePersonnes rencontrées: \xf000Ȅ\x0001\x0001\xfffeRéponses remerciement: \xf000Ȅ\x0001\x0002 fois

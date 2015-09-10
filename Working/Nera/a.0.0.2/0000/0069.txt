@@ -1,0 +1,43 @@
+Intralbero di \xf000Ā\x0001\x0000
+ACCETTA UNA MISSIONE
+PRENDI UN PASSAPOTERE
+CONTROLLA LO STATO
+Hai già una missione in corso.
+Livello complessivo dell'Intralbero: \xf000Ȃ\x0001\x0000
+
+
+◆ L. di Bianco: \xf000ȃ\x0001\x0000
+◇ L. di Nero: \xf000ȃ\x0001\x0000
+Numero di Passapoteri utilizzabili: \xf000ȃ\x0001\x0000
+Tempo passato nell'Intramondo: \xf000ȁ\x0001\x0000h \xf000ȁ\x0001\x0001m
+Numero di missioni completate: \xf000Ȅ\x0001\x0000
+Stato dell'Intralbero
+INIZIA LA MISSIONE
+MISSIONE IN CORSO
+La missione ha inizio!\xf000븂\x0001Z
+Un'altra missione è già in corso!
+Scegli una delle sei missioni disponibili.
+Scegli una missione!
+Questa missione non è disponibile quando\xfffei mondi connessi sono tre.
+Impossibile selezionare questa missione:\xfffeun altro giocatore è nell'Intramondo!
+Selezionando una di queste missioni potrai\xfffeaiutare un altro giocatore.\xf000븁\x0000\xfffePer iniziare, scegli MISSIONE DI SUPPORTO.
+Hai selezionato un altro tipo di missione.\xf000븁\x0000\xfffePer iniziare, scegli MISSIONE DI SUPPORTO.
+
+
+
+
+
+
+SÌ
+NO
+Vuoi raccogliere questo Passapotere\xfffedall'Intralbero?
+
+Passapoteri disponibili
+Hai raccolto \xf000Ĝ\x0001\x0000\xfffedall'Intralbero!\xf000븁\x0000\xfffeRegistrazione di \xf000Ĝ\x0001\x0000\xfffesul C-Gear conclusa con successo.
+RACCOGLI POTERE
+Scegli il Passapotere che desideri\xffferaccogliere dall'Intralbero.
+Passapotere attualmente registrato
+Non hai ancora alcun Passapotere.
+Num. Passabilie: \xf000ȃ\x0001\x0000
+\xf000봂\x0000◆ Livello di Bianco necessario: \xf000Ȃ\x0001\x0000 ◆\xfffe\xfffeLivelli attuali:\xfffe◇ L. di Nero: \xf000Ȃ\x0001\x0002  ◆ L. di Bianco: \xf000Ȃ\x0001\x0001
+\xf000봂\x0000◇ Livello di Nero necessario: \xf000Ȃ\x0001\x0000 ◇\xfffe\xfffeLivelli attuali:\xfffe◇ L. di Nero: \xf000Ȃ\x0001\x0002  ◆ L. di Bianco: \xf000Ȃ\x0001\x0001

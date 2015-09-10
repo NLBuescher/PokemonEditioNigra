@@ -1,0 +1,27 @@
+
+\xf000ȅ\x0001\x0002 $
+Möchtest du das Spiel speichern?
+
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+\xf000Ā\x0001\x0000 hat das Spiel gespeichert.
+
+Fehler beim Speichern!\xf000븁\x0000
+Es gibt bereits einen Spielstand.\xfffeSpeichern nicht möglich.\xf000븁\x0000\xfffeWeitere Details findest du\xfffein der Spielanleitung.\xf000븁\x0000\xfffeDrücke im Titelbildschirm\xfffeOben + SELECT + B-Knopf, wenn du den\xf000븀\x0000\xfffeaktuellen Spielstand löschen willst.
+Es gibt bereits einen Spielstand.\xfffeSpeichern nicht möglich.\xf000븁\x0000\xfffeWeitere Details findest du\xfffein der Spielanleitung.\xf000븁\x0000\xfffeDrücke im Titelbildschirm\xfffeOben + SELECT + B-Knopf, wenn du den\xf000븀\x0000\xfffeaktuellen Spielstand löschen willst.\xf000븁\x0000
+Speichere eine Menge Daten...\xfffeBitte das System nicht ausschalten.
+
+
+
+Befindest du dich in der Spielwelt eines\xfffeanderen Spielers bzw. hält sich ein\xf000븀\x0000\xfffeanderer Spieler in deiner Spielwelt auf,\xf000븀\x0000\xfffeso ist das Speichern nicht möglich!
+Eine Verbindung zu einem anderen Spieler\xfffebesteht. Verbindung dennoch abbrechen?
+Verbindung wird abgebrochen!\xfffeBitte warten...
+
+
+Zunächst solltest du dein Pokémon-Team\xfffevollständig heilen.
+Falls deine Pokémon ihre KP\xfffeverlieren, kannst du sie in einem\xf000븀\x0000\xfffePokémon-Center auffüllen lassen.\xf000븁\x0000\xfffeFalls du dich auf lange Reisen\xfffebegibst, solltest du deinen Vorrat\xf000븀\x0000\xfffemit Tränken vom Pokémon-Supermarkt\xf000븀\x0000\xfffeauffüllen. Viel Glück, Trainer!
+Dein Pokémon-Team wurde geheilt.\xfffeWir hoffen, du kommst groß raus!
+Die drahtlose Verbindung ist\xfffedeaktiviert (AUS). Aktiviere die\xf000븀\x0000\xfffedrahtlose Verbindung in den\xf000븀\x0000\xfffeSystemeinstellungen (EIN).\xf000븀\x0000\xfffe(Fehler-Code: 50699)\xf000븁\x0000
+
+Prof. Esche sagt immer...\xfffe„\xf000Ā\x0001\x0000, dies ist weder der\xf000븀\x0000\xffferechte Ort noch die rechte Zeit dafür!“
+Du kannst hier nicht vom Rad steigen.
+In deinem Team befindet sich zurzeit\xfffekein Pokémon mit einem Band.

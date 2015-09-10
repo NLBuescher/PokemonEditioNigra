@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La comunicazione sarà interrotta.
+
+
+
+
+
+
+
+
+\xf000Ā\x0001\x0000 ha fatto il suo ingresso\xfffenell'Intramondo di \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 ha fatto ritorno nel proprio\xfffeIntramondo.
+Collegamento con il mondo di \xf000Ā\x0001\x0000\xfffestabilito!
+\xf000Ā\x0001\x0000 ha fatto ritorno nel proprio\xfffemondo.
+La missione sta per iniziare. Tutti i giocatori\xfffedevono toccare OK.
+La missione sta per iniziare. Attendi...
+Questo Allenatore sta attualmente\xfffesvolgendo una missione.
+Missione compiuta!
+Missione fallita...
+\xf000Ā\x0001\x0000 ha ricevuto un Passapotere\xfffedall'Intramondo di \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 ha ricevuto un Passapotere\xfffedal proprio Intramondo.
+\xf000Ā\x0001\x0000 si trova in questo posto.
+Collegamento con il mondo di \xf000Ā\x0001\x0000\xfffein corso. Attendi...
+Collegamento con i mondi di \xf000Ā\x0001\x0000 e\xfffedi \xf000Ā\x0001\x0001 in corso. Attendi...
+\xf000Ā\x0001\x0000 si trova a nord (↑)!
+\xf000Ā\x0001\x0000 si trova a sud (↓)!\xfffe
+\xf000Ā\x0001\x0000 si trova a est (→)!
+\xf000Ā\x0001\x0000 si trova a ovest (←)!
+<?> \xf000Ā\x0001\x0000 ha fatto perdere le sue\xfffetracce! Si cela sicuramente nei paraggi.
+Non hai ancora visitato questo posto.
+Qualcuno è venuto a giocare e si trova\xfffequa vicino.
+Qualcuno è venuto a giocare in questo\xfffemondo.
+Comunicazione in corso.\xfffeRicerca di altri giocatori nei dintorni.
+Qualcuno è venuto a giocare in questo\xfffemondo.
+Il mondo dell'altro giocatore sta\xfffesvanendo...
+\xf000Ā\x0001\x0000 sta lottando in questo posto!
+Tocca per teletrasportarti dove si trova\xfffel'altro giocatore.
+Tocca per teletrasportarti dove si trova\xfffel'altro giocatore.
+Tocca per teletrasportarti dove si trova\xfffel'altro giocatore.
+Tocca per teletrasportarti dove si trova\xfffel'altro giocatore.
+Tocca per teletrasportarti nel punto dove\xfffenascondere lo strumento.
+Tocca per teletrasportarti dove si trova\xfffel'altro giocatore.
+
+
+
+
+
+Tocca per andare nell'Intramondo.
+IL TUO MONDO
+IL MONDO DI \xf000Ā\x0001\x0000
+OK
+ESCI
+
+
+Hai esaminato il tuo Intralbero.
+Hai esaminato l'Intralbero di \xf000Ā\x0001\x0000.
+
+
+
+Hai fatto ritorno nel tuo mondo e hai ripreso\xfffele tue sembianze originali!
+Non puoi visitare un altro Intramondo\xfffementre sei in missione!
+Non puoi visitare un altro Intramondo\xfffementre sei in missione!
+Nel mondo di \xf000Ā\x0001\x0000 il tuo aspetto è\xfffediverso!
+Per il momento non è riuscito alcun\xfffecollegamento con gli altri mondi...
+Aspetta sul ponte finché non arriva\xfffeun altro giocatore.
+Da qui puoi tornare nel mondo da cui\xfffeprovieni. Desideri farlo adesso?
+
+Il mondo dell'altro giocatore è svanito e\xfffehai fatto ritorno nel tuo mondo.
+Missione fallita! L'altro giocatore è stato\xfffepiù veloce di te!\xf000븁\x0000\xfffeIl mondo dell'altro giocatore è svanito\xfffee hai fatto ritorno nel tuo Intramondo.
+Missione fallita! Il tempo è scaduto...\xf000븁\x0000\xfffeIl mondo dell'altro giocatore è svanito\xfffee hai fatto ritorno nel tuo Intramondo.
+Improvvisamente hai fatto ritorno al tuo\xfffeIntralbero!\xf000븁\x0000\xfffeA quanto pare la comunicazione con l'altro\xfffeIntramondo si è interrotta.
+Improvvisamente hai fatto ritorno al tuo\xfffeIntralbero!\xf000븁\x0000\xfffeA quanto pare la comunicazione con l'altro\xfffeIntramondo si è interrotta.
+
+Missione fallita! L'altro giocatore ha\xffferifiutato...\xf000븁\x0000\xfffeIl mondo dell'altro giocatore è svanito e\xfffetu hai fatto ritorno nel tuo Intramondo.
+
+
+
+Una missione per aiutarti è iniziata e quindi\xfffefarai ritorno nel tuo mondo.\xf000븁\x0000

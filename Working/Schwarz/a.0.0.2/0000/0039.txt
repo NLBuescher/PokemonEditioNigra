@@ -1,0 +1,50 @@
+SPIELSYNCHRO
+
+
+Möchtest du das Spiel speichern?
+JA
+NEIN
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Einstellungen der Nintendo WFC ändern?
+Ein Pokémon wird schlafen gelegt.\xfffeBitte das System nicht ausschalten.
+
+Soll das Pokémon aufgeweckt werden?
+Das Pokémon wird aufgeweckt.\xfffeBitte das System nicht ausschalten.
+\xf000Ă\x0001\x0000 ist\xfffeaufgewacht!
+Bitte warte einen Moment.
+\xf000Ă\x0001\x0000 hat die Augen geschlossen.\xfffeEs schläft nun tief und fest!
+
+Warte einen Tag, um deine Energie für\xfffedie Spielsynchro wieder aufzutanken.
+Es hat offenbar noch nichts geträumt.
+
+In deinen Boxen befindet sich kein Pokémon,\xfffedas du schlafen legen könntest.
+Jetzt scheint es zu träumen!
+Du hast den Traumsplitter vom letzten Mal\xfffenoch nicht abgeholt!\xf000븁\x0000\xfffeWenn du ein Pokémon aufweckst, bevor du\xfffeeinen alten Traumsplitter abgeholt hast,\xf000븀\x0000\xfffegeht dieser unwiderbringlich verloren.\xf000븁\x0000\xfffeWillst du das Pokémon wirklich aufwecken?
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ȁ\x0001\x0001 Level hinzugewonnen!
+Gestaltung des C-Gears wurde geändert!\xfffeMusical-Programm wurde geändert!\xfffeGestaltung des Pokédex wurde geändert!\xfffe
+Gestaltung des C-Gears wurde geändert!
+Musical-Programm wurde geändert!
+Gestaltung des Pokédex wurde geändert!
+Gestaltung des C-Gears wurde geändert!\xfffeMusical-Programm wurde geändert!
+Musical-Programm wurde geändert!\xfffeGestaltung des Pokédex wurde geändert!
+Gestaltung des C-Gears wurde geändert!\xfffeGestaltung des Pokédex wurde geändert!
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13201
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13202
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13203
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13204
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13205
+Der gewünschte Dienst steht\xfffenicht mehr zur Verfügung.\xfffeFehler-Code: 13206
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13207
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13208
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13209
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13210
+Der Server ist überlastet.\xfffeDer Verbindungsaufbau ist fehlgeschlagen.\xfffeBitte warte einen Augenblick und versuche\xfffees später noch einmal.\xfffeFehler-Code: 13211
+Der Server wird zurzeit gewartet.\xfffeDetails zu den Wartungsarbeiten erhältst\xfffedu auf der Internetseite des Pokémon\xfffeGlobal Links:\xfffehttp://www.pokemon-gl.com\xfffeFehler-Code: 13212
+Träume von Pokémon, die du schlafen gelegt\xfffehast, lassen sich im Internet nachspielen!
+Um die Träume eines Pokémon nachzuspielen,\xfffemusst du zuerst die Spielsynchro einrichten.
+Wie man die Spielsynchro einrichtet,\xfffeerfährst du in der Spielanleitung.
+\xf000Ă\x0001\x0000 ist aufgewacht!
+Es gibt bereits einen Spielstand.\xfffeSpeichern nicht möglich.\xf000븁\x0000\xfffeWeitere Details findest du\xfffein der Spielanleitung.\xf000븁\x0000\xfffeDrücke im Titelbildschirm\xfffeOben + SELECT + B-Knopf, wenn du den\xf000븀\x0000\xfffeaktuellen Spielstand löschen willst.
+Deine ID für die Spielsynchro-\xfffeFunktionen wurde versandt.\xfffe\xfffeWenn du das Spiel startest, kannst du\xfffedurch das Startmenü jederzeit noch\xfffeeinmal deine persönliche ID abrufen.
+Du willst noch mehr Spielspaß mit der\xfffeSpielsynchro? Dann nimm die nötigen\xfffeEinstellungen auf der Internetseite des\xfffePokémon Global Links vor:\xfffehttp://www.pokemon-gl.com\xfffeWeitere Informationen erhältst\xfffedu in der Spielanleitung.
+Deine Boxen sind voll!\xf000븁\x0000\xfffeUm das Pokémon aufzuwecken, musst du\xfffezunächst Platz für es schaffen.

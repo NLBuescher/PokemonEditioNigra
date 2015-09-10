@@ -1,0 +1,8 @@
+PS
+Ataque
+Defensa
+Velocidad
+At. Esp.
+Def. Esp.
+
+

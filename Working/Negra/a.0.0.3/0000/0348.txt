@@ -1,0 +1,12 @@
+¡Buenos días!\xfffeTú debes de ser \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHe recibido un regalo misterioso para ti.\xfffe¡Aquí tienes!\xf000븁\x0000
+¡Buenas!\xfffeTú debes de ser \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHe recibido un regalo misterioso para ti.\xfffe¡Aquí tienes!\xf000븁\x0000
+¡Buenas noches!\xfffeTú debes de ser \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHe recibido un regalo misterioso para ti.\xfffe¡Aquí tienes!\xf000븁\x0000
+No me han llegado más regalos para ti.\xfffeVuelve pronto.
+¡Hasta la próxima!
+¡\xf000Ā\x0001\x0000 ha obtenido un \xf000ā\x0001\x0001!
+Tu equipo Pokémon está lleno.\xfffeNo lo puedes recibir ahora.
+¡\xf000Ā\x0001\x0000 ha obtenido \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+¿\xf000ĉ\x0001\x0000? Ya tienes bastantes.\xfffeNo te puedo dar más.
+¡\xf000Ā\x0001\x0000 ha obtenido\xfffe\xf000Đ\x0001\x0001!
+¡\xf000Ā\x0001\x0000 ya ha obtenido\xfffe\xf000Đ\x0001\x0001!
+¡\xf000Ā\x0001\x0000 ha obtenido\xfffeun Huevo Pokémon!

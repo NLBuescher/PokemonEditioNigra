@@ -1,0 +1,30 @@
+
+
+
+Non hai abbastanza soldi.\xf000븁\x0000
+\xf000ĉ\x0001\x0000? Certo! In che quantità?
+\xf000ĉ\x0001\x0000! Allora ne vuoi \xf000ȁ\x0001\x0001? Fanno\xfffe$\xf000Ȇ\x0001\x0002. Ok?
+\xf000ĉ\x0001\x0000 costa \xf000ȃ\x0001\x0002 PL. Va bene?
+MT\xf000ȁ\x0001\x0000: \xf000ć\x0001\x0001. Fanno $\xf000Ȅ\x0001\x0002. Ok?
+MT\xf000ȁ\x0001\x0000: \xf000ć\x0001\x0001. Fanno \xf000ȃ\x0001\x0002 PL. Ok?
+Ecco! E mille grazie!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeTrovi tutto nella Tasca \xf000Ē\x0001\x0001.\xf000븁\x0000
+Non hai abbastanza spazio!\xf000븁\x0000
+Esci
+$\xf000Ȅ\x0001\x0001
+\xf000ȁ\x0001\x0001 PL
+---
+Ricevi in omaggio anche una Premier Ball.\xf000븁\x0000
+Non hai abbastanza PL.\xf000븁\x0000
+
+
+
+Soldi
+$\xf000Ȇ\x0001\x0000
+\xf000ȃ\x0001\x0000 PL
+Nella Borsa: \xf000Ȃ\x0001\x0000
+x\xf000ȁ\x0001\x0000
+$\xf000Ȇ\x0001\x0000
+\xf000ȅ\x0001\x0000 PL
+
+
+\xf000ć\x0001\x0001

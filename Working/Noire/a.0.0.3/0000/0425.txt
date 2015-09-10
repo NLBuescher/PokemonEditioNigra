@@ -1,0 +1,48 @@
+Iris: Dis, hé, ho!\xf000븁\x0000\xfffeJe peux enseigner la capacité la plus\xfffepuissante des Pokémon de type Dragon!\xf000븁\x0000\xfffeSympa, non? Alors, tu veux l'apprendre\xfffeà un de tes Pokémon?
+Bouh!\xfffeUne autre fois, alors!
+Voyons voir!\xf000븁\x0000\xfffeTu devrais faire un effort pour te lier\xfffedavantage à tous tes Pokémon...\xf000븁\x0000\xfffePour le moment, votre lien est trop\xfffefaible pour apprendre ma capacité.
+Alors...\xfffeEuh...!\xf000븁\x0000\xfffeOn dirait que t'as pas de Pokémon qui\xfffepuisse apprendre cette capacité!
+Tu veux que j'apprenne cette capacité\xfffeà quel Pokémon?\xf000븁\x0000
+Euh... Désolée.\xf000븁\x0000\xfffeCe Pokémon, il peut pas apprendre\xfffecette capacité.
+Hein?!\xf000븁\x0000\xfffeTu veux que j'apprenne la capacité à\xfffeun Œuf?! Bon, je veux bien essayer!\xf000븁\x0000\xfffe... Gniii...\xfffe... Gnuuu...\xf000븁\x0000\xfffe... Uh!\xfffeDésolée, y'a pas moyen!
+Voyons voir...\xf000븁\x0000\xfffeM'enfin! Il connaît déjà \xf000ć\x0001\x0000!
+Iris: Draco Météor est super super\xfffeS-U-P-E-R efficace!\xf000븁\x0000\xfffeMais après avoir utilisé cette capacité,\xfffel'Attaque Spéciale du Pokémon baisse...
+
+\xf000Ă\x0001\x0000 apprend \xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 veut apprendre \xf000ć\x0001\x0001\xfffemais il ne peut avoir plus de 4 capacités.\xf000븁\x0000\xfffeEffacer une ancienne capacité\xfffepour apprendre \xf000ć\x0001\x0001?
+Renoncer à apprendre \xf000ć\x0001\x0000?
+\xf000Ă\x0001\x0000 n'a pas appris \xf000ć\x0001\x0001.
+Ce Pokémon va oublier la capacité\xfffe\xf000ć\x0001\x0000. Continuer?
+1, \xf000븂\x0001\x00142, et\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Tadaa!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 a complètement\xfffeoublié \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeEt...\xf000븁\x0000
+\xf000Ă\x0001\x0000 apprend \xf000ć\x0001\x0002!
+Watson: Si tel est ton souhait, je peux\xfffeenseigner une capacité fabuleuse\xf000븀\x0000\xfffeaux Pokémon de type Dragon.\xf000븁\x0000\xfffeQu'en dis-tu?
+Bien.\xfffeReviens si tu changes d'avis.
+Mmh...\xf000븁\x0000\xfffeTu devrais faire un effort pour te lier\xfffedavantage à tous tes Pokémon...\xf000븁\x0000\xfffePour le moment, votre lien est trop\xfffefaible pour apprendre ma capacité.
+Bien.\xf000븁\x0000\xfffeMais malheureusement, aucun\xfffePokémon de ton équipe ne peut\xf000븀\x0000\xfffeapprendre cette capacité.
+À quel Pokémon veux-tu que\xfffej'enseigne la capacité?\xf000븁\x0000
+Désolé de te décevoir... Ce Pokémon\xfffene peut pas apprendre cette capacité.
+Hummm...\xf000븁\x0000\xfffeJe ne peux pas apprendre\xfffeune capacité à un Œuf.
+Mmh... Ce Pokémon connaît déjà\xfffela capacité \xf000ć\x0001\x0000.
+Watson: La puissance destructrice\xfffede Draco Météor est terrifiante.\xf000븁\x0000\xfffeMais son utilisation réduit également\xfffel'Attaque Spéciale du Pokémon.
+Ta quête de puissance vous a menés\xfffejusqu'ici, tes Pokémon et toi...\xf000븁\x0000\xfffePour récompenser tes efforts, je vais\xfffet'apprendre des capacités incroyables,\xf000븁\x0000\xfffeque dis-je, ultimes! Veux-tu que je\xfffeles enseigne à tes Pokémon?
+
+Tes Pokémon ne peuvent pas\xfffeles apprendre!\xf000븁\x0000\xfffeVa donc voir Mémé, elle te dira à qui\xfffeje peux les enseigner!
+Comme il te plaira, jeune Dresseur.\xfffeReviens me voir si tu changes d'avis.
+À quel Pokémon veux-tu que\xfffej'enseigne une capacité?\xf000븁\x0000
+Ce Pokémon ne peut pas apprendre une de\xfffemes précieuses capacités. Va voir Mémé!
+Enseigner une capacité à un Œuf?\xfffeImpossible, Dresseur, même pour moi!
+Le lien qui t'unit à ce Pokémon\xfffen'est pas assez fort, Dresseur!
+Ce Pokémon connaît déjà la capacité\xfffeque je veux lui apprendre, Dresseur!
+Je vais enseigner \xf000ć\x0001\x0001 à ton\xfffe\xf000ā\x0001\x0000!
+
+Toi! Là! Tu as le Pokémon que\xfffet'a donné le Professeur?\xf000븁\x0000\xfffeSi ton lien avec lui est assez fort,\xfffeje peux lui apprendre une\xf000븀\x0000\xfffecapacité très spéciale...\xf000븀\x0000\xfffeUne capacité fusion! Ça te dit?
+Une capacité fusion...\xfffeJe l'apprends à un membre de ton équipe?
+J'ai rien à apprendre\xfffeà ton équipe!
+Bah...\xfffeReviens une autre fois.
+À quel Pokémon veux-tu que\xfffej'enseigne une capacité?\xf000븁\x0000
+Ce Pokémon ne peut pas apprendre\xfffede capacité fusion.\xf000븁\x0000\xfffeSeuls ceux que donne un Professeur\xfffePokémon peuvent l'apprendre!
+Apprendre une capacité à un Œuf?\xfffeT'es pas bien dans ta p'tite tête?!
+Ton lien avec ce Pokémon\xfffen'est pas encore assez fort!
+Mais il a déjà appris la capacité,\xfffece Pokémon!
+Tu veux apprendre \xf000ć\x0001\x0001\xfffeà \xf000ā\x0001\x0000?
+Mes Pokémon préférés...\xfffeCe sont ceux qu'on peut recevoir\xf000븀\x0000\xfffed'un Professeur Pokémon!\xf000븁\x0000\xfffeJe peux leur apprendre une capacité\xfffetrès spéciale... une capacité fusion!\xf000븀\x0000\xfffePromis! Juré! Craché!

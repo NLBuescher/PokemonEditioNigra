@@ -1,0 +1,21 @@
+\xf000봂\x0000UMFRAGERADAR
+\xf000봂\x0000Über dieses Radar erhältst du von\xfffe\xf000봂\x0000Passanten Antworten auf deine Umfragen.
+\xf000봂\x0000UMFRAGE WÄHLEN
+\xf000봂\x0000ERGEBNISSE EINSEHEN
+\xf000봂\x0000-UMFRAGEINHALT-
+\xf000봂\x0000Wähle eines der unten aufgelisteten Themen,\xfffe\xf000봂\x0000zu dem eine Umfrage gestartet werden soll.
+Eine Umfrage zu diesem\xfffeThema starten?
+O.K.
+ZURÜCK
+\xf000봂\x0000Die Umfrage wird gestartet!
+\xf000봂\x0000Noch keine\xfffe\xf000봂\x0000Ergebnisse
+\xf000봂\x0000AUSWERTUNG LÄUFT...
+\xf000봂\x0000-UMFRAGEAUSWERTUNG-
+\xf000봃\x0001\x000aNr. \xf000ȁ\x0001\x0000: \xf000ē\x0001\x0001\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0002 Person(en)\xfffe\xf000봃\x0001\x000a\xf000Ȅ\x0001\x0003 %
+\xf000봃\x0001\x000aDeine Antwort:\xfffe\xf000봃\x0001\x000a\xf000ē\x0001\x0000
+\xf000봃\x0001\x000aTeilnehmer heute:\xfffe\xf000봃\x0001\x000a\xf000ȃ\x0001\x0000 Person(en)
+\xf000봄\x0001\x0000Anzeigemodus:\xfffe\xf000봄\x0001\x0007Teilnehmer heute
+\xf000봃\x0001\x000aTeilnehmer gesamt:\xfffe\xf000봃\x0001\x000a\xf000ȅ\x0001\x0000 Person(en)
+\xf000봄\x0001\x0000Anzeigemodus:\xfffe\xf000봄\x0001\x0007Teilnehmer gesamt
+\xf000봄\x0001\x0004Die Daten werden\xfffe\xf000봄\x0001\x0004aktualisiert...
+\xf000봂\x0000DIESE UMFRAGE AUSWERTEN

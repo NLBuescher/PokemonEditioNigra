@@ -1,0 +1,21 @@
+In ogni Palestra di Unima puoi conquistare\xfffeuna Medaglia!\xf000븀\x0000\xfffeVuoi spiegazioni più dettagliate?
+Come preferisci. Se cambi idea, vieni\xfffeancora a parlare con me.
+Se hai la Medaglia Tris, i tuoi Pokémon\xfffeti obbediranno fino al livello 20.\xf000븁\x0000
+Se hai la Medaglia Base, i tuoi Pokémon\xfffeti obbediranno fino al livello 30.\xf000븁\x0000
+Se hai la Medaglia Scarabeo, i tuoi\xfffePokémon ti obbediranno fino al livello 40.\xf000븁\x0000
+Se hai la Medaglia Volt, i tuoi Pokémon\xfffeti obbediranno fino al livello 50.\xf000븁\x0000
+Se hai la Medaglia Sisma, i tuoi Pokémon\xfffeti obbediranno fino al livello 60.\xf000븁\x0000
+Se hai la Medaglia Jet, i tuoi Pokémon\xfffeti obbediranno fino al livello 70.\xf000븁\x0000
+Se hai la Medaglia Stalattite, i tuoi\xfffePokémon ti obbediranno fino al livello 80.\xf000븁\x0000
+Se hai la Medaglia Leggenda, tutti i tuoi\xfffePokémon ti obbediranno sempre.\xf000븁\x0000
+Di quale Medaglia vuoi che ti parli?
+Medaglia Tris
+Medaglia Base
+Medaglia Scarabeo
+Medaglia Volt
+Medaglia Sisma
+Medaglia Jet
+Medaglia Stalattite
+Medaglia Leggenda
+Esci
+Quando guardo il panorama della città\xfffedall'alto mi tremano le gambe.\xf000븁\x0000\xfffeEbbene sì, soffro di vertigini...

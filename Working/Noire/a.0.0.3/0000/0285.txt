@@ -1,0 +1,22 @@
+J'étudie les fossiles de Pokémon.\xf000븁\x0000
+Vous avez un fossile...\xfffeVoulez-vous recréer le Pokémon?
+Quel fossile souhaitez-vous utiliser\xfffepour recréer un Pokémon?
+Entendu!\xf000븁\x0000\xfffeJe vais recréer un Pokémon\xfffeà partir de ce \xf000ĉ\x0001\x0000!\xf000븁\x0000
+Vous ne souhaitez pas recréer\xfffede Pokémon... Entendu!
+
+J'ai pu recréer un \xf000ā\x0001\x0000\xfffeà partir de votre fossile!\xf000븁\x0000\xfffePrenez-en bien soin!\xf000븁\x0000
+\xf000Ā\x0001\x0000 obtient un \xf000ā\x0001\x0001!
+Voulez-vous donner un surnom\xfffeau \xf000ā\x0001\x0000?
+Mais vous n'avez plus de place\xfffedans votre équipe!\xf000븁\x0000\xfffeJe vais garder ce Pokémon pour vous.\xfffePassez le prendre quand vous voudrez!
+Si vous trouvez des fossiles,\xfffevenez me voir!
+\xf000ĉ\x0001\x0000
+\xf000ĉ\x0001\x0001
+Fossile Racine
+Fossile Griffe
+Nautile
+Fossile Dôme
+Vieil Ambre
+Fossile Armure
+Fossile Crâne
+Retour
+Veuillez...\xfffeVeuillez revenir une autre fois...

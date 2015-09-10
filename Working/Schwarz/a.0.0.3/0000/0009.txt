@@ -1,0 +1,113 @@
+
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Einzellinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Doppellinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Multilinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Wi-Fi-Linie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Super-Einzellinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Einzellinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeEinzellinie gekämpft haben.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Super-Doppellinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Doppellinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeDoppellinie gekämpft haben.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeHier geht es zur Super-Multilinie.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Multilinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeMultilinie gekämpft haben.\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 hat bereits \xf000ȃ\x0001\x0001 Siege\xfffein Folge errungen.\xf000븁\x0000
+In der Einzellinie wird mit drei Pokémon\xfffegekämpft.\xf000븁\x0000\xfffeEs müssen drei verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAlle Pokémon werden vorübergehend\xfffeauf Level 50 gestuft.\xf000븁\x0000\xfffeDer Zug besteht aus sieben Waggons. Du\xfffekämpfst insgesamt gegen sieben Trainer.\xf000븁\x0000
+Wenn du alle sieben Trainer besiegt hast,\xfffeerreichst du einen Bahnhof und\xf000븀\x0000\xfffeerhältst Gewinnpunkte.\xf000븁\x0000\xfffeGib also dein Bestes!\xf000븁\x0000\xfffeMöchtest du mal eine Pause vom Kämpfen\xfffeeinlegen, dann vergiss nicht\xf000븀\x0000\xfffezu speichern - sonst geht nämlich dein\xf000븀\x0000\xfffegesamter Fortschritt verloren!\xf000븁\x0000
+In der Doppellinie wird mit vier Pokémon\xfffegekämpft.\xf000븁\x0000\xfffeEs müssen vier verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAlle Pokémon werden vorübergehend\xfffeauf Level 50 gestuft.\xf000븁\x0000\xfffeDer Zug besteht aus sieben Waggons. Du\xfffekämpfst insgesamt gegen sieben Trainer.\xf000븁\x0000
+Wenn du alle sieben Trainer besiegt hast,\xfffeerreichst du einen Bahnhof und\xf000븀\x0000\xfffeerhältst Gewinnpunkte.\xf000븁\x0000\xfffeGib also dein Bestes!\xf000븁\x0000\xfffeMöchtest du mal eine Pause vom Kämpfen\xfffeeinlegen, dann vergiss nicht\xf000븀\x0000\xfffezu speichern - sonst geht nämlich dein\xf000븀\x0000\xfffegesamter Fortschritt verloren!\xf000븁\x0000
+In der Multilinie kämpfen zwei Trainer\xfffeim Team mit jeweils zwei Pokémon.\xf000븁\x0000\xfffeEs müssen vier verschiedene Pokémon\xfffesein. Die zwei Pokémon eines Trainers\xf000븀\x0000\xfffedürfen nicht die gleichen Items tragen.\xf000븁\x0000\xfffeAlle Pokémon werden vorübergehend\xfffeauf Level 50 gestuft.\xf000븁\x0000\xfffeDer Zug besteht aus sieben Waggons. Du\xfffekämpfst insgesamt gegen sieben Teams.\xf000븁\x0000
+Wenn du alle sieben Teams besiegt hast,\xfffeerreichst du einen Bahnhof und\xf000븀\x0000\xfffeerhältst Gewinnpunkte.\xf000븁\x0000\xfffeGib also dein Bestes!\xf000븁\x0000\xfffeMöchtest du mal eine Pause vom Kämpfen\xfffeeinlegen, dann vergiss nicht\xf000븀\x0000\xfffezu speichern - sonst geht nämlich dein\xf000븀\x0000\xfffegesamter Fortschritt verloren!\xf000븁\x0000
+In der Wi-Fi-Linie wird mit drei Pokémon\xfffegekämpft.\xf000븁\x0000\xfffeEs müssen drei verschiedene Pokémon\xfffesein. Sie dürfen nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeAlle Pokémon werden vorübergehend\xfffeauf Level 50 gestuft.\xf000븁\x0000\xfffeDer Zug besteht aus sieben Waggons. Du\xfffekämpfst insgesamt gegen sieben Trainer.\xf000븁\x0000
+Bei Wi-Fi-Kämpfen trittst du mittels der\xfffeNintendo Wi-Fi Connection gegen Trainer\xf000븀\x0000\xfffeaus der ganzen Welt an.\xf000븁\x0000\xfffeWenn du alle sieben Trainer besiegt hast,\xfffeerreichst du einen Bahnhof und\xf000븀\x0000\xfffeerhältst Gewinnpunkte.\xf000븁\x0000\xfffeGib also dein Bestes!\xf000븁\x0000\xfffeWenn du gut warst, tauchst du sogar\xfffeals Gegner in einem der Waggons auf!\xf000븁\x0000\xfffeAußerdem wird die Wi-Fi-Linie über ein\xfffeRangsystem verwaltet.\xf000븁\x0000\xfffeGewinnt ein Trainer Wi-Fi-Kämpfe,\xfffeklettert er in der Rangliste nach oben.\xf000븁\x0000\xfffeUmgekehrt sinkt seine Platzierung,\xfffesollte er häufiger verlieren.\xf000븁\x0000\xfffeDeinen Rang steigerst du am besten\xfffedurch Siege gegen starke Trainer.\xf000븁\x0000\xfffeMöchtest du mal eine Pause vom Kämpfen\xfffeeinlegen, dann vergiss nicht\xf000븀\x0000\xfffezu speichern - sonst geht nämlich dein\xf000븀\x0000\xfffegesamter Fortschritt verloren!\xf000븁\x0000
+In die Einzellinie steigen?
+In die Doppellinie steigen?
+In die Multilinie steigen?
+In die Wi-Fi-Linie steigen?
+In die Super-Einzellinie steigen?
+In die Super-Doppellinie steigen?
+In die Super-Multilinie steigen?
+
+
+
+Wähle die Pokémon,\xfffedie teilnehmen sollen.\xf000븁\x0000
+Also dann! Viel Erfolg in der Einzellinie!\xf000븁\x0000
+Also dann! Viel Erfolg in der Doppellinie!\xf000븁\x0000
+Also dann! Viel Erfolg in der Multilinie!\xf000븁\x0000
+Also dann! Viel Erfolg in der Wi-Fi-Linie!\xf000븁\x0000\xfffeBist du bereit?
+Also dann!\xfffeViel Erfolg in der Super-Einzellinie!\xf000븁\x0000
+Also dann!\xfffeViel Erfolg in der Super-Doppellinie!\xf000븁\x0000
+Also dann!\xfffeViel Erfolg in der Super-Multilinie!\xf000븁\x0000
+Möchtest du speichern und dich erst mal\xfffevom Kampfgeschehen zurückziehen?
+Wir haben dich schon erwartet.\xf000븁\x0000\xfffeMöchtest du das Kampfgeschehen in\xfffeder Kampfmetro wiederaufnehmen?
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Gut! Dann bringe ich dich jetzt dorthin,\xfffewo du das letzte Mal aufgehört hast.\xf000븁\x0000
+Ruh dich gut aus!\xf000븁\x0000\xfffeKomm einfach wieder, wenn du das\xfffeKampfgeschehen fortsetzen möchtest!\xf000븁\x0000
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Entschuldigung!\xf000븁\x0000\xfffeDu hast das Kampfgeschehen neulich\xfffeabgebrochen, ohne zu speichern.\xf000븁\x0000\xfffeWir müssen dich daher von diesem\xfffeKampfgeschehen ausschließen!\xf000븁\x0000
+Hoffentlich kommst du bald wieder!
+Einsteigen
+Info
+Zurück
+Rekorde
+Vorherige Linie
+Wähle bitte zwischen dem Team\xfffeund der Kampfbox.
+TEAM
+KAMPFBOX
+ZURÜCK
+Möchtest du dich mit einem Freund\xfffeverbinden und gemeinsam antreten?
+Der aktuelle Rang von \xf000Ā\x0001\x0000\xfffeist: \xf000ȁ\x0001\x0001.\xf000븁\x0000
+Schön, dich wiederzusehen!\xf000븁\x0000\xfffeDeine vorherigen Ergebnisse wurden\xfffenicht über die Nintendo WFC gesendet.\xf000븁\x0000\xfffeMöchtest du sie vielleicht jetzt senden?
+Deine Ergebnisse wurden über die\xfffeNintendo Wi-Fi Connection gesendet!\xf000븁\x0000
+Aus den vergangenen Rekorden des Zuges\xfffeNummer \xf000Ȃ\x0001\x0001 habe ich Rang \xf000ȁ\x0001\x0000 ermittelt.\xf000븁\x0000\xfffeSieh dir die Resultate auf dem\xfffeErgebnismonitor an.\xf000븁\x0000
+Bitte entscheidet, wer von euch\xfffebeiden der Leiter sein soll.\xf000븁\x0000\xfffeDer andere Spieler muss dann\xfffe„Mitspieler“ wählen.
+Beide Trainer wählten das Pokémon\xfffe\xf000ā\x0001\x0000.\xf000븁\x0000\xfffeBesprich dich mit dem anderen Trainer.\xf000븁\x0000\xfffeEiner von euch muss ein anderes Pokémon\xfffewählen.\xf000븁\x0000
+Beide Trainer wählten die Pokémon\xfffe\xf000ā\x0001\x0000 und \xf000ā\x0001\x0001.\xf000븁\x0000\xfffeBesprich dich mit dem anderen Trainer.\xf000븁\x0000\xfffeEiner von euch muss andere Pokémon\xfffewählen.\xf000븁\x0000
+Beide Trainer wählten unterschiedliche\xfffeLinien.\xf000븁\x0000\xfffeBesprich dich mit dem anderen Trainer.\xfffeIhr müsst beide dieselbe Linie wählen.\xf000븁\x0000
+Tag! Mein Name ist Warren!\xf000븁\x0000\xfffeDas ist doch bestimmt das erste Mal,\xfffedass du in dieser Linie antrittst?\xf000븁\x0000\xfffeHier brauchst du einen Partner!\xf000븁\x0000
+Tag! Mein Name ist Lotta!\xf000븁\x0000\xfffeDas ist doch bestimmt das erste Mal,\xfffedass du in dieser Linie antrittst?\xf000븁\x0000\xfffeHier brauchst du einen Partner!\xf000븁\x0000
+Hallo, \xf000Ā\x0001\x0000!\xfffeSchön, dich wiederzusehen!\xf000븁\x0000
+Hallo, \xf000Ā\x0001\x0000!\xfffeSchön, dich wiederzusehen!\xf000븁\x0000
+Bist du heute etwa allein?\xf000븁\x0000\xfffeDann könnte ich doch dein Partner sein!\xfffeAlso, welche Pokémon soll ich einsetzen?
+Bist du heute etwa allein?\xf000븁\x0000\xfffeDann könnte ich doch dein Partner sein!\xfffeAlso, welche Pokémon soll ich einsetzen?
+Schwerpunkt auf Angriff
+Schwerpunkt auf Verteidigung
+Ausgewogen
+Alles klar! Dann lege ich den Schwerpunkt\xfffeauf Angriff! Gut, lass uns loslegen!\xf000븁\x0000
+Alles klar! Dann lege ich den Schwerpunkt\xfffeauf Verteidigung! Gut, lass uns loslegen!\xf000븁\x0000
+Alles klar! Dann bringe ich beides\xfffean den Start! Gut, legen wir los!\xf000븁\x0000
+Alles klar! Dann lege ich den Schwerpunkt\xfffeauf Angriff! Gut, lass uns loslegen!\xf000븁\x0000
+Alles klar! Dann lege ich den Schwerpunkt\xfffeauf Verteidigung! Gut, lass uns loslegen!\xf000븁\x0000
+Alles klar! Dann bringe ich beides\xfffean den Start! Gut, legen wir los!\xf000븁\x0000
+Ach, du möchtest kein Team mit mir bilden?\xf000븁\x0000\xfffeTja, dann halt nicht... tschüss!\xf000븁\x0000
+Ach, du möchtest kein Team mit mir bilden?\xf000븁\x0000\xfffeTja, dann halt nicht... tschüss!\xf000븁\x0000
+Leiter
+Mitspieler
+Drahtlose DS-Datenübertragung starten?
+
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Leider wurdest du auf Rang \xf000ȁ\x0001\x0000\xfffezurückgesetzt...\xf000븁\x0000
+Wählst du die Infrarotverbindung oder\xfffedie Drahtlose DS-Datenübertragung?
+Infrarotverbindung
+Drahtlose DS-Datenübertragung
+Soll sowohl die Infrarotverbindung als\xfffeauch die Drahtlose DS-Datenübertragung\xf000븀\x0000\xfffegestartet werden?
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Einzellinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeEinzellinie gekämpft haben.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Doppellinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeDoppellinie gekämpft haben.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeZur Super-Multilinie haben nur Trainer\xfffeZutritt, die sich erfolgreich durch die\xf000븀\x0000\xfffeMultilinie gekämpft haben.\xf000븁\x0000
+War das ein Spaß!\xfffeLass uns demnächst wieder kämpfen!\xf000븁\x0000
+War das ein Spaß!\xfffeLass uns demnächst wieder kämpfen!\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeDie Super-Einzellinie durchläuft gerade\xfffenoch vorbereitende Wartungsarbeiten.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeDie Super-Doppellinie durchläuft gerade\xfffenoch vorbereitende Wartungsarbeiten.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeDie Super-Multilinie durchläuft gerade\xfffenoch vorbereitende Wartungsarbeiten.\xf000븁\x0000
+Willkommen in der Kampfmetro!\xf000븁\x0000\xfffeDie Wi-Fi-Linie durchläuft gerade noch\xfffevorbereitende Wartungsarbeiten.\xf000븁\x0000
+Möchtest du diese Ergebnisse mithilfe\xfffeder Nintendo Wi-Fi Connection senden?
+Warten auf Antwort...
+Also, welche Pokémon soll ich einsetzen?
+Also, welche Pokémon soll ich einsetzen?
+Trainer \xf000Ā\x0001\x0000 hat im Multi-Modus mit\xfffeeinem anderen Trainer \xf000ȃ\x0001\x0001 Siege\xf000븀\x0000\xfffein Folge errungen.\xf000븁\x0000
+Trainer \xf000Ā\x0001\x0000 hat im Multi-Modus\xfffemit einem Freund \xf000ȃ\x0001\x0001 Siege in Folge\xf000븀\x0000\xfffeerrungen.\xf000븁\x0000
+Trainer \xf000Ā\x0001\x0000 hat im Multi-Modus mit\xfffeeinem anderen Trainer \xf000ȃ\x0001\x0001 und mit einem\xf000븀\x0000\xfffeFreund \xf000ȃ\x0001\x0002 Siege in Folge errungen.\xf000븁\x0000
+
+Möchtest du in den Zug nach Ferrula\xfffesteigen?
+Der Zug fährt in Kürze ab!\xfffeBitte alles einsteigen!\xf000븁\x0000
+Hoffentlich kommst du bald wieder!
+Hoffentlich kommst du bald wieder!\xf000븁\x0000

@@ -1,0 +1,116 @@
+Creando datos de guardado...
+Por favor, espera.
+
+¡Hooola! ¿Qué tal?{CLEAR}
+
+¡Te doy la bienvenida al mundo
+Pokémon!{CLEAR}
+
+
+Yo soy la Prof.ª Encina.{CLEAR}
+
+Pero todo el mundo me conoce
+como la Profesora Pokémon.{CLEAR}
+
+
+Este mundo está habitado por criaturas
+llamadas Pokémon.{CLEAR}
+
+
+Los Pokémon poseen poderes fantásticos,
+presentan las formas más variadas{ADDLINE}
+y viven en todo tipo de entornos.{CLEAR}
+
+¡Y lo mejor es que se llevan de maravilla
+con nosotros, los humanos!{CLEAR}
+
+Esta convivencia nos beneficia a ambos
+y nos permite colaborar para superar{ADDLINE}
+dificultades.{CLEAR}
+
+Algo que les encanta a los Pokémon
+es combatir.{CLEAR}
+
+¡Así es como crean fuertes lazos de
+amistad con sus Entrenadores!{CLEAR}
+
+¿Y quieres saber a qué me dedico yo?
+¡A estudiar a estas criaturas adorables!{CLEAR}
+
+
+Bueno, ya está, que me enrollo más
+que las persianas.{CLEAR}
+
+¿Por qué no me cuentas algo sobre ti?{CLEAR}
+
+
+¿Eres un chico o una chica?{CLEAR}
+
+
+Bien, así que eres un chico.{CLEAR}
+
+
+Bien, así que eres una chica.{CLEAR}
+
+
+También querría saber tu nombre.
+¿Cómo te llamas?{CLEAR}
+
+
+¿Te llamas {NAME}?{CLEAR}
+
+
+¿Te llamas {NAME}?{CLEAR}
+
+
+SÍ
+
+NO
+
+¡{NAME}! ¡Qué nombre tan bonito!{CLEAR}
+
+
+Y estos chicos de aquí... tengo entendido
+que son tus amigos.{CLEAR}
+
+
+Este chico se llama Cheren.{CLEAR}
+
+Tiene un carácter un poco difícil,
+pero es un chico muy sincero.{CLEAR}
+
+
+Esta chica se llama Bel.{CLEAR}
+
+Va un poquito a su aire, pero siempre
+puedes contar con ella.{CLEAR}
+
+
+Ahora os voy a entregar un Pokémon
+a cada uno de los tres para que{ADDLINE}
+lo cuidéis muy bien.{CLEAR}
+
+
+¡{NAME}!{CLEAR}
+
+Ha llegado el momento de elegir al Pokémon
+que te acompañará a partir de ahora{ADDLINE}
+en tu viaje.{CLEAR}
+
+Conocerás a muchos Pokémon y a mucha
+gente con distintas personalidades{ADDLINE}
+y puntos de vista.{CLEAR}
+
+Estoy segura de que podrás aprender
+de todas esas experiencias y descubrir{ADDLINE}
+lo que es más importante para ti.{CLEAR}
+
+¡Así es! Conocer a mucha gente y Pokémon
+te permitirá crecer como persona.{CLEAR}
+
+Al fin y al cabo, ese es el objetivo
+principal de esta aventura.{CLEAR}
+
+¡Y ahora en marcha!{CLEAR}
+
+¡Nos vamos al mundo Pokémon!{CLEAR}

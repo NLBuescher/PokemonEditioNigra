@@ -1,0 +1,10 @@
+Das ist ein Getränkeautomat.\xfffeWas möchtest du trinken?
+\xf000ĉ\x0001\x0000 kam heraus!\xf000븁\x0000
+Du hast gewonnen! \xf000ĉ\x0001\x0000\xfffekam noch einmal heraus!\xf000븁\x0000
+Nicht genug Geld...
+Keinen Durst!
+Möchtest du noch etwas kaufen?
+Tafelwasser\xf000봃\x0001\x0001200 $
+Sprudel\xf000봃\x0001\x0001300 $
+Limonade\xf000봃\x0001\x0001350 $
+Zurück

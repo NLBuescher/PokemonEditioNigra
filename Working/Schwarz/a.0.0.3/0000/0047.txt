@@ -1,0 +1,378 @@
+
+
+
+\xf000ē\x0001\x0000
+Ja
+Nein
+Was haben die Leute für Vorlieben?\xfffeWas ist der letzte Schrei?\xf000븁\x0000\xfffeDiese brennenden Fragen beschäftigen\xfffedich doch auch, oder?\xf000븁\x0000\xfffeDu befindest dich hier im Hauptsitz\xfffedes Automatischen Passanten-Umfrage-\xf000븀\x0000\xfffeKomitees, kurz APUK!\xf000븁\x0000\xfffeHier zählt nur die Wahrheit,\xfffenichts als Fakten!\xf000븁\x0000\xfffeIch mag deinen scharfen Blick, aus deinen\xfffeAugen spricht der Forschergeist.\xf000븁\x0000\xfffeIch habe mich entschieden!\xfffeIch ernenne dich hiermit zu\xf000븀\x0000\xfffeunserem Sonderbeauftragten!\xf000븁\x0000
+\xf000Ā\x0001\x0001 wurde feierlich zum\xfffeSonderbeauftragten des APUK ernannt!\xf000븁\x0000
+Ein Komiteemitglied hat nur eins im Sinn:\xfffeUmfragen durchführen!\xf000븁\x0000\xfffeZunächst erhältst du von mir die\xfffeAufträge für deine Umfragen.\xf000븁\x0000\xfffeDann wählst du im Umfrageradar die Um-\xfffefrage aus, die du durchführen möchtest.\xf000븁\x0000\xfffeJetzt muss sich dein Weg nur noch mit\xfffedem möglichst vieler Leute kreuzen,\xf000븀\x0000\xfffedann sammelt das Radar automatisch\xf000븀\x0000\xfffealle Daten.\xf000븁\x0000\xfffeNatürlich erwartet dich für jede Umfrage\xfffeeine entsprechende Belohnung!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, ich verlasse mich auf dich!\xf000븁\x0000
+Immer eine Freude, dich zu sehen,\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeWie geht es mit den Umfragen voran?\xf000븁\x0000
+Du hast alle Umfragen durchgeführt.\xf000븁\x0000\xfffeDu kannst jetzt nach Lust und Laune\xfffeNachforschungen anstellen!\xf000븁\x0000\xfffeMach weiter so und lebe deinen\xfffeForscherdrang aus!
+Wonach steht dir heute der Sinn?
+Umfrageauftrag annehmen
+Umfrageergebnisse berichten
+Tschüss!
+Umfrageauftrag überprüfen
+Du willst einen neuen Umfrageauftrag?\xf000븁\x0000\xfffeEntscheide dich bitte zunächst\xfffefür eine Umfragemethode.
+Umfrage auf Zeit
+Repräsentative Umfrage
+Abbrechen
+Eine Umfrage auf Zeit also?\xf000븁\x0000\xfffeDu musst die Daten über einen\xfffebestimmten Zeitraum erheben.\xf000븁\x0000
+Eine repräsentative Umfrage also?\xf000븁\x0000\xfffeDu musst die Daten von einer\xfffeMindestanzahl an Personen erheben.\xf000븁\x0000
+Bitte wähle die Umfrage aus.
+Alles klar.\xf000븁\x0000\xfffeKomm wieder, wenn du Lust auf\xfffeeinen neuen Auftrag hast.
+Du hast bereits einen Umfrageauftrag\xfffeerhalten!\xf000븁\x0000\xfffeIch erwarte Großes von dir!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du wirst alle bisher gesammelten Daten\xfffevon Neuem erheben müssen...\xf000븀\x0000\xfffeWillst du die Umfrage wirklich abbrechen?
+Verstehe...\xf000븁\x0000\xfffeKomm wieder, wenn du Lust auf\xfffeeinen neuen Auftrag hast.
+Also dann, viel Erfolg bei deiner\xfffeaktuellen Umfrage!
+Welche Edition ist beliebter?
+Das häufigste Starter-Pokémon
+Die längste Spielzeit
+Mehr Jungs oder Mädchen?
+Der häufigste Beruf
+Das häufigste Hobby
+Kämpfen oder tauschen?
+Die beliebtesten Pokémon
+Der beliebteste Pokémon-Typ
+Stadt oder Land?
+Das Wichtigste im Leben
+Was macht jemanden attraktiv?
+Die vier Jahreszeiten
+Kunstgeschmack
+Die beliebteste Musikrichtung
+Film und Fernsehen
+Das Beste am Schultag
+Spaß am Lernen
+Die beliebteste Sportart
+Die beliebteste Freizeitbeschäftigung
+Was wären alle am liebsten?
+Der beliebteste Arenaleiter
+Was ist das Beste an Pokémon?
+Zurück
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwei Stunden\xfffelang mit der Frage, ob Pokémon Schwarz\xf000븀\x0000\xfffeoder Pokémon Weiß häufiger gespielt wird.\xf000븁\x0000\xfffeIch würde nämlich auch gern mit Pokémon\xfffeanfangen und will wissen, welche Edition\xf000븀\x0000\xfffedie beliebtere ist.\xf000븁\x0000
+Ein Professor möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwei Stunden\xfffelang mit der Frage, welches Pokémon am\xf000븀\x0000\xfffeAnfang am häufigsten ausgewählt wurde.\xf000븁\x0000\xfffeDeine Nachforschungen stehen im Dienst\xfffeder Wissenschaft!\xf000븁\x0000
+Eine Mutter möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens vier Stunden\xfffelang mit der Frage, wie viel Zeit andere\xf000븀\x0000\xfffeSpieler mit dem Spiel verbringen.\xf000븁\x0000\xfffeSie hat Angst, dass ihr Kind vielleicht\xfffezu viel spielen könnte.\xf000븁\x0000
+Eine Zeitung möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens vier Stunden\xfffelang mit der Frage, ob mehr Jungs oder\xf000븀\x0000\xfffemehr Mädchen dieses Spiel spielen.\xf000븁\x0000\xfffeDeine Ergebnisse sollen gleich in der\xfffenächsten Morgenausgabe erscheinen!\xf000븁\x0000
+Ein Journalist eines Magazins möchte,\xfffedass wir für ihn folgende Umfrage\xf000븀\x0000\xfffedurchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens vier Stunden\xfffelang mit der Frage, was der häufigste\xf000븀\x0000\xfffeBeruf unter den Spielern ist.\xf000븁\x0000\xfffeDeine Ergebnisse will er in einem\xfffeSonderartikel veröffentlichen.\xf000븁\x0000
+Eine Freizeitagentur möchte, dass wir\xfffefür sie folgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens vier Stunden\xfffelang mit der Frage, was das häufigste\xf000븀\x0000\xfffeHobby unter den Spielern ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen helfen,\xfffedas Angebot zu erweitern.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens acht Stunden\xfffelang mit der Frage, ob die Spieler eher\xf000븀\x0000\xfffedie Pokémon-Kämpfe oder den\xf000븀\x0000\xfffePokémon-Tausch mögen.\xf000븁\x0000\xfffeIch komme nicht mehr los von Pokémon und\xfffewill wissen, was alle anderen so machen.\xf000븁\x0000
+Ein Mädchen möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens acht Stunden\xfffelang mit der Frage, welche Art von\xf000븀\x0000\xfffePokémon die beliebteste ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihr bei ihren\xfffeHausaufgaben helfen.\xf000븁\x0000
+Ein Trainer möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens acht Stunden\xfffelang mit der Frage, welcher Pokémon-Typ\xf000븀\x0000\xfffeder beliebteste ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm im Kampf\xfffehelfen.\xf000븁\x0000
+Ein Immobilienmakler möchte, dass wir\xfffefür ihn folgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens acht Stunden\xfffelang mit der Frage, ob die Spieler lieber\xf000븀\x0000\xfffein der Stadt oder auf dem Land leben.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei der Arbeit\xfffehelfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwölf\xfffeStunden lang mit der Frage, ob den\xf000븀\x0000\xfffeSpielern Zeit oder Geld wichtiger ist und\xf000븀\x0000\xfffewas für sie überhaupt das Wichtigste ist.\xf000븁\x0000\xfffeMich interessiert einfach, was alle\xfffeso für Wertvorstellungen haben.\xf000븁\x0000\xfffeWarum? Das verrate ich nicht!\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwölf\xfffeStunden lang mit der Frage, ob eher der\xf000븀\x0000\xfffeintellektuelle oder der sportliche\xf000븀\x0000\xfffeTyp bei den Spielern ankommt,\xf000븀\x0000\xfffewas allgemein als wichtiger angesehen\xf000븀\x0000\xfffewird, innere Werte oder Äußerlichkeiten,\xf000븀\x0000\xfffeund welcher Typ Mensch beliebt ist.\xf000븁\x0000\xfffeWas? Warum ich das wissen will?\xfffeAus purer Langeweile, mehr nicht!\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwölf\xfffeStunden lang mit der Frage, was die\xf000븀\x0000\xfffebeliebteste Jahreszeit ist und\xf000븀\x0000\xfffewas die beliebtesten Speisen sind.\xf000븁\x0000\xfffeWas gibt's Besseres, als einen zur\xfffeJahreszeit passenden Festschmaus?\xf000븁\x0000\xfffeFür wen ich den zubereiten will?\xfffeDas verrate ich nicht!\xf000븁\x0000
+Ein Künstler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens zwölf\xfffeStunden lang mit der Frage, was denn\xf000븀\x0000\xfffedie beliebteste Farbe und was die\xf000븀\x0000\xfffebeliebteste Musikrichtung ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seinem\xfffenächsten Meisterwerk helfen.\xf000븁\x0000
+Eine Sängerin möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 16 Stunden\xfffelang mit der Frage, was denn die\xf000븀\x0000\xfffebeliebteste Musikrichtung ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihr bei ihrem\xfffeneuesten Hit helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens 16 Stunden\xfffelang mit der Frage, was denn im Fernsehen\xf000븀\x0000\xfffeam meisten gesehen wird und was das\xf000븀\x0000\xfffebeliebteste Filmgenre ist.\xf000븁\x0000\xfffeIch will am Puls der Zeit sein\xfffeund mitreden können!\xf000븁\x0000
+Ein Schüler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 16 Stunden\xfffelang mit der Frage, was denn das Beste\xf000븀\x0000\xfffean einem Schultag ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seinem\xfffeSchulalltag helfen.\xf000븁\x0000
+Ein Lehrer möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 16 Stunden\xfffelang mit der Frage, was die beliebtesten\xf000븀\x0000\xfffeund unbeliebtesten Schulfächer sind.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seiner\xfffeUnterrichtsplanung helfen.\xf000븁\x0000
+Ein Sportler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 20 Stunden\xfffelang mit der Frage, was denn die\xf000븀\x0000\xfffebeliebteste Sportart ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seinen\xfffeWettkämpfen helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens 20 Stunden\xfffelang mit der Frage, wie alle ihre freien\xf000븀\x0000\xfffeTage am liebsten verbringen und wo sie\xf000븀\x0000\xfffeam liebsten ausspannen.\xf000븁\x0000\xfffeIch habe nämlich nächstes Wochenende\xfffeein Date und suche noch den richtigen\xf000븀\x0000\xfffeOrt dafür!\xf000븁\x0000
+Ein Pokémon-Fan möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 20 Stunden\xfffelang mit der Frage, was denn alle am\xf000븀\x0000\xfffeliebsten wären.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seiner\xfffePokémon-Kampagne helfen.\xf000븁\x0000
+Ein Arenaleiter möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeBeschäftige dich mindestens 24 Stunden\xfffelang mit der Frage, wer denn der\xf000븀\x0000\xfffebeliebteste Arenaleiter ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei der\xfffeLeitung seiner Arena helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeBeschäftige dich mindestens 24 Stunden\xfffelang mit der Frage, was für die Spieler\xf000븀\x0000\xfffedas Interessanteste an Pokémon ist.\xf000븁\x0000\xfffeAls Erwachsener muss man sich ja\xfffeirgendwann mal festlegen. Und ich\xf000븀\x0000\xfffehabe mich entschieden, mein Leben\xf000븀\x0000\xfffeim Zeichen der Pokémon zu leben!\xf000븁\x0000\xfffeDa interessiert mich natürlich,\xfffewas für alle den Reiz ausmacht.\xf000븁\x0000
+Nanu?\xf000븁\x0000\xfffeMit so vielen Leuten haben sich\xfffedeine Wege bereits gekreuzt?\xf000븁\x0000\xfffeAlle Achtung, \xf000Ā\x0001\x0001!\xfffeDiese Daten sind völlig ausreichend.\xf000븁\x0000\xfffeBitte berichte mir deine\xfffeUmfrageergebnisse!\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens fünf Personen\xfffedie Information, ob Pokémon Schwarz\xf000븀\x0000\xfffeoder Pokémon Weiß häufiger gespielt wird.\xf000븁\x0000\xfffeIch würde nämlich auch gern mit Pokémon\xfffeanfangen und will wissen, welche Edition\xf000븀\x0000\xfffedie beliebtere ist.\xf000븁\x0000
+Ein Professor möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens fünf Personen die\xfffeInformation, welches Pokémon am Anfang\xf000븀\x0000\xfffeam häufigsten ausgewählt wurde.\xf000븁\x0000\xfffeDeine Nachforschungen stehen im Dienst\xfffeder Wissenschaft!\xf000븁\x0000
+Eine Mutter möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens zehn Personen\xfffedie Information, wie viel Zeit denn andere\xf000븀\x0000\xfffeSpieler mit dem Spiel verbringen.\xf000븁\x0000\xfffeSie hat Angst, dass ihr Kind vielleicht\xfffezu viel spielen könnte.\xf000븁\x0000
+Eine Zeitung möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens zehn Personen\xfffedie Information, ob mehr Jungs oder\xf000븀\x0000\xfffemehr Mädchen dieses Spiel spielen.\xf000븁\x0000\xfffeDeine Ergebnisse sollen gleich morgen\xfffein der Morgenausgabe erscheinen!\xf000븁\x0000
+Ein Journalist eines Magazins möchte,\xfffedass wir für ihn folgende Umfrage\xf000븀\x0000\xfffedurchführen:\xf000븁\x0000\xfffeErlange von mindestens zehn Personen\xfffedie Information, was der häufigste\xf000븀\x0000\xfffeBeruf unter den Spielern ist.\xf000븁\x0000\xfffeDeine Ergebnisse will er in einem\xfffeSonderartikel veröffentlichen.\xf000븁\x0000
+Eine Freizeitagentur möchte, dass wir\xfffefür sie folgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens zehn Personen\xfffedie Information, was das häufigste\xf000븀\x0000\xfffeHobby unter den Spielern ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen helfen,\xfffedas Angebot zu erweitern.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 20 Personen die\xfffeInformation, ob die Spieler eher die\xf000븀\x0000\xfffePokémon-Kämpfe oder den Pokémon-Tausch\xf000븀\x0000\xfffemögen.\xf000븁\x0000\xfffeIch komme nicht mehr los von Pokémon und\xfffewill wissen, was alle anderen so machen.\xf000븁\x0000
+Ein Mädchen möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 20 Personen die\xfffeInformation, welche Art von Pokémon die\xf000븀\x0000\xfffebeliebteste ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihr bei ihren\xfffeHausaufgaben helfen.\xf000븁\x0000
+Ein Trainer möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 20 Personen die\xfffeInformation, welcher Pokémon-Typ der\xf000븀\x0000\xfffebeliebteste ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm im Kampf\xfffehelfen.\xf000븁\x0000
+Ein Immobilienmakler möchte, dass wir\xfffefür ihn folgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 20 Personen die\xfffeInformation, ob die Spieler lieber in der\xf000븀\x0000\xfffeStadt oder auf dem Land leben.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei der Arbeit\xfffehelfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 30 Personen\xfffedie Information, ob den Spielern Zeit\xf000븀\x0000\xfffeoder Geld wichtiger ist, und was für\xf000븀\x0000\xfffesie überhaupt das Wichtigste ist.\xf000븁\x0000\xfffeMich interessiert einfach, was alle\xfffeso für Wertvorstellungen haben.\xf000븁\x0000\xfffeWarum? Das verrate ich nicht!\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 30 Personen die\xfffeInformation, ob eher der intellektuelle\xf000븀\x0000\xfffeoder der sportliche Typ bei den Spielern\xf000븀\x0000\xfffeankommt, was allgemein als wichtiger\xf000븀\x0000\xfffeangesehen wird, innere Werte oder\xf000븀\x0000\xfffeÄußerlichkeiten, und welcher Typ\xf000븀\x0000\xfffeMensch beliebt ist.\xf000븁\x0000\xfffeWas? Warum ich das wissen will?\xfffeAus purer Langeweile, mehr nicht!\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 30 Personen\xfffedie Information, was die beliebteste\xf000븀\x0000\xfffeJahreszeit ist und was die beliebtesten\xf000븀\x0000\xfffeSpeisen sind.\xf000븁\x0000\xfffeWas gibt's Besseres, als einen zur\xfffeJahreszeit passenden Festschmaus?\xf000븁\x0000\xfffeFür wen ich den zubereiten will?\xfffeDas verrate ich nicht!\xf000븁\x0000
+Ein Künstler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 30 Personen die\xfffeInformation, was denn die beliebteste\xf000븀\x0000\xfffeFarbe und was die beliebteste\xf000븀\x0000\xfffeMusikrichtung ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seinem\xfffenächsten Meisterwerk helfen.\xf000븁\x0000
+Eine Sängerin möchte, dass wir für sie\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 40 Personen die\xfffeInformation, was denn die beliebteste\xf000븀\x0000\xfffeMusikrichtung ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihr bei ihrem\xfffeneuesten Hit helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 40 Personen\xfffedie Information, was denn im Fernsehen\xf000븀\x0000\xfffeam meisten gesehen wird und was das\xf000븀\x0000\xfffebeliebteste Filmgenre ist.\xf000븁\x0000\xfffeIch will am Puls der Zeit sein\xfffeund mitreden können!\xf000븁\x0000
+Ein Schüler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 40 Personen\xfffedie Information, was denn das Beste\xf000븀\x0000\xfffean einem Schultag ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm in seinem\xfffeAlltag helfen.\xf000븁\x0000
+Ein Lehrer möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 40 Personen die\xfffeInformation, was denn die beliebtesten\xf000븀\x0000\xfffeund unbeliebtesten Schulfächer sind.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seiner\xfffeUnterrichtsplanung helfen.\xf000븁\x0000
+Ein Sportler möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 50 Personen die\xfffeInformation, was denn die beliebteste\xf000븀\x0000\xfffeSportart ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seinen\xfffeWettkämpfen helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 50 Personen\xfffedie Information, wie alle ihre freien\xf000븀\x0000\xfffeTage am liebsten verbringen und wo\xf000븀\x0000\xfffesie am liebsten ausspannen.\xf000븁\x0000\xfffeIch habe nämlich nächstes Wochenende\xfffeein Date und suche noch den richtigen\xf000븀\x0000\xfffeOrt dafür!\xf000븁\x0000
+Ein Pokémon-Fan möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 50 Personen die\xfffeInformation, was denn alle am liebsten\xf000븀\x0000\xfffewären.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei seiner\xfffePokémon-Kampagne helfen.\xf000븁\x0000
+Ein Arenaleiter möchte, dass wir für ihn\xfffefolgende Umfrage durchführen:\xf000븁\x0000\xfffeErlange von mindestens 100 Personen die\xfffeInformation, wer denn der beliebteste\xf000븀\x0000\xfffeArenaleiter ist.\xf000븁\x0000\xfffeDeine Ergebnisse sollen ihm bei der\xfffeLeitung seiner Arena helfen.\xf000븁\x0000
+Ich möchte, dass du für mich folgende\xfffeUmfrage durchführst:\xf000븁\x0000\xfffeErlange von mindestens 100 Personen\xfffedie Information, was für die Spieler\xf000븀\x0000\xfffedas Interessanteste an Pokémon ist.\xf000븁\x0000\xfffeAls Erwachsener muss man sich ja\xfffeirgendwann mal festlegen. Und ich\xf000븀\x0000\xfffehabe mich entschieden, mein Leben\xf000븀\x0000\xfffeim Zeichen der Pokémon zu leben!\xf000븁\x0000\xfffeDa interessiert mich natürlich,\xfffewas für alle den Reiz ausmacht.\xf000븁\x0000
+Nanu?\xf000븁\x0000\xfffeDu hast ja bereits alle für diese\xfffeUmfrage nötigen Daten beisammen!\xf000븁\x0000\xfffeAlle Achtung, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeBitte berichte mir deine\xfffeUmfrageergebnisse!\xf000븁\x0000
+Willst du diesen Umfrageauftrag\xfffeannehmen?
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Welche Edition ist beliebter?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Das häufigste Starter-Pokémon“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die längste Spielzeit“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Mehr Jungs oder Mädchen?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Der häufigste Beruf“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Das häufigste Hobby“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Kämpfen oder tauschen?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die beliebtesten Pokémon“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Der beliebteste Pokémon-Typ“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Stadt oder Land?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Das Wichtigste im Leben“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Was macht jemanden attraktiv?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die vier Jahreszeiten“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Kunstgeschmack“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die beliebteste Musikrichtung“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Film und Fernsehen“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Das Beste am Schultag“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Spaß am Lernen“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die beliebteste Sportart“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Die beliebteste Freizeitbeschäftigung“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Was wären alle am liebsten?“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Der beliebteste Arenaleiter“\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält den Umfrageauftrag:\xfffe„Was ist das Beste an Pokémon?“\xf000븁\x0000
+Also, sobald du mit deiner Umfrage fertig\xfffebist, erstatte mir bitte Bericht!
+Also, sobald du mit deiner Umfrage fertig\xfffebist, erstatte mir bitte Bericht!\xf000븁\x0000
+Möchtest du einen anderen\xfffeUmfrageauftrag annehmen?
+Sieht aus, als wärst du mit deiner\xfffeUmfrage fertig. Deinen Bericht bitte!\xf000븁\x0000
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Welche Edition ist beliebter?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Starter-Pokémon“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die längste Spielzeit“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Mehr Jungs oder Mädchen?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der häufigste Beruf“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Hobby“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kämpfen oder tauschen?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebtesten Pokémon“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Pokémon-Typ“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Stadt oder Land?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Wichtigste im Leben“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was macht jemanden attraktiv?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die vier Jahreszeiten“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kunstgeschmack“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Musikrichtung“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Film und Fernsehen“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Beste am Schultag“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Spaß am Lernen“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Sportart“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Freizeitbeschäftigung“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was wären alle am liebsten?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Arenaleiter“.\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was ist das Beste an Pokémon?“\xf000븁\x0000\xfffeDu musst noch \xf000ȁ\x0001\x0002 Stunde(n) investieren.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Welche Edition ist beliebter?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Starter-Pokémon“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die längste Spielzeit“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Mehr Jungs oder Mädchen?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der häufigste Beruf“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Hobby“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kämpfen oder tauschen?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebtesten Pokémon“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Pokémon-Typ“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Stadt oder Land?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Wichtigste im Leben“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was macht jemanden attraktiv?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die vier Jahreszeiten“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kunstgeschmack“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Musikrichtung“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Film und Fernsehen“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Beste am Schultag“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Spaß am Lernen“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Sportart“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Freizeitbeschäftigung“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was wären alle am liebsten?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Arenaleiter“.\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was ist das Beste an Pokémon?“\xf000븁\x0000\xfffeDu musst mindestens die Daten\xfffevon einer Person erlangt haben.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Welche Edition ist beliebter?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Starter-Pokémon“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die längste Spielzeit“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Mehr Jungs oder Mädchen?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der häufigste Beruf“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das häufigste Hobby“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kämpfen oder tauschen?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebtesten Pokémon“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Pokémon-Typ“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Stadt oder Land?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Wichtigste im Leben“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was macht jemanden attraktiv?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die vier Jahreszeiten“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Kunstgeschmack“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Musikrichtung“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Film und Fernsehen“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Das Beste am Schultag“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Spaß am Lernen“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Sportart“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Die beliebteste Freizeitbeschäftigung“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was wären alle am liebsten?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Der beliebteste Arenaleiter“.\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du bist noch nicht fertig mit der Umfrage:\xfffe„Was ist das Beste an Pokémon?“\xf000븁\x0000\xfffeDu musst noch mindestens die Daten\xfffevon \xf000Ȃ\x0001\x0001 Person(en) erlangen.\xf000븁\x0000\xfffeAlso, ich zähle auf dich!\xf000븁\x0000\xfffeOder möchtest du die aktuelle Umfrage\xfffeabbrechen?
+Du hast derzeit keinen Umfrageauftrag\xfffeangenommen.\xf000븁\x0000\xfffeKomm wieder, wenn du eine Umfrage\xfffedurchführen willst.
+Du hast deine Umfrageergebnisse zu\xfffe„Welche Edition ist beliebter?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Das häufigste Starter-Pokémon“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die längste Spielzeit“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Mehr Jungs oder Mädchen?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Der häufigste Beruf“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Das häufigste Hobby“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Kämpfen oder tauschen?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die beliebtesten Pokémon“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Der beliebteste Pokémon-Typ“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Stadt oder Land?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Das Wichtigste im Leben“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Was macht jemanden attraktiv?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die vier Jahreszeiten“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Kunstgeschmack“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die beliebteste Musikrichtung“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Film und Fernsehen“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Das Beste am Schultag“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Spaß am Lernen“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die beliebteste Sportart“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Die beliebteste Freizeitbeschäftigung“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Was wären alle am liebsten?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Der beliebteste Arenaleiter“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Du hast deine Umfrageergebnisse zu\xfffe„Was ist das Beste an Pokémon?“\xf000븀\x0000\xfffean den Komiteeleiter übergeben!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeEs gibt ja Pokémon Schwarze Edition\xfffeund Weiße Edition. Weiter verbreitet\xf000븀\x0000\xfffevon beiden ist Pokémon \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeJetzt weiß ich Bescheid!\xf000븁\x0000\xfffeFest steht, dass beide gleich viel Spaß\xfffemachen. Wie soll man sich da entscheiden?\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDas am häufigsten ausgewählte Starter-\xfffePokémon ist also „\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeWer hätte das gedacht?\xfffeGenau dafür gibt es Umfragen!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie längste Spielzeit beträgt also\xfffe„\xf000ē\x0001\x0000“!\xf000븁\x0000\xfffeEs freut mich sehr, dass die Spieler\xfffeso viel Spaß mit dem Spiel haben!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeEine echt spannende Frage, ob nun mehr\xfffeJungs oder Mädchen das Spiel spielen.\xf000븁\x0000\xfffeUnd die Mehrheit der Spieler\xfffeist tatsächlich „\xf000ē\x0001\x0000“!\xf000븁\x0000\xfffeAber mit Pokémon kann jeder Spaß haben!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDer häufigste Beruf unter den Spielern\xfffeist „\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeInteressant, was für unterschiedliche\xfffeMenschen dieses Spiel spielen, oder?\xf000븁\x0000\xfffeIch finde das fantastisch!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDas häufigste Hobby unter den Spielern\xfffeist „\xf000ē\x0001\x0000“!\xf000븁\x0000\xfffeEs ist wichtig, an unterschiedlichen\xfffeDingen Spaß haben zu können.\xf000븁\x0000\xfffeDas erweitert den Horizont!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeKämpfen oder tauschen,\xfffedas ist hier die Frage.\xf000븁\x0000\xfffeDie Antwort lautet „\xf000ē\x0001\x0000“!\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeJeder kann selbst entscheiden,\xfffewelcher Aspekt von Pokémon ihm\xf000븀\x0000\xfffeam meisten zu bieten hat!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffe„\xf000ē\x0001\x0000“ Pokémon sind die\xfffebeliebtesten überhaupt!\xf000븁\x0000\xfffeAber es gibt ja so viele Pokémon!\xf000븁\x0000\xfffeIch würde sie gern alle treffen!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDer beliebteste Pokémon-Typ ist also\xfffe„\xf000ē\x0001\x0000“!\xf000븁\x0000\xfffeAber es gibt ja viele verschiedene Typen!\xf000븁\x0000\xfffeDiese Info hilft ganz bestimmt im Kampf!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeBei der Frage, ob Stadt oder Land, haben\xfffedie meisten geantwortet, dass sie lieber\xf000븀\x0000\xfffe„\xf000ē\x0001\x0000“ wohnen würden.\xf000븁\x0000\xfffeAlso das ist wirklich keine leichte Frage.\xfffeBeides hat Vor- und Nachteile!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeZeit oder Geld? Die Mehrheit hat sich\xfffefür „\xf000ē\x0001\x0000“ ausgesprochen.\xf000븁\x0000\xfffeUnd auf die Frage, was am wichtigsten\xfffeim Leben sei, lautete die Antwort:\xf000븀\x0000\xfffe„\xf000ē\x0001\x0001“!\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeJeder muss für sich selbst entscheiden,\xfffewas ihm am wichtigsten ist.\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeBei der Frage, sollte der Partner eher\xfffeintellektuell oder sportlich sein, war der\xf000븀\x0000\xfffeMehrheit „\xf000ē\x0001\x0000“ wichtiger.\xf000븁\x0000\xfffeBei der Frage, ob eher innere Werte\xfffeoder Äußerlichkeiten zählen,\xf000븀\x0000\xfffewar die Antwort: „\xf000ē\x0001\x0001“.\xf000븁\x0000\xfffeUnd am beliebtesten sind\xfffe„\xf000ē\x0001\x0002“ Menschen!\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeAls attraktiv kann man vieles empfinden.\xfffeWieso nur weiß mich niemand zu schätzen?\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie beliebteste Jahreszeit ist wohl\xfffeder „\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeUnd die Mehrheit isst am liebsten\xfffe„\xf000ē\x0001\x0001“ Speisen.\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeJe nach Jahreszeit empfindet man andere\xfffeSpeisen als lecker. Streng dich also an\xf000븀\x0000\xfffeund werde zu einem saisonalen Gourmet!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie Lieblingsfarbe der Mehrheit ist\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeUnd die beliebteste Musikrichtung ist\xfffe„\xf000ē\x0001\x0001“.\xf000븁\x0000\xfffeAber was in ist, ist nicht automatisch\xfffeauch immer gut.\xf000븁\x0000\xfffeWenn dir was gefällt, das nicht jeder\xfffemag, dann steh einfach dazu!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie beliebteste Musikrichtung ist\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeFür Musik sollte man sich Zeit nehmen.\xf000븁\x0000\xfffeFür mich ist dieses Ergebnis jedenfalls\xfffesehr aufschlussreich!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie Mehrheit sieht sich im Fernsehen\xfffeam liebsten „\xf000ē\x0001\x0000“ an.\xf000븁\x0000\xfffeUnd das beliebteste Filmgenre ist\xfffe„\xf000ē\x0001\x0001“.\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeDamit sollte ich jetzt genug\xfffeGesprächsstoff haben.\xf000븁\x0000\xfffeIch freue mich schon auf\xfffemein nächstes Date!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeAuf die Frage, was das Beste an\xfffeeinem Schultag sei, hat die Mehrheit\xf000븀\x0000\xfffe„\xf000ē\x0001\x0000“ geantwortet.\xf000븁\x0000\xfffeDie Schule, lang, lang ist's her...\xf000븁\x0000\xfffeMir hat damals ausnahmslos alles\xfffein der Schule Spaß gemacht.\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDas beliebteste Schulfach ist\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeDas unbeliebteste Schulfach ist\xfffe„\xf000ē\x0001\x0001“.\xf000븁\x0000\xfffeNur wer den Ausgleich zwischen Arbeit\xfffeund Vergnügen sucht, findet später\xf000븀\x0000\xfffedie ideale Balance im Leben!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie beliebteste Sportart ist also\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeAm wichtigsten ist es, sich überhaupt\xfffezu bewegen. Darum geht's beim Sport!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeFreie Tage verbringt die Mehrheit\xfffealso am liebsten mit „\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeUnd zum Ausspannen fahren alle\xfffeam liebsten „\xf000ē\x0001\x0001“.\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeJetzt kann mein Date am Wochenende\xfffenur ein voller Erfolg werden!\xf000븁\x0000\xfffeMit wem ich das Date habe?\xfffeDas behalte ich für mich!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDie Mehrheit wäre am liebsten\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeAuf ein Ziel hinzuarbeiten ist wichtig!\xfffeAber zunächst muss man an sich selbst\xf000븀\x0000\xfffeglauben!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeDer beliebteste Arenaleiter ist also\xfffe„\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeDie Arenaleiter sind Vorbilder für alle\xfffeKinder.\xf000븁\x0000\xfffeAlso ich finde sie alle klasse!\xf000븁\x0000
+Ach so, verstehe...\xf000븁\x0000\xfffeAuf die Frage, was an Pokémon denn\xfffeam meisten fasziniere, antwortete\xf000븀\x0000\xfffedie Mehrheit mit „\xf000ē\x0001\x0000“.\xf000븁\x0000\xfffeDas war sehr aufschlussreich!\xf000븁\x0000\xfffeEs gibt so viele Möglichkeiten,\xfffesich an Pokémon zu erfreuen.\xf000븁\x0000\xfffeDem Spaß sind keine Grenzen gesetzt!\xf000븁\x0000
+Eine ganz hervorragende Umfrage!\xf000븁\x0000\xfffeIch halte große Stücke auf dich,\xfffe\xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeHier, deine wohlverdiente Belohnung.\xfffeHoffentlich hast du Freude damit!\xf000븁\x0000
+Also deine Tüchtigkeit erstaunt mich\xfffedoch jedes Mal aufs Neue.\xf000븁\x0000\xfffeGut! Hiermit verleihe ich dir den Rang B!\xf000븁\x0000
+Also deine Tüchtigkeit erstaunt mich\xfffedoch jedes Mal aufs Neue.\xf000븁\x0000\xfffeGut! Hiermit verleihe ich dir den Rang A!\xf000븁\x0000
+Also deine Tüchtigkeit erstaunt mich\xfffedoch jedes Mal aufs Neue.\xf000븁\x0000\xfffeGut! Hiermit verleihe ich dir den Rang S!\xf000븁\x0000
+Also deine Tüchtigkeit erstaunt mich\xfffedoch jedes Mal aufs Neue.\xf000븁\x0000\xfffeGut! Hiermit verleihe ich dir den Rang S+!\xf000븁\x0000
+\xf000Ā\x0001\x0001 wurde zum Komiteemitglied\xfffedes Ranges B ernannt!\xf000븁\x0000
+\xf000Ā\x0001\x0001 wurde zum Komiteemitglied\xfffedes Ranges A ernannt!\xf000븁\x0000
+\xf000Ā\x0001\x0001 wurde zum Komiteemitglied\xfffedes Ranges S ernannt!\xf000븁\x0000
+\xf000Ā\x0001\x0001 wurde zum Komiteemitglied\xfffedes Ranges S+ ernannt!\xf000븁\x0000
+Schließe noch \xf000ȁ\x0001\x0001 weitere Umfrage(n) ab,\xfffeum zum Mitglied des Ranges B ernannt\xf000븀\x0000\xfffezu werden.\xf000븁\x0000
+Schließe noch \xf000ȁ\x0001\x0001 weitere Umfrage(n) ab,\xfffeum zum Mitglied des Ranges A ernannt\xf000븀\x0000\xfffezu werden.\xf000븁\x0000
+Schließe noch \xf000ȁ\x0001\x0001 weitere Umfrage(n) ab,\xfffeum zum Mitglied des Ranges S ernannt\xf000븀\x0000\xfffezu werden.\xf000븁\x0000
+Schließe noch \xf000ȁ\x0001\x0001 weitere Umfrage(n) ab,\xfffeum zum Mitglied des Ranges S+ ernannt\xf000븀\x0000\xfffezu werden.\xf000븁\x0000
+Auch bei der nächsten Umfrage zähle ich\xfffevoll und ganz auf dich, \xf000Ā\x0001\x0001!
+Nun hast du alle Umfragen durchgeführt.\xf000븁\x0000\xfffeIch bin stolz auf dich, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeNein, ich bin ganz und gar ergriffen!\xf000븁\x0000\xfffeHier, als Ausdruck meines Dankes!\xfffeHoffentlich freust du dich!\xf000븁\x0000
+Widme dich fortan all den Fragen, die dir\xfffeganz persönlich auf der Seele brennen!\xf000븁\x0000\xfffeIch weiß einfach, dass du deinen Weg\xfffegehen wirst!
+Ach so... na dann, mach's gut\xfffeund komm doch ab und zu vorbei!
+Du befindest dich hier im Hauptsitz\xfffedes Automatischen Passanten-Umfrage-\xf000븀\x0000\xfffeKomitees, kurz APUK.\xf000븁\x0000\xfffeWenn du beitreten möchtest,\xfffesprich doch mit dem Komiteeleiter.
+Sei gegrüßt, \xf000Ā\x0001\x0001!\xfffeWie laufen deine Umfragen?\xf000븁\x0000
+He, du bist doch neu hier!\xfffeWarte mal kurz!\xf000븁\x0000
+Ich würde dich gern um einen Gefallen\xfffebitten.\xf000븁\x0000\xfffeIch führe gerade bei allen Mitgliedern\xfffeeine kleine Befragung durch.\xf000븁\x0000\xfffeNimm du doch bitte auch daran teil.\xf000븁\x0000
+Ich würde dir gerne wieder ein paar\xfffeFragen stellen... einverstanden?
+Tja, da kann man nichts machen.\xf000븁\x0000\xfffeLass mich wissen, wenn du deine\xfffeMeinung änderst.
+Nanu? Ich glaube, du hast schon auf alle\xfffeFragen geantwortet.\xf000븁\x0000\xfffeMöchtest du die Fragen noch einmal\xfffebeantworten?
+Dann wähle doch bitte ein Thema aus.
+„Der typische Spieler“
+„Meine Pokémon“
+„Wertvorstellungen“
+„Zwischenmenschliches“
+„Vorlieben“
+„Geschmäcker sind verschieden“
+„Schulalltag“
+„Freizeit“
+„Faszination Pokémon“
+Darf ich dich zu dem Thema befragen?
+Du kannst die Fragen so oft beantworten,\xfffewie du willst.\xf000븁\x0000\xfffeSolltest du dich später also noch mal\xfffeumentscheiden, sprich mich einfach an.
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Der typische Spieler“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Meine Pokémon“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Wertvorstellungen“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Zwischenmenschliches“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Vorlieben“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Geschmäcker sind verschieden“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Schulalltag“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Freizeit“.\xf000븁\x0000
+Also, dann legen wir mal los! Ich stelle\xfffedir jetzt ein paar Fragen zum Thema...\xf000븁\x0000\xfffe„Faszination Pokémon“.\xf000븁\x0000
+„Was ist dein Hobby?“
+„Was macht dir mehr Spaß, mit Pokémon\xfffezu kämpfen oder sie zu tauschen?“
+„Wo würdest du lieber wohnen,\xfffein der Stadt oder auf dem Land?“
+„Was zieht dich an einem Partner\xfffemehr an?“
+„Welche der vier Jahreszeiten\xfffeist dir die liebste?“
+„Welche Musikrichtung magst du?“
+„Was ist für dich das Beste an einem\xfffeSchultag?“
+„Wohin fährst du, um auszuspannen?“
+„Was fasziniert dich an Pokémon\xfffeam meisten?“
+„Was ist dein Beruf?“
+„Welche Art von Pokémon magst du?“
+„Wovon hättest du denn lieber mehr?“
+„Worauf achtest du bei einem Partner\xfffeeher?“
+„Welche Speisen isst du am liebsten?“
+„Was siehst du dir am liebsten\xfffeim Fernsehen an?“
+„Welches Schulfach macht dir\xfffeam meisten Spaß?“
+„Was machst du an deinen freien Tagen?“
+„Was wärst du am liebsten?“
+
+„Welchen Pokémon-Typ bevorzugst du?“
+„Was ist für dich das Wichtigste\xfffeim Leben?“
+„Was für Menschen sind dir die liebsten?“
+„Was ist deine Lieblingsfarbe?“
+„Welches Filmgenre magst du\xfffeam liebsten?“
+„Welches Schulfach macht dir\xfffeam wenigsten Spaß?“
+„Welche Sportart magst du am liebsten?“
+„Welcher Arenaleiter gefällt dir\xfffeam besten?“
+Aha, aha, verstehe...\xfffeInteressant!\xf000븁\x0000\xfffeMachen wir weiter...\xf000븁\x0000
+Aha, aha, verstehe...\xfffeInteressant!\xf000븁\x0000\xfffeGut, das war's!\xf000븁\x0000\xfffeVielen Dank! Das war eine wirklich\xfffeaufschlussreiche Befragung!\xf000븁\x0000
+Hier, nimm den Fragebogen\xfffedoch einfach mit!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Der typische Spieler“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Meine Pokémon“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Wertvorstellungen“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Zwischenmenschliches“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Vorlieben“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Geschmäcker sind verschieden“\xf000븀\x0000\xfffebeigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Schulalltag“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Freizeit“ beigefügt!\xf000븁\x0000
+Deinem Umfrageradar wurde der Frage-\xfffebogen „Faszination Pokémon“ beigefügt!\xf000븁\x0000
+Ach ja! Und hier ein kleines Dankeschön,\xfffeweil du so brav geantwortet hast!\xf000븁\x0000
+Du hast bereits zu allen Themen\xfffeAntworten gegeben.\xf000븁\x0000\xfffeEs hat mir riesigen Spaß gemacht,\xfffedich besser kennenzulernen.\xf000븁\x0000
+Du kannst die Fragen so oft beantworten,\xfffewie du willst.\xf000븁\x0000\xfffeSolltest du dich später also noch mal\xfffeumentscheiden, sprich mich einfach an.
+An Themen bleiben somit noch: \xf000Ȁ\x0001\x0001!\xf000븁\x0000
+Sprich mich einfach an, wenn du zu einem\xfffeanderen Thema antworten willst!
+Willst du nicht noch zu einem anderen\xfffeThema antworten, wenn du schon dabei\xf000븀\x0000\xfffebist?
+Hallo!\xfffeEine Begrüßung ist das A und O!\xf000븁\x0000
+Würdest du mir vielleicht deine\xfffetypische Begrüßung verraten?
+Würdest du mir vielleicht\xfffedeine typische Begrüßung verraten?
+Hallo!
+Bis zum nächsten Mal!\xf000븁\x0000\xfffeEs ist immer wichtig, sich gegenseitig\xfffefreundlich zu begrüßen!
+Ja! Was für eine tolle Begrüßung!\xfffeDa fühlt man sich gleich ganz beschwingt!\xf000븁\x0000\xfffeBegrüß mich doch bald wieder so herzlich!\xfffeIch kann's kaum erwarten!
+Hallo!\xfffeNa, bedankst du dich auch immer artig?\xf000븁\x0000
+Oh, da liegt ja ein Pokéball.\xfffeBitte, für dich!\xf000븁\x0000
+\xf000Ā\x0001\x0001 erhält einen Pokéball.\xf000븁\x0000
+He, warte!\xf000븁\x0000\xfffeWenn jemand nett zu dir ist,\xfffedann musst du ihm auch danken!\xf000븁\x0000\xfffeAlso, verrate mir doch, wie du dich\xfffebei den Leuten bedankst.
+Verrate mir doch bitte, wie du dich\xfffebei den Leuten bedankst.
+Danke!
+Also dann, bis zum nächsten Mal!\xf000븁\x0000\xfffeUnd immer daran denken: Dank ist wichtig!
+Wirklich ergreifend!\xfffeDa wird einem warm ums Herz!\xf000븁\x0000\xfffeWenn dir also jemand hilft, bedanke dich\xfffebei ihm mit diesen Worten.\xf000븁\x0000\xfffeIch bin mir sicher, er wird sich freuen!
+Weißt du über die Ränge Bescheid?\xf000븁\x0000\xfffeWenn du eine gewisse Anzahl an Umfragen\xfffedurchführst, steigst du im Rang auf.\xf000븁\x0000\xfffeUnd je höher dein Rang ist, desto\xfffemehr wirst du respektiert.\xf000븁\x0000\xfffeEs werden dir auch Umfragen anvertraut,\xfffefür die es noch tollere Belohnungen gibt!
+Weißt du über die Ränge Bescheid?\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0001! Du hast ja bereits\xfffeRang B inne, fleißig!\xf000븁\x0000\xfffeWenn du im Rang aufsteigst,\xfffeerhältst du neue Umfrageaufträge.\xf000븁\x0000\xfffeAm besten, du redest mal\xfffemit dem Komiteeleiter!
+Weißt du über die Ränge Bescheid?\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0001! Du hast ja bereits\xfffeRang A inne, sehr fleißig!\xf000븁\x0000\xfffeIch sehe schon, da werde ich mich\xffferanhalten müssen.\xf000븁\x0000\xfffeUmfragen des Ranges A sind nicht leicht,\xfffealso häng dich rein!
+Weißt du über die Ränge Bescheid?\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0001! Du hast ja bereits\xfffeRang S inne, da fehlt nicht mehr viel\xf000븀\x0000\xfffezum Top-Rang!\xf000븁\x0000\xfffeIch stehe hinter dir, gib alles!
+Weißt du über die Ränge Bescheid?\xf000븁\x0000\xfffeOh, \xf000Ā\x0001\x0001! Du hast ja bereits\xfffeRang S+ inne! Wow, das ist ja super!\xf000븀\x0000\xfffeAb jetzt werde ich mich anstrengen,\xf000븁\x0000\xfffeum so schnell wie möglich aufzusteigen!
+Wenn du deine Daten überprüfen willst,\xfffewirf einen Blick auf die Grafik hinten\xf000븀\x0000\xfffean der Wand!\xf000븁\x0000\xfffeDort stehen alle Infos zu unseren\xfffeMitgliedern!\xf000븁\x0000\xfffeNatürlich findest du dort auch alles\xfffeüber dich!
+Hast du schon bei einer der Befragungen\xfffemitgemacht?\xf000븁\x0000\xfffeDabei kannst du viel über dich lernen,\xfffenimm also unbedingt teil!
+Ärgert es dich, dass dein Umfrageradar\xfffenicht mehr Menüpunkte hat?\xf000븁\x0000\xfffeWenn du daran etwas ändern möchtest,\xfffenimm an den Befragungen teil!
+Da du bereits den S-Rang innehast,\xfffehast du zu allen Themen geantwortet!\xf000븁\x0000\xfffeWas du wissen willst, wollen alle wissen!\xf000븁\x0000\xfffeAntworte immer fröhlich auf alle Fragen!
+Hallo, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeWir haben mehr Mitglieder denn je\xfffeund es ist richtig was los hier.\xf000븁\x0000\xfffeDas macht es natürlich leichter,\xfffeviele Daten zu sammeln.
+Je mehr Umfragen man macht,\xfffedesto mehr Spaß macht es!\xf000븁\x0000\xfffeMöge sich dein Weg noch mit dem\xfffevieler anderer Spieler kreuzen!\xf000븁\x0000\xfffeJe mehr bei den Umfragen mitmachen,\xfffedesto mehr Freude macht es auch!
+Geht's bei deinen Umfragen vielleicht\xfffenicht so voran?\xf000븁\x0000\xfffeFalls du Schwierigkeiten hast,\xfffeviele andere Spieler zu treffen,\xf000븀\x0000\xfffeprobier doch die Umfragen auf Zeit!\xf000븁\x0000\xfffeDas dauert natürlich etwas,\xfffeaber dafür genügt es, nur einem\xf000븀\x0000\xfffeeinzigen Spieler zu begegnen!
+Ich habe da einen guten Tipp für dich!\xf000븁\x0000\xfffeFalls du an Orte kommst, wo viel los ist,\xfffebieten sich repräsentative Umfragen an.\xf000븁\x0000\xfffeDa hast du deine Daten im Nu gesammelt.\xfffeUmfragen leicht gemacht!
+Wie immer fleißig, \xf000Ā\x0001\x0001?\xf000븁\x0000\xfffeDu hast dich inzwischen zu unserem\xfffeTop-Mitglied gemausert!\xf000븁\x0000\xfffeIch kann mir echt eine Scheibe von dir\xfffeabschneiden!
+Als ich vorhin bei der Befragung\xfffemitgemacht habe, habe ich danach\xf000븀\x0000\xfffeden Fragebogen bekommen!\xf000븁\x0000\xfffeOb ich an allen Befragungen teilnehmen\xfffesollte?
+Auf die Befragungen folgen die Umfragen!\xf000븁\x0000\xfffeStelle im Umfrageradar das Thema ein, zu\xfffedem du eine Umfrage machen möchtest...\xf000븁\x0000\xfffeUnd los, hinaus in die Welt!
+Die neuen Mitglieder machen gar nicht\xfffebei den Befragungen mit!\xf000븁\x0000\xfffeWer fleißig bei den Befragungen mitmacht,\xfffedem stehen mehr Umfragen zur Verfügung.\xf000븁\x0000\xfffeEcht schade drum.
+Hallo, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeIch kenne mich inzwischen so gut aus,\xfffedass ich neue Mitglieder anweisen kann!
+Welches Filmgenre erfreut sich wohl\xfffegerade der größten Beliebtheit?\xf000븁\x0000\xfffeWeißt du es, \xf000Ā\x0001\x0001?
+Welche Speisen sind jetzt wohl gerade\xfffein aller Munde?\xf000븁\x0000\xfffeWeißt du es, \xf000Ā\x0001\x0001?
+Was wohl die Mehrheit mag?\xfffeOh, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeNur selbst Umfragen durchzuführen macht\xfffeschlau, oder?\xf000븁\x0000\xfffeAber das ist so viel Arbeit...
+Der Komiteeleiter ist echt gnadenlos\xfffebei seinen Umfrageaufträgen.\xf000븁\x0000\xfffeDie Umfragen werden immer\xfffekniffliger und kniffliger...
+Wie immer fleißig, was, \xf000Ā\x0001\x0001?\xf000븁\x0000\xfffeHast du schon alle Umfragen für den\xfffeKomiteeleiter durchgeführt?\xf000븁\x0000\xfffeWenn du mit allen Aufträgen fertig bist,\xfffeerhältst du wohl etwas ganz Besonderes!
+Oh, \xf000Ā\x0001\x0001!\xfffeWelch Ehre, dich zu treffen!\xf000븁\x0000\xfffeDu meine Güte...\xfffe\xf000Ā\x0001\x0001 hat mich angesprochen!
+Neue Mitglieder gesucht! Interessenten\xfffebitte beim Komiteeleiter melden!
+\xf000Ā\x0001\x0000\xfffeMitglied des Ranges C\xfffeUmfrageteilnehmer: \xf000Ȅ\x0001\x0001\xfffeDankesmitteilungen: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMitglied des Ranges B\xfffeUmfrageteilnehmer: \xf000Ȅ\x0001\x0001\xfffeDankesmitteilungen: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMitglied des Ranges A\xfffeUmfrageteilnehmer: \xf000Ȅ\x0001\x0001\xfffeDankesmitteilungen: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMitglied des Ranges S\xfffeUmfrageteilnehmer: \xf000Ȅ\x0001\x0001\xfffeDankesmitteilungen: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMitglied des Ranges S+\xfffeUmfrageteilnehmer: \xf000Ȅ\x0001\x0001\xfffeDankesmitteilungen: \xf000Ȅ\x0001\x0002

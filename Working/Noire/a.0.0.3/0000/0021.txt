@@ -1,0 +1,90 @@
+Tcheren: Viens donc par ici!\xf000븁\x0000
+Tout droit, voici le Centre Pokémon.\xf000븁\x0000\xfffeEnsuite... Si tu le permets...\xfffeEssaye donc ceci.\xf000븁\x0000
+Tcheren: La Baie Maron, tenue par un\xfffePokémon, lui permet de se réveiller tout\xf000븀\x0000\xfffeseul s'il est endormi par l'adversaire.\xf000븁\x0000\xfffeEt comme je suis d'humeur généreuse,\xfffeje rajoute un petit conseil...\xf000븁\x0000\xfffeLe Champion de Maillard est spécialiste\xfffedes Pokémon de type Normal.\xf000븁\x0000\xfffeLe type Combat est idéal pour les\xffferemettre à leur place.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Je veux voir... ce que les autres\xfffene peuvent pas voir.\xf000븁\x0000\xfffeL'image idéalisée des Pokémon dans leur\xfffePoké Ball...\xf000븁\x0000\xfffeLa réalité du comportement\xfffedes Dresseurs.\xf000븁\x0000\xfffeEnfin, ce futur parfait pour les Pokémon.\xf000븁\x0000\xfffeToi aussi, tu désires voir ce monde?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Je veux voir... ce que les autres\xfffene peuvent pas voir.\xf000븁\x0000\xfffeLa réalité des Pokémon dans leur\xfffePoké Ball...\xf000븁\x0000\xfffeL'image idéalisée du comportement\xfffedes Dresseurs.\xf000븁\x0000\xfffeEnfin, ce futur parfait pour les Pokémon.\xf000븁\x0000\xfffeToi aussi, tu désires voir ce monde?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Vraiment...?\xf000븁\x0000\xfffeEn ce cas, laisse-nous, mes amis et moi,\xfffevérifier si nos visions sont justes!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Vraiment...?\xfffeTu me déçois.\xf000븁\x0000\xfffeEn tous les cas, laisse-nous, mes amis\xfffeet moi, vérifier si nos visions\xf000븀\x0000\xfffesont justes!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Hélas! Impossible avec mes amis de\xfffesauver tous les Pokémon...\xf000븁\x0000\xfffeL'équation qui régit ce monde est encore\xfffeindéchiffrable...\xf000븁\x0000\xfffeIl me faut plus de force.\xfffeUne force reconnue de tous...\xf000븉\x0001\x0000\xf000븁\x0000
+
+... J'ai compris de quel pouvoir j'avais\xfffebesoin.\xf000븁\x0000\xfffeLe Pokémon légendaire qui jadis, avec\xfffele héros, fonda la région d'Unys...\xf000븀\x0000\xfffeReshiram!\xf000븁\x0000\xfffeÀ mon tour d'endosser la responsabilité\xfffedu héros. Et de devenir ton ami!\xf000븁\x0000
+... J'ai compris de quel pouvoir j'avais\xfffebesoin.\xf000븁\x0000\xfffeLe Pokémon légendaire qui jadis, avec\xfffele héros, fonda la région d'Unys...\xf000븀\x0000\xfffeZekrom!\xf000븁\x0000\xfffeÀ mon tour d'endosser la responsabilité\xfffedu héros. Et de devenir ton ami!\xf000븁\x0000
+???: Alors, Aloé... As-tu trouvé\xfffedes nouveaux fossiles intéressants?\xf000븁\x0000
+Aloé: Oh! Que nous vaut cette visite?\xfffeSerait-on en panne d'inspiration?\xf000븁\x0000
+\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeJe te présente le Champion de Volucité:\xfffeArtie.\xf000븁\x0000
+Artie: Hum...?\xfffeJe suis venu changer d'air, c'est tout.\xf000븁\x0000\xfffeDites, je me fais des idées, ou il\xfffes'est passé quelque chose...?\xf000븁\x0000
+Aloé: Oh que oui! On m'a dérobé une pièce\xfffemaîtresse de l'exposition!\xf000븁\x0000
+Bianca: Euh... Dites...\xf000븁\x0000\xfffePourquoi tout le monde\xfffeest réuni comme ça?\xf000븁\x0000
+Tcheren: \xf000Ā\x0001\x0000.\xfffeY aurait-il un problème?\xf000븁\x0000
+Aloé: Qui sont ces enfants?\xf000븁\x0000\xfffeTes amis, peut-être?\xfffe...\xf000븁\x0000\xfffeBianca et Tcheren?\xfffeDes Dresseurs, j'aurais dû m'en douter.\xf000븁\x0000\xfffeDans ce cas, séparons-nous.\xfffeJe vais par là.\xf000븁\x0000
+Vous, là.\xf000븁\x0000\xfffeBianca et Tcheren, vous restez au\xfffemusée. Merci d'avance!\xf000븁\x0000
+Artie et \xf000Ā\x0001\x0000, je vous propose\xfffed'aller explorer la Forêt d'Empoigne.\xf000븁\x0000\xfffeTout le monde a bien compris?\xf000븁\x0000\xfffeArtie, je compte sur toi pour faire\xfffele guide.\xf000븁\x0000\xfffeAllons, ne perdons plus une minute!\xf000븁\x0000
+Artie: Bien, bien...\xf000븁\x0000\xfffeTu t'appelles... \xf000Ā\x0001\x0000,\xfffen'est-ce pas?\xf000븁\x0000\xfffeAlors, en route! Sus aux voleurs!\xf000븁\x0000
+Artie: Bien, bien...\xf000븁\x0000\xfffeTu t'appelles... \xf000Ā\x0001\x0000,\xfffen'est-ce pas?\xf000븁\x0000\xfffeAlors, en route! Sus aux voleurs!\xf000븁\x0000
+Bianca: Euh... Oh! J'ai failli oublier.\xfffe\xf000Ā\x0001\x0000, c'est pour toi.\xf000븁\x0000\xfffeC'est Madame Oryse qui me l'a donné\xfffepour toi. C'est un Cherch'Objet.\xf000븁\x0000
+Avec le Cherch'Objet, tu peux... Attends\xfffeque je me souvienne... Euh...\xf000븁\x0000\xfffeAh oui! Tu peux trouver des objets\xfffecachés qu'on peut pas voir normalement.\xf000븀\x0000\xfffeGénial, hein?\xf000븁\x0000
+Tcheren: Nous sommes laissés dans\xfffele flou, mais la tâche qui m'incombe\xf000븀\x0000\xfffeest de protéger le musée, n'est-ce pas?\xf000븁\x0000
+Bianca: À moi aussi, c'est bien ça?\xf000븁\x0000
+Aloé: La Team Plasma n'a pas l'air\xfffed'être dans le coin.\xf000븁\x0000\xfffeMais je ne peux pas bouger d'ici.\xf000븁\x0000\xfffeJe compte sur vous pour passer la\xfffeForêt d'Empoigne au peigne fin!
+Les usines et les entrepôts de\xfffeconfection à l'abandon ont été\xf000븀\x0000\xffferéhabilités par des jeunes gens\xf000븀\x0000\xfffepleins d'espoir, qui en ont fait\xf000븀\x0000\xfffedes ateliers.\xf000븁\x0000\xfffeC'est comme ça que Maillard\xfffeest devenue une ville des arts.
+Dans cet entrepôt...\xfffeY'a des trucs sympas qui sont vendus.
+C'était que des vieux entrepôts miteux.\xfffeEt c'est devenu super à la mode...\xf000븀\x0000\xfffeJ'en suis toute retournée!
+Maillard a une excellente réputation, et\xfffeest admirée de tous!\xf000븁\x0000\xfffeComme quoi, parfois, la simplicité\xfffeest payante!
+Tu aimes l'accordéon, dis?\xfffeAhaw, haw, haw, haw.
+Maillard\xfffeEt son dédale d'entrepôts!
+Café de la Grange\xfffePromotions tous les mercredis!
+Arène de Maillard\xfffeChampion: Aloé\xf000븀\x0000\xfffeUne mama dans toute sa splendeur!
+Keteleeria: Goyah m'a raconté ce qui\xfffes'était passé.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, tu te retrouves dans\xfffeune histoire incroyable.\xf000븁\x0000
+Aloé: Un rapport avec ceci?\xf000븁\x0000
+Bianca: Euh... ça?\xf000븁\x0000\xfffeC'est qu'un vieux caillou trouvé\xfffedans le Désert Délassant.\xf000븁\x0000
+Aloé: Ce n'est pas faux. Mais en réalité,\xfffece serait un Pokémon Dragon.\xf000븁\x0000
+S. Keteleeria: Voyons...\xf000븁\x0000\xfffeD'après les résultats de notre\xfffeexpédition à la Tour Dragospire,\xf000븁\x0000\xfffeon y trouve des éléments du même âge\xfffeque ceux de ce Galet Noir.\xf000븁\x0000
+S. Keteleeria: Voyons...\xf000븁\x0000\xfffeD'après les résultats de notre\xfffeexpédition à la Tour Dragospire,\xf000븁\x0000\xfffeon y trouve des éléments du même âge\xfffeque ceux de ce Galet Blanc.\xf000븁\x0000
+Keteleeria: Tu veux dire... l'expédition\xfffeque tu m'avais envoyée faire, moi seule.\xf000븁\x0000
+Aloé: Je m'en doutais!\xf000븁\x0000
+Bianca: Bah, c'est pas grave, hein!\xf000븁\x0000\xfffeC'est trop top de la chance que la Team\xfffePlasma ait pas fait attention à ce vieux\xf000븀\x0000\xfffecaillou quand elle est venue.\xf000븁\x0000
+Aloé: En effet.\xf000븁\x0000\xfffeEt je crois comprendre ce qu'ils\xfffevoulaient faire, maintenant.\xf000븁\x0000\xfffeIls ont volé le Crâne en espérant\xffferessusciter le Pokémon Dragon\xf000븀\x0000\xfffedes légendes.\xf000븁\x0000
+\xf000Ā\x0001\x0000, tiens.\xfffeJe te confie ce Galet.\xf000븁\x0000
+Goyah: Un instant, \xf000Ā\x0001\x0000! \xf000븁\x0000
+Avoir ce Galet Noir en ta possession\xfffeimplique de lourdes responsabilités.\xf000븁\x0000\xfffeTu devras affronter N si jamais\xfffeil m'arrivait quoi que ce soit.\xf000븁\x0000\xfffeEst-ce bien clair?
+Avoir ce Galet Blanc en ta possession\xfffeimplique de lourdes responsabilités.\xf000븁\x0000\xfffeTu devras affronter N si jamais\xfffeil m'arrivait quoi que ce soit.\xf000븁\x0000\xfffeEst-ce bien clair?
+Goyah: Je respecte ta décision.\xfffeEt suis fier de toi.\xf000븁\x0000\xfffeAlors, reçois courageusement\xfffece Galet.\xf000븁\x0000
+Goyah: Préfères-tu le monde que\xfffedésire N?\xf000븁\x0000\xfffeDésires-tu cette ère où Pokémon et\xfffeDresseurs seront séparés?
+Goyah: Je t'en prie.\xfffeJe t'en supplie.\xf000븁\x0000\xfffeAu cas où il m'arriverait quelque chose,\xfffeprends soin de ce Galet!
+Goyah: Je sais que j'insiste, et que\xfffej'ai l'air d'ignorer ton choix...\xf000븁\x0000\xfffeMais pour que ce monde où humains et\xfffePokémon cohabitent heureux puisse se\xf000븀\x0000\xfffeperpétuer...\xf000븁\x0000\xfffeProtège ce Galet, coûte que coûte!\xf000븁\x0000
+Aloé: Incroyable...\xf000븁\x0000\xfffeCe Galet Noir est la clé de voûte de ce\xfffefutur idéal pour les Pokémon et nous.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000. Tu as de grandes\xffferesponsabilités. Fais très attention.\xf000븁\x0000
+Aloé: Incroyable...\xf000븁\x0000\xfffeCe Galet Blanc est la clé de voûte de ce\xfffefutur réel pour les Pokémon et nous.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000. Tu as de grandes\xffferesponsabilités. Fais très attention.\xf000븁\x0000
+S. Keteleeria: ...\xf000븁\x0000\xfffeMais comment diable réveiller ce Dragon\xfffeà partir de ce Galet?
+Hum...?
+...
+Euh...
+Aloé: Mais oui, tu as raison!\xfffeQuel génie, Bianca. EUX!!!\xf000븁\x0000
+Goyah: C'est vrai, eux, je les avais\xfffepresque oubliés!\xf000븁\x0000
+\xf000Ā\x0001\x0000.\xfffeDirection Janusia, et que ça saute!\xf000븁\x0000\xfffeLe Champion et les Dresseurs de\xfffecette ville sont des spécialistes\xf000븀\x0000\xfffedu type Dragon.\xf000븁\x0000\xfffeIls sauront sûrement quelque chose!\xf000븁\x0000\xfffeJe pars devant.\xfffeNe traîne pas non plus!\xf000븁\x0000
+Keteleeria: Bien pensé!\xf000븁\x0000\xfffeIris aura certainement un indice\xfffeà nous donner!\xf000븁\x0000
+Keteleeria: Bien pensé!\xf000븁\x0000\xfffeWatson aura certainement un indice\xfffeà nous donner!\xf000븁\x0000
+S. Keteleeria: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeLes Pokémon sont de ton côté.\xfffeTu ne dois jamais l'oublier!\xf000븁\x0000
+Keteleeria: Quel genre de créature\xfffepeut bien être ce Pokémon Dragon?\xf000븁\x0000\xfffeQuoi qu'il en soit, nous allons retourner\xfffeau labo pour chercher comment\xf000븀\x0000\xfffele réveiller.\xf000븁\x0000
+Aloé: Ne vous inquiétez pas.\xf000븁\x0000\xfffeSi vous avez le moindre souci,\xfffenous accourrons!\xf000븁\x0000
+Aloé: Ne vous inquiétez pas.\xf000븁\x0000\xfffeSi vous avez le moindre souci,\xfffenous accourrons!
+Bianca: Euh... J'ai rien compris.\xf000븁\x0000\xfffeMais bon, ça a l'air d'être une situation\xfffecompliquée, de toute façon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, tu sais où c'est,\xfffeJanusia?\xf000븁\x0000\xfffeC'est de l'autre côté du Pont\xfffeFerroviaire qui démarre à Flocombe.\xf000븁\x0000\xfffeSi tu comprends pas ce que je dis,\xffferegarde la Carte!\xf000븁\x0000
+Bianca: Euh... J'ai rien compris.\xf000븁\x0000\xfffeMais bon, ça a l'air d'être une situation\xfffecompliquée, de toute façon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, tu sais où c'est,\xfffeJanusia?\xf000븁\x0000\xfffeC'est de l'autre côté du Pont\xfffeFerroviaire qui démarre à Flocombe.\xf000븁\x0000\xfffeSi tu comprends pas ce que je dis,\xffferegarde la Carte!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

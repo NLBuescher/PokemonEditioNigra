@@ -1,0 +1,669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salve! Qui puoi ricevere un Dono Segreto.
+RICEVI DONO
+GUARDA ALBUM SCHEDE
+ESCI
+Per ricevere il Dono Segreto occorre\xfffestabilire un collegamento.\xf000븀\x0000\xfffeVuoi continuare?
+SÌ
+NO
+Scegli come vuoi ricevere il tuo dono.
+VIA WIRELESS
+VIA NINTENDO WFC
+VIA INFRAROSSI
+ESCI
+Scegli in che modo vuoi ricevere il tuo dono.
+Scegli ed elimina una scheda che non\xfffeti serve più.\xf000븁\x0000
+Se non elimini una scheda, non puoi\xfffericevere altri Doni Segreti.\xf000븀\x0000\xfffeVuoi procedere comunque?
+SÌ
+NO
+Verrà attivata la comunicazione wireless DS.
+SÌ
+NO
+Vuoi collegarti alla Nintendo Wi-Fi\xfffeConnection?
+SÌ
+NO
+Il collegamento a infrarossi verrà\xfffeattivato.\xf000븁\x0000\xfffeFai in modo che la tua scheda di gioco\xfffee quella del giocatore da cui riceverai\xf000븀\x0000\xfffeil dono siano una di fronte all'altra\xf000븀\x0000\xfffee scegli SÌ.\xf000븁\x0000
+SÌ
+NO
+Ricerca di un dono in corso.\xfffeAttendi...
+Scegli il dono che vuoi ricevere.
+Vuoi rinunciare a ricevere il dono?
+SÌ
+NO
+Vuoi ricevere questo dono?
+SÌ
+NO
+Ricezione del dono in corso.\xfffeNon spegnere la console.
+Il dono è stato ricevuto!\xf000븁\x0000\xfffePrendi il tuo dono dal postino\xfffein qualsiasi Centro Pokémon.\xf000븁\x0000
+Salvataggio dell'Album Schede in corso.\xfffeNon spegnere la console.
+Scegli cosa fare con la Scheda Segreta.
+SCAMBIA
+BUTTA
+INDIETRO
+Non puoi gettare via un dono che non hai\xfffeancora ricevuto!\xf000븁\x0000\xfffePrima devi ritirarlo dal postino che si\xfffetrova al Centro Pokémon.\xf000븁\x0000
+La scheda è stata buttata via.\xf000븁\x0000
+Scegli la scheda da sostituire.
+Vuoi buttare via questa scheda?
+SÌ
+NO
+Quale argomento vuoi approfondire?
+INFORMAZIONI SUL DONO SEGRETO
+INFORMAZIONI SULL'ALBUM
+QUANDO L'ALBUM È PIENO
+ESCI
+REGOLE
+Scegliendo questa opzione potrai ricevere\xfffedei doni stupendi tramite le varie modalità\xf000븀\x0000\xfffedi comunicazione del tuo Nintendo DS.\xf000븁\x0000\xfffeUna volta ricevuto un dono, avvia il gioco\xfffee recati dal postino in un Centro Pokémon\xf000븀\x0000\xfffequalsiasi per ritirarlo.\xf000븁\x0000
+Quando ricevi un Dono Segreto una Scheda\xfffeSegreta viene aggiunta nell'Album.\xf000븁\x0000\xfffePuoi usarla per controllare se hai ritirato\xfffequel dono dal postino. Non dimenticare di\xf000븀\x0000\xffferitirare tutti i doni che hai ricevuto!\xf000븁\x0000\xfffeRicorda che c'è un limite al numero di\xfffeschede che puoi salvare nell'Album.\xf000븁\x0000\xfffeSe hai già iniziato a giocare, e hai salvato\xfffeil gioco, puoi salvare fino a dodici schede.\xf000븁\x0000\xfffeInvece, se non hai ancora iniziato la tua\xfffeavventura puoi salvarne solo tre.\xf000븁\x0000\xfffeQuando non avrai più spazio libero,\xfffenon potrai ricevere altri doni.\xf000븁\x0000\xfffeElimina qualche scheda dal tuo Album!\xf000븁\x0000
+Se il tuo Album Schede è pieno, non puoi\xfffericevere altri Doni Segreti.\xf000븁\x0000\xfffePer fare spazio, dovrai cancellare una\xfffedelle schede. A tal fine, selezionane una\xf000븀\x0000\xfffee premi il pulsante A.\xf000븁\x0000\xfffeRicorda che una volta cancellata una\xfffescheda, non sarà più possibile ricevere\xf000븀\x0000\xfffeil dono relativo, quindi fai attenzione!\xf000븁\x0000\xfffeSe non hai ancora ritirato tutti i doni\xfffeper cui hai ricevuto delle schede, avvia\xf000븀\x0000\xfffeil gioco e dirigiti presso qualsiasi\xf000븀\x0000\xfffeCentro Pokémon, dove ti aspetterà\xf000븀\x0000\xfffeun postino per consegnarteli.\xf000븁\x0000
+Quando ricevi un Dono Segreto una Scheda\xfffeSegreta viene aggiunta nell'Album.\xf000븁\x0000\xfffePuoi usarla per controllare se hai ritirato\xfffequel dono dal postino. Non dimenticare di\xf000븀\x0000\xffferitirare tutti i doni che hai ricevuto!\xf000븁\x0000\xfffeRicorda che c'è un limite al numero di\xfffeschede che puoi salvare nell'Album.\xf000븁\x0000\xfffeSe hai già iniziato a giocare, e hai salvato\xfffeil gioco, puoi salvare fino a dodici schede.\xf000븁\x0000\xfffeInvece, se non hai ancora iniziato la tua\xfffeavventura puoi salvarne solo tre.\xf000븁\x0000\xfffeQuando non avrai più spazio libero,\xfffenon potrai ricevere altri doni.\xf000븁\x0000\xfffeElimina qualche scheda dal tuo Album!\xf000븁\x0000
+Comunicazione in corso.\xfffeAttendi...
+Il postino è pieno di doni e non può\xfffericeverne altri!\xf000븁\x0000\xfffeAvvia il gioco e dirigiti presso un\xfffeCentro Pokémon qualsiasi dove il postino\xf000븀\x0000\xfffeti consegnerà i doni che ha per te.\xf000븁\x0000
+Hai già ricevuto questo dono.\xfffePuoi riceverlo solo una volta.\xf000븁\x0000
+Non sono stati trovati doni.\xf000븁\x0000
+
+Hai raggiunto il numero massimo di Schede\xfffeSegrete!\xf000븁\x0000\xfffeNon potrai ricevere altri Doni Segreti\xfffefinché non libererai qualche spazio.\xf000븁\x0000\xfffeVuoi eliminare qualche Scheda Segreta?
+SÌ
+NO
+Non è stato possibile ricevere il dono.\xf000븁\x0000
+
+Visto che non hai ancora iniziato una\xfffepartita non puoi ricevere ulteriori doni.\xf000븀\x0000\xfffeInizia una nuova avventura!\xf000븁\x0000
+ALBUM SCHEDE
+A: ORGANIZZA
+ESCI
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002 \xf000ȁ\x0001\x0001 \xf000ȃ\x0001\x0000
+Scheda Segreta
+Data ricezione:
+\xf000ȁ\x0001\x0002 \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+A: FINE
+
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2010!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2011!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2012!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2013!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2014!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2015!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2016!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2017!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2018!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2019!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffeil Film Pokémon del 2020!\xfffeRicordati di ritirare il dono\xfffedal postino nel Centro Pokémon!
+Grazie per aver visitato il Centro\xfffePokémon!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Tokyo!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Osaka!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Fukuoka!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Nagoya!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Sapporo!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver visitato\xfffeil Centro Pokémon di Yokohama!\xfffeRicordati di ritirare il dono dal postino\xfffeall'interno del gioco!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al \xfffeCampionato Mondiale Pokémon (WCS) 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato Mondiale Pokémon (WCS) 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a Worlds!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffeWorlds 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a questo\xfffeEvento di Gioco!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffequesto evento!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver partecipato a\xfffequesto evento Pokémon!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver giocato con questo\xfffegioco dei Pokémon!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver visitato questo negozio!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questa Gara!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questo evento!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo per aver partecipato a\xfffequesto evento!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte del\xfffePokémon Fan Club!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver guardato\xfffePokémon Sunday!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte di\xfffePokémon Sunday!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questa Sfida in Piazza!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte di\xfffeSfida in Piazza!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questa Sfida di Lotta!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte di\xfffeSfida di Lotta!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questo Campo Allenatori!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte di\xfffeCampo Allenatori!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questo Tour di Lotta!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte di Tour di Lotta!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di partecipare\xfffea questo concerto dei Pokémon!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di guardare\xfffequesto cartone animato dei Pokémon!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per avere usato la\xfffeNintendo Wi-Fi Connection!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver effettuato il download!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver giocato con Pokémon\xfffeRanger!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+La Federazione Ranger ti ha chiesto di\xfffeprenderti cura di un Pokémon!\xfffeVai a prenderlo dal postino del\xfffeCentro Pokémon!
+La Federazione Ranger ti ha chiesto di\xfffeprenderti cura di un Uovo!\xfffeVai a prenderlo dal postino del\xfffeCentro Pokémon!
+Grazie per aver giocato nel\xfffePokémon Dream World!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo dal Pokémon Dream World!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver giocato con PDW!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da PDW!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui\xfffeall'Evento Pokémon 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla Pokémon Festa!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per essere qui alla\xfffePokémon Festa 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da PokéPark!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2010!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2011!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2012!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2013!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2014!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2015!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2016!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2017!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2018!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2019!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2020!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ricordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di vedere\xfffequesto Film Pokémon 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Tokyo!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Osaka!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Fukuoka!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Nagoya!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Sapporo!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato\xfffeil Centro Pokémon di Yokohama!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS)!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per l'iscrizione al\xfffeCampionato Mondiale Pokémon (WCS) 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui a Worlds 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato a questo\xfffeEvento di Gioco!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato all'Evento\xfffedi Gioco 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato al\xfffeCampionato di Gioco (VGC) 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato a questo\xfffeevento!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver partecipato a questo\xfffeevento Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver giocato con i Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver visitato questo negozio!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questa Gara!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questo evento!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo per la partecipazione\xfffea questo evento!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Ecco un regalo da parte del\xfffePokémon Fan Club!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver guardato\xfffePokémon Sunday!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da parte di\xfffePokémon Sunday!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questa Sfida in Piazza!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da parte di\xfffeSfida in Piazza!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questa Sfida di Lotta!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da parte di\xfffeSfida di Lotta!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questo Campo Allenatori!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da parte di\xfffeCampo Allenatori!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questo Tour di Lotta!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da parte di\xfffeTour di Lotta!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di partecipare\xfffea questo concerto dei Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver scelto di guardare\xfffequesto cartone animato dei Pokémon!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per avere usato la\xfffeNintendo Wi-Fi Connection!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver effettuato il download!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Grazie per aver giocato con Pokémon\xfffeRanger!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+La Federazione Ranger ti ha chiesto di\xfffeprenderti cura di un Pokémon!\xfffeIl Pokémon è stato consegnato\xfffedal postino!
+La Federazione Ranger ti ha chiesto di\xfffeprenderti cura di un Uovo!\xfffeL'Uovo è stato consegnato dal postino\xfffenel Centro Pokémon!
+Grazie per aver giocato\xfffenel Pokémon Dream World!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo dal Pokémon Dream World!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per aver giocato con PDW!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo da PDW!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui\xfffeall'Evento Pokémon 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla Pokémon Festa!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie per essere qui alla\xfffePokémon Festa 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Ecco un regalo dal PokéPark!\xfffeRicordati di ritirare il dono dal postino\xfffenel Centro Pokémon!
+Grazie di essere qui al PokéPark 2010!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2011!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2012!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2013!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2014!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2015!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2016!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2017!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2018!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2019!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Grazie di essere qui al PokéPark 2020!\xfffeQuesto dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!
+Questo dono è stato consegnato\xfffedal postino!

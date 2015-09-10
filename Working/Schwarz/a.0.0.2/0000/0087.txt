@@ -1,0 +1,24 @@
+
+
+Sollen die für den Gebrauch der Spielsynchro\xfffebenötigten Daten angelegt werden?
+Die Daten werden angelegt...\xfffeBitte warten.
+JA
+NEIN
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Bitte rufe über deinen Heimcomputer die\xfffeInternetseite des Pokémon Global Links\xfffeauf. Gib dort die obenstehende ID ein,\xfffeum die Spielsynchro-Funktionen für\xfffedich einzurichten.\xfffe\xfffehttp://www.pokemon-gl.com/
+Deine ID für die Spielsynchro-\xfffeFunktionen wurde versandt.\xfffe\xfffeWenn du das Spiel startest, kannst du\xfffeaus dem Startmenü jederzeit noch einmal\xfffedeine persönliche ID abrufen.
+Bitte rufe über deinen Heimcomputer die\xfffeInternetseite des Pokémon Global Links\xfffeauf. Gib dort die obenstehende ID ein,\xfffeum die Spielsynchro-Funktionen für\xfffedich einzurichten.\xfffe\xfffehttp://www.pokemon-gl.com/
+Spielsynchro ID:
+Die Spielsynchro ID wurde in deinen\xfffeSpielstand mit aufgenommen.
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13201
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13202
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13203
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13204
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13205
+Der gewünschte Dienst steht\xfffenicht mehr zur Verfügung.\xfffeFehler-Code: 13206
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13207
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13208
+Ein Verbindungsfehler ist aufgetreten.\xfffeBitte versuche es noch einmal. Sollte sich\xfffedas Problem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13209
+Ein Server-Fehler ist aufgetreten. Bitte\xfffeversuche es noch einmal. Sollte sich das\xfffeProblem auf diese Weise nicht beheben\xfffelassen, ziehe bitte das zugehörige Kapitel\xfffeder Spielanleitung zurate.\xfffeFehler-Code: 13210
+Der Server ist überlastet.\xfffeDer Verbindungsaufbau ist fehlgeschlagen.\xfffeBitte warte einen Augenblick und versuche\xfffees später noch einmal.\xfffeFehler-Code: 13211
+Der Server wird zurzeit gewartet.\xfffeDetails zu den Wartungsarbeiten\xfffeerhältst du auf der Internetseite des\xfffePokémon Global Links:\xfffehttp://www.pokemon-gl.com\xfffeFehler-Code: 13212

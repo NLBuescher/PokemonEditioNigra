@@ -1,0 +1,15 @@
+Ceci est une Poké Ball que j'ai\xfffetrouvée il y a longtemps, mais\xf000븀\x0000\xfffeje devrais peut-être te la donner.\xf000븁\x0000
+Sans Poké Ball, impossible d'attraper\xfffeun Pokémon!\xf000븁\x0000\xfffeIl y en a de différentes sortes, alors\xfffeutilise-les à bon escient!
+Rrrr!
+Hé! Dis!\xfffeOn joue à Feu-Plante-Eau?
+Beuh, tu me déçois...\xfffeC'est nul!
+Allez, j'y vais!\xfffe1, 2...
+T'as dit Feu, j'ai dit Plante...\xf000븁\x0000\xfffeLe type Plante est faible\xfffeface au type Feu...\xf000븀\x0000\xfffeDonc j'ai perdu...
+T'as dit Feu, j'ai dit Eau...\xf000븁\x0000\xfffeLe type Feu est faible\xfffeface au type Eau...\xf000븀\x0000\xfffeDonc j'ai gagné!
+T'as dit Eau, j'ai dit Feu...\xf000븁\x0000\xfffeLe type Feu est faible\xfffeface au type Eau...\xf000븀\x0000\xfffeDonc j'ai perdu...
+T'as dit Eau, j'ai dit Plante...\xf000븁\x0000\xfffeLe type Eau est faible\xfffeface au type Plante...\xf000븀\x0000\xfffeDonc j'ai gagné!
+T'as dit Plante, j'ai dit Eau...\xf000븁\x0000\xfffeLe type Eau est faible\xfffeface au type Plante...\xf000븀\x0000\xfffeDonc j'ai perdu...
+T'as dit Plante, j'ai dit Feu...\xf000븁\x0000\xfffeLe type Plante est faible\xfffeface au type Feu...\xf000븀\x0000\xfffeDonc j'ai gagné!
+FEU
+PLANTE
+EAU

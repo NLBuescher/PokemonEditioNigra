@@ -1,0 +1,117 @@
+Creazione del salvataggio in corso.
+Attendi.
+
+
+Ciao!{CLEAR}
+
+Ti do il benvenuto nel mondo dei Pokémon!{CLEAR}
+
+
+Io sono la Prof.ssa Aralia.{CLEAR}
+
+Ma tutti mi chiamano professoressa
+Pokémon.{CLEAR}
+
+
+Questo mondo è abitato da creature
+strane chiamate Pokémon.{CLEAR}
+
+
+Ne esistono numerose specie differenti e
+sono diffuse un po' ovunque.{CLEAR}
+
+Le accomuna il fatto di avere dei poteri
+misteriosi.{CLEAR}
+
+Noi umani viviamo in totale armonia con i
+nostri amici Pokémon!{CLEAR}
+
+Vivere e lavorare con loro al nostro
+fianco rende tutti più felici.{CLEAR}
+
+Non è affatto raro che gli esseri umani
+facciano lottare i Pokémon tra loro.{CLEAR}
+
+Questo serve a rinsaldare il legame di
+amicizia tra noi e loro.{CLEAR}
+
+Il mio lavoro consiste esattamente nello
+studiare queste strane creature.{CLEAR}
+
+
+Bene, questo è quanto...{CLEAR}
+
+Dimmi qualcosa di te, adesso.{CLEAR}
+
+
+Sei un ragazzo o una ragazza?{CLEAR}
+
+
+Sei un ragazzo, quindi?{CLEAR}
+
+
+Sei una ragazza, quindi?{CLEAR}
+
+
+Mi piacerebbe sapere anche il tuo nome.{CLEAR}
+
+Dimmi come ti chiami!{CLEAR}
+
+
+Ti chiami {NAME}, allora?{CLEAR}
+
+
+{NAME}, giusto?{CLEAR}
+
+
+SÌ
+
+
+NO
+
+
+{NAME}... che bel nome!{CLEAR}
+
+
+Lascia che ti presenti gli amici che ti
+accompagneranno in questo viaggio.{CLEAR}
+
+
+Questo è Komor.{CLEAR}
+
+A volte è un po' intransigente, ma ha un
+animo buono.{CLEAR}
+
+
+Questa è Belle.{CLEAR}
+
+Ha il suo ritmo nel fare le cose, ma ce la
+mette tutta.{CLEAR}
+
+
+Bene, ragazzi, allora conto su voi tre!{CLEAR}
+
+Per questo voglio affidare a ciascuno di
+voi un prezioso Pokémon!{ADDLINE}
+Abbiatene cura!{CLEAR}
+
+
+{NAME}!{CLEAR}
+
+Appena avrai scelto il Pokémon che ti farà
+da compagno di avventure, il tuo viaggio{ADDLINE}
+avrà inizio.{CLEAR}
+
+Incontrerai molti Pokémon e persone con
+idee diverse.{CLEAR}
+
+Spero che tu riesca a trarre qualcosa di
+prezioso da tutti questi incontri.{CLEAR}
+
+Qualcosa che ti sia d'aiuto nella tua
+crescita personale.{CLEAR}
+
+È lo scopo principale di quest'avventura.{CLEAR}
+
+Bene, allora, entriamo nel mondo dei
+Pokémon!{CLEAR}

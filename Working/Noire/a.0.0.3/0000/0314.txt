@@ -1,0 +1,40 @@
+\xf000Ā\x0001\x0000 allume le PC.\xf000븁\x0000
+À quel PC souhaitez-vous accéder?
+PC DE ???
+PC DE BOLETTA
+PC DE \xf000Ā\x0001\x0000
+PC DU PROF
+VOIR DONNÉES
+VOIR AIDE
+ÉTEINDRE
+
+Les données du Panthéon des Dresseurs\xfffesont corrompues.\xf000븁\x0000\xfffeVeuillez sortir puis entrer à nouveau.\xf000븁\x0000
+Félicitations! Pour avoir terminé le jeu\xfffeune 1⑪ fois, vous avez reçu des fonds!\xf000븁\x0000
+Félicitations! Pour avoir battu le Maître,\xfffevous avez reçu des fonds!\xf000븁\x0000
+Gestion de Stocks de Pokémon en ligne.\xf000븁\x0000
+DÉPOSER POKÉMON
+RETIRER POKÉMON
+DÉPLACER POKÉMON
+DÉPLACER OBJETS
+QUITTER
+BOÎTE COMBAT
+Déposer des Pokémon de votre équipe\xfffedans des Boîtes.
+Intégrer à votre équipe des Pokémon\xfffese trouvant dans les Boîtes.
+Organiser les Pokémon dans les Boîtes\xfffeet dans votre équipe.
+Déplacer des objets tenus par des\xfffePokémon d'une Boîte ou de votre équipe.
+Quitter le système de Gestion de\xfffeStocks de Pokémon.
+Enregistrer pour le combat des Pokémon\xfffedifférents de ceux de votre équipe.
+Accès au PC de \xf000Ā\x0001\x0000.\xf000븁\x0000
+BOÎTE AUX LETTRES
+DÉCONNEXION
+Vous pouvez stocker jusqu'à 20 Lettres.
+Éteindre votre PC.
+1⑪ FIN DU JEU
+PANTHÉON
+DÉCONNEXION
+Connexion au système de données.\xf000븁\x0000
+Voir l'équipe utilisée la 1⑪ fois\xfffeque vous avez fini le jeu.
+Voir l'équipe utilisée lors de\xfffevotre entrée au Panthéon.
+Fermer le système de données.
+Accès au PC du Professeur Keteleeria.\xf000븁\x0000
+Accès au système d'aide.\xf000븁\x0000

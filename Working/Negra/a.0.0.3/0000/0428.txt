@@ -1,0 +1,54 @@
+Cheren: ¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeEntiendo que tengas ganas de ir a todos\xfffelos sitios con tu Pokémon,\xf000븀\x0000\xfffepero...\xf000븁\x0000\xfffelo primero que debes hacer es darle\xfffelas gracias a la Prof.ª Encina.\xf000븁\x0000\xfffe¡Mira!\xfffe¡El Laboratorio lo tienes aquí mismo!\xf000븁\x0000
+Cheren: Perdona que te pida esto, pero\xfffe¿podrías ir a casa de Bel?\xf000븁\x0000\xfffeSeguro que está perdiendo el tiempo,\xfffecomo siempre, sin hacer nada.\xf000븀\x0000\xfffe¡Siempre está en su mundo!
+Bel: La bronca de antes...\xfffe¡entre tú y yo! ¿Vale?
+Cheren: ¡Venga!\xfffe¡Vamos a ver a la Prof.ª Encina!\xf000븁\x0000
+Bel: ¡Oye!\xfffe\xf000Ā\x0001\x0000, ¡espera!\xf000븁\x0000
+Bel: ¡Oye, una cosita!\xfffe\xf000Ā\x0001\x0000, ¡espera!\xf000븁\x0000
+Mamá: ¡Aquí estáis! Entonces,\xfffe¿qué os ha dicho la Prof.ª Encina?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe¡¿Que os ha pedido que completéis\xfffela Pokédex?!\xf000븁\x0000\xfffe¡Guau! ¡Increíble!\xf000븁\x0000
+¡Qué suerte!\xf000븁\x0000\xfffeAunque la verdad es que\xfffeyo ya lo sabía.\xf000븁\x0000
+Por cierto, quiero que llevéis\xfffeestos Mapas.\xf000븁\x0000
+Mamá: Toma, Cheren.\xf000븁\x0000
+Cheren: Lo cuidaré mucho.\xf000븁\x0000
+Mamá: Toma, Bel, para ti también.\xf000븁\x0000
+Bel: ¡Mu-muchas gracias!\xf000븁\x0000
+Mamá: Ya me encargo yo de limpiar\xfffela habitación de \xf000Ā\x0001\x0000.\xf000븀\x0000\xfffeAsí que no os preocupéis.\xf000븁\x0000\xfffe¿De acuerdo, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Mamá: ¡Los Pokémon son realmente\xfffeincreíbles!\xf000븁\x0000\xfffeAunque son unas criaturitas adorables,\xfffe¡mira cómo han dejado la habitación!\xf000븀\x0000\xfffe¡Tienen muchísima energía!\xf000븁\x0000\xfffeCon estos Pokémon estaréis seguros\xfffeallá adonde vayáis.\xf000븁\x0000
+¡Se lo diré a vuestros padres!\xf000븁\x0000\xfffeEste viaje no es solamente para\xfffelos Pokémon.\xf000븁\x0000\xfffeVosotros también creceréis y os\xfffeconvertiréis en estupendas personas\xf000븀\x0000\xfffea lo largo de vuestro viaje por los\xf000븀\x0000\xfffediversos lugares de Teselia.\xf000븁\x0000\xfffe¡Id con cuidado!\xf000븁\x0000
+Cheren: Si usas el Mapa, sabrás dónde\xfffete encuentras...\xf000븀\x0000\xfffe¡Qué bien!\xf000븁\x0000\xfffeBueno, pues vamos a la Ruta 1, que\xfffela Prof.ª Encina nos está esperando.\xf000븁\x0000
+Bel: ¡Ah! ¡Te acompaño, Cheren!\xfffe\xf000Ā\x0001\x0000, ven enseguida, ¿vale?\xf000븁\x0000
+Bel: \xf000Ā\x0001\x0000, ¡estamos aquí!\xf000븁\x0000
+Cheren: Bel dice que el primer\xfffepaso de este viaje deberíamos\xf000븀\x0000\xfffedarlo todos juntos.\xf000븁\x0000
+Bel: ¿A que sí, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe¡Vamos a dar el primer paso en la\xfffeRuta 1 todos juntos!\xf000븁\x0000
+Cheren: ¡Allá vamos!\xf000븁\x0000
+
+Uno, dos y... ¡¡tres!!\xf000븁\x0000
+¡La ciencia es impresionante!\xf000븁\x0000\xfffeHoy en día, se puede hacer de todo\xfffesin cables.\xf000븀\x0000\xfffe¡Y, además, rapidísimo!
+¿Crees que emprender un viaje junto con\xfffePokémon puede cambiar a una persona?
+Eso pienso yo también...\xf000븁\x0000\xfffeDurante un largo viaje, uno reflexiona\xfffey se replantea muchas cosas.
+¡Tienes razón! Es mejor no calentarse\xfffela cabeza con historias y aprovechar\xf000븀\x0000\xfffeel viaje para divertirse.
+¡En este mundo verás muchísimos Pokémon\xfffey gente de lo más diferente!\xf000븁\x0000\xfffeCada vez que escucho eso,\xfffe¡se me acelera el corazón!
+Bel: ¡Aaah...! Me pregunto cómo será\xfffetodo... ¡Estoy superimpaciente!\xf000븁\x0000
+Cheren: Pues, sí. Venga, vámonos, que\xfffela Prof.ª Encina nos está esperando.\xf000븁\x0000
+Pueblo Arcilla\xfffeUn pueblo de lo más variopinto.
+Casa de \xf000Ā\x0001\x0000
+Casa de Cheren
+Casa de Bel
+Laboratorio de la Prof.ª Encina
+Cheren: \xf000Ā\x0001\x0000,\xfffe¿ha terminado de hablar Handsome?\xf000븁\x0000
+Bel: Lo siento...\xf000븁\x0000\xfffeFui a buscar a los Líderes del Gimnasio\xfffede Ciudad Gres, pero ya era tarde.\xf000븁\x0000
+Cheren: Yo también os debo una disculpa.\xf000븁\x0000\xfffeDejé que Ghechis se escapara\xfffecon la ayuda del Trío Sombrío.\xf000븁\x0000
+Bel: ¿Eh? ¿Ghechis?\xfffe¿El Trío Sombrío?\xf000븁\x0000
+Cheren: Ya te contaré lo del palacio\xfffeen otro momento.\xf000븁\x0000\xfffePero, antes que nada, Bel,\xfffe¿qué vas a hacer ahora?\xf000븁\x0000
+Bel: Yo..., yo...\xfffe¡Voy al Bosque Blanco!\xf000븁\x0000
+Bel: Yo..., yo...\xfffe¡Voy a Ciudad Negra!\xf000븁\x0000
+Cheren: Ah...\xf000븁\x0000\xfffeEstá después de la Ruta 16, una de las\xfffeque sale de Ciudad Mayólica.\xf000븁\x0000\xfffePor ahí seguro que te encuentras con\xfffeun montón de Pokémon que nunca\xf000븀\x0000\xfffehas visto.\xf000븁\x0000
+Carrasco Encina: ¡Justo a tiempo!\xfffe¡Qué bien teneros a todos aquí!\xf000븁\x0000
+Hace un rato, un conocido mío me ha\xfffemandado información sobre la Pokédex.\xf000븁\x0000\xfffeComo os estáis tomando tantas molestias,\xfffeal menos os voy a actualizar las Pokédex\xf000븀\x0000\xfffecon el Modo Nacional.\xf000븁\x0000\xfffePrecisamente, ahora vais a recorrer\xfffelugares nuevos, ¿no?\xf000븁\x0000\xfffeY, claro, seguro que vais a encontrar\xfffenuevos Pokémon.\xf000븁\x0000\xfffePrestadme vuestras Pokédex un momento.\xf000븁\x0000
+¡Primero Bel!\xf000븁\x0000
+¡Y el siguiente será Cheren!\xf000븁\x0000
+¡Y, por último, tú!\xf000븁\x0000
+¡La Pokédex de \xf000Ā\x0001\x0000 contiene\xfffeahora datos sobre el Modo Nacional!
+Carrasco Encina: Con esto, vuestra\xfffePokédex tendrá acceso a registros\xf000븀\x0000\xfffede otras regiones.\xf000븁\x0000\xfffeAunque puede resultar difícil completar\xfffeuna Pokédex Nacional, es una buena\xf000븀\x0000\xfffeoportunidad para conocer nuevos\xf000븀\x0000\xfffePokémon. ¡Así que disfrutadla!\xf000븁\x0000
+Bel: ¡Hala! ¡Una Pokédex Nacional!\xf000븁\x0000\xfffeTodavía hay muchísimos Pokémon que\xfffeno conozco.\xf000븁\x0000\xfffe¡Sí! ¡Tengo que enseñarles la\xfffePokédex a mis padres!\xf000븁\x0000\xfffe¡A vosotros dos os volveré a ver\xfffepor ahí!\xf000븁\x0000
+Cheren: ¡Esta chica va siempre a su aire,\xfffeaunque tengamos algo realmente\xf000븀\x0000\xfffeimportante entre manos!\xf000븁\x0000
+Yo voy a recorrer la región de Teselia\xfffeen orden, empezando por la Ruta 1.\xf000븁\x0000\xfffeSeguro que vuelvo a descubrir algo\xfffeinteresante y, a lo mejor, me encuentro\xf000븀\x0000\xfffecon los Siete Sabios por el camino.\xf000븁\x0000\xfffeY, dicho esto, \xf000Ā\x0001\x0000, espero\xfffeque nos volvamos a ver pronto.\xf000븁\x0000\xfffeCuando coincidamos, echaremos\xfffeun combate, ¡así que ve preparándote!\xf000븁\x0000

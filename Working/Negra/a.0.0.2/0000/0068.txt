@@ -1,0 +1,373 @@
+Inicias la conversación.
+Alguien te habla.
+Parece que esta persona está ocupada.
+Por favor, espera.
+La conversación se ha interrumpido.
+Se te han adelantado.
+Se ha interrumpido la comunicación.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000봂\x0000Misión fallida...
+Regalosferas obtenidas: \xf000ȁ\x0001\x0000\xf000븂\x0001Z
+\xf000봂\x0000¡Misión cumplida!
+Espera hasta que dé comienzo la misión.
+
+Parece que \xf000Ā\x0001\x0000 ha venido\xfffea ayudarte desde la Zona Nexo.\xf000븁\x0000\xfffe¡Oh!\xf000븁\x0000\xfffeParece que \xf000Ā\x0001\x0000 ha dejado\xfffeun objeto.\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¡La alegría en la Zona Nexo va en aumento!\xfffe◇ ¡El Nivel Negro ha subido en \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+¡La alegría en la Zona Nexo va en aumento!\xfffe◆ ¡El Nivel Blanco ha subido en \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+¡El Pokémon que ha llegado\xfffees muy lindo!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000
+¡El Pokémon que ha llegado\xfffees muy fiero!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000
+¡El Pokémon que ha llegado\xfffees muy calladito!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000
+ -
+ -
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Je, je! ¡Te pillé!\xf000븁\x0000\xfffeVaya, no me esperaba que hubiera\xfffePokémon por este lugar.\xf000븁\x0000\xfffe¿Eh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 ha usado con \xf000Ā\x0001\x0000\xfffeel \xf000Ĝ\x0001\x0002 que ha obtenido\xf000븀\x0000\xfffedel Nexárbol.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ¡Ya está! ¡Te pillé!\xf000븁\x0000\xfffeVaya, no me esperaba que hubiera\xfffePokémon por este lugar.\xf000븁\x0000\xfffe¿Eh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 ha usado con \xf000Ā\x0001\x0000\xfffeel \xf000Ĝ\x0001\x0002 que ha obtenido\xf000븀\x0000\xfffedel Nexárbol.\xf000븁\x0000
+¡Es muy lindo!\xfffeSe diría que te está pidiendo que lo cuides.
+¡Es muy fiero!\xfffeSe diría que te está pidiendo que lo cuides.
+¡Es muy calladito!\xfffeSe diría que te está pidiendo que lo cuides.
+ -
+ -
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¿Eh? ¿Quieres que te cuide?
+\xf000Ā\x0001\x0000: ¡Ah! ¡Qué curioso!\xf000븁\x0000\xfffe¿Qué ocurre?\xfffe¿Es que quieres que te cuide?
+
+
+
+
+
+ -
+ -
+ -
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Guau! ¡Qué pasada!\xfffe¡Qué poder tan chulo!\xf000븁\x0000\xfffe¡Muchas gracias!\xfffe¡Me va a venir de maravilla!\xf000븁\x0000
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Guau! ¡Qué pasada!\xfffe¡Qué poder tan chulo!\xf000븁\x0000\xfffe¡Muchas gracias!\xfffe¡Me va a venir de maravilla!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Venga! ¡Ya falta poco!\xfffe¡No te rindas!\xf000븁\x0000\xfffeParece que está en medio de un combate.
+\xf000Ā\x0001\x0000: ¡Venga! ¡Ya falta poco!\xfffe¡No te rindas!\xf000븁\x0000\xfffeParece que está en medio de un combate.
+
+
+
+
+
+¡Qué lindo!\xfffeParece que está ocupado.
+¡Qué fiero!\xfffeParece que está ocupado.
+¡Qué calladito!\xfffeParece que está ocupado.
+\xf000Ā\x0001\x0000: ...\xfffe...\xf000븀\x0000\xfffeParece que esta persona está ocupada.
+\xf000Ā\x0001\x0000: ...\xfffe...\xf000븀\x0000\xfffeParece que esta persona está ocupada.
+Es muy lindo...\xfffe¡Qué vitalidad!
+Es muy fiero...\xfffe¡Qué vitalidad!
+Es muy calladito...\xfffe¡Qué vitalidad!
+\xf000Ā\x0001\x0000: ¡Eh! ¿Qué tal todo?
+\xf000Ā\x0001\x0000: ¡Buenas! ¿Cómo te va?
+
+
+
+
+
+
+
+
+
+
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ...\xfffe¡Eh!\xf000븁\x0000\xfffe¿Me he dormido?\xf000븁\x0000\xfffe¡Anda! ¡Tengo que irme pitando!\xfffe¡Gracias por despertarme!\xf000븁\x0000\xfffe¡Toma esto!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...\xfffe¡Eh!\xf000븁\x0000\xfffe¿Me he dormido?\xf000븁\x0000\xfffe¡Anda! ¡Tengo que irme pitando!\xfffe¡Gracias por despertarme!\xf000븁\x0000\xfffe¡Toma esto!\xf000븁\x0000
+¡El Pokémon que ha llegado\xfffees muy lindo!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000 ha obtenido\xfffeun \xf000Ĝ\x0001\x0002 del Pokémon!\xf000븁\x0000
+¡El Pokémon que ha llegado\xfffees muy fiero!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000 ha obtenido\xfffeun \xf000Ĝ\x0001\x0002 del Pokémon!\xf000븁\x0000
+¡El Pokémon que ha llegado\xfffees muy calladito!\xf000븁\x0000\xfffe¿Eh? ¡Se ha puesto a brillar de repente!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000 ha obtenido\xfffeun \xf000Ĝ\x0001\x0002 del Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a traerte esto de la Zona Nexo!\xf000븁\x0000\xfffeHe pensado que podría serte útil\xfffedurante tu aventura.\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000 se ha puesto a brillar\xfffede repente!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a traerte esto de la Zona Nexo!\xf000븁\x0000\xfffeHe pensado que podría serte útil\xfffedurante tu aventura.\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000 se ha puesto a brillar\xfffede repente!\xf000븁\x0000
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffeGracias a los Pokémon y a todas\xfffelas personas que me encuentro,\xf000븀\x0000\xfffe¡este viaje va de maravilla!\xf000븁\x0000\xfffe¿Eh? ¿Vienes a darme algo?\xf000븁\x0000
+¡Gracias! ¡Esto me servirá!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0001 ha usado \xfffeel \xf000Ĝ\x0001\x0002 del Nexárbol\xf000븀\x0000\xfffecon \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ¡Hola!\xfffe¿Tú también estás de viaje?\xf000븁\x0000\xfffeGracias a los Pokémon y a todas\xfffelas personas que me encuentro,\xf000븀\x0000\xfffe¡este viaje va de maravilla!\xf000븁\x0000\xfffe¿Eh? ¿Vas a darme algo?\xf000븁\x0000
+¡Gracias! ¡Esto me servirá!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0001 ha usado\xfffeel \xf000Ĝ\x0001\x0002 del Nexárbol\xf000븀\x0000\xfffecon \xf000Ā\x0001\x0000!\xf000븁\x0000
+¡Qué lindo es!\xf000븁\x0000\xfffeSe ha puesto a hablarte de repente.\xfffeParece sorprendido.
+¡Qué fiero es!\xf000븁\x0000\xfffeSe ha puesto a hablarte de repente.\xfffeParece sorprendido.
+¡Qué calladito es!\xf000븁\x0000\xfffeSe ha puesto a hablarte de repente.\xfffeParece sorprendido.
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¡He venido a traerte algo de la Zona\xfffeNexo que creo que te ayudará!\xf000븁\x0000\xfffeEspera un momento.\xfffeCuando lo tenga todo listo, te aviso.
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¡He venido a traerte algo de la Zona\xfffeNexo que creo que te ayudará!\xf000븁\x0000\xfffeEspera un momento.\xfffeCuando lo tenga todo listo, te aviso.
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xfffe¿Tú también estás de viaje?\xf000븁\x0000\xfffe¡Si quieres decirme cualquier cosa,\xfffeno dudes en venir a verme!
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xfffe¿Tú también estás de viaje?\xf000븁\x0000\xfffe¡Si quieres decirme cualquier cosa,\xfffeno dudes en venir a verme!
+Es muy lindo...
+Es muy fiero...
+Es muy calladito...
+\xf000Ā\x0001\x0000: ¡Espero que este poder te\xfffesirva de algo!\xf000븁\x0000\xfffe¡Eso me alegraría mucho!
+\xf000Ā\x0001\x0000: ¡Espero que este poder te\xfffesirva de algo!\xf000븁\x0000\xfffe¡Eso me alegraría mucho!
+ -
+ -
+ -
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Guau! ¡Qué pasada!\xfffe¡Qué poder tan chulo!\xf000븁\x0000\xfffe¡Muchas gracias!\xfffe¡Me va a venir de maravilla!\xf000븁\x0000
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Guau! ¡Qué pasada!\xfffe¡Qué poder tan chulo!\xf000븁\x0000\xfffe¡Muchas gracias!\xfffe¡Me va a venir de maravilla!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a verte desde la Zona Nexo!\xf000븁\x0000\xfffeA lo mejor no es el momento, pero...\xfffe¿te apetece echar un combate?\xf000븁\x0000\xfffe2 Pokémon con todos sus PS y a Nv. \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffe¿Qué me dices?
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a verte desde la Zona Nexo!\xf000븁\x0000\xfffeA lo mejor no es el momento, pero...\xfffe¿te apetece echar un combate?\xf000븁\x0000\xfffe2 Pokémon con todos sus PS y a Nv. \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffe¿Qué me dices?
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¿Eh? ¿Un combate de 2 Pokémon a Nv. \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeEspera un momento.
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¿Eh? ¿Un combate de 2 Pokémon a Nv. \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeEspera un momento.
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a verte desde la Zona Nexo!\xf000븁\x0000\xfffeA lo mejor no es el mejor momento, pero...\xfffe¿te apetece echar un combate?\xf000븁\x0000\xfffe2 Pokémon con todos sus PS y a Nv. \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffe¿Qué me dices?
+\xf000Ā\x0001\x0000: ¡Hola!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffe¡Vengo a verte desde la Zona Nexo!\xf000븁\x0000\xfffeA lo mejor no es el mejor momento, pero...\xfffe¿te apetece echar un combate?\xf000븁\x0000\xfffe2 Pokémon con todos sus PS y a Nv. \xf000Ȃ\x0001\x0001.\xf000븁\x0000\xfffe¿Qué me dices?
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¿Eh? ¿Un combate de 2 Pokémon a Nv. \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeEspera un momento.
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xf000븁\x0000\xfffe¿Eh? ¿Un combate de 2 Pokémon a Nv. \xf000Ȃ\x0001\x0001?\xf000븁\x0000\xfffeEspera un momento.
+ -
+ -
+ -
+¡Vale! ¡Vamos allá!
+¡Vale! ¡Vamos allá!
+ -
+ -
+ -
+¡Vale! ¡Vamos allá!
+¡Vale! ¡Vamos allá!
+ -
+ -
+ -
+Uf... ¡Menudo combate!\xfffe¡Gracias por aceptar así, de repente!\xf000븁\x0000\xfffe¡Hasta la vista!
+Uf... ¡Menudo combate!\xfffe¡Gracias por aceptar así, de repente!\xf000븁\x0000\xfffe¡Hasta la vista!
+ -
+ -
+ -
+Uf... ¡Menudo combate!\xfffe¡He disfrutado un montón!\xf000븁\x0000\xfffe¡Hasta la próxima!
+Uf... ¡Menudo combate!\xfffe¡He disfrutado un montón!\xf000븁\x0000\xfffe¡Hasta la próxima!
+ -
+ -
+ -
+Ah, ya veo...\xfffe¡Lo dejamos para la próxima!
+Ah, ya veo...\xfffe¡Lo dejamos para la próxima!
+ -
+ -
+ -
+Lo siento.\xfffeAhora mismo me pillas en mal momento.\xf000븁\x0000\xfffeLo dejamos para más adelante, ¿vale?
+Lo siento.\xfffeAhora mismo me pillas en mal momento.\xf000븁\x0000\xfffeLo dejamos para más adelante, ¿vale?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Venga! ¡Ya falta poco!\xf000븁\x0000\xfffe¿Eh? ¿Vienes a echarme una mano?\xfffe¡Muchas gracias!\xf000븁\x0000\xfffe¡Has usado un Poder Restaura PS para\xfffelos Pokémon de \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ¡Venga! ¡Ya falta poco!\xf000븁\x0000\xfffe¿Eh? ¿Vienes a echarme una mano?\xfffe¡Muchas gracias!\xf000븁\x0000\xfffe¡Has usado un Poder Restaura PS para\xfffelos Pokémon de \xf000Ā\x0001\x0000!\xf000븁\x0000
+
+
+
+
+
+ -
+ -
+ -
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe¡Los Pokémon de \xf000Ā\x0001\x0000\xfffehan recuperado PS!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Muchas gracias por el favor!
+...\xfffe¡¡...!!\xf000븁\x0000\xfffe¡Los Pokémon de \xf000Ā\x0001\x0000\xfffehan recuperado PS!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Muchas gracias por el favor!
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeSi estás en peligro, vendré a echarte\xfffeuna mano.\xf000븁\x0000\xfffe¡Huy! Alguien me llama.\xfffe¡Hasta luego!
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeSi estás en peligro, vendré a echarte\xfffeuna mano.\xf000븁\x0000\xfffe¡Huy! Alguien me llama.\xfffe¡Hasta luego!
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xfffe¡Está bien saber que estás por aquí cerca!\xf000븁\x0000\xfffe¿Eh? ¿Tienes que irte?\xf000븁\x0000\xfffeBueno, si tienes cosas que hacer,\xfffeya nos veremos.\xf000븁\x0000\xfffe¡Hasta la próxima!
+\xf000Ā\x0001\x0000: ¡Hola! ¿Cómo estás?\xfffe¡Está bien saber que estás por aquí cerca!\xf000븁\x0000\xfffe¿Eh? ¿Tienes que irte?\xf000븁\x0000\xfffeBueno, si tienes cosas que hacer,\xfffeya nos veremos.\xf000븁\x0000\xfffe¡Hasta la próxima!
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeSi estás en peligro, vendré a echarte\xfffeuna mano.\xf000븁\x0000\xfffe¡Enfréntate sin miedo en los combates!
+\xf000Ā\x0001\x0000: ¡Buenas!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeSi estás en peligro, vendré a echarte\xfffeuna mano.\xf000븁\x0000\xfffe¡Enfréntate sin miedo en los combates!
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Ah! ¡Hola!\xfffeEstá bien saber que estás por aquí cerca.
+\xf000Ā\x0001\x0000: ¡Ah! ¡Hola!\xfffeEstá bien saber que estás por aquí cerca.
+
+
+
+
+
+
+
+
+
+
+Es muy lindo...\xfffeParece que está buscando algo...
+Es muy fiero...\xfffeParece que está buscando algo...
+Es muy calladito...\xfffeParece que está buscando algo...
+\xf000Ā\x0001\x0000: ¡Uaaah! ¡Me han encontrado!\xfffe¡Mejor me las piro!
+\xf000Ā\x0001\x0000: ¡Uaaah! ¡Me han encontrado!\xfffe¡Mejor me las piro!
+¡Has atrapado un Pokémon\xfffemuy lindo!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+¡Has atrapado un Pokémon\xfffemuy fiero!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+¡Has atrapado un Pokémon\xfffemuy calladito!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+\xf000Ā\x0001\x0000: ¿Eh?\xfffe¿Un Pokémon en este lugar?\xf000븁\x0000\xfffe¡Qué cosa más rara!\xfffe¿Estará buscando algo?
+\xf000Ā\x0001\x0000: ¿Eh?\xfffe¿Un Pokémon en este lugar?\xf000븁\x0000\xfffe¡Qué cosa más rara!\xfffe¿Estará buscando algo?
+¡Has atrapado un Pokémon\xfffemuy lindo!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+¡Has atrapado un Pokémon\xfffemuy fiero!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+¡Has atrapado un Pokémon\xfffemuy calladito!\xf000븁\x0000\xfffePero ha aprovechado un despiste\xfffetuyo para escaparse.
+\xf000Ā\x0001\x0000: ¡Uaaah! ¡Me han pillado!\xfffe¡Mejor me las piro!
+\xf000Ā\x0001\x0000: ¡Uaaah! ¡Me han pillado!\xfffe¡Mejor me las piro!
+¡Qué lindo!\xfffe¡Te han pillado!
+¡Qué fiero!\xfffe¡Te han pillado!
+¡Qué calladito!\xfffe¡Te han pillado!
+\xf000Ā\x0001\x0000: ¡Je, je, je! ¡Te pillé!\xfffe¡Eh! ¡No te escapes!
+\xf000Ā\x0001\x0000: ¡Je, je, je! ¡Te pillé!\xfffe¡Eh! ¡No te escapes!
+
+
+
+
+
+¡Has llegado a tu lugar de destino!\xf000븁\x0000\xfffe...\xfffeRas, ras...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha ocultado el objeto\xfffe\xf000ĉ\x0001\x0001 que llevaba junto con\xf000븀\x0000\xfffeuna nota para darle una buena sorpresa\xf000븀\x0000\xfffea la persona que lo encuentre.
+¡Has llegado a tu lugar de destino!\xf000븁\x0000\xfffe...\xfffeRas, ras...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha ocultado el objeto\xfffe\xf000ĉ\x0001\x0001 que llevaba junto con\xf000븀\x0000\xfffeuna nota para darle una buena sorpresa\xf000븀\x0000\xfffea la persona que lo encuentre.
+¡Has llegado a tu lugar de destino!\xf000븁\x0000\xfffe...\xfffeRas, ras...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha ocultado el objeto\xfffe\xf000ĉ\x0001\x0001 que llevaba junto con\xf000븀\x0000\xfffeuna nota para darle una buena sorpresa\xf000븀\x0000\xfffea la persona que lo encuentre.
+¡Has llegado a tu lugar de destino!\xf000븁\x0000\xfffe...\xfffeRas, ras...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha ocultado el objeto\xfffe\xf000ĉ\x0001\x0001 que llevaba junto con\xf000븀\x0000\xfffeuna nota para darle una buena sorpresa\xf000븀\x0000\xfffea la persona que lo encuentre.
+¡Has llegado a tu lugar de destino!\xf000븁\x0000\xfffe...\xfffeRas, ras...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha ocultado el objeto\xfffe\xf000ĉ\x0001\x0001 que llevaba junto con\xf000븀\x0000\xfffeuna nota para darle una buena sorpresa\xf000븀\x0000\xfffea la persona que lo encuentre.
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeEspero que tengas tiempo para hacer\xfffeuna pausa en tu aventura.\xf000븁\x0000\xfffeAhora mismo hay una oferta de\xfffela Tienda Pokémon.\xf000븁\x0000\xfffe¡El objeto \xf000ĉ\x0001\x0001 está baratísimo!\xf000븁\x0000
+¡\xf000Ȅ\x0001\x0002 $! ¡Es un precio especial!\xfffe¡¿Vas a dejar escapar esta ganga?!\xf000븁\x0000\xfffe¡\xf000ĉ\x0001\x0001 por \xf000Ȅ\x0001\x0002 $!\xfffe¿Quieres este objeto?
+\xf000Ā\x0001\x0000: ¡Hola!\xfffeMenuda sorpresa, ¿eh?\xf000븁\x0000\xfffeHe venido a verte desde la Zona Nexo.\xf000븁\x0000\xfffeEspero que tengas tiempo para hacer\xfffeuna pausa en tu aventura.\xf000븁\x0000\xfffeAhora mismo hay una oferta\xfffede la Tienda Pokémon.\xf000븁\x0000\xfffe¡El objeto \xf000ĉ\x0001\x0001 está baratísimo!\xf000븁\x0000
+¡\xf000Ȅ\x0001\x0002 $! ¡Es un precio especial!\xfffe¡¿Vas a dejar escapar esta ganga?!\xf000븁\x0000\xfffe¡\xf000ĉ\x0001\x0001 por \xf000Ȅ\x0001\x0002 $!\xfffe¿Quieres este objeto?
+ -
+ -
+ -
+\xf000Ā\x0001\x0000: ¡Hola!\xfffe¿Eh? ¿Cómo?\xf000븁\x0000\xfffe¡¿\xf000ĉ\x0001\x0001 por solo \xf000Ȅ\x0001\x0002 $?!\xfffeMmm... No sé...\xf000븁\x0000\xfffeDéjame pensar...
+\xf000Ā\x0001\x0000: ¡Hola!\xfffe¿Eh? ¿Cómo?\xf000븁\x0000\xfffe¡¿\xf000ĉ\x0001\x0001 por solo \xf000Ȅ\x0001\x0002 $?!\xfffeMmm... No sé...\xf000븁\x0000\xfffeDéjame pensar...
+ -
+ -
+ -
+¡Muchas gracias!\xfffeToma, aquí tienes tu \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0003 ha obtenido el objeto\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe¡Hasta la próxima!
+¡Muchas gracias!\xfffeToma, aquí tienes tu \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0003 ha obtenido el objeto\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe¡Hasta la próxima!
+ -
+ -
+ -
+¡Vale! ¡Dame 1 \xf000ĉ\x0001\x0001!\xfffe¡\xf000Ā\x0001\x0000 ha obtenido \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Menudo chollo!\xfffe¡Muchas gracias!
+¡Vale! ¡Dame 1 \xf000ĉ\x0001\x0001!\xfffe¡\xf000Ā\x0001\x0000 ha obtenido \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ¡Menudo chollo!\xfffe¡Muchas gracias!
+ -
+ -
+ -
+¿No? Como quieras.\xfffe¡Ya nos veremos!
+¿No? Como quieras.\xfffe¡Ya nos veremos!
+ -
+ -
+ -
+Mmm... Ahora mismo no me interesa.\xf000븁\x0000\xfffe¡Pero si tienes otra ganga de esas,\xfffeavísame!
+Mmm... Ahora mismo no me interesa.\xf000븁\x0000\xfffe¡Pero si tienes otra ganga de esas,\xfffeavísame!
+ -
+ -
+ -
+¿Eh? Parece que no te llega el dinero.\xf000븁\x0000\xfffeBueno, quizá la próxima vez.\xfffe¡Ya nos veremos!
+¿Eh? Parece que no te llega el dinero.\xf000븁\x0000\xfffeBueno, quizá la próxima vez.\xfffe¡Ya nos veremos!
+ -
+ -
+ -
+Ay, ¡qué mala pata!\xf000븁\x0000\xfffeMe gustaría comprarte ese objeto,\xfffepero no llevo bastante dinero encima.\xf000븁\x0000\xfffeTendrá que ser la próxima vez.\xfffe¡Ven a verme otro día!
+Ay, ¡qué mala pata!\xf000븁\x0000\xfffeMe gustaría comprarte ese objeto,\xfffepero no llevo bastante dinero encima.\xf000븁\x0000\xfffeTendrá que ser la próxima vez.\xfffe¡Ven a verme otro día!
+ -
+ -
+ -
+¿Eh? Parece que tu Bolsa está llena.\xf000븁\x0000\xfffeNo voy a poder venderte el objeto ahora.\xfffe¡Hasta la próxima!
+¿Eh? Parece que tu Bolsa está llena.\xf000븁\x0000\xfffeNo voy a poder venderte el objeto ahora.\xfffe¡Hasta la próxima!
+ -
+ -
+ -
+¡Anda! Lo siento.\xf000븁\x0000\xfffeQuería comprarte ese objeto, pero tengo\xfffela Bolsa llena.\xf000븁\x0000\xfffe¡Tendrá que ser la próxima vez!\xfffeYa me dirás si tienes algo más en venta.
+¡Anda! Lo siento.\xf000븁\x0000\xfffeQuería comprarte ese objeto, pero tengo\xfffela Bolsa llena.\xf000븁\x0000\xfffe¡Tendrá que ser la próxima vez!\xfffeYa me dirás si tienes algo más en venta.
+
+
+
+
+
+
+
+
+

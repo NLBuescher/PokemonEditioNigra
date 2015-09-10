@@ -1,0 +1,15 @@
+Feuillajou, Flamajou et\xfffeFlotajou évoluent si on\xf000븀\x0000\xfffeutilise une pierre spéciale!\xf000븁\x0000\xfffeLequel préférerais-tu faire évoluer?
+Feuillajou, c'est ça?\xfffeAlors tiens, une Pierreplante pour toi!\xf000븁\x0000
+Flamajou, c'est ça?\xfffeAlors tiens, une Pierre Feu pour toi!\xf000븁\x0000
+Flotajou, c'est ça?\xfffeAlors tiens, une Pierre Eau pour toi!\xf000븁\x0000
+Je ne sais pas si tu es au courant, mais\xfffeje vais te donner mon astuce quand même.\xf000븁\x0000\xfffeLes Pokémon, quand ils évoluent,\xfffedeviennent plus forts, mais en\xf000븀\x0000\xfffecontrepartie, ils apprennent moins\xf000븀\x0000\xfffevite de nouvelles capacités.\xf000븁\x0000\xfffeEn particulier les Pokémon qui\xfffeévoluent à l'aide d'une Pierre.\xf000븁\x0000\xfffeQue choisir? Leur faire apprendre de\xfffebonnes capacités, puis les faire évoluer,\xf000븁\x0000\xfffeou bien utiliser la Pierre sur eux, et\xfffeleur faire ensuite apprendre\xf000븀\x0000\xfffedes capacités à l'aide de CT?\xf000븁\x0000\xfffeJe te laisse choisir ta méthode!
+Feuillajou
+Flamajou
+Flotajou
+Annuler
+Feuillajou, c'est bien ça?
+Flamajou, c'est bien ça?
+Flotajou, c'est bien ça?
+Dis-moi... Entre Feuillajou, Flamajou et\xfffeFlotajou, lequel préférerais-tu\xf000븀\x0000\xfffefaire évoluer?
+Je comprends.\xf000븁\x0000\xfffeChoisir, ce n'est pas facile.\xfffeSi tu te décides, reviens me voir!
+Lever le pouce en fermant le reste de\xfffela main, ça permet de dire OK!\xf000븁\x0000\xfffeOu de faire du stop, ça dépend...

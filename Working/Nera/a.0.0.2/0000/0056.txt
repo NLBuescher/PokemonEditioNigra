@@ -1,0 +1,9 @@
+vari
+studente
+dipendente
+designer
+free lance
+statale
+casalinga
+artista
+part-time

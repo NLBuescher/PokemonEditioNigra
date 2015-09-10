@@ -1,0 +1,180 @@
+OK
+RETOUR
+L\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+/
+⑭
+⑮
+Veuillez choisir un Pokémon.
+
+Où voulez-vous le mettre?
+Quel Pokémon va tenir l'objet?
+Sur quel Pokémon l'utiliser?
+Quel Pokémon va l'apprendre?
+
+Quel Pokémon déposer?
+Sur quel Pokémon l'utiliser?
+\xf000Ă\x0001\x0000\xfffesélectionné.
+Qu'allez-vous faire\xfffeavec un objet?
+
+Quelle capacité\xffferestaurer?
+De quelle capacité\xfffeaugmenter les PP?
+Voulez-vous envoyer\xfffela Lettre sur votre PC?
+
+
+La Lettre a été envoyée sur votre PC.
+Si la Lettre est retirée, le message\xfffesera perdu. Êtes-vous d'accord?
+
+
+La Boîte aux Lettres du PC est pleine.
+La Lettre a été retirée au Pokémon.
+\xf000Ă\x0001\x0000 veut apprendre\xfffe\xf000ć\x0001\x0001. \xf000븁\x0000\xfffeMais \xf000Ă\x0001\x0000 connaît déjà\xfffequatre capacités.\xf000븁\x0000\xfffeVoulez-vous remplacer une capacité\xfffepar \xf000ć\x0001\x0001?
+
+
+Alors... Voulez-vous\xffferenoncer à \xf000ć\x0001\x0001?
+
+
+\xf000Ă\x0001\x0000 n'a pas appris\xfffe\xf000ć\x0001\x0001.
+Quelle capacité voulez-vous\xfffelui faire oublier?
+1, \xf000븂\x0001\x00142, et\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014...\xfffeTadaa!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 a totalement\xfffeoublié \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeEt...
+\xf000Ă\x0001\x0000 a appris\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 et \xf000ć\x0001\x0001\xfffene sont pas compatibles.\xf000븁\x0000\xfffeIl ne peut pas l'apprendre!
+\xf000Ă\x0001\x0000 connaît déjà\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000 récupère \xf000Ȃ\x0001\x0001 PV.
+\xf000Ă\x0001\x0000 n'est plus\xfffeempoisonné.
+\xf000Ă\x0001\x0000 n'est plus\xfffeparalysé.
+\xf000Ă\x0001\x0000 n'est plus brûlé.
+\xf000Ă\x0001\x0000 est dégelé.
+Les PP sont restaurés.
+\xf000Ă\x0001\x0000 n'est plus K.O.!
+\xf000Ă\x0001\x0000 retrouve la forme.
+Les PP de \xf000ć\x0001\x0000\xfffeaugmentent.
+
+
+\xf000č\x0001\x0001 de base de \xf000Ă\x0001\x0000\xfffeaugmente.
+Vous devez obtenir un autre Badge\xfffepour pouvoir l'utiliser.
+Il faut enlever la Lettre pour\xfffepouvoir tenir autre chose.
+\xf000Ă\x0001\x0000 tient déjà\xfffel'objet \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffeVoulez-vous échanger les deux objets?
+
+
+\xf000Ă\x0001\x0000 ne tient rien.
+\xf000Ă\x0001\x0000 vous a remis\xfffel'objet \xf000ĉ\x0001\x0001!
+Le Sac est plein!
+\xf000ĉ\x0001\x0002 a remplacé\xfffe\xf000ĉ\x0001\x0001!
+
+
+
+
+
+
+\xf000Ă\x0001\x0000 se réveille!
+
+
+
+
+
+
+
+Vous surfez déjà.
+Impossible ici.
+Ça n'aura aucun effet.
+
+\xf000Ă\x0001\x0000 est devenu plus amical.\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base en baisse!
+\xf000Ă\x0001\x0000 vous adore!\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base en baisse!
+\xf000Ă\x0001\x0000 est devenu plus amical.\xf000븁\x0000\xfffe\xf000č\x0001\x0001 de base ne peut plus\xfffebaisser!
+\xf000Ă\x0001\x0000 tient\xfffe\xf000ĉ\x0001\x0001!
+Veuillez choisir vos Pokémon.
+Il faut deux Pokémon.
+Il faut trois Pokémon.
+Il faut quatre Pokémon.
+Il faut cinq Pokémon.
+Il faut six Pokémon.
+Seul un Pokémon peut participer.
+Seuls deux Pokémon\xfffepeuvent participer.
+Seuls trois Pokémon\xfffepeuvent participer.
+Seuls quatre Pokémon\xfffepeuvent participer.
+Seuls cinq Pokémon\xfffepeuvent participer.
+La Lettre est retirée de la Boîte.
+Ce Pokémon tient un objet.\xfffeIl ne peut pas tenir cette Lettre.
+C'est inutilisable sur ce Pokémon.
+
+
+
+
+
+
+Pas assez de PV...
+ORDRE
+RÉSUMÉ
+OBJET
+COURRIER
+LIRE
+PRENDRE
+DÉPOSER
+RETOUR
+
+INSCRIRE
+DÉSINSCRIRE
+
+
+
+
+DONNER
+PRENDRE
+
+
+
+
+DISPONIBLE
+INTERDIT
+1⑩
+2⒅
+3⒅
+4⒅
+5⒅
+6⒅
+APTE
+PAS APTE
+APPRIS
+APTE
+PAS APTE
+
+
+Vous ne pouvez pas inscrire\xfffedeux Pokémon identiques.
+Les objets tenus par les Pokémon\xfffedoivent être différents.
+Le total des niveaux de tous les\xfffemembres de l'équipe dépasse \xf000Ȃ\x0001\x0000.
+
+Vous n'avez pas choisi les\xfffePokémon devant participer.
+PV MAX.
+ATTAQUE
+DÉFENSE
+ATQ SPÉ
+DÉF SPÉ
+VITESSE
++
+\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000 monte au\xfffeN. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+
+Inutilisable quand quelqu'un\xfffeest avec vous.
+
+
+Voulez-vous\xfffeéchanger l'Œuf?
+Veuillez choisir un Œuf.
+
+OK
+\xf000ā\x0001\x0000 a changé de forme!
+
+
+\xf000Ā\x0001\x0000 est en attente.
+Une personne en attente.
+Deux personnes en attente.
+Trois personnes en attente.
+TEMPS RESTANT
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0001
+Communication en cours...
+OUI
+NON
+\xf000ĉ\x0001\x0000 a disparu...

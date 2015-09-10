@@ -1,0 +1,13 @@
+L'effet de Repousse se dissipe...
+Apparemment, il n'y a rien ici...
+Le doux parfum semble s'être dissipé...
+Un Pokémon a mordu à l'hameçon!\xf000븁\x0000
+Rien de rien...\xf000븁\x0000
+La ligne a été remontée trop vite...\xf000븁\x0000
+La ligne a été remontée trop tard...\xf000븁\x0000
+\xf000Ā\x0001\x0000 se téléporte au Heylink.\xf000븁\x0000
+On ne peut pas se téléporter\xfffeau Heylink d'ici.
+Mission en cours au Heylink,\xfffeimpossible de se téléporter.
+Connexion en cours avec quelqu'un.\xfffeTéléportation impossible.
+Vous allez participer à une\xfffeMission au Heylink!\xf000븀\x0000\xfffeVous reviendrez ici ensuite.\xf000븁\x0000\xfffeTéléportation au Heylink\xfffede l'autre joueur.\xf000븁\x0000
+Communication interrompue.

@@ -1,0 +1,36 @@
+WEITER
+NEUES SPIEL
+GEHEIMGESCHEHEN
+EINSTELLUNGEN DER NINTENDO WFC
+KAMPFTURNIERE
+EINST. DER SPIELSYNCHRO-FUNKT.
+TRANSFERANLAGE
+MIKRO PRÜFEN
+
+SPIELZEIT \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+POKÉDEX \xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000 ORDEN
+\xf000Ā\x0001\x0000
+
+
+
+\xf000ą\x0001\x0000
+Die drahtlose Verbindung ist\xfffedeaktiviert (AUS). Aktiviere die\xf000븀\x0000\xfffedrahtlose Verbindung in den\xf000븀\x0000\xfffeSystemeinstellungen (EIN).\xf000븀\x0000\xfffe(Fehler-Code: 50699)
+Zugangseingrenzung durch\xfffeAltersbeschränkungen
+
+ACHTUNG!
+Den maximalen Spielspaß erlebst du erst,\xfffewenn du die Drahtlosfunktionen freigibst.\xfffeDein System sendet danach durchgängig\xfffeSignale aus. Schalte diese Funktionen an\xfffeOrten, wo Drahtlosverbindungen verboten\xfffesind (z. B. Krankenhäuser oder Flugzeuge),\xfffedaher stets ab. Dies ist auch während des\xfffeSpiels noch über das C-Gear-Menü möglich.
+ACHTUNG!
+Es existiert bereits ein Spielstand.\xfffeBeginnst du jetzt ein neues Abenteuer,\xfffekannst du dieses nicht speichern.\xfffeTrotzdem ein neues Spiel starten?
+A-Knopf: Abenteuer beginnen
+B-Knopf: Abbrechen
+Drahtlosfunktionen des C-Gears freigeben?
+Das C-Gear wird vorläufig deaktiviert.\xfffeEinverstanden?
+Der Spielstand wurde gelöscht!
+Ein Kampfvideo wurde offenbar gelöscht.
+Die Gestaltungsdaten des\xfffeC-Gears wurden gelöscht!
+Die speziellen Kampfprüfungsdaten\xfffewurden gelöscht!
+Die Aufführungsdaten für das Musical\xfffewurden gelöscht!
+Die Gestaltungsdaten für den\xfffePokédex wurden gelöscht!
+Die Pokémon-Daten der Ruhmeshalle\xfffewurden gelöscht!
+Die Daten der Geheimgeschehen-Funktion\xfffewurden gelöscht!

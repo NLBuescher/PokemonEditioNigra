@@ -1,0 +1,47 @@
+Potere incontri +
+Potere incontri ++
+Potere incontri +++
+Potere incontri -
+Potere incontri --
+Potere incontri ---
+Potere covata +
+Potere covata ++
+Potere covata +++
+Potere amicizia +
+Potere amicizia ++
+Potere amicizia +++
+Potere sconto +
+Potere sconto ++
+Potere sconto +++
+Potere cura PS +
+Potere cura PS ++
+Potere cura PS +++
+Potere cura PP +
+Potere cura PP ++
+Potere cura PP +++
+Potere esperienza +
+Potere esperienza ++
+Potere esperienza +++
+Potere esperienza -
+Potere esperienza --
+Potere esperienza ---
+Potere compenso +
+Potere compenso ++
+Potere compenso +++
+Potere cattura +
+Potere cattura ++
+Potere cattura +++
+Potere covata S
+Potere sconto S
+Potere amicizia S
+Potere esperienza S
+Potere compenso S
+Potere cattura S
+Potere cura tutto
+Potere covata MAX
+Potere sconto MAX
+Potere amicizia MAX
+Potere esperienza MAX
+Potere compenso MAX
+Potere cattura MAX
+

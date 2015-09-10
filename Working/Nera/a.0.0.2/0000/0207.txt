@@ -1,0 +1,17 @@
+Ti do il benvenuto su Geonet,\xfffeil mappamondo ad alta tecnologia!\xf000븁\x0000
+Che cosa vuoi fare?
+Qui puoi registrare il luogo in cui vivi.\xf000븁\x0000\xfffeRicorda che questa informazione sarà\xfffeaccessibile sia ai tuoi amici che alle\xf000븀\x0000\xfffepersone sconosciute che si collegano\xf000븀\x0000\xfffecon te con la Nintendo Wi-Fi Connection\xf000븀\x0000\xfffeo con la comunicazione wireless DS.\xf000븁\x0000\xfffeVuoi procedere comunque?
+Scegli il paese in cui vivi.
+Scegli la regione in cui vivi.
+Una volta registrato il luogo, non sarà\xfffepiù possibile cambiarlo.\xf000븁\x0000\xfffeVuoi procedere comunque?
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+SÌ
+NO
+GUARDA LISTA
+REGISTRA
+ESCI
+INFO
+Hai registrato il luogo:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Per vedere i luoghi registrati, allinea\xfffeil cursore e premi il pulsante X.
+CHIUDI

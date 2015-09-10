@@ -1,0 +1,42 @@
+
+
+
+\xf000Ă\x0001\x0000 erlernt\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 versucht,\xfffe\xf000ć\x0001\x0001 zu erlernen.\xf000븁\x0000\xfffeAber \xf000Ă\x0001\x0000 kann nur maximal\xfffevier Attacken erlernen.\xf000븁\x0000\xfffeSoll eine andere Attacke durch\xfffe\xf000ć\x0001\x0001 ersetzt werden?
+Eins,\xf000븂\x0001\x0014 zwei\xf000븂\x0001\x0014 und\xf000븂\x0001\x0014... schwupp!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 hat\xfffe\xf000ć\x0001\x0001 vergessen.\xf000븁\x0000\xfffeUnd...\xf000븁\x0000
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ć\x0001\x0001 gelernt!\xf000븁\x0000
+\xf000ć\x0001\x0001\xfffenicht erlernen?
+\xf000Ă\x0001\x0000 hat \xf000ć\x0001\x0001\xfffenicht erlernt.\xf000븁\x0000
+
+
+An welche Attacke soll \xf000Ă\x0001\x0000\xfffesich erinnern?
+Soll es sich an die Attacke\xfffe\xf000ć\x0001\x0001 erinnern?
+Soll \xf000Ă\x0001\x0000 aufgeben und\xfffesich nicht an die Attacke erinnern?
+\xf000Ă\x0001\x0000 erinnert sich wieder an\xfffedie Attacke \xf000ć\x0001\x0001.\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
+\xf000Ă\x0001\x0000 möchte sich an die\xfffeAttacke \xf000ć\x0001\x0001 erinnern.\xf000븁\x0000\xfffeAber \xf000Ă\x0001\x0000 kann nur 4\xfffeAttacken lernen.\xf000븁\x0000\xfffeSoll eine Attacke vergessen werden,\xfffedamit es \xf000ć\x0001\x0001 lernen kann?
+Eins,\xf000븂\x0001\x0014 zwei\xf000븂\x0001\x0014 und\xf000븂\x0001\x0014... schwupp!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 hat\xfffe\xf000ć\x0001\x0001 vergessen.\xf000븁\x0000\xfffeUnd...\xf000븁\x0000
+\xf000Ă\x0001\x0000 erinnert sich wieder an\xfffedie Attacke \xf000ć\x0001\x0001.\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
+Soll das Pokémon aufgeben und\xfffesich nicht an \xf000ć\x0001\x0001 erinnern?
+\xf000Ă\x0001\x0000 kann sich nicht an die\xfffeAttacke \xf000ć\x0001\x0001 erinnern.\xf000븁\x0000
+\xf000Ā\x0001\x0000 gibt im Austausch dafür\xfffeeine Herzschuppe ab.
+Bist du einverstanden, dass das\xfffePokémon \xf000ć\x0001\x0000 vergisst?
+
+STÄRKE
+GENAU.
+AP
+
+
+
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+
+－－－
+ABBR.
+LERNEN
+
+\xf000Ă\x0001\x0000
+Lv. \xf000Ȃ\x0001\x0000
+ERLERNTE ATTACKEN
+JA
+NEIN

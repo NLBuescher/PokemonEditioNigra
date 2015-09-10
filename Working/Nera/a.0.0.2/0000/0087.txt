@@ -1,0 +1,24 @@
+
+
+I dati per giocare con Sincrogioco\xfffesaranno creati. Va bene?
+Creazione dati in corso.\xfffeAttendi...
+SÌ
+NO
+Salvataggio in corso.\xfffeNon spegnere la console.
+Puoi modificare le impostazioni\xfffedel Sincrogioco accedendo alla pagina\xfffeiniziale del Pokémon Global Link con\xfffeil tuo PC e inserendo l'ID Sincrogioco\xffferiportato sopra.\xfffe\xfffehttp://www.pokemon-gl.com
+L'ID Sincrogioco è stato creato.\xfffe\xfffePuoi controllare l'ID Sincrogioco sopra\xffferiportato accedendo alle Opzioni\xfffeSincrogioco dal menu di avvio.
+Puoi modificare le Opzioni Sincrogioco\xfffeaccedendo alla pagina iniziale del Pokémon\xfffeGlobal Link con il tuo PC e inserendo\xfffel'ID Sincrogioco indicato sopra.\xfffe\xfffehttp://www.pokemon-gl.com
+ID SINCROGIOCO
+L'ID Sincrogioco è stato salvato.
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13201)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13202)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13203)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13204)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13205)
+Il servizio non è più disponibile.\xfffe\xfffe(Codice errore: 13206)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13207)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13208)
+Errore di comunicazione.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13209)
+Errore di comunicazione del server.\xfffeProva di nuovo. Se non riesci a\xffferisolvere il problema, consulta\xfffela sezione “Risoluzione dei problemi"\xfffedel manuale d'istruzioni.\xfffe\xfffe(Codice errore: 13210)
+Connessione non riuscita.\xfffeIl server sta registrando un alto\xfffevolume di traffico. Riprova più tardi.\xfffe\xfffe(Codice errore: 13211)
+Il server è in fase di manutenzione.\xfffePer saperne di più, consulta il sito\xfffedel Pokémon Global Link:\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffe(Codice errore: 13212)

@@ -1,0 +1,46 @@
+Mais... MAIS!\xfffeNe serais-tu pas \xf000Ā\x0001\x0000?\xf000븁\x0000
+Laisse-moi donc vérifier ton Pokédex.\xf000븁\x0000\xfffeHum...\xfffeTu as rencontré \xf000Ȃ\x0001\x0000 Pokémon,\xf000븀\x0000\xfffen'est-il pas?\xf000븁\x0000
+Mais dis-moi! Tu as même rencontré\xfffeun Tic!\xf000븀\x0000\xfffeQuel étonnant Dresseur tu fais!\xf000븁\x0000
+Voyons...\xfffeTu n'as pas encore rencontré de Tic?\xf000븁\x0000\xfffeBah, ça ne change rien au fait que\xfffetu as déjà un beau Pokédex!\xf000븁\x0000
+Oh, j'oublie mes manières!\xfffeJ'étais tellement excité.\xf000븁\x0000\xfffeMon nom est Keteleeria!\xfffeSpruce Keteleeria!\xf000븁\x0000\xfffeOui, tu devines bien! La personne qui t'a\xfffeconfié ce Pokédex, c'est ma fille.\xf000븁\x0000\xfffeElle m'a beaucoup parlé de toi.\xf000븁\x0000\xfffeJe suis vraiment content de pouvoir\xfffeenfin te rencontrer en chair et en os!\xf000븁\x0000
+Pour célébrer notre rencontre, je vais\xfffeaméliorer ton Pokédex!\xf000븁\x0000
+Le Pokédex de \xf000Ā\x0001\x0000 est amélioré!
+S. Keteleeria: Certains Pokémon\xfffepossèdent plusieurs Formes!\xf000븁\x0000\xfffeDésormais, tu pourras vérifier celles\xfffeque tu auras croisées!\xf000븁\x0000\xfffeJ'ai aussi rajouté une fonction\xfffed'index pour faciliter tes recherches.\xf000븁\x0000
+???: Professeur!\xfffePouvez-vous faire les présentations?\xf000븁\x0000
+S. Keteleeria: Évidemment!\xf000븁\x0000\xfffeBon. Carolina, je te présente\xfffe\xf000Ā\x0001\x0000,\xf000븁\x0000\xfffeune connaissance de ma fille, qui\xfffel'aide à compléter le Pokédex\xf000븀\x0000\xfffeen voyageant à travers Unys.\xf000븁\x0000
+Carolina: Oh, vraiment?\xfffeDonc tu vas venir me voir à l'Arène?\xf000븀\x0000\xfffeJe m'en réjouis d'avance!\xf000븁\x0000
+S. Keteleeria: Carolina a raison!\xfffeTu devrais aller la défier dans l'Arène!\xf000븁\x0000\xfffeJe suis sûr que tu t'y sentiras pousser\xfffedes ailes!\xf000븁\x0000
+Très bien, Carolina, je dois m'éclipser.\xf000븁\x0000\xfffeJe risque de te solliciter\xfffedans un futur proche!\xf000븁\x0000
+Carolina: Professeur!\xfffeMon avion personnel est un transporteur!\xf000븁\x0000\xfffeJ'y prends des marchandises,\xfffepas des gens!\xf000븁\x0000\xfffeEt puis, vous parlez de Kanto ou de\xfffeSinnoh comme si c'était la porte à côté!\xf000븁\x0000
+S. Keteleeria: Voyons! Je ne méritais pas\xfffeune telle volée de bois vert...\xf000븁\x0000\xfffeMême si tu as conservé ton\xfffeplus beau sourire!\xf000븁\x0000\xfffeNous devons nous entraider, comme\xfffenous le faisons avec les Pokémon,\xf000븀\x0000\xfffen'est-il pas?\xf000븁\x0000\xfffeÀ très bientôt, tout le monde!\xf000븁\x0000
+Carolina: J'y crois pas!\xf000븁\x0000\xfffeQu'un homme qui prend tout à la légère\xfffesoit mondialement connu comme\xf000븀\x0000\xfffespécialiste Pokémon...!\xf000븁\x0000
+Bon, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeC'est pas tout ça, mais je vais\xfffedevoir filer!\xf000븁\x0000\xfffeJ'ai hâte de te rencontrer dans mon\xfffeArène, mais j'ai une ou deux petites\xf000븀\x0000\xfffechoses à terminer avant.\xf000븁\x0000
+Bon, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeC'est pas tout ça, mais je vais\xfffedevoir filer!\xf000븁\x0000\xfffeJ'ai hâte de te rencontrer dans mon\xfffeArène, mais j'ai une ou deux petites\xf000븀\x0000\xfffechoses à terminer avant.\xf000븁\x0000
+Lorsque je survolais la Tour des Cieux\xfffeavec mon avion-cargo,\xf000븀\x0000\xfffej'ai aperçu quelque chose au sommet...\xf000븁\x0000
+Je pense que c'était un Pokémon mal\xfffeen point.\xf000븁\x0000\xfffeOn peut pas le laisser comme ça, hein?\xfffeIl va falloir filer régler ça à tire-d'aile!\xf000븁\x0000\xfffeLa Tour des Cieux est au bout de\xfffela Route 7. Si tu veux, tu peux\xf000븀\x0000\xfffevenir, toi aussi!\xf000븁\x0000
+Carolina?\xf000븁\x0000\xfffeUne fois les préparatifs du cargo\xfffeterminés, elle a filé comme le vent...\xf000븁\x0000\xfffeÀ la Tour des Cieux, sur la Route 7,\xfffeje crois.
+N: \xf000븉\x0001\x0001Pour communiquer, les Dresseurs font\xfffedes duels qui blessent les Pokémon...\xf000븁\x0000\xfffeSuis-je le seul à trouver\xfffecela cruel...?\xf000븁\x0000\xfffeQuoi qu'il en soit... J'aimerais pouvoir\xfffecommuniquer avec l'un de tes Pokémon...\xf000븁\x0000\xfffeJ'ai été élevé avec des Pokémon depuis\xfffeque je suis né... Je trouve plus aisé\xf000븀\x0000\xfffede parler avec eux qu'avec les gens...\xf000븁\x0000\xfffeCar contrairement aux humains...\xfffeils ne mentent jamais...!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Bonjour, \xf000ā\x0001\x0000...\xf000븁\x0000\xfffeDis-moi... Que penses-tu de \xf000Ā\x0001\x0001?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001... \xf000Ā\x0001\x0001 vient de Renouet,\xfffeet vivait avec sa mère?\xf000븁\x0000\xfffeLe Pokédex... a été l'élément\xfffedéclencheur de son voyage... Bien...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Et tu lui fais confiance!\xfffeComme je suis heureux!\xf000븁\x0000\xfffeSi seulement humains et Pokémon\xfffepouvaient vivre en harmonie comme vous.\xf000븁\x0000\xfffeLibérer les Pokémon de leurs terribles\xfffemaîtres serait inutile,\xf000븁\x0000\xfffeet nous pourrions tous ensemble baigner\xfffedans l'aube d'un futur radieux...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Ghetis utilise la Team Plasma pour\xffferetrouver des pierres spéciales...\xf000븁\x0000\xfffeLe Galet Blanc... et... le Galet Noir.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Les Pokémon de la légende ont\xfffeabandonné leur enveloppe charnelle...\xf000븁\x0000\xfffeLeur essence s'est cristallisée en\xfffeune pierre...\xf000븁\x0000\xfffePlongés dans le sommeil, ils attendent\xfffela résurrection du héros...\xf000븁\x0000\xfffeJe vais insuffler la vie à ces Galets, et\xffferessusciter les Dragons légendaires!\xf000븁\x0000\xfffeNous tisserons des liens d'amitié...\xfffeet le monde me reconnaîtra comme\xf000븀\x0000\xfffele nouveau héros...\xf000븀\x0000\xfffeet me suivra alors dans ma croisade!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Je pourrai changer le monde...\xfffesans avoir à blesser quiconque.\xf000븁\x0000\xfffeSi je devais utiliser la force, des gens\xfffese dresseraient sur ma route...\xf000븁\x0000\xfffeEt ces Dresseurs inconscients\xfffeblesseraient leurs Pokémon...\xf000븀\x0000\xfffeQuel gâchis!\xf000븁\x0000\xfffeLes Pokémon sont des êtres vivants!\xfffeL'humanité ne peut pas les traiter avec\xf000븀\x0000\xfffesi peu de considération!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Mais... je souffre de penser que\xfffela réalisation de mon rêve demande de\xf000븀\x0000\xfffedéchirer des équipes qui, comme vous...\xf000븀\x0000\xfffes'entendent à merveille.\xf000븁\x0000\xfffeJ'en suis désolé... Croyez-moi...\xf000븉\x0001\x0000\xf000븁\x0000
+La forme des avions...! Ce fuselage\xfffeélégant pour fendre les cieux...!\xf000븁\x0000\xfffeEt cette mécanique de précision...!\xfffeJ'en suis baba!
+À Parsemille, on ne voit voler que\xfffedes avions-cargo.\xf000븁\x0000\xfffeOn pourrait voir des Dresseurs, s'ils\xfffeavaient la capacité Vol!
+Le papa de Carolina, c'est\xfffeun super aviateur!\xf000븁\x0000\xfffeQui est Carolina? Le Champion\xfffede la ville, pardi!\xf000븀\x0000\xfffeEt elle est tellement gentille...
+Les Pokémon et les humains ont travaillé\xfffed'arrache-pied pour rendre vivables des\xf000븀\x0000\xfffeterres arides, où ils peuvent\xf000븀\x0000\xfffemaintenant coexister.\xf000븁\x0000\xfffeCet esprit d'équipe ne faiblira jamais!
+Si tu fais attention, ça ne me dérange\xfffepas que tu joues sur la piste.\xf000븁\x0000\xfffeOn n'a qu'un seul vol par jour,\xfffeen moyenne.
+Beaucoup de gens se sont fait voler\xfffeleurs Pokémon par la Team Plasma...
+Pour goûter à des bons légumes,\xffferien de tel que les faire pousser\xf000븀\x0000\xfffesoi-même dans la nature!\xf000븁\x0000\xfffeIls deviennent gorgés de soleil, et\xfffeprofitent du changement des saisons.\xf000븁\x0000\xfffeSi même les Pokémon en grignotent,\xfffec'est bien un gage de leur fraîcheur!
+Les serres, c'est l'idéal pour les fruits\xfffeet les légumes!\xf000븁\x0000\xfffeOn peut gérer automatiquement\xfffel'humidité, la température, etc.\xf000븁\x0000\xfffeEn réglant tout au millimètre, on obtient\xfffeun goût incomparable!
+Oh! T'as retrouvé notre trésor!\xf000븁\x0000
+Trouvé, trouvééé!\xf000븁\x0000
+Ben en fait...\xf000븁\x0000\xfffeOn n'avait pas de Pokémon, et c'était\xfffepas demain la veille qu'on allait en\xf000븀\x0000\xfffeavoir un... alors on a caché cette CT.\xf000븁\x0000\xfffeMais c'est un peu du gâchis.\xfffeVaut mieux que tu la prennes!\xf000븁\x0000\xfffeCarolina pourra nous en donner\xfffeune autre.\xf000븁\x0000
+Ben en fait...\xf000븁\x0000\xfffeOn n'avait pas de Pokémon, et c'était\xfffepas demain la veille qu'on allait en\xf000븀\x0000\xfffeavoir un... alors on a caché cette CT.\xf000븁\x0000\xfffeMais c'est un peu du gâchis.\xfffeVaut mieux que tu la prennes!\xf000븁\x0000\xfffeCarolina pourra nous en donner\xfffeune autre.\xf000븁\x0000
+Oh oui! Utilise-la bien!\xf000븁\x0000
+Bon, au revoir!\xf000븁\x0000
+Parsemille\xfffeLe vent y fait voltiger les pétales
+Service de Fret Aérien\xfffeRapidité et sécurité à votre service!
+Arène de Parsemille\xfffeChampion: Carolina\xf000븀\x0000\xfffeL'acrobate des cieux

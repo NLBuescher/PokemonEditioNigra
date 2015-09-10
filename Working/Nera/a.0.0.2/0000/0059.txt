@@ -1,0 +1,17 @@
+MESSAGGI
+
+
+
+
+LEGGI
+CANCELLA
+DAI
+ESCI
+Cosa vuoi fare con il Messaggio di\xfffe\xf000Ā\x0001\x0000?
+Il contenuto del Messaggio andrà perso.\xfffeVuoi continuare?
+Il contenuto del Messaggio è stato\xfffecancellato.
+Vuoi farlo tenere a un Pokémon?
+Il Messaggio senza contenuto è stato\xffferiposto nella Borsa.
+La Borsa è piena. Il Messaggio senza\xfffecontenuto è stato buttato via.
+SÌ
+NO

@@ -1,0 +1,84 @@
+Quizzia: Buongiorno! Da questa parte,\xfffeprego!\xf000븁\x0000
+Quizzia: Emozione e suspense con “Sveglia\xfffela mente!"\xf000븁\x0000\xfffeLo sfidante di oggi è...\xfffequesto Allenatore!\xf000븁\x0000
+Losoio: Buongiorno sfidante!\xf000븁\x0000\xfffeIniziamo subito con i nostri quiz!\xfffeSveglia la mente e azzecca le risposte!\xf000븁\x0000\xfffeEcco la domanda!\xf000븁\x0000
+Esattia: In bocca al lupo!\xf000븁\x0000
+Losoio: Domanda!\xf000븁\x0000
+Quizzia: Questa è veramente difficile!\xfffeRiuscirai a dare la risposta esatta?!\xf000븁\x0000
+Esattia: A-iu-to! A-iu-to!\xf000븁\x0000
+Losoio: Il pubblico ti suggerisce di\xfffechiedere l'aiuto!\xf000븁\x0000
+Quizzia: Perfetto! Eccoti l'aiuto allora!\xf000븁\x0000
+Quizzia: Oooh! Con un aiuto così non\xfffedovresti aver dubbi!\xf000븁\x0000\xfffeÈ tempo di dare la tua risposta adesso!\xf000븁\x0000
+Quizzia: Riiiiiisposta esattaaaaa!\xf000븁\x0000
+Quizzia: Perfetto! Niente male!\xf000븁\x0000
+Esattia: Bel tentativo!\xf000븁\x0000
+Losoio: Complimenti!\xf000븁\x0000\xfffeEcco il tuo premio: un Antidoto!\xf000븁\x0000
+Losoio: Noooo, peccato!\xfffeRisposta sbagliata!\xf000븁\x0000
+Quizzia: Ooh... Peccato!\xf000븁\x0000
+Esattia: Bel tentativo!\xf000븁\x0000
+Losoio: Eh sì, c'è mancato poco!\xf000븁\x0000\xfffeEcco a te il premio di consolazione:\xfffeun Antiparalisi!\xf000븁\x0000
+Quizzia: Emozione e suspense con “Sveglia\xfffela mente!"\xf000븀\x0000\xfffeArrivederci a domani!
+Losoio: Ti piacciono i quiz televisivi?
+Quizzia: Non vedo l'ora di andare in TV!
+Esattia: Bel tentativo!
+Come si chiamano le misteriose creature\xfffeche popolano questo mondo?\xf000븁\x0000
+Cosa si dice a chi compie gli anni?\xf000븁\x0000
+Qual è il contrario di “analogico"?\xf000븁\x0000
+Con cosa si paga quando si fa la spesa?\xf000븁\x0000
+Cosa non ti aspetti da un bullo?\xf000븁\x0000
+Come si chiama il fratello del papà?\xf000븁\x0000
+Chi ti insegna le cose a scuola?\xf000븁\x0000
+Cos'è che puoi far tenere a un Pokémon?\xfffeUn messaggio o un massaggio?\xf000븁\x0000
+Qual è il mezzo di trasporto con i pedali?\xf000븁\x0000
+Come si chiama la lotta di Pokémon che si\xfffefa due contro due?\xf000븁\x0000
+Cosa si usa per fare le foto?\xf000븁\x0000
+Dove vai quando vuoi lavarti?\xf000븁\x0000
+In quale struttura vengono rimessi in\xfffesesto i Pokémon?\xf000븁\x0000
+Quale statistica aumenta quando usi\xfffeuna Proteina?\xf000븁\x0000
+Qual è il Pokémon non evoluto che cambia\xfffeforma a seconda della stagione?\xf000븁\x0000
+Come si chiama il Pokémon Caricavolt che\xfffeemette elettricità dalla criniera?\xf000븁\x0000
+Qual è il Pokémon che ha due ingranaggi?\xf000븁\x0000
+Qual è il Pokémon Petauro dalle orecchie\xfffegrandi?\xf000븁\x0000
+Qual è il Pokémon Appiccicante?\xf000븁\x0000
+Qual è il Pokémon Granpiccione?\xf000븁\x0000
+Qual è il Pokémon Scimperba con le foglie\xfffesul capo?\xf000븁\x0000
+Come si chiama quel Pokémon Ascolto\xfffedall'udito formidabile?\xf000븁\x0000
+Qual è il Pokémon Bara?\xf000븁\x0000
+In cosa si evolve Woobat?\xf000븁\x0000
+Cosa diventa Darumaka quando si evolve?\xf000븁\x0000
+Qual è il Pokémon Assistenza che protegge\xfffei Pokémon più deboli tra le sue pinne?\xf000븁\x0000
+Qual è il Pokémon Dormiveglia?\xf000븁\x0000
+Qual è il Pokémon Biancuccello dalle ali\xfffecandide?\xf000븁\x0000
+Qual è il Pokémon Trappola che si\xfffenasconde nel fango?\xf000븁\x0000
+Con che mossa puoi salire su un Pokémon\xfffeper solcare gli specchi d'acqua?\xf000븁\x0000
+Cosa si festeggia oggi?\xf000븁\x0000
+Indizio!\xfffeNon sono i Kémons!\xf000븁\x0000
+Indizio!\xfffeÈ una parola d'augurio!\xf000븁\x0000
+Indizio!\xfffeNon è ocigolana!\xf000븁\x0000
+Indizio!\xfffeLi trovi dentro al portafoglio!\xf000븁\x0000
+Indizio!\xfffeComincia per S!\xf000븁\x0000
+Indizio!\xfffeÈ il marito della zia!\xf000븁\x0000
+Indizio!\xfffeÈ un adulto!\xf000븁\x0000
+Indizio!\xfffeNon è il massaggio!\xf000븁\x0000
+Indizio!\xfffeHa due ruote!\xf000븁\x0000
+Indizio!\xfffeQuella uno contro uno è “in Singolo"!\xf000븁\x0000
+Indizio!\xfffeQuando la usi tutti fanno “cheese"!\xf000븁\x0000
+Indizio!\xfffeÈ più rilassante della doccia!\xf000븁\x0000
+Indizio!\xfffeNon è un negozio!\xf000븁\x0000
+Indizio!\xfffeNon è la bellezza!\xf000븁\x0000
+Indizio!\xfffeNon arriva dallo spazio!\xf000븁\x0000
+Indizio!\xfffeNon è un Pokémon Saetta!\xf000븁\x0000
+Indizio!\xfffeSi trova nella Cava Pietrelettrica!\xf000븁\x0000
+Indizio!\xfffeÈ anche un Pokémon di tipo Volante!\xf000븁\x0000
+Indizio!\xfffeÈ un Pokémon davvero piccolo!\xf000븁\x0000
+Indizio!\xfffePesa circa 15 chili!\xf000븁\x0000
+Indizio!\xfffeNon è né Bulbasaur né Turtwig!\xf000븁\x0000
+Indizio!\xfffeSarebbe inaudito... se non lo sapessi!\xf000븁\x0000
+Indizio!\xfffeÈ un Pokémon di tipo Spettro!\xf000븁\x0000
+Indizio!\xfffeI suoi cuoricini sono indimenticabili!\xf000븁\x0000
+Vuoi un indizio? Togli la U e l'ultima\xfffesillaba! Sarà un buon inizio!\xf000븁\x0000
+Indizio!\xfffeNon è di tipo Fuoco!\xf000븁\x0000
+Indizio!\xfffeÈ l'evoluzione di un Pokémon Divorasogni!\xf000븁\x0000
+Indizio!\xfffeNon appoggiarne mai uno su Anna!\xf000븁\x0000
+Indizio!\xfffeÈ un Pokémon di tipo Elettro e Terra!\xf000븁\x0000
+Indizio!\xfffeSi usa in mare, ma non in cielo!\xf000븁\x0000
+Indizio!\xfffeHa a che vedere con te, \xf000Ā\x0001\x0000!\xf000븁\x0000

@@ -1,0 +1,7 @@
+Inserisci il codice amico.
+Inserisci il numero del treno (01-\xf000ȁ\x0001\x0000).
+Inserisci il grado (01-\xf000ȁ\x0001\x0000).
+CANCELLA
+CONFERMA
+Il numero del treno non è valido.\xfffeInserisci un numero fino a \xf000ȁ\x0001\x0000.
+Il grado non trova riscontro.\xfffeInserisci un numero fino a \xf000ȁ\x0001\x0000.

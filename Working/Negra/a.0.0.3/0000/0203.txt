@@ -1,0 +1,40 @@
+...\xf000븁\x0000\xfffe¡Ven!\xf000븁\x0000
+...\xf000븁\x0000\xfffeAquí está, gran N.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Gracias.\xf000븁\x0000\xfffeEsos que te han traído hasta mí\xfffeeran del Trío Sombrío.\xf000븁\x0000\xfffeSon miembros del Equipo Plasma\xfffeseleccionados por Ghechis.\xf000븁\x0000\xfffeY, por lo visto, han sido ellos quienes\xfffehan colocado esa tela de Galvantula\xf000븀\x0000\xfffeen la entrada de la cueva.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001La Cueva Electrorroca\xfffees un lugar muy agradable.\xf000븁\x0000\xfffeLa electricidad fluye de acuerdo\xfffecon una fórmula matemática\xf000븀\x0000\xfffey está ligada a los Pokémon.\xf000븁\x0000\xfffeSi no hubiera personas, sería mi\xfffelugar ideal.\xf000븁\x0000\xfffeBueno, te he elegido a ti. ¿Te sorprende?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Sí, no me extraña que te sorprenda.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001¡Claro! ¿Cómo va a sorprenderte\xfffealgo que ni siquiera entiendes?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001He hablado largo y tendido con Ghechis\xfffesobre vosotros.\xf000븁\x0000\xfffeY después parece que ha enviado al Trío\xfffeSombrío para obtener más información.\xf000븁\x0000\xfffeCheren persigue el ideal de fortaleza.\xf000븁\x0000\xfffeBel es consciente de la triste realidad:\xfffeno todos pueden hacerse más fuertes.\xf000븁\x0000\xfffeTú no te decantas ni por uno ni por otro.\xf000븁\x0000\xfffeDigamos que estás en posición neutral,\xfffelo cual me parece bien.\xf000븁\x0000\xfffeEl Equipo Plasma te está esperando\xfffepara medirse contigo.\xf000븁\x0000\xfffeAsí Ghechis podrá comprobar en qué clase\xfffede Entrenadores estarías tú.\xf000븉\x0001\x0000\xf000븁\x0000
+¡Eeeh!\xf000븁\x0000
+¡Oye, oye!\xf000븁\x0000
+Bel: ¿Sabes qué, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeSi empujas las rocas que flotan,\xfffelas puedes mover.\xf000븁\x0000
+¿A que sí, Profe?\xf000븁\x0000
+Prof.ª Encina: ¡Hooolaaa!\xfffe¿Qué tal estás, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Como siempre, este lugar rebosa\xfffede la electricidad que tanto gusta\xf000븀\x0000\xfffea los Pokémon.\xf000븁\x0000\xfffeLas rocas reaccionan entre sí\xfffeeléctricamente, y por eso algunas\xf000븀\x0000\xfffeestán flotando.\xf000븁\x0000\xfffeAunque hay que saber que no todas\xfffese pueden desplazar.\xf000븁\x0000
+Mi padre me ha mandado investigar un\xfffePokémon con aspecto de engranaje\xf000븀\x0000\xfffellamado Klink.\xf000븁\x0000\xfffeClaro, con la excusa de que estudio\xfffeel origen de los Pokémon, me manda\xf000븀\x0000\xfffetodo lo que le apetece.\xf000븁\x0000\xfffePero bueno, ¡tampoco puedo decir que\xfffeno me lo pase bien con estas cosas!\xf000븁\x0000\xfffe¡Ah, se me olvidaba!\xfffe¡Toma esto, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Prof.ª Encina: Si haces que un Pokémon\xfffelleve el Huevo Suerte, aumentarán\xf000븀\x0000\xfffelos Puntos de Exp. que gane en combate.\xf000븁\x0000\xfffeCuanto más fuerte sea tu equipo, más\xfffefácil te resultará sumar páginas\xf000븀\x0000\xfffea tu Pokédex.
+Prof.ª Encina: ¡\xf000Ā\x0001\x0000!\xfffe¿Has completado ya la Pokédex?\xf000븁\x0000\xfffe¡Cuantos más Pokémon encuentres,\xfffemás rápido podrás completarla!
+Bel: Yo es que soy... ¡la guardaespaldas\xfffede la Profe!\xf000븁\x0000\xfffeTampoco es que haga falta, pero...\xfffe¡quiero proteger a mi gente!
+Prof.ª Encina: ¡Hooola!\xfffe¿Has encontrado algo?\xf000븁\x0000\xfffeYo estoy terminando de compilar\xfffeun montón de datos.\xf000븁\x0000
+Esta cueva data de tiempos remotos.\xf000븁\x0000\xfffePero no tenemos datos que demuestren\xfffeque los Klink existieran hace más de\xf000븀\x0000\xfffecien años.\xf000븁\x0000\xfffe¡Ya lo tengo!\xf000븁\x0000\xfffeLos Klink aparecieron de golpe hace\xfffeun siglo. ¡Tiene que ser eso!\xf000븁\x0000
+¿De dónde vienen los Pokémon y\xfffeadónde van?\xf000븁\x0000\xfffeEstoy plenamente convencida de que,\xfffesi lográramos averiguarlo, podríamos\xf000븀\x0000\xfffeestrechar aún más nuestros lazos.\xf000븁\x0000
+Bel: ¡Oye, una cosita, \xf000Ā\x0001\x0000!\xfffe¿No crees que los Pokémon son geniales?\xf000븁\x0000\xfffe¿Por qué unos seres tan fantásticos\xfffequieren estar con nosotros?
+¿De dónde vienen los Pokémon y\xfffeadónde van?\xf000븁\x0000\xfffeEstoy plenamente convencida de que,\xfffesi lográramos averiguarlo, podríamos\xf000븀\x0000\xfffeestrechar aún más nuestros lazos.
+Bel: ¡Aquí también pienso atrapar\xfffePokémon!\xf000븁\x0000\xfffeA fin de cuentas, lo mejor de un viaje\xfffeson los encuentros en tu camino, ¿no?
+...\xf000븁\x0000\xfffe¡Ven!\xf000븁\x0000
+...\xf000븁\x0000\xfffeMás adelante hay unas escaleras.\xf000븁\x0000\xfffeSi desciendes por ellas, podrás\xfffeenfrentarte al Equipo Plasma.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Un mundo con variedad de puntos\xfffede vista está condenado al fracaso.\xf000븁\x0000\xfffeY eso es algo que no pienso permitir.\xf000븁\x0000\xfffeHumanos y Pokémon son seres distintos,\xfffe¡como la noche y el día!\xf000븁\x0000\xfffeSolo estando separados podrán los\xfffePokémon gozar de una vida plena.\xf000븁\x0000\xfffe¡Sí! ¡Ese es mi gran sueño!\xfffe¡El que debo hacer realidad!\xf000븁\x0000\xfffe¡\xf000Ā\x0001\x0000! Tú también tienes sueños,\xfffe¿verdad?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Tener sueños es algo maravilloso.\xf000븁\x0000\xfffe¡Te reto para comprobar hasta qué\xfffepunto son fuertes los tuyos!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001¡Alguien que no tiene sueños nunca\xfffepodrá entenderme!\xf000븁\x0000\xfffeAaarg... Voy a tener que... ¡aplastarte!\xf000븉\x0001\x0000\xf000븁\x0000
+
+N: \xf000븉\x0001\x0001¿Por qué? ¡Me tomo mi papel\xfffede Entrenador muy en serio!\xf000븁\x0000\xfffe¿Por qué no puedo vencerte?\xf000븁\x0000\xfffe¿Cómo puedo perseguir la verdad\xfffey la virtud después de esto?\xf000븁\x0000\xfffe¿Cómo puedo hacerme amigo\xfffedel Pokémon legendario?\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001¿Por qué? ¡Me tomo mi papel de\xfffeEntrenador muy en serio!\xf000븁\x0000\xfffe¿Por qué no puedo vencerte?\xf000븁\x0000\xfffe¿Cómo puedo perseguir mis ideales\xfffedespués de esto?\xf000븁\x0000\xfffe¿Cómo puedo hacerme amigo\xfffedel Pokémon legendario?\xf000븉\x0001\x0000\xf000븁\x0000
+Bel: ¡\xf000Ā\x0001\x0000!\xf000븁\x0000
+Por aquí se va a Ciudad Loza.\xf000븁\x0000
+Prof.ª Encina: Bel tiene muy buen oído.\xf000븁\x0000\xfffeHa podido escuchar tu voz desde\xfffemuy lejos.\xf000븁\x0000\xfffe¡Oye, \xf000Ā\x0001\x0000! ¿Quién es\xfffeese Entrenador?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Usted es la Prof.ª Encina, ¿verdad?\xf000븁\x0000\xfffeUsted pretende entender la relación\xfffeentre Entrenadores y Pokémon\xf000븀\x0000\xfffevaliéndose, cómo no, de las reglas\xf000븀\x0000\xfffearbitrarias de los humanos.\xf000븁\x0000\xfffeY, por supuesto, de ese horrible\xfffeartefacto llamado Pokédex.\xf000븁\x0000\xfffe¿En qué estaba usted pensando?\xf000븉\x0001\x0000\xf000븁\x0000
+Prof.ª Encina: Vaya, sí que me tienes\xfffemanía, ¿no?\xf000븁\x0000\xfffePor un lado, reconozco que tu opción\xfffepersonal es totalmente válida.\xf000븁\x0000\xfffePero, por otro, creo que la nuestra\xfffetambién lo es.\xf000븁\x0000\xfffe¿No crees que cada uno debería\xfffereflexionar y decidir por sí mismo\xf000븀\x0000\xfffesi quiere estar con los Pokémon?\xf000븁\x0000
+N: \xf000븉\x0001\x0001¿Y qué lograríamos con eso?\xf000븁\x0000\xfffe¿Dar carta blanca a cualquier\xfffedesaprensivo para hacer sufrir\xf000븀\x0000\xfffea los Pokémon?\xf000븁\x0000\xfffe¡Yo no pienso tolerar la existencia de\xfffesemejante mundo!\xf000븉\x0001\x0000\xf000븁\x0000
+Prof.ª Encina: Bueno, tampoco pretendía\xfffeconvencerlo de la noche a la mañana.\xf000븁\x0000\xfffePero sí quería que nos entendiera\xfffemejor, aunque fuera un poquito.\xf000븁\x0000
+Bueno, creo que... tendría que\xffferecopilar más datos.\xf000븁\x0000\xfffeSi queremos estrechar aún más los lazos\xfffecon nuestros Pokémon, debemos\xf000븀\x0000\xfffeconocerlos mejor.\xf000븁\x0000
+Bel: Esto... ¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe¡Como ahora soy la guardaespaldas\xfffede la Profe, me quedaré con ella!\xf000븁\x0000

@@ -1,0 +1,11 @@
+
+
+La communication infrarouge est établie!
+Démarrez la communication infrarouge avec\xfffevotre partenaire de test.
+Test de Compatibilité en cours.\xfffeVeuillez ne pas éloigner les consoles.
+Touchez l'écran tactile pour commencer\xfffele test!
+Début du test!
+Classement
+RETOUR
+ANNULER
+TEST DE COMPATIBILITÉ

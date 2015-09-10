@@ -1,0 +1,48 @@
+\xf000봂\x0000AVEC N'IMPORTE QUI
+\xf000봂\x0000SUR RENDEZ-VOUS
+POUR ÉCHANGE
+NIVEAU
+N. 1 à N. 49
+N. 50
+N. 51 à N. 100
+PEU IMPORTE
+SYMPA
+MIGNON
+FLIPPANT
+BIZARRE
+PEU IMPORTE
+CHERCHE ÉCHANGE
+Recherche d'un partenaire d'échange\xffferépondant à vos critères...
+ANNULER
+En attente des infos du partenaire...
+Dresseur trouvé pour un échange!
+CHERCHER
+Choisissez le Dresseur avec qui\xfffevous souhaitez faire un échange.
+Définissez les critères de recherche\xfffeet appuyez sur “CHERCHER".
+
+
+RECHERCHE
+OFFERT
+OUI
+NON
+RENDEZ-VOUS
+\xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ID: \xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
+Il n'y a encore personne avec qui vous\xfffepuissiez prendre rendez-vous.
+Choix du rendez-vous
+Voulez-vous attendre cette personne?
+Comment allez-vous choisir le\xfffepartenaire pour l'échange?
+RETOUR
+\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+SALUER
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
+\xf000봂\x0000\xf000Ā\x0001\x0000
+
+Début de l'échange!
+\xf000봃\x0001\x0001Échanges
+Lieu
+Voulez-vous interrompre la\xfffeconnexion Wi-Fi Nintendo?
+Pour faire un échange, vous devez avoir\xfffeau moins 2 Pokémon dans votre équipe.
+Rendez-vous public
+Voulez-vous avoir un rendez-vous avec\xfffeun ancien partenaire d'échange?
+さくじょします
+９９ついかします

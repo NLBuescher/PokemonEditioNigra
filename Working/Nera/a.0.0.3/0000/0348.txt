@@ -1,0 +1,12 @@
+Buongiorno! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Salve! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Buonasera! Tu devi essere \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHo ricevuto un Dono Segreto per te.\xfffeEccolo!\xf000븁\x0000
+Non ho ricevuto nessun dono per te.\xf000븁\x0000\xfffeTorna a trovarci!
+Alla prossima!
+\xf000Ā\x0001\x0000 riceve \xf000ā\x0001\x0001!
+La tua squadra è al completo.\xfffeAl momento non puoi riceverlo.
+\xf000Ā\x0001\x0000 ottiene \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+\xf000ĉ\x0001\x0000? Ancora uno strumento? Ne\xfffehai già troppi per accettarne altri.
+\xf000Ā\x0001\x0000 ha ottenuto il fantastico\xfffe\xf000Đ\x0001\x0001!
+\xf000Ā\x0001\x0000 ha già ottenuto\xfffe\xf000Đ\x0001\x0001!
+Hai ottenuto un Uovo di Pokémon!

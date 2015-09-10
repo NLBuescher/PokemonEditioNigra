@@ -1,0 +1,43 @@
+Esta es la Sala Unión.\xf000븁\x0000\xfffeSi necesitas ayuda con lo que sea,\xfffeno dudes en decírmelo.\xf000븁\x0000
+
+¿Qué quieres que te explique?
+Existen cinco modalidades de combate.\xf000븁\x0000\xfffeEl Combate Individual es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador puede tener un Pokémon\xfffeen combate.\xf000븁\x0000\xfffeEl Combate Doble es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca dos Pokémon\xfffea la vez para combatir.\xf000븁\x0000\xfffeEl Combate Triple es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca tres Pokémon\xfffea la vez para combatir.\xf000븁\x0000
+El Combate Rotatorio es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca tres Pokémon\xfffea la vez para combatir, uno al frente\xf000븀\x0000\xfffey dos detrás.\xf000븁\x0000\xfffeEl Combate Múltiple es para cuatro\xfffeEntrenadores.\xf000븁\x0000\xfffeSe enfrentan en equipos en un combate\xfffede dos contra dos en el que cada\xf000븀\x0000\xfffeEntrenador puede tener un Pokémon\xf000븀\x0000\xfffeen combate.\xf000븁\x0000
+Puedes intercambiar Pokémon con\xfffeotros jugadores.\xf000븁\x0000\xfffe¡Conocer a gente nueva puede ser una\xfffeforma de encontrar nuevos Pokémon!\xf000븁\x0000
+
+En un Intercambio Giro, cada uno lleva\xfffeun Huevo que intercambia con los demás.\xf000븁\x0000\xfffe¿Con qué Huevo acabarás?\xfffe¿Qué Pokémon saldrá del Huevo?\xf000븁\x0000\xfffe¿A que es emocionante?\xf000븁\x0000\xfffePueden participar hasta cinco personas,\xfffe¡así que pruébalo con tus amigos!\xf000븁\x0000
+Puedes dibujar junto a otros jugadores.\xf000븁\x0000\xfffeOs reuniréis todos en un mismo lienzo\xfffede manera simultánea.\xf000븁\x0000\xfffe¡Seguro que muchos dibujos entre\xfffeamigos son auténticas obras de arte!\xf000븁\x0000\xfffePueden participar hasta cinco jugadores,\xfffe¡así que invita a tus amigos!\xf000븁\x0000
+Tocando los símbolos de la barra inferior\xfffepuedes chatear con los demás, así como\xf000븀\x0000\xfffeescoger qué quieres hacer, como echar\xf000븀\x0000\xfffeun combate o realizar un intercambio.\xf000븁\x0000\xfffeLos que hayan seleccionado el mismo\xfffesímbolo que tú, se pondrán a saltar.\xf000븁\x0000\xfffe¡Usa estos símbolos para saber con\xfffequién puedes hacer lo que te apetece!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMBATE
+INTERCAMBIO
+
+DIBUJAR
+GIRO
+ICONOS
+SALIR

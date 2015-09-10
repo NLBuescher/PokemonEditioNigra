@@ -1,0 +1,13 @@
+L'effetto del repellente è finito!
+Pare che non ci sia nulla qui...
+Per qualche motivo quel dolce profumo è\xfffesvanito...
+Un Pokémon ha abboccato!\xf000븁\x0000
+Non abbocca niente...\xf000븁\x0000
+Hai avvolto la lenza troppo velocemente!\xf000븁\x0000
+Hai avvolto la lenza troppo lentamente!\xf000븁\x0000
+\xf000Ā\x0001\x0000 si teletrasporta\xfffenell'Intramondo!\xf000븁\x0000
+Da qui non è possibile teletrasportarsi\xfffenell'Intramondo!
+Missione in corso nell'Intramondo.\xfffeImpossibile teletrasportarsi adesso.
+Connessione in corso. Impossibile\xfffeteletrasportarsi nell'Intramondo.
+Stai per partecipare alla missione in\xfffecorso nell'Intramondo!\xf000븀\x0000\xfffeTornerai qui a missione ultimata.\xf000븁\x0000\xfffeTeletrasporto verso l'Intramondo\xfffedell'altro giocatore!\xf000븁\x0000
+Connessione interrotta.

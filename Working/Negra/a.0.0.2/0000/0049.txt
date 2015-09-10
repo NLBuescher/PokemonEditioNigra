@@ -1,0 +1,11 @@
+
+
+¡Se ha establecido la comunicación\xfffepor infrarrojos!
+Inicia la comunicación por infrarrojos con el\xfffeotro Entrenador para realizar el Test.
+Test en progreso...\xfffeNo interrumpas la comunicación.
+Toca el menú de la pantalla táctil\xfffepara comenzar.
+COMENZAR TEST
+CLASIFICACIÓN
+SALIR
+CANCELAR
+TEST DE COMPATIBILIDAD

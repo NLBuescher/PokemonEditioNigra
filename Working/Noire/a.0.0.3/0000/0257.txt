@@ -1,0 +1,9 @@
+Deoxys réagit à la météorite...\xf000븁\x0000\xfffeVoulez-vous approcher votre Deoxys\xfffede la météorite?
+Quel Deoxys voulez-vous approcher\xfffede la météorite?\xf000븁\x0000
+Ce Pokémon ne réagit pas à la météorite.
+Cet Œuf ne réagit pas à la météorite.
+\xf000Ă\x0001\x0000 a évolué en une\xfffeforme équilibrée.
+\xf000Ă\x0001\x0000 a évolué en une\xfffeforme privilégiant l'Attaque.
+\xf000Ă\x0001\x0000 a évolué en une\xfffeforme privilégiant la Défense.
+\xf000Ă\x0001\x0000 a évolué en une\xfffeforme privilégiant la Vitesse.
+Il y a une mystérieuse météorite\xfffevenue de l'espace...

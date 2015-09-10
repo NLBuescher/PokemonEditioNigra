@@ -1,0 +1,14 @@
+Lecture des données en cours.\xfffeVeuillez patienter...
+Le jeu inséré n'est pas compatible.\xfffeVeuillez éteindre la Nintendo DS,\xfffeinsérer une carte DS compatible et\xffferelancer le Transféron.\xf000븁\x0000
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Sauvegarde terminée.\xf000븂\x0001<
+Arrêt du Transféron.\xfffeÉteignez votre Nintendo DS.
+Impossible de lire les données.\xfffeArrêt du Transféron.\xf000븁\x0000
+Échec de la connexion\xfffeà l'autre console.\xf000븁\x0000
+Échec de la sauvegarde.\xfffeArrêt du Transféron.\xf000븁\x0000
+Le Transféron est en route!\xfffeRecherche de Pokémon en cours.\xfffeVeuillez patienter...
+
+
+OUI
+NON
+デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A

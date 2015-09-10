@@ -1,0 +1,255 @@
+
+
+\xf000Ă\x0001\x0000 n'a pas été échangé.\xf000븁\x0000
+\xf000Ă\x0001\x0000 semble avoir\xfffepris la fuite...\xf000븁\x0000
+Déposer ou chercher un Pokémon?
+Que voulez-vous faire avec \xf000Ă\x0001\x0000?
+Voulez-vous reprendre ce \xf000Ă\x0001\x0000?
+Voulez-vous interrompre la\xfffeconnexion Wi-Fi Nintendo?
+Quel Pokémon recherchez-vous?
+Veuillez choisir un Pokémon.
+Veuillez choisir son sexe.
+Veuillez choisir son niveau.
+Veuillez choisir le Pokémon recherché.
+Recherche du Pokémon en cours...
+Aucun Pokémon n'a été trouvé!
+Arrêter la recherche?
+Faire un échange avec ce Dresseur?
+Veuillez choisir le Pokémon à échanger.
+Que voulez-vous faire avec \xf000Ă\x0001\x0000?
+
+
+Veuillez choisir le Pokémon à déposer.
+Déposer \xf000Ă\x0001\x0000?
+Êtes-vous d'accord?
+Vérification du statut de la GTS...
+La Capsule Ball sera\xfffeenlevée. Continuer?
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange!\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13266)\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13267)\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13268)\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13269)\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13270)\xf000븁\x0000
+Ce Pokémon ne peut pas\xfffefaire l'objet d'un échange! (13271)\xf000븁\x0000
+Un Œuf ne peut pas faire\xfffel'objet d'un échange!\xf000븁\x0000
+
+Vos Boîtes sont pleines. Vous ne pouvez\xfffepas recevoir de Pokémon.\xf000븁\x0000
+Dresseur trouvé pour un échange!
+
+Touchez “CHOISIR" pour continuer.
+Veuillez changer vos critères.
+Veuillez patienter.
+Votre équipe est pleine. Réception d'un\xfffePokémon avec une Lettre impossible.\xf000븁\x0000
+Votre équipe est au complet.
+Ce Pokémon porte un Ruban spécial. Il\xfffene peut pas faire l'objet d'un échange.\xf000븁\x0000
+Échec de la vérification du statut GTS.
+\xf000봂\x0000SYSTÈME GTS
+\xf000봂\x0000RÉSUMÉ
+\xf000봂\x0000DÉPOSER UN POKÉMON
+\xf000봂\x0000CHERCHER UN POKÉMON
+\xf000봂\x0000QUITTER
+
+
+
+
+
+DONNEUR
+
+
+
+
+
+REPRENDRE
+LAISSER
+OUI
+NON
+NOM
+
+POKÉMON
+
+SEXE
+
+NIVEAU
+
+RECHERCHE
+\xf000봂\x0000RETOUR
+CHOISIR
+
+
+
+OBJET
+
+
+
+RECHERCHE
+
+
+
+Lieu
+\xf000Ĥ\x0001\x0008
+\xf000ĥ\x0001\x0009
+
+
+
+RÉSUMÉ
+ÉCHANGER
+RETOUR
+
+
+DANS L'ÉQUIPE
+
+
+
+
+
+RÉSUMÉ
+DÉPOSER
+RETOUR
+RECHERCHE
+
+
+DÉPOSER POKÉMON
+
+N. 
+\xf000Ȃ\x0001\x0003
+N. \xf000Ȃ\x0001\x0003
+RETOUR
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+PEU IMPORTE
+⑭
+⑮
+\xf000봂\x0000RETOUR
+PEU IMPORTE
+N. 9 et moins
+N. 10 et plus
+N. 20 et plus
+N. 30 et plus
+N. 40 et plus
+N. 50 et plus
+N. 60 et plus
+N. 70 et plus
+N. 80 et plus
+N. 90 et plus
+N. 100
+
+
+
+
+
+
+
+Malheureusement, ce Pokémon a déjà\xfffeété échangé avec un autre Dresseur.\xf000븁\x0000
+Sauvegarde en cours...\xfffeNe pas éteindre.
+
+La GTS est en cours de maintenance.\xfffeVeuillez réessayer ultérieurement.\xf000븁\x0000
+La GTS connaît un trafic trop important.\xf000븁\x0000\xfffeVeuillez réessayer ultérieurement.\xfffe(13261)\xf000븁\x0000
+La recherche a échoué...
+Erreur de communication.\xf000븁\x0000\xfffePour toute assistance, visitez\xfffele site support.nintendo.com.
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13272)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13275)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13263)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13265)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13264)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13273)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13281)\xf000븁\x0000
+Erreur de communication.\xfffePour toute assistance, visitez\xf000븁\x0000\xfffele site support.nintendo.com.\xfffe(13282)\xf000븁\x0000
+Impossible de se connecter à la GTS.\xf000븁\x0000
+La communication avec la GTS a été\xfffecoupée. (13262)\xf000븁\x0000
+La communication avec la GTS a été\xfffecoupée. (13274)\xf000븁\x0000
+La communication a été coupée.
+La connexion va être réinitialisée.
+PEU IMPORTE
+N. 1 à 10
+N. 11 à 20
+N. 21 à 30
+N. 31 à 40
+N. 41 à 50
+N. 51 à 60
+N. 61 à 70
+N. 71 à 80
+N. 81 à 90
+N. 91 à 100
+
+LIEU
+
+PEU IMPORTE
+ PEU IMPORTE
+\xf000봂\x0000RETOUR
+Veuillez choisir un lieu.
+
+
+Ce Pokémon ne peut pas être échangé\xfffes'il tient cet objet!\xf000븁\x0000
+D.O.
+
+
+
+
+
+
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GTS
+GTS\xfffeÉCHANGER UN POKÉMON
+GTS\xfffeRÉSUMÉ
+GTS\xfffeDÉPOSER UN POKÉMON
+GTS\xfffeCHERCHER UN POKÉMON
+RETOUR
+\xf000Ȁ\x0001\x0000
+/

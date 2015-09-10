@@ -1,0 +1,16 @@
+\xf000Ā\x0001\x0000 vous a rejoint.
+Voulez-vous arrêter de dessiner?
+\xf000Ā\x0001\x0000 quitte la séance.
+\xf000Ā\x0001\x0000, le meneur, a quitté la\xfffeséance. Le groupe va être dissous.\xf000븂\x0001<
+Si le meneur se désiste, le groupe sera\xfffedissous. Continuer?
+Un membre a quitté la séance.\xfffeLe groupe va être dissous.\xf000븂\x0001<
+La séance de dessin est terminée.
+
+\xf000Ā\x0001\x0000
+
+
+
+
+Vous rejoignez une séance de dessin!
+OUI
+NON

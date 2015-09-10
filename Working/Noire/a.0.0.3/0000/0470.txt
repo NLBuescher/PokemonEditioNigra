@@ -1,0 +1,26 @@
+Bienvenue au Club Wi-Fi Pokémon!\xf000븁\x0000\xfffeVoulez-vous utiliser la\xfffeconnexion Wi-Fi Nintendo?
+À bientôt, j'espère.
+Voulez-vous lancer la connexion\xfffeWi-Fi Nintendo?
+Veuillez entrer.\xf000븁\x0000
+Oh?\xf000븁\x0000\xfffeJe suis désolée, mais vous n'avez\xfffeaucun ami dans votre Registre Ami.\xf000븁\x0000\xfffeVous ne pouvez pas utiliser le Club\xfffeWi-Fi si aucun ami n'est enregistré.\xf000븁\x0000\xfffeVoulez-vous obtenir votre propre\xfffecode ami, au moins? \xf000Ȁ\x0001\x0000
+Oh?\xf000븁\x0000\xfffeJe suis désolée, mais vous n'avez\xfffeaucun ami dans votre Registre Ami.\xf000븁\x0000\xfffeVous ne pouvez pas utiliser le Club\xfffeWi-Fi si aucun ami n'est enregistré.\xf000븁\x0000\xfffeRevenez quand vous aurez enregistré\xfffedes amis dans votre Registre Ami.\xf000븁\x0000
+Au Club Wi-Fi, vous pouvez échanger\xfffedes Pokémon et faire des combats\xf000븀\x0000\xfffeavec les amis enregistrés dans\xf000븀\x0000\xfffevotre Registre Ami.\xf000븁\x0000\xfffeGrâce à l'écran, vous pouvez rechercher\xfffedes participants en fonction de ce que\xf000븀\x0000\xfffevous souhaitez faire.\xf000븁\x0000\xfffeVous pouvez aussi jouer en parlant\xfffedirectement à vos amis.\xf000븁\x0000\xfffeVoulez-vous utiliser la CWF Nintendo?
+Nous ne sommes pas encore prêts!\xfffeVeuillez revenir plus tard.
+Au moins un de vos Pokémon ne peut pas\xfffeêtre pris.
+Erreur de communication...
+ACCÉDER AU CLUB Wi-Fi
+INFORMATIONS
+RETOUR
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,190 @@
+Menu di avvio
+Centro Pokémon
+C-Gear
+Menu
+Lotta
+Pokémon
+Altro
+Continua
+Nuovo Gioco
+Dono Segreto
+Gara di Lotta
+Certificato Partecipante
+Impostazioni Sincrogioco
+Configurare la Nintendo WFC
+Prova audio
+Centro Pokémon
+Spostare i Pokémon nel PC
+Box Lotta
+Come iniziare uno Scambio in link
+Come iniziare una lotta in link
+Lotta in Singolo
+Lotta in Doppio
+Lotta in Triplo
+Lotta a Rotazione
+Mirabilancere
+Sala Contatto
+Club Wi-Fi
+Centro Globale
+Codice amico
+C-Gear
+Log Contatti
+Sondaggi
+Richieste di sondaggi
+Fare dei sondaggi
+Risultati dei sondaggi
+Collegamento a infrarossi
+Sincrogioco
+Intramondo
+Passapotere
+Passabilie
+Borsa
+Scheda Allenatore
+Pokédex
+Consigli per catturare i Pokémon
+Tipi e compatibilità
+Attacco fisico, speciale e di stato
+Esausto
+Avvelenamento
+Paralisi
+Sonno
+Congelamento
+Scottatura
+Confusione
+Infatuazione
+Punti Esperienza
+Evoluzione
+Natura e tratti unici
+Pokérus
+Correre
+Ricerca Strumenti
+Interpoké
+Medaglie
+Assegnare strumenti e funzioni
+Importare con il Pokétrasporto
+Catturare con il Pokétrasporto
+Durante l'avventura apri il menu principale\xfffecon il pulsante X e tocca SALVA per salvare.\xfffe\xfffeIn questo modo, dopo aver riavviato la\xfffeconsole, potrai riprendere a giocare dal\xfffepunto esatto in cui avevi salvato il gioco.\xfffe\xfffeQuando vuoi continuare una partita salvata\xfffetocca CONTINUA nel menu di avvio.
+Per cancellare i dati salvati e ricominciare\xfffel'avventura premi contemporaneamente\xfffeSu + SELECT + Pulsante B nello schermo\xfffedel titolo.\xfffe
+I doni speciali distribuiti nel corso degli\xfffeeventi possono essere ottenuti in tre modi:\xfffe\xfffe- Connessione wireless;\xfffe- Nintendo Wi-Fi Connection;\xfffe- Collegamento a infrarossi.\xfffe\xfffeRicorda che le modalità di distribuzione\xfffevariano a seconda dell'evento.
+Quando ricevi una Scheda Segreta per\xfffeun Pokémon o uno strumento speciale,\xfffeapparirà un postino dal cappello blu\xfffein ogni Centro Pokémon.\xfffe\xfffeVacci a parlare per ritirare il Dono\xfffeSegreto che ti aspetta.
+Puoi avere al massimo dodici Schede Segrete.\xfffe\xfffeQuando raggiungi il limite, scegli l'opzione\xfffeGUARDA ALBUM SCHEDE e cancella le schede\xfffedelle quali hai già ritirato il Dono Segreto.
+Puoi partecipare alle Gare di Lotta che\xfffesi svolgono attraverso la Nintendo Wi-Fi\xfffeConnection o nel corso di specifici eventi.\xfffe\xfffePer saperne di più, tocca GARA DI LOTTA\xfffenel menu di avvio, quindi REGOLE.
+Per saperne di più su come registrarsi,\xfffesulle regole e su come partecipare alle\xfffeGare di Lotta, consulta il sito ufficiale\xfffedel Pokémon Global Link o il sito ufficiale\xfffePokémon.
+Alle Gare di Lotta possono partecipare solo\xfffei Pokémon registrati nei Box Lotta dei PC.\xfffe\xfffeNon puoi modificare il Box Lotta una volta\xfffeincominciata una gara, quindi scegli i Pokémon\xfffecon cura prima di fare la registrazione.
+Dopo l'iscrizione alla gara, puoi controllare\xfffeil Certificato Partecipante.\xfffe\xfffePer saperne di più consulta il sito ufficiale\xfffedel Pokémon Global Link.
+Per impostare il Sincrogioco devi prima\xfffeconfigurare la Nintendo Wi-Fi Connection.\xfffe\xfffeConfigurata la Nintendo Wi-Fi Connection,\xfffeguarda le OPZIONI SINCROGIOCO per scoprire\xfffeil tuo ID Sincrogioco personale.
+Usa l'ID Sincrogioco per la registrazione\xfffeutente sul sito ufficiale del Pokémon Global\xfffeLink (accessibile da un computer collegato\xfffea Internet).
+Se cancellerai la partita salvata, verrà\xfffecancellato anche l'ID Sincrogioco.\xfffe\xfffeIn questo caso, dovrai registrarti\xfffenuovamente sul sito ufficiale del\xfffePokémon Global Link.
+Puoi impostare la tua console Nintendo DS\xfffeper la Nintendo Wi-Fi Connection tramite\xfffel'opzione IMPOSTAZIONI NINTENDO WFC\xfffenel menu di avvio.\xfffe\xfffeCosì facendo, potrai collegarti a Internet\xfffeper fare scambi o lotte di Pokémon con\xfffepersone di tutto il mondo.
+Ricorda che se vuoi partecipare alle Gare,\xfffeaccedere alle Impostazioni Sincrogioco e\xfffead altri servizi del Pokémon Global Link,\xfffedevi prima regolare le impostazioni della\xfffeNintendo Wi-Fi Connection.
+Puoi verificare se il microfono della console\xfffefunziona correttamente.\xfffe\xfffeSe quando parli, o soffi, il Jigglypuff nello\xfffeschermo superiore reagisce, significa che\xfffeil microfono funziona correttamente.
+Luogo per far riposare i Pokémon, comprare\xfffestrumenti e altro ancora.\xfffe\xfffeC'è anche un PC per gestire i Pokémon che hai\xfffecatturato o per ricevere la valutazione della\xfffeProf.ssa Aralia.
+Usando il PC, puoi depositare i Pokémon della\xfffetua squadra o ritirare quelli precedentemente\xfffeimmagazzinati.\xfffe\xfffeSe catturi un Pokémon quando la tua squadra\xfffeè già al completo, verrà automaticamente\xfffespedito in questo PC.
+Puoi registrare fino a sei Pokémon che vuoi\xfffeusare per lottare.\xfffe\xfffeQuando lotti contro altri giocatori puoi\xfffescegliere se usare i Pokémon della tua\xfffesquadra o quelli registrati nel Box Lotta.\xfffe\xfffeIn caso non ci siano Pokémon registrati,\xfffelotterai con quelli della tua squadra.
+Ci sono quattro modi per proporre uno Scambio\xfffein link ai tuoi amici:\xfffe\xfffe- Il collegamento a infrarossi;\xfffe- La Sala Contatto;\xfffe- Il Club Wi-Fi;\xfffe- Il Centro Globale.
+- Il collegamento a infrarossi\xfffe\xfffePuoi proporre uno scambio agli amici che sono\xfffeintorno a te con il collegamento a infrarossi!\xfffe\xfffeScegli SCAMBIA dopo aver selezionato\xfffeil collegamento a infrarossi sul C-Gear.
+- La Sala Contatto\xfffe\xfffeSe stai giocando assieme a più amici, potete\xffferiunirvi nella Sala Contatto per fare scambi.\xfffe\xfffeSi trova al primo piano dei Centri Pokémon.
+- Il Club Wi-Fi\xfffe\xfffeQuando i tuoi amici sono lontani, puoi fare\xfffescambi attraverso il Club Wi-Fi.\xfffe\xfffePer usare il Club Wi-Fi è necessario che tu e\xfffei tuoi amici abbiate regolato le impostazioni\xfffedella Nintendo Wi-Fi Connection e vi siate\xfffescambiati i codici amico.
+- Il Centro Globale\xfffe\xfffeAttraverso il Centro Globale puoi fare scambi\xfffecon persone di tutto il mondo.\xfffe\xfffeBasta soddisfare le condizioni di scambio,\xfffeperché questo avvenga automaticamente.
+Ci sono quattro modi per proporre una lotta\xfffein link ai tuoi amici:\xfffe\xfffe- Il collegamento a infrarossi;\xfffe- La Sala Contatto;\xfffe- Il Club Wi-Fi;\xfffe- Il Centro Globale.
+- Il collegamento a infrarossi\xfffe\xfffePuoi proporre una lotta agli amici che sono\xfffeintorno a te con il collegamento a infrarossi!\xfffe\xfffeScegli LOTTA dopo aver selezionato\xfffeil collegamento a infrarossi sul C-Gear.\xfffeTutti i Pokémon saranno di livello 50\xfffee il Mirabilancere sarà attivato.
+- La Sala Contatto\xfffe\xfffeSe stai giocando assieme a più amici, potete\xffferiunirvi nella Sala Contatto per lottare.\xfffe\xfffeSi trova al primo piano dei Centri Pokémon.
+- Il Club Wi-Fi\xfffe\xfffeQuando i tuoi amici sono lontani, puoi lottare\xfffeattraverso il Club Wi-Fi.\xfffe\xfffePer usare il Club Wi-Fi è necessario che tu e\xfffei tuoi amici abbiate regolato le impostazioni\xfffedella Nintendo Wi-Fi Connection e vi siate\xfffescambiati i codici amico.
+- Il Centro Globale\xfffe\xfffeAttraverso il Centro Globale puoi lottare\xfffecon persone di tutto il mondo usando\xfffediverse regole.\xfffe\xfffeSi trova al primo piano dei Centri Pokémon.
+Nella Lotta in Singolo l'Allenatore fa lottare\xfffei Pokémon mandandoli in campo uno alla volta.\xfffe\xfffeCi sono quattro tipi di lotta, compresa\xfffequella in Singolo. Indipendentemente dal tipo\xfffedi lotta, è possibile vedere la spiegazione di\xfffeuna mossa premendo il pulsante A mentre si\xfffetiene premuto il pulsante L nello schermo di\xfffeselezione della mossa.
+Nella Lotta in Doppio gli Allenatori fanno\xfffelottare i Pokémon mandandoli in campo\xfffedue alla volta.\xfffe
+Nella Lotta in Triplo gli Allenatori fanno\xfffelottare i Pokémon mandandoli in campo\xfffetre alla volta.\xfffe\xfffeRicorda che i Pokémon più distanti tra loro\xfffenon si possono attaccare, mentre quelli al\xfffecentro possono attaccare qualunque Pokémon\xfffenemico in campo.
+Ci sono alcune mosse che consentono\xfffedi attaccare anche gli avversari lontani.\xfffe\xfffeInoltre è possibile scambiare le posizioni dei\xfffePokémon. Scegli SPOSTA nella schermata di\xfffeselezione delle mosse del Pokémon a destra o\xfffea sinistra per scambiarlo con quello centrale.
+La Lotta a Rotazione è un nuovo tipo di lotta\xfffeche si basa sulle regole di quella in Singolo.\xfffe\xfffeOgni giocatore mette in campo tre Pokémon.\xfffe\xfffePuò compiere azioni un solo Pokémon a turno,\xfffema puoi scegliere liberamente a ogni turno a\xfffequale dare istruzioni tra quelli in campo.
+Quando vuoi spostare avanti un Pokémon,\xfffescegli l'icona della rotazione dal menu di\xfffeselezione delle mosse.\xfffe\xfffeIl Pokémon prescelto compirà la sua azione\xfffesubito dopo essersi spostato in avanti.
+Nelle lotte in link tu e il tuo avversario\xfffepotete usare anche gli strumenti, se il\xfffeMirabilancere è attivato.\xfffe\xfffeCon l'avanzare dei turni accumulerai punti\xfffeche ti serviranno per attivare gli strumenti.\xfffe\xfffeStrumenti più potenti richiedono più punti.\xfffeSpetta a te decidere che strategia adottare.
+Nella Sala Contatto puoi fare scambi o lottare\xfffecon le persone vicine. Si trova al primo piano\xfffedi ogni Centro Pokémon, sulla sinistra.\xfffe\xfffeUna volta dentro, premi il pulsante A quando\xfffesei di fronte a una persona per parlarle.\xfffe\xfffePer maggiori informazioni, chiedi alla signorina\xfffeche si trova in fondo alla stanza a sinistra.
+Nel Club Wi-Fi che si trova al primo piano\xfffedei Centri Pokémon, puoi divertirti assieme\xfffealle persone registrate nel tuo Blocco Amici\xfffea fare scambi e lotte in link, o a usare la\xfffechat vocale e l'Interpoké.\xfffe\xfffeFai riferimento alla sezione “Codice amico"\xfffedi questa guida per sapere come registrare\xfffeun codice amico.
+Entra nella stanza e premi il pulsante A di\xfffefronte al giocatore con cui vuoi collegarti.\xfffe\xfffeQuelli che hanno già deciso cosa vogliono\xfffefare saltellano aspettando che qualcuno\xfffesi colleghi.\xfffe\xfffeQuando hai deciso, premi il pulsante A di\xfffefronte allo schermo in fondo.
+Con la chat vocale puoi parlare con gli\xfffeamici lontani come se fossi al telefono.\xfffe\xfffeSe premi il pulsante X all'interno della\xfffestanza, puoi scegliere dall'inizio se usare\xfffeo meno la chat vocale.
+Nel Centro Globale puoi divertirti a fare\xfffescambi o lotte in link con persone che non\xfffeconosci.\xfffe\xfffeLo trovi al primo piano dei Centri Pokémon,\xfffesulla destra.
+È un numero personale che ottieni quando\xfffeti connetti alla Nintendo Wi-Fi Connection.\xfffe\xfffeComunica il tuo codice amico agli amici\xfffelontani per fare scambi o lottare con loro.\xfffe\xfffePuoi controllare il tuo codice amico nel\xfffeBlocco Amici che si trova nella tua Borsa.
+Ci sono due modi per registrare i codici amico:\xfffe\xfffe- Scegli USA nel Blocco Amici contenuto nella\xfffe  Borsa per inserire direttamente il codice di\xfffe  un amico;\xfffe- Usa il collegamento a infrarossi del C-Gear.
+Il C-Gear è un dispositivo che ti permette\xfffedi fare scambi o lotte in link con le persone\xfffevicine ed è dotato di diverse funzioni che\xfffepuoi usare con l'Intramondo, l'Interpoké\xfffeo il Sincrogioco.\xfffe\xfffePuoi accendere e spegnere il C-Gear\xfffetoccando l'icona dell'accensione in basso\xfffea destra.
+Quando il C-Gear è acceso, la funzione\xfffewireless del Nintendo DS è sempre attiva.\xfffe\xfffeAssicurati di spegnere il C-Gear nei luoghi\xfffein cui è vietato l'uso del wireless, come\xfffeaerei, ospedali, eccetera.\xfffe\xfffeNon rispettare queste limitazioni in alcuni\xfffecasi può costituire un reato.
+Se tocchi l'icona a forma di chiave inglese\xfffein basso a destra, potrai personalizzare\xfffeil C-Gear toccando ripetutamente\xfffele cornicette colorate.\xfffe\xfffeToccando l'icona “?", invece, accederai alla\xfffeschermata di assistenza del C-Gear.
+Il riquadro nella parte inferiore dello\xfffeschermo del C-Gear è il Log Contatti.\xfffe\xfffeToccandolo, puoi sapere se nei paraggi ci\xfffesono giocatori che stanno usando il C-Gear.\xfffe\xfffeVedrai il loro profilo e cosa stanno facendo\xfffein quel momento e potrai scambiare messaggi.\xfffePuoi anche mostrare loro cosa fai tu.
+Quando vedi il nome di un altro giocatore\xfffeche sta usando il C-Gear, toccandolo puoi\xfffescoprire diverse informazioni sul suo conto,\xfffecome il tempo di gioco trascorso, dove si\xfffetrova nel gioco, eccetera.
+Tocca l'icona triangolare del Log Contatti\xfffeper usare il Passapotere.\xfffe\xfffePer ottenere il Passapotere esamina il tuo\xfffeIntralbero dopo aver portato a termine la\xfffemissione che ricevi presso l'Intralbero di\xfffeun altro giocatore.
+Tocca l'icona a forma di fumetto per inviare\xfffeun messaggio.\xfffe\xfffeEvita assolutamente di inviare messaggi con\xfffefrasi indelicate o con importanti informazioni\xfffepersonali, quali nome e numero di telefono.
+Puoi inviare messaggi di ringraziamento.\xfffe\xfffeTocca l'icona col viso sorridente e scegli\xfffea chi mandare il ringraziamento.
+Con i sondaggi puoi scoprire i gusti e gli\xfffeinteressi delle persone con cui stabilisci\xfffedei contatti e vederne le statistiche.
+Puoi iniziare a fare sondaggi dopo esserti\xffferecato ad Austropoli e aver accettato\xfffel'incarico all'Associazione Sondaggi.
+Dopo aver accettato l'incarico dal capo\xfffedell'Associazione Sondaggi, tocca il grafico\xfffea torta che appare in basso a sinistra nel\xfffeC-Gear e scegli il contenuto del sondaggio.
+Dopo aver scelto il contenuto del sondaggio,\xfffebasta lasciare il C-Gear acceso.\xfffe\xfffeIl gioco raggrupperà automaticamente tutte\xfffele risposte fornite dai giocatori che hanno\xfffefatto altrettanto e la raccolta avrà luogo\xfffesia tra i giocatori che stanno giocando in\xfffequel momento sia tra quelli che hanno\xfffelasciato il Nintendo DS in modalità riposo.
+Prima di tutto controlla che il sondaggio\xfffesia stato completato selezionando l'opzione\xfffeLEGGI I RISULTATI nel C-Gear. \xfffe\xfffeDopo di che vai all'Associazione Sondaggi\xfffedi Austropoli e riporta i dati raccolti al capo.
+Tocca una delle icone dalla cornice rossa nel\xfffegruppo riportante la scritta IR per avviare\xfffeil collegamento a infrarossi del C-Gear e\xfffeinvitare un giocatore vicino a te a uno\xfffescambio o a una lotta in link.\xfffe\xfffePuoi anche scambiare i codici amico o\xfffefare il controllo affinità.
+Il collegamento ha inizio dopo aver scelto\xfffeentrambi la stessa voce dal menu e aver\xfffemesso i Nintendo DS uno di fronte all'altro.\xfffeUna volta stabilito il collegamento non è più\xfffenecessario tenere le console una di fronte\xfffeall'altra.
+Tocca una delle icone dalla cornice blu nel\xfffegruppo riportante la scritta ONLINE sul\xfffeC-Gear per usare il Sincrogioco.\xfffe\xfffeIl Sincrogioco è un sistema che ti permette\xfffedi far addormentare i Pokémon dei tuoi Box.\xfffeCosì potrai scambiare i tuoi dati con quelli\xfffedegli Allenatori di tutto il mondo.
+L'interno delle icone dalla cornice blu nel\xfffegruppo riportante la scritta ONLINE sul\xfffeC-Gear cambia colore a seconda delle\xfffecondizioni del servizio.\xfffe\xfffeSe un access point per la comunicazione\xfffewireless è disponibile e le IMPOSTAZIONI\xfffeNINTENDO WFC del tuo DS sono state regolate,\xfffel'immagine si colorerà di verde.
+Se un access point per la comunicazione\xfffewireless aperto a tutti, come la Nintendo\xfffeZone, è disponibile, l'interno delle icone\xfffesi colorerà di blu.
+Se un access point per la comunicazione\xfffewireless è disponibile, ma le IMPOSTAZIONI\xfffeNINTENDO WFC della tua console DS non\xfffesono state regolate, l'interno delle icone\xfffesi colorerà di rosso.
+I dati di salvataggio inviati con il Sincrogioco\xfffeverranno raccolti nel mondo dei sogni dei\xfffePokémon chiamato Pokémon Dream World.\xfffe\xfffeTrovi il Pokémon Dream World nel sito ufficiale\xfffedel Pokémon Global Link.
+Per giocare nel Pokémon Dream World, devi\xfffeprima completare alcuni preparativi:\xfffe\xfffe1. Regola le impostazioni della Nintendo Wi-Fi\xfffe    Connection;\xfffe2. Regola le impostazioni del Sincrogioco;\xfffe3. Registrati sul sito ufficiale del Pokémon\xfffe    Global Link via computer.
+Puoi accedere all'Intramondo che si trova\xfffeal centro della regione di Unima toccando\xfffeuna delle icone dalla cornice arancio nel\xfffegruppo riportante la scritta WIRELESS sul\xfffeC-Gear.\xfffe\xfffeAl centro dell'Intramondo si trova\xfffel'Intralbero.
+Se nei dintorni c'è qualcuno che sta giocando\xfffecon il C-Gear acceso, hai la possibilità di\xfffeaccedere al suo mondo di gioco creando un\xfffeponte dal tuo Intramondo. \xfffe\xfffeAttenzione!\xfffeNon puoi accedere al tuo Intramondo mentre\xfffelo sta visitando qualcun altro.
+Per creare una connessione fermati un po'\xfffesui ponti che trovi a destra e a sinistra\xfffedell'Intramondo.\xfffe\xfffeFai attenzione, però, perché puoi creare\xfffeun ponte solo se l'altro giocatore si trova\xfffein una delle otto città o percorsi intorno\xfffeall'Intramondo e fuori dagli edifici.
+Quando il ponte che ti collega all'Intramondo\xfffedell'altro giocatore viene stabilito, appare\xfffeuna notifica sul touch screen.\xfffe\xfffeA quel punto, attraversa il ponte ed entra\xfffenel mondo dell'altro giocatore.\xfffe\xfffeUna volta lì, il tuo aspetto cambierà e lo\xfffesfondo si colorerà di grigio.
+Anche nell'Intramondo dell'altro giocatore\xfffetroverai un Intralbero. Se premi il pulsante A\xfffementre sei rivolto verso l'albero, ti saranno\xfffeaffidate delle missioni.\xfffe\xfffeCe ne sono di diverso tipo. Si può trattare\xfffedi parlare con qualcuno, di fare una lotta,\xfffeeccetera. Ricorda che ognuna di queste\xfffemissioni ha un limite di tempo.
+Una volta ricevuta la prima missione, potrai\xfffeteletrasportarti in una città a scelta.\xfffe\xfffeSe vuoi interagire con l'altro giocatore,\xfffetocca la città più vicina a dove si trova\xfffein quel momento e prova a cercarlo a partire\xfffeda dove ti ha portato il teletrasporto.
+Se porti a termine con successo la missione\xfffeaffidatati dall'Intralbero, puoi tornare\xfffeal tuo Intralbero e ottenere un dono\xfffemisterioso chiamato Passapotere.
+Mentre ti trovi nell'Intramondo o nel mondo\xfffedi un altro giocatore ci sono alcune cose\xfffeche non potrai utilizzare:\xfffe\xfffe- la funzione di salvataggio;\xfffe- gli Strumenti Base;\xfffe- le mosse apprese tramite Macchine Nascoste\xfffe  e in generale tutte quelle utilizzabili fuori\xfffe  dalla lotta.
+Il Passapotere è un potere misterioso\xfffeottenibile dall'Intralbero che si trova \xfffenell'Intramondo.\xfffe\xfffePuoi ottenerlo andando nell'Intramondo\xfffedi un altro giocatore e portando a termine\xfffela missione che il suo Intralbero ti affida.
+Il Passapotere non può essere usato\xfffenel tuo Intramondo o nel mondo di un altro\xfffegiocatore.\xfffe\xfffePer usarlo esci dall'Intramondo e tocca\xfffel'icona Log Contatti del C-Gear, quindi\xfffeseleziona il simbolo triangolare.
+Inoltre, per usare il Passapotere è\xfffenecessario un numero di Passabilie\xfffeprestabilito.\xfffe\xfffePuoi ottenere le Passabilie completando\xfffele missioni assegnate dall'Intralbero di\xfffeun altro giocatore.
+Le Passabilie vengono consumate in\xfffenumero prestabilito ogni volta che usi\xfffeil Passapotere.\xfffe\xfffePuoi ottenere le Passabilie completando\xfffele missioni assegnate dall'Intralbero di\xfffeun altro giocatore.
+- Funzioni della Borsa\xfffeLa Borsa suddivide automaticamente\xfffegli strumenti inseriti a seconda del tipo.\xfffe\xfffeMetti la spunta nel quadratino a fianco\xfffeal nome di uno degli strumenti inseriti nella\xfffeTasca degli Strumenti Base e assegnalo al\xfffepulsante Y, così da usarlo senza bisogno di\xfffeaprire la Borsa.
+Tocca l'icona verde sul touch screen o premi\xfffeSTART per mettere in ordine gli strumenti\xfffeautomaticamente.\xfffe\xfffeSe premi SELECT puoi spostare liberamente\xfffegli strumenti nelle tasche.\xfffe\xfffePremi i pulsanti L e R, invece, per scorrere\xfffetra le pagine.
+- Il contenuto della Borsa\xfffe\xfffeStrumenti\xfffeAlcuni strumenti aumentano le caratteristiche\xfffee la potenza delle mosse se li fai tenere a un\xfffePokémon. Questi strumenti vengono indicati\xfffecon un segno: falli tenere a un Pokémon\xfffee scopri che effetto hanno!
+Altri strumenti aumentano le statistiche e\xfffela potenza delle mosse solo durante la\xfffelotta.\xfffe\xfffeAltri ancora hanno un effetto limitato nel\xfffetempo oppure che sparisce se sostituisci\xfffeil Pokémon.
+Anche le Poké Ball per catturare i Pokémon\xfffevengono messe nella Tasca Strumenti, così\xfffecome gli strumenti per la loro evoluzione.\xfffe\xfffeI Messaggi, invece, sono delle lettere che\xfffepuoi creare combinando diverse parole.\xfffe\xfffePuoi recapitarli ai tuoi amici dandoli a un\xfffePokémon che poi scambi con loro.
+Rimedi\xfffeQui vengono tenuti gli strumenti che fanno\xffferecuperare PS e PP e che curano i problemi\xfffedi stato.\xfffe\xfffeMT e MN\xfffeQuesta tasca contiene le Macchine Tecniche\xfffee le Macchine Nascoste. Questi strumenti\xfffepossono esseri usati senza alcun limite.
+Bacche\xfffeDove conservi le Bacche raccolte. Ne esistono\xfffediverse e possono essere usate direttamente\xfffedall'Allenatore o date da tenere a un Pokémon\xfffeperché le utilizzi al momento giusto.\xfffe\xfffeStrumenti Base\xfffeContiene gli strumenti più importanti. Alcuni\xfffepossono essere assegnati al pulsante Y.
+Premi il pulsante X per far apparire il menu\xfffeprincipale, quindi tocca il tuo nome per\xfffevedere quante Medaglie hai conseguito fino\xfffea quel momento.\xfffe\xfffeTocca l'icona nella parte inferiore sinistra\xfffedel touch screen per passare dalla schermata\xfffecon le Medaglie conseguite a quella della\xfffetua Scheda Allenatore.
+Nella Scheda Allenatore puoi controllare\xfffeil tempo di gioco, i soldi, eccetera.\xfffePuoi cambiare la categoria e la natura\xfffedell'Allenatore toccando il touch screen.\xfffeToccando la cornice bianca in basso, invece,\xfffepuoi cambiare il messaggio visualizzato.\xfffeCompletalo inserendo negli spazi vuoti\xfffeil termine che preferisci.
+Puoi usare lo stilo per aggiungere la tua\xfffefirma sul retro della scheda. \xfffe\xfffeSe vuoi fare una correzione tocca l'icona\xfffecon la gomma da cancellare in basso.\xfffe\xfffeTocca l'icona col simbolo + per ingrandire e\xfffequella col triangolo per creare una sequenza\xfffeanimata della firma con due immagini.
+È un dispositivo avanzatissimo che registra\xfffeautomaticamente i Pokémon incontrati.\xfffe\xfffeCon il Pokédex puoi vedere varie informazioni\xfffesui Pokémon catturati: il posto in cui vivono,\xfffeil verso, il tipo, l'impronta, l'altezza,\xfffeil peso, eccetera.
+Proseguendo nell'avventura verranno \xfffeaggiunte delle funzioni di ricerca.\xfffe\xfffeA quel punto, potrai premere START per\xfffecercare i Pokémon secondo diversi parametri,\xfffecome numero, ordine alfabetico, colore e\xfffesagoma.
+Se usi la Poké Ball dopo aver diminuito i PS\xfffedi un Pokémon sarà più facile catturarlo.\xfffe\xfffeSe usi anche delle mosse per paralizzare o\xfffeaddormentare i Pokémon sarà ancora più\xfffefacile.
+Esistono diversi tipi di Pokémon e di mosse.\xfffePer l'esattezza, diciassette. Ciascun tipo\xfffepuò costituire un vantaggio o uno svantaggio\xfffecompetitivo, a seconda della combinazione\xfffecon quello del Pokémon dell'avversario.\xfffePer esempio, una mossa di tipo Fuoco\xfffeè super efficace contro Pokémon\xfffedi tipo Erba o Coleottero, ma lo è poco\xfffecontro quelli di tipo Acqua o Roccia.
+Quando il tipo di mossa e il tipo di Pokémon\xfffeche la usa coincidono, la potenza della mossa\xfffeè maggiore rispetto al solito.\xfffe\xfffeSe un Pokémon è di due tipi allo stesso tempo,\xfffela compatibilità sarà influenzata da entrambi.\xfffe\xfffeCerti tipi di mosse non sortiscono nessun\xfffeeffetto su alcuni tipi di Pokémon.
+Le mosse possono essere fisiche, speciali e\xfffedi stato. Puoi distinguerle in base all'icona\xfffevisualizzata.\xfffe\xfffe- Mosse fisiche\xfffeI danni inflitti da questo tipo di mosse\xfffedipendono dalle statistiche di Attacco e\xfffeDifesa.
+- Mosse speciali\xfffeI danni inflitti da questo tipo di mosse\xfffedipendono dalle statistiche di Attacco\xfffeSpeciale e Difesa Speciale.\xfffe\xfffe- Mosse di stato\xfffeSono mosse di supporto che non attaccano\xfffedirettamente, ma aumentano o diminuiscono\xfffele statistiche o causano problemi di stato.
+Quando un Pokémon è esausto...\xfffeNon puoi farlo lottare finché non lo avrai\xfffefatto riprendere, ma puoi sempre usarne\xfffele mosse fuori dalla lotta.\xfffe\xfffeCome farlo riprendere:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Revitalizzante;\xfffe- Usa Revitalizzante Max.
+Quando un Pokémon è avvelenato...\xfffeDurante la lotta i PS diminuiscono un po'\xfffealla volta. Dopo la lotta i PS smettono di\xfffediminuire, ma il Pokémon avvelenato\xfffenon può curarsi da solo.\xfffe\xfffeCome rimediare:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Antidoto, Baccapesca, ecc.
+Quando un Pokémon è paralizzato...\xfffeLa sua statistica Velocità diminuisce e spesso\xfffenon riesce a portare a termine le sue mosse.\xfffe\xfffeCome rimediare:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Antiparalisi, Baccaliegia, ecc.
+Quando un Pokémon è addormentato...\xfffePuò usare solo alcune mosse particolari.\xfffeSi sveglierà da solo durante la lotta, ma\xfffese questa finisce prima, resterà\xfffeaddormentato anche dopo.\xfffe\xfffeCome rimediare:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Sveglia, Baccastagna, ecc.
+Quando un Pokémon è congelato...\xfffeNon può usare quasi nessuna mossa. Potrebbe\xffferistabilirsi da solo durante la lotta, ma se\xfffeciò non accade, la condizione persevera\xfffeanche dopo.\xfffe\xfffeCome rimediare:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Antigelo, Baccaperina, ecc.
+Quando un Pokémon è scottato...\xfffePerde un po' di PS a ogni turno, a meno che\xfffenon venga ritirato dalla lotta o quest'ultima\xfffeabbia termine. Questo problema di stato\xfffenon guarisce da sé.\xfffe\xfffeCome rimediare:\xfffe- Portalo a un Centro Pokémon;\xfffe- Usa Antiscottatura, Baccafrago, ecc.
+Quando un Pokémon è confuso...\xfffeSpesso non riesce a sferrare le sue mosse e\xfffequalche volta finisce per colpirsi da solo.\xfffeQuesta condizione guarisce naturalmente dopo\xfffequalche turno o alla fine della lotta.\xfffe\xfffeCome rimediare:\xfffe- Ritira il Pokémon dalla lotta;\xfffe- Usa Baccaki, ecc.
+Quando un Pokémon è infatuato...\xfffeSubisce il fascino dell'avversario, se di sesso\xfffeopposto, e a volte non riesce a sferrare\xfffele sue mosse. Guarisce se lo ritiri dalla lotta\xfffeo se sconfiggi l'avversario.
+Ogni volta che vincono una lotta i Pokémon\xfffeacquisiscono Punti Esperienza. Quando ne\xfffehanno accumulati abbastanza, aumentano di\xfffelivello.\xfffe\xfffeSe l'avversario sconfitto è di livello più alto,\xfffei Punti Esperienza maturati a fine lotta sono\xfffedi più, mentre non sono tantissimi se il suo\xfffelivello è inferiore.
+I Punti Esperienza vengono distribuiti tra\xfffetutti i Pokémon scesi in campo a lottare.\xfffe\xfffeUna strategia piuttosto efficace per far\xfffeaumentare di livello i Pokémon più deboli\xfffeconsiste nel mandarne uno in campo a inizio\xfffelotta per poi sostituirlo immediatamente con\xfffeuno forte. In questo modo, il Pokémon debole\xfffeaccumula Punti Esperienza senza rischi.
+Alcuni Pokémon sono in grado di evolversi.\xfffeQuando ciò accade, mutano il proprio aspetto\xfffee le loro statistiche aumentano. Le condizioni\xfffeda soddisfare per l'evoluzione dipendono dal\xfffePokémon stesso. Alcuni si evolvono una volta\xffferaggiunto un determinato livello, altri se usi\xfffeun certo strumento o se li scambi in link.\xfffe\xfffeE chissà... forse esistono anche altri modi!
+Se premi il pulsante B mentre il Pokémon sta\xfffecercando di evolversi, l'evoluzione verrà\xfffeinterrotta per lo spavento.\xfffe\xfffeA quanto pare esiste persino uno strumento\xfffecapace di fermare l'evoluzione dei Pokémon!
+Ogni Pokémon ha una natura propria e dei\xfffetratti unici che lo contraddistinguono e che\xfffeprescindono dalla specie a cui appartiene.\xfffeQueste caratteristiche ne influenzano la\xfffecrescita delle statistiche. Queste ultime a\xfffevolte appariranno colorate: se sono rosse,\xfffetendono a salire facilmente, se sono blu,\xfffeinvece, indicano difficoltà nello svilupparsi.
+Il Pokérus è un agente patogeno molto raro.\xfffeI Pokémon che contraggono questo virus\xfffecrescono un po' meglio del solito.\xfffe\xfffeDura qualche giorno soltanto, poi tutto\xfffetorna alla normalità e i soggetti diventano\xfffeimmuni. Tuttavia, pare che sia altamente\xfffecontagioso.
+Una volta ricevute le Scarpe da Corsa,\xfffepuoi correre invece di camminare. Basta\xfffetenere premuto il pulsante B quando ti\xfffesposti.
+Se tieni il Ricerca Strumenti acceso mentre\xfffevai in giro, reagirà in presenza di strumenti.\xfffeSul touch screen comparirà allora una\xfffefreccia. Seguila e ti condurrà a uno\xfffestrumento nascosto.\xfffe\xfffeRicorda che non puoi raccogliere lo strumento\xfffese ci stai sopra. Fai un passo indietro, girati\xfffee premi il pulsante A.
+Strumento che ti consente di parlare con\xfffegli amici tramite la comunicazione wireless del\xfffeNintendo DS o la Nintendo Wi-Fi Connection.\xfffe\xfffePuoi usare la fotocamera del Nintendo DSi o\xfffeNintendo DSi XL per conversare con un altro\xfffegiocatore faccia a faccia. Per parlare con\xfffel'Interpoké occorre che i due giocatori\xffferegistrino il reciproco codice amico.
+- Comunicazione wireless del Nintendo DS\xfffeTocca l'icona WIRELESS del C-Gear e\xfffeseleziona l'Interpoké. Appena un giocatore\xfffedi cui hai registrato il codice amico si trova\xfffea portata di collegamento, il suo nome e\xfffeID compaiono sul touch screen. Non ti resta\xfffeche scegliere con chi parlare per effettuare\xfffela chiamata. Fino a tre giocatori possono\xfffeconversare contemporaneamente.
+Quando ricevi una chiamata da un amico,\xfffel'icona WIRELESS del C-Gear si illumina\xfffee il tuo DS emette un suono identificativo.\xfffe\xfffeNell'Interpoké puoi vedere il nome del\xfffechiamante: toccalo per rispondere.\xfffe\xfffeNon puoi rispondere a una chiamata se hai\xfffeselezionato l'Interpoké prima di riceverla.
+- Club Wi-Fi\xfffePuoi parlare con un solo altro membro del\xfffeClub che si trova lì in quel momento.
+- Come usare l'Interpoké\xfffeSi usa dal touch screen. Parla mentre\xfffetocchi l'icona al centro per registrare\xfffeun messaggio. Rilasciala per inviarlo.\xfffeLa barra a sinistra serve per regolare\xfffela velocità dell'audio.
+Se hai il Nintendo DSi o il Nintendo DSi XL\xfffepuoi vedere il viso di chi parla all'Interpoké.\xfffeInoltre, se tocchi l'icona in alto a destra,\xfffepuoi usare la Modalità Graffiti per disegnare\xfffesul viso del tuo interlocutore. L'icona in\xfffebasso a destra, invece, serve per bloccare\xfffel'immagine.\xfffeNelle console non dotate di fotocamera sarà\xfffevisualizzata la scritta SOLO AUDIO.
+Nella regione di Unima ci sono otto Palestre\xfffecon i relativi Capipalestra.\xfffe\xfffeOgni Medaglia rappresenta il riconoscimento\xfffeper averne sconfitto uno.\xfffe\xfffePremi il pulsante X per aprire il menu. Quindi\xfffetocca il tuo nome per vedere quante Medaglie\xfffesono in tuo possesso.
+Tante più Medaglie riuscirai a conquistare,\xfffetanto più i Pokémon di livelli alti ricevuti\xfffetramite gli scambi ti obbediranno senza\xfffeproblemi.
+Puoi assegnare strumenti e funzioni che usi\xfffespesso al pulsante Y in modo da poterli usare\xfffeal momento opportuno.\xfffe\xfffeUna volta assegnati, non dovrai più aprire\xfffela Borsa ogni volta che desideri utilizzarli.\xfffeBasterà premere il pulsante Y.
+Se premi il pulsante X per aprire il menu e\xfffeselezioni un oggetto, talvolta nella parte\xfffeinferiore del touch screen vedrai un\xfffequadratino. Toccalo per spuntarlo con un\xfffesegnalino rosso: in questo modo assegnerai\xfffeal pulsante Y lo strumento o la funzione\xfffein questione.
+Vedrai un quadratino anche a lato degli\xfffeStrumenti Base. Puoi assegnare anche\xfffequesti al pulsante Y.
+Puoi assegnare un massimo di venticinque voci\xfffeal pulsante Y. Se ne hai assegnate più di due,\xfffepuoi premere SELECT per organizzare il menu\xfffeche appare quando premi il pulsante Y.\xfffe\xfffePuoi rimuovere le voci dal menu togliendo la\xfffespunta rossa dal quadratino relativo. 
+Inserisci la scheda di gioco di Pokémon\xfffeVersione Diamante, Perla, Platino, Oro\xfffeHeartGold o Argento SoulSilver in un'altra\xfffeconsole Nintendo DS e accendila. Nel menu\xfffedi sistema tocca Download DS e in seguito\xfffePokétrasporto.
+Una volta terminato il download, scegli sei\xfffePokémon da importare in Pokémon Versione\xfffeNera o in Pokémon Versione Bianca e trascinali\xfffenel riquadro a destra.\xfffe\xfffeATTENZIONE!\xfffeUna volta importati con il Pokétrasporto,\xfffei Pokémon non possono più tornare indietro.
+Tocca una Poké Ball sul touch screen e\xfffetrascinala verso di te. Mira contro il Pokémon\xfffesullo schermo superiore e infine solleva\xfffelo stilo dalla Poké Ball per lanciarla.\xfffe\xfffeRicorda che alcuni Pokémon si nascondono\xfffedietro alberi o cespugli.
+Se il lancio va a segno, il Pokémon uscirà\xfffedal suo nascondiglio. Continua a sferrare\xfffePoké Ball verso i Pokémon in questo modo.\xfffeProva a catturarli tutti e sei entro il\xfffetempo stabilito.
+A volte vedrai un fumo di colore rosa\xfffeattraversare lo schermo. Se lo colpisci\xfffecon una Poké Ball, farai addormentare\xfffei Pokémon, che diventeranno perciò più\xfffefacili da catturare.

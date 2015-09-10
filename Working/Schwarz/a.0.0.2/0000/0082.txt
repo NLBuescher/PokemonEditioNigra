@@ -1,0 +1,2 @@
+Fehler bei der Datenübertragung.
+Fehler bei der Datenübertragung.\xfffeBitte schalte das System aus.

@@ -1,0 +1,43 @@
+BOUTON X
+SELECT
+BOUTON B
+UTILISER LES GRAFFITI
+FIGER L'IMAGE
+ARRÊTER LES GRAFFITI
+ÉPAISSEUR CRAYON
+COPIER COULEUR
+CHANGER EN GOMME
+FERMER LES OUTILS GRAFFITI
+TAMPONNER
+MODE GRAFFITI
+
+
+Nº ID \xf000Ȅ\x0001\x0000
+
+\xf000Ȁ\x0001\x0000/4
+Veuillez choisir vos amis.
+APPELER VOS AMIS
+PARTICIPER
+Appel en cours!
+
+
+
+Connexion en cours!
+
+
+
+Recherche d'amis en cours!
+
+
+
+Arrêter le Vokit?
+Si le meneur se désiste, le groupe sera\xfffedissous. Continuer?
+OUI
+NON
+Le meneur s'est désisté.\xfffeLe groupe est dissous.
+Votre partenaire s'est désisté(e).\xfffeLe groupe est dissous.
+Il n'y a pas de membres.\xfffeLa communication va être interrompue.
+Échec de l'appel.
+Échec de la connexion.
+L'envoi et la réception des images sont\xfffelimités par le contrôle parental.\xfffeVous devez désactiver le contrôle pour\xfffeenvoyer des images.
+En attente de l'autre joueur...

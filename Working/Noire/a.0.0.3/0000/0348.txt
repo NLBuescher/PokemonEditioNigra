@@ -1,0 +1,12 @@
+Bonjour. Vous devez être\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeJ'ai reçu un cadeau pour vous.\xfffeLe voici!\xf000븁\x0000
+Bonjour. Vous devez être\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeJ'ai reçu un cadeau pour vous.\xfffeLe voici!\xf000븁\x0000
+Bonsoir. Vous devez être\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeJ'ai reçu un cadeau pour vous.\xfffeLe voici!\xf000븁\x0000
+Je n'ai aucun autre cadeau pour vous.\xfffeNous espérons vous revoir bientôt.
+Nous espérons vous revoir bientôt!
+\xf000Ā\x0001\x0000 reçoit\xfffe\xf000ā\x0001\x0001!
+Votre équipe est au complet.\xf000븁\x0000\xfffeVous ne pouvez pas le récupérer\xfffepour l'instant.
+\xf000Ā\x0001\x0000 reçoit: \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+\xf000ĉ\x0001\x0000? Vous en voulez d'autres?\xfffeVous en avez déjà trop.
+\xf000Ā\x0001\x0000 reçoit\xfffel'\xf000Đ\x0001\x0001!
+\xf000Ā\x0001\x0000 possède déjà\xfffel'\xf000Đ\x0001\x0001.
+\xf000Ā\x0001\x0000 reçoit un Œuf de Pokémon.

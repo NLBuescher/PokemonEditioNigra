@@ -1,0 +1,350 @@
+SALUER
+DESSINER
+COMBATTRE
+ÉCHANGER
+RETOUR
+ŒUF SURPRISE
+
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 vous a contacté(e).\xf000븂\x0001\x000f
+La connexion a été interrompue.
+En attente d'une réponse de\xfffe\xf000Ā\x0001\x0000...\xf000븂\x0001\x000f
+La connexion a été interrompue.
+\xf000Ā\x0001\x0000 propose de vous montrer\xfffesa Carte de Dresseur.\xf000븀\x0000\xfffeVoulez-vous lui montrer la vôtre?
+C'est la Carte de Dresseur de\xfffe\xf000Ā\x0001\x0000, qui vit ici:\xf000븁\x0000\xfffe\xf000ĥ\x0001\x0004,\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+C'est la Carte de Dresseur de\xfffe\xf000Ā\x0001\x0000, qui vit ici:\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+C'est la Carte de Dresseur de\xfffe\xf000Ā\x0001\x0000, qui vit ici:\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+C'est la Carte de Dresseur de\xfffe\xf000Ā\x0001\x0000.\xf000븂\x0001<
+En attente de l'autre joueur...
+La conversation n'a pas abouti.
+\xf000Ā\x0001\x0000 vous invite à\xfffedessiner quelque chose.\xf000븁\x0000\xfffeVoulez-vous vous joindre à cette\xfffepersonne et dessiner?
+
+La conversation n'a pas abouti.
+
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Solo où tout est permis.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Solo dans les règles.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Duo où tout est permis.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Duo dans les règles.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Trio où tout est permis.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Trio dans les règles.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Rotatif où tout est permis.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Rotatif dans les règles.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Multi où tout est permis.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+\xf000Ā\x0001\x0000 vous propose un\xfffeCombat Multi dans les règles.\xf000븀\x0000\xfffeAcceptez-vous?\xf000븁\x0000
+
+Vous avez décliné l'offre.
+\xf000Ā\x0001\x0000 vous propose un échange.\xf000븁\x0000\xfffeAcceptez-vous?
+L'échange va commencer.\xf000븂\x0001<
+Vous avez décliné l'offre.
+Vous devez posséder au moins deux\xfffePokémon pour faire un échange!
+\xf000Ā\x0001\x0000 vous propose\xfffeun échange de données.\xf000븁\x0000\xfffeAcceptez-vous?
+
+
+\xf000Ā\x0001\x0000 vous propose\xfffeune séance d'Œuf Surprise.\xf000븁\x0000\xfffeAcceptez-vous?
+
+Vous avez décliné l'offre.
+Vous n'avez pas d'Œuf.\xfffeVous ne pouvez pas accepter l'invitation.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeC'est \xf000Ā\x0001\x0000! Tu voudrais faire\xfffequelque chose?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeSalut, c'est \xf000Ā\x0001\x0000!\xfffeTu veux faire quelque chose?
+Oups! Dommage, j'ai autre\xfffechose à faire.\xf000븀\x0000\xfffeUne autre fois, OK?
+Oups! Dommage, j'ai autre\xfffechose à faire.\xf000븀\x0000\xfffeUne autre fois, OK?
+Que voulez-vous faire?
+Que voulez-vous faire?
+... ...\xfffeLe Dresseur est occupé.
+... ...\xfffeLe Dresseur est occupé.
+\xf000Ā\x0001\x0000 ne répond pas...
+\xf000Ā\x0001\x0000 ne répond pas...
+D'accord! Pour te “saluer",\xfffevoici ma Carte de Dresseur.
+Pour me présenter, je vais te\xfffemontrer ma Carte de Dresseur.
+Hein? Ma Carte de Dresseur...\xfffeOù l'ai-je mise?\xf000븁\x0000\xfffeTant pis, la prochaine fois alors!
+Hein? Ma Carte de Dresseur...\xfffeOù l'ai-je mise?\xf000븁\x0000\xfffeTant pis, la prochaine fois alors!
+Je montre toujours ma Carte de\xfffeDresseur pour me présenter.
+On se montre notre Carte de Dresseur\xfffepour faire connaissance.
+J'espère qu'on apprendra à se\xfffeconnaître!
+On va bien s'entendre.\xfffeJe le sens!
+Oh, tu voudrais dessiner avec moi?\xfffeD'accord, une seconde...
+Tu veux dessiner avec moi?\xfffeSuper! Donne-moi juste une seconde...
+
+
+Oh, je ne peux pas, là.\xfffeCe sera pour une prochaine fois.
+Oh, je suis désolée!\xfffeOn dessinera une autre fois!
+\xf000Ā\x0001\x0000: On est en train de\xfffedessiner.\xf000븁\x0000\xfffeJe sais! Tu veux dessiner\xfffeavec nous, \xf000Ā\x0001\x0001? 
+\xf000Ā\x0001\x0000: On est en train de\xfffedessiner.\xf000븁\x0000\xfffeJe sais! Tu veux dessiner\xfffeavec nous, \xf000Ā\x0001\x0001? 
+Bon, OK.\xfffeÀ la prochaine alors!
+Oh...\xfffeÀ la prochaine alors!
+Attends, deux petites secondes!
+Attends, deux petites secondes!
+OK, c'est bon! Dessinons ensemble!\xf000븂\x0001<
+OK! Merci d'avoir attendu!\xfffeMettons-nous au dessin!\xf000븂\x0001<
+Dommage, je ne peux pas\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+Dommage, ce n'est pas possible\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+La dernière lettre de ce que tu écris\xfffedoit être la première de ce que j'écris!
+Waouh!\xfffeTu dessines bien!
+Arrête de faire des trucs aussi drôles!\xfffeJ'ai mal au ventre tellement je rigole!
+Ha ha!\xfffeC'est quoi?
+Waouh, pas mal!\xfffeJe vais essayer de t'imiter!
+J'adore dessiner!\xfffeJe pourrais y passer des heures!
+Euh... qu'est-ce que c'est?\xfffeC'est censé me représenter?
+Oups! Quand je colorie,\xfffeje dépasse toujours!
+Un combat, hein?\xfffeTrès bien, juste un instant.
+Un combat? Bien sûr!\xfffeJuste un instant, je me prépare.
+Merci d'avoir patienté!\xfffeAllez, commençons le combat!\xf000븂\x0001<
+Tu n'as pas trop attendu?\xfffeCommençons!\xf000븂\x0001<
+Dommage! Mes Pokémon ne sont\xfffepas vraiment en forme.\xf000븀\x0000\xfffeCe sera pour une prochaine fois.
+Dommage! Mes Pokémon ne sont\xfffepas vraiment en forme.\xf000븀\x0000\xfffeCe sera pour une prochaine fois.
+\xf000Ā\x0001\x0000: On va faire un\xfffeCombat Multi.\xf000븁\x0000\xfffeJe sais! Tu veux combattre\xfffeavec nous, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: On va faire un\xfffeCombat Multi.\xf000븁\x0000\xfffeJe sais! Tu veux combattre\xfffeavec nous, \xf000Ā\x0001\x0001?
+Bon, OK.\xfffeÀ la prochaine alors!
+Oh...\xfffeÀ la prochaine alors!
+Attends, deux petites secondes!
+Attends, deux petites secondes!
+Merci d'avoir patienté!\xfffeAllez, commençons le Combat Multi!\xf000븂\x0001<
+Merci d'avoir patienté!\xfffeAllez, commençons le Combat Multi!\xf000븂\x0001<
+Dommage, je ne peux pas\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+Dommage! Une autre fois, OK?
+
+
+Waouh!\xfffeT'en as dans le ventre!
+Ce Pokémon...\xfffeIl est super bien dressé!
+T'as utilisé cette capacité?\xfffeBonne stratégie!
+C'est ça!\xfffeC'est la bonne capacité!
+Voilà!\xfffeC'est comme ça qu'il faut faire!
+Incroyable!\xfffeTu peux te battre comme ça?
+Oh! C'est pas le bon moment\xfffepour utiliser ce Pokémon!
+Tu sais vraiment changer de\xfffePokémon au bon moment!
+Tu veux faire un échange?\xfffeOK, une seconde.
+Un échange? OK, je me prépare.
+
+
+Malheureusement, je n'ai aucun Pokémon\xfffeà échanger pour l'instant.\xf000븁\x0000\xfffeCe sera pour une prochaine fois.
+Malheureusement, je n'ai aucun Pokémon\xfffeà échanger pour l'instant.\xf000븁\x0000\xfffeCe sera pour une prochaine fois.
+Cool! \xfffeJe le voulais vraiment, ce Pokémon!
+Je suis en train de faire\xfffeun échange.
+J'ai enfin le Pokémon que je voulais!
+C'est le Pokémon que je voulais\xfffetellement!
+Pour faire un échange, il faut\xfffeavoir au moins deux Pokémon.\xf000븁\x0000
+Pour faire un échange, il faut\xfffeavoir au moins deux Pokémon.\xf000븁\x0000
+Si tu veux faire quelque chose avec moi,\xfffefais-moi signe!
+Si tu veux faire un truc, n'hésite\xfffepas à demander.
+
+
+
+
+Dommage, je ne peux pas\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+Désolée! Une autre fois, OK?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Œuf Surprise? Bien sûr!\xfffeJuste une petite seconde...
+Œuf Surprise? Bien sûr!\xfffeJuste une petite seconde...
+
+
+Dommage, je ne peux pas\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+Désolée! Une autre fois, OK?
+Tu dois avoir un Œuf dans ton\xfffeéquipe pour jouer à Œuf Surprise.\xf000븁\x0000
+Tu dois avoir un Œuf dans ton\xfffeéquipe pour jouer à Œuf Surprise.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Nous allons bientôt\xfffedémarrer Œuf Surprise.\xf000븁\x0000\xfffeDis, \xf000Ā\x0001\x0001, ça te dit de\xfffejouer à Œuf Surprise avec nous?
+\xf000Ā\x0001\x0000: Nous allons bientôt\xfffejouer à Œuf Surprise.\xf000븁\x0000\xfffeDis, \xf000Ā\x0001\x0001, ça te dit de\xfffeparticiper?
+Bon, OK.\xfffeÀ la prochaine alors!
+Oh...\xfffeÀ la prochaine alors!
+Attends, deux petites secondes!
+Attends, deux petites secondes!
+Super! Pour Œuf Surprise, plus on est\xfffede fous, plus on rit!\xf000븂\x0001<
+Super! Pour Œuf Surprise, plus on est\xfffede fous, plus on rit!\xf000븂\x0001<
+Oh! Tu n'as pas d'Œuf, je crois!\xfffeReviens jouer quand tu en auras un!
+Oh! Tu n'as pas d'Œuf, on dirait!\xfffeReviens jouer quand tu en auras un!
+Dommage, je ne peux pas\xfffepour l'instant.\xf000븀\x0000\xfffeMais ce n'est que partie remise, OK?
+Désolée! Une autre fois, OK?
+Ton équipe contient un Œuf qui ne\xfffepeut pas être échangé.
+Ton équipe contient un Œuf qui ne\xfffepeut pas être échangé.
+Ton équipe contient un Œuf qui ne\xfffepeut pas être échangé.\xf000븁\x0000
+Ton équipe contient un Œuf qui ne\xfffepeut pas être échangé.\xf000븁\x0000
+Œuf Surprise, c'est vraiment super!
+Je suis en pleine séance d'Œuf Surprise!
+Hé!\xfffeStop!
+Hein?\xfffeIl a encore bougé!
+Mon Œuf est génial!
+Je suis déçue, je n'ai pas eu\xfffel'Œuf que je voulais...
+Super! J'ai eu exactement l'Œuf que\xfffeje voulais.
+Si cet Œuf s'était arrêté au bon\xfffeendroit, j'aurais eu une Baie en plus.
+Bienvenue dans la Salle Union.\xf000븁\x0000\xfffeSi vous avez besoin d'aide,\xfffen'hésitez pas à venir me voir!\xf000븁\x0000
+
+Sur quel sujet souhaitez-vous\xfffedes explications?
+Il existe cinq types de combat.\xf000븁\x0000\xfffeLes Combats Solo sont pour deux\xfffeDresseurs, et chacun a un Pokémon\xf000븀\x0000\xfffeau combat à la fois.\xf000븁\x0000\xfffeLes Combats Duo sont pour deux\xfffeDresseurs, et chacun a deux Pokémon\xf000븀\x0000\xfffeau combat à la fois.\xf000븁\x0000\xfffeLes Combats Trio sont pour deux\xfffeDresseurs, et chacun a trois Pokémon\xf000븀\x0000\xfffeau combat à la fois.\xf000븁\x0000\xfffeLes Combats Rotatifs sont pour deux\xfffeDresseurs et trois Pokémon chacun,\xf000븀\x0000\xfffedont 1 en première ligne et 2 à l'arrière.\xf000븁\x0000\xfffeLes Combats Multi sont pour quatre\xfffeDresseurs. Chaque Dresseur n'a\xf000븀\x0000\xfffequ'un seul Pokémon au combat à la fois et\xf000븀\x0000\xfffeles combats se déroulent à 2 contre 2.\xf000븁\x0000
+Vous pouvez échanger des Pokémon\xfffeavec d'autres joueurs.\xf000븁\x0000\xfffeC'est un bon moyen d'essayer\xfffed'obtenir des Pokémon rares!\xf000븁\x0000
+
+Dans Œuf Surprise, chaque participant\xfffedépose un Œuf à échanger.\xf000븁\x0000\xfffeLa roue tourne, quel Œuf allez-vous\xfffeobtenir? Quel Pokémon se cache dans\xf000븀\x0000\xfffel'Œuf? Rebondissements garantis!\xf000븁\x0000\xfffeJusqu'à cinq joueurs peuvent\xfffeparticiper, essayez donc avec vos amis!\xf000븁\x0000
+Vous pouvez vous regrouper avec\xfffed'autres personnes et dessiner.\xf000븁\x0000\xfffeVous dessinez tous sur la même feuille\xfffeen même temps.\xf000븁\x0000\xfffeEssayez de réaliser des chefs-d'œuvre\xfffeavec vos amis!\xf000븁\x0000\xfffeCinq personnes peuvent dessiner en\xfffemême temps!\xf000븁\x0000
+Pour discuter avec d'autres joueurs,\xfffechoisissez “TCHAT" dans le menu.\xf000븁\x0000\xfffeAllez à la rencontre des autres\xfffeDresseurs de la Salle Union!\xf000븁\x0000\xfffePrésentez-vous et parlez de vous.\xfffeVous élargirez votre cercle d'amis!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMBATTRE
+ÉCHANGER
+
+ŒUF SURPRISE
+DESSINER
+TCHAT
+RETOUR
+Discussion avec \xf000Ā\x0001\x0000...
+Oups! Dommage, j'ai autre\xfffechose à faire.\xf000븀\x0000\xfffeUne autre fois, OK?
+
+
+
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+¡Hola!
+H-e-l-l-o-!
+안녕하세요
+COMBATS 2 DRESSEURS
+COMBATS 4 DRESSEURS
+RETOUR
+COMBAT SOLO
+COMBAT DUO
+COMBAT TRIO
+COMBAT ROTATIF
+OK
+RÈGLES
+RETOUR
+
+TOUT EST PERMIS
+DANS LES RÈGLES
+AVEC SHOOTER-MIRACLE
+SANS SHOOTER-MIRACLE
+RETOUR
+TYPE DE COMBAT\xf000봅\x0001s: \xf000\xff00\x0001\x0002COMBAT SOLO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT\xf000봅\x0001s: \xf000\xff00\x0001\x0002COMBAT DUO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT\xf000봅\x0001s: \xf000\xff00\x0001\x0002COMBAT TRIO\xf000\xff00\x0001\x0000
+TYPE DE COMBAT\xf000봅\x0001s: \xf000\xff00\x0001\x0002COMBAT ROTATIF\xf000\xff00\x0001\x0000
+TYPE DE COMBAT\xf000봅\x0001s: COMBAT MULTI
+RÈGLE\xf000봅\x0001s: \xf000\xff00\x0001\x0002TOUT EST PERMIS\xf000\xff00\x0001\x0000
+RÈGLE\xf000봅\x0001s: \xf000\xff00\x0001\x0002DANS LES RÈGLES\xf000\xff00\x0001\x0000
+SHOOTER-MIRACLE\xf000봅\x0001s: \xf000\xff00\x0001\x0002AVEC\xf000\xff00\x0001\x0000
+SHOOTER-MIRACLE\xf000봅\x0001s: \xf000\xff00\x0001\x0002SANS\xf000\xff00\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les conditions ne sont pas remplies.\xfffeVous ne pouvez pas participer.
+Veuillez patienter...\xfffeAppuyez sur le bouton B pour annuler.
+Veuillez choisir les Pokémon\xfffedevant participer.\xf000븂\x0001<
+Veuillez choisir les 3 Pokémon\xfffeque vous voulez inscrire.\xf000븂\x0001<
+Veuillez choisir les 4 Pokémon\xfffeque vous voulez inscrire.\xf000븂\x0001<
+Veuillez choisir les 6 Pokémon\xfffeque vous voulez inscrire.\xf000븂\x0001<
+Veuillez choisir jusqu'à 3 Pokémon\xfffeque vous voulez inscrire.\xf000븂\x0001<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Je ne connais pas, je ne participe pas!
+Vous n'êtes pas d'accord sur les\xfffeconditions. Le combat n'aura pas lieu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retrait en cours.\xfffeVeuillez patienter...\xf000븂\x0001<
+
+Le combat va être arrêté.\xfffeContinuer?
+ÉQUIPE ⒆⒇
+BOÎTE COMBAT
+... ...\xfffeLe Dresseur est occupé.
+
+
+
+
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Normale!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Bronze!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Cuivre!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Argent!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Or!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Blanche!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte Noire!
+Voyons la Carte de Dresseur\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeUne carte jamais vue!

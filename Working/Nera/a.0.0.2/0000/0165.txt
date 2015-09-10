@@ -1,0 +1,24 @@
+Numero di Pokémon:
+Livello dei Pokémon:
+Pokémon speciali:
+Pokémon uguali:
+Strumenti uguali:
+Mirabilancere:
+senza restrizioni
+\xf000Ȁ\x0001\x0000
+almeno \xf000Ȁ\x0001\x0000
+da \xf000Ȁ\x0001\x0000 a \xf000Ȁ\x0001\x0001
+senza restrizioni
+\xf000Ȃ\x0001\x0000
+fino al \xf000Ȃ\x0001\x0000
+almeno \xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000 o inferiore
+\xf000Ȃ\x0001\x0000 o superiore
+ammessi
+non ammessi
+ammessi
+non ammessi
+ammessi
+non ammessi
+sì
+no

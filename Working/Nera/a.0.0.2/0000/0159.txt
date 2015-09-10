@@ -1,0 +1,163 @@
+SCAMBIA
+INDIETRO
+MOSTRA
+INFO
+SCAMBIA
+ESCI
+Comunicazione in corso.\xfffeAttendi...
+
+
+
+
+
+
+
+
+
+IN SQUADRA
+Vuoi scambiare \xf000Ă\x0001\x0000 con\xfffe\xf000Ă\x0001\x0001?
+L. \xf000Ȃ\x0001\x0000
+
+
+
+
+
+SÌ
+NO
+
+N° \xf000Ȃ\x0001\x0001
+\xf000ā\x0001\x0000
+\xf000Ă\x0001\x0000
+PS
+ATTACCO
+DIFESA
+ATT. SP.
+DIF. SP.
+VELOCITÀ
+NATURA
+ABILITÀ
+
+\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
+\xf000Ȃ\x0001\x0000
+\xf000Ĉ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+MOSSE
+\xf000ć\x0001\x0000
+⑭
+⑮
+\xf000Ā\x0001\x0000 ha inviato \xf000Ă\x0001\x0001. 
+Abbi cura di \xf000Ă\x0001\x0001!
+Collegamento in corso.\xfffeAttendi...
+Inserisci l'iniziale del Pokémon che cerchi.
+Non ci sono Pokémon il cui nome inizi con\xfffela lettera selezionata.
+\xf000봂\x0000A
+\xf000봂\x0000B
+\xf000봂\x0000C
+\xf000봂\x0000D
+\xf000봂\x0000E
+\xf000봂\x0000F
+\xf000봂\x0000G
+\xf000봂\x0000H
+\xf000봂\x0000I
+\xf000봂\x0000J
+\xf000봂\x0000K
+\xf000봂\x0000L
+\xf000봂\x0000M
+\xf000봂\x0000N
+\xf000봂\x0000O
+\xf000봂\x0000P
+\xf000봂\x0000Q
+\xf000봂\x0000R
+\xf000봂\x0000S
+\xf000봂\x0000T
+\xf000봂\x0000U
+\xf000봂\x0000V
+\xf000봂\x0000W
+\xf000봂\x0000X
+\xf000봂\x0000Y
+\xf000봂\x0000Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lo scambio è stato annullato.
+Se scambi quel Pokémon, non potrai\xfffeprocedere nell'avventura!
+Il Pokémon dell'altro Allenatore non può\xfffeessere scambiato.
+Il Pokémon che hai scelto non può essere\xfffescambiato.
+Questo Pokémon conosce MN fondamentali\xfffein questo momento, non puoi scambiarlo.
+L'altro giocatore vuole fare uno scambio.
+Vuoi annullare lo scambio?
+In attesa dell'altro giocatore...
+Uovo
+Il Messaggio che il Pokémon aveva con sé\xfffeè stato inviato al tuo PC.
+
+
+
+
+L'altro Allenatore non può ricevere\xfffeil Messaggio. Scambio annullato.
+
+Scegli i Pokémon da proporre.\xfffePuoi selezionarne al massimo tre.
+\xf000봃\x0001\x0000Scelta in corso.
+\xf000봃\x0001\x0000Scelta eseguita.
+\xf000봃\x0001\x0000In attesa...
+\xf000Ā\x0001\x0000 sta\xfffecercando:
+Qualsiasi Pokémon
+Pokémon fascinosi
+Pokémon carini
+Pokémon spaventosi
+Pokémon strani
+Nessun filtro
+Da livello 1 a 49
+Al livello 50
+Da livello 51 a 100
+
+\xf000Ā\x0001\x0000
+\xf000Ă\x0001\x0000 sarà inviato a \xf000Ā\x0001\x0001.\xfffeCiao, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 tornerà da \xf000Ā\x0001\x0001.\xfffeGrazie, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0001 è tornato da te dopo\xfffeun soggiorno con \xf000Ā\x0001\x0000.
+Bentornato \xf000Ă\x0001\x0001!
+SCAMBI DESIDERATI
+Scegli i Pokémon da proporre.\xfffePuoi selezionarne al massimo tre.
+Vuoi confermare la tua scelta?
+L'altro giocatore sta scegliendo.\xfffeAttendi...
+Dovrai scegliere uno dei Pokémon\xfffeproposti. Vuoi continuare?
+L'altro giocatore ha annullato\xfffelo scambio.
+L'altro giocatore vuole fare uno scambio.
+Vuoi annullare lo scambio?
+Scambio annullato.
+Non puoi proporre quel Pokémon.
+Sono presenti Pokémon che non puoi\xfffescambiare. Riprova.
+L'altro giocatore propone Pokémon che\xfffenon può scambiare. Riprova.
+Scegli un Pokémon fra quelli proposti\xfffedall'altro giocatore.
+Vuoi scambiare \xf000Ă\x0001\x0000 con il tuo\xfffe\xf000Ă\x0001\x0001?
+L'altro giocatore ha annullato \xfffelo scambio. Riprova.
+Vuoi cambiare la scelta di Pokémon\xfffeda proporre all'altro giocatore?
+Lo scambio è stato annullato. Riprova.
+Lo scambio è stato annullato.\xfffeScegli un altro Pokémon.
+L'altro giocatore ha annullato\xfffelo scambio. Scegli un altro Pokémon.
+\xf000Ă\x0001\x0000 verrà reso disponibile.
+Ora possiedi \xf000Ă\x0001\x0001.
+DISCONNETTI
+\xf000Ă\x0001\x0000 sarà inviato a \xf000Ā\x0001\x0001.
+\xf000Ă\x0001\x0001 è stato inviato da\xfffe\xf000Ā\x0001\x0000.
+Collegamento non riuscito.
+Errore di comunicazione.\xfffe(Codice errore: 13280)
+Errore di comunicazione.\xfffe(Codice errore: 13281)
+Errore di comunicazione.\xfffe(Codice errore: 13282)
+Errore di comunicazione.\xfffe(Codice errore: 13283)
+???

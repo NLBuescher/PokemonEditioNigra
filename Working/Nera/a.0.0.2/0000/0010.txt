@@ -1,0 +1,55 @@
+Hai selezionato \xf000Ă\x0001\x0000.
+
+Vuoi liberarlo davvero?
+Hai liberato \xf000Ă\x0001\x0000.
+Addio, \xf000Ă\x0001\x0000!
+La tua squadra è al completo!
+È il tuo ultimo Pokémon!
+Cosa desideri fare?
+Quale Box vuoi esaminare?
+Quale tema vuoi usare?
+Quale sfondo vuoi usare?
+Vuoi fare altro nei Box?
+Il Box è pieno!
+La Borsa è piena!
+Hai ricevuto lo strumento \xf000ĉ\x0001\x0000!
+Hai dato \xf000ĉ\x0001\x0000 al Pokémon!
+Tocca un Pokémon!
+In che Box vuoi depositarlo?
+
+
+
+Vuoi prendere lo strumento \xf000ĉ\x0001\x0000?
+Non puoi prendere il Messaggio!
+Hai selezionato lo strumento \xf000ĉ\x0001\x0000!
+Vuoi riporre lo strumento \xf000ĉ\x0001\x0000?
+Hai messo \xf000ĉ\x0001\x0000 nella Borsa.
+Un Pokémon può tenere un solo strumento.
+Riprendi il Messaggio!
+Non puoi liberare un Uovo!
+\xf000Ă\x0001\x0000 è tornato!
+Forse era preoccupato per te...
+Un Uovo non può tenere uno strumento.
+Seleziona i simboli che preferisci!
+
+
+
+
+DEPOSITA POKÉMON
+RITIRA POKÉMON
+SPOSTA POKÉMON
+SPOSTA STRUMENTI
+BOX LOTTA
+POKÉMON DA ADDORMENTARE
+Non puoi spostare il Messaggio!
+Il Pokémon non può tenere \xf000ĉ\x0001\x0000!
+Il Pokémon ha un Messaggio!
+È il tuo ultimo Pokémon!
+Non puoi spostare il Messaggio!
+Non puoi dargli un Messaggio qui.
+Non puoi scegliere un Uovo!
+Vuoi mettere \xf000Ă\x0001\x0000 a dormire?
+Questo Pokémon ora non ha sonno.
+Vuoi selezionare un altro Pokémon?
+In questo momento il Box Lotta è sigillato.\xfffeNon puoi spostare i Pokémon.
+In questo momento il Box Lotta è sigillato.\xfffeNon puoi cambiare gli strumenti.

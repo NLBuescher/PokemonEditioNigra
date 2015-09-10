@@ -1,0 +1,165 @@
+ -
+Lässt den Gegner durch\xfffeGestank zurückschrecken.
+Ruft im Kampf\xfffeRegen herbei.
+Erhöht Initiative nach\xfffeund nach.
+Wehrt gegnerische\xfffeVolltreffer ab.
+Schutz gegen\xfffeK.O.-Treffer-Angriffe.
+Hält alle Pokémon davon\xfffeab zu explodieren.
+Verhindert Paralyse.
+Erhöht in Sandstürmen den\xfffeFluchtwert.
+Kann bei Berührung\xfffeparalysieren.
+Wandelt Elektrizität in\xfffeKP um.
+Treffer durch Wasser-\xfffeAttacken regenerieren KP.
+Verhindert Anziehung.
+Hebt Wetter-Effekte auf.
+Steigert die Genauigkeit\xfffevon Attacken.
+Verhindert Einschlafen.
+Ändert seinen Typ zu dem\xfffeder Att. des Angreifers.
+Verhindert Vergiftungen.
+Verstärkt Feuer-A., wenn\xfffev. Feuer-A. getroffen.
+Blockiert Zusatz-Effekte\xfffegegnerischer Angriffe.
+Verhindert Verwirrung.
+Negiert Att. und Items,\xfffedie PKMN austauschen.
+Senkt Angriff des\xfffeGegners.
+Hindert Gegner an Flucht.
+Verletzt Angreifer\xfffebei Berührung.
+Nur sehr effektive Treffer\xfffeschaden.
+Volle Immunität gegen\xfffealle Boden-Attacken.
+Bei Kontakt evtl. Paraly.,\xfffeVergiftg. oder Schlaf.
+Gibt Verbr., Vergift. u.\xfffeParaly. an Angreifer.
+Hindert Angreifer daran,\xfffeStatuswerte zu senken.
+Heilt bei Austausch\xfffeStatusprobleme.
+Ruft Elektrizität herbei\xfffeund steigert Sp.-Ang.
+Erhöht Chance für\xfffeZusatz-Effekte.
+Steigert Initiative bei\xfffeRegen.
+Steigert Initiative bei\xfffeSonnenschein.
+Mehr Pokémon-\xfffeBegegnungen.
+Das Pokémon kopiert \xfffeFähigkeit des Gegners.
+Stärkt physische\xfffeAttacken.
+Vergiftet den Angreifer\xfffeeventuell bei Berührung.
+Verhindert\xfffeZurückschrecken.
+Verhindert Einfrieren.
+Verhindert\xfffeVerbrennungen.
+Hindert Stahl-Pokémon an\xfffeder Flucht.
+Immun gegen Lärm-\xfffeAttacken.
+Langsame Wiederherstellg.\xfffevon KP bei Regen.
+Erzeugt einen Sandsturm.
+Steigert den Verbrauch\xfffeder AP des Gegners.
+Stark gegen Attacken der\xfffeTypen Feuer und Eis.
+Schnelles Aufwachen.
+Verbrennt den Angreifer\xfffeeventuell bei Berührung.
+Die Flucht vor wilden\xfffePokémon gelingt immer.
+Hindert Angreifer daran,\xfffedie Genauigkeit zu senken.
+Hindert Angreifer, den\xfffeAngriffs-Wert zu senken.
+Hebt gelegentlich Items\xfffeauf.
+Greift nur in jeder\xfffezweiten Runde an.
+Erhöht Angriffs-Wert,\xfffeaber senkt Genauigkeit.
+Kann bei Kontakt\xfffebetörend wirken.
+Erhöht Sp.-Ang., wenn Plus\xfffeoder Minus vertreten sind.
+Erhöht Sp.-Ang., wenn Plus\xfffeoder Minus vertreten sind.
+Formeo verändert seine\xfffeForm abhängig vom Wetter.
+Verhindert durch Klebe-\xfffeeffekt Item-Diebstähle.
+Pokémon heilt eventuell\xfffeseine Statusprobleme.
+Steigert Angriff bei\xfffeStatusproblemen.
+Steigert Verteidigung bei\xfffeStatusproblemen.
+Schadet Angreifern, die\xfffeSaug-Attacken einsetzen.
+Stärkt Pflanzen-Attacken,\xfffewenn Not am Mann ist.
+Stärkt Feuer-Attacken,\xfffewenn Not am Mann ist.
+Stärkt Wasser-Attacken,\xfffewenn Not am Mann ist.
+Stärkt Käfer-Attacken,\xfffewenn Not am Mann ist.
+Verhindert Schaden, der\xfffedurch Rückstoß entsteht.
+Erzeugt im Kampf\xfffegleißendes Sonnenlicht.
+Verhindert Flucht\xfffedes Gegners.
+Verhindert Einschlafen.
+Hindert Angreifer daran,\xfffeStatuswerte zu senken.
+Stärkt physische\xfffeAttacken.
+Wehrt Volltreffer ab.
+Hebt Wetter-Effekte auf.
+Erhöht Fluchtwert, wenn\xfffedas Pokémon verwirrt ist.
+Erhöht Initiative nach\xfffeeiner Elektro-Attacke.
+Erhöht Schaden, wenn Ziel\xfffedasselbe Geschlecht hat.
+Erhöht Initiative, sobald\xfffePokémon zurückschreckt.
+Erhöht bei Hagel\xfffeden Fluchtwert.
+Ermutigt zum frühzeitigen\xfffeVerwenden einer Beere.
+Maximiert Angriff n. Ein-\xfffestecken e. Volltreffers.
+Erhöht Init., wenn 1 Item\xfffeverwendet/verloren wird.
+Senkt die Kraft von\xfffeFeuer-Attacken.
+Das Pokémon ist anfällig\xfffefür Statusveränderungen.
+Heißes Wetter reduziert\xfffeKP. Wasser steigert KP.
+Passt Kraft entsprechend\xfffeder gegn. Statuswerte an.
+Steigert die Effektivität\xfffevon Box-Attacken.
+Steigert KP, wenn das\xfffePokémon vergiftet ist.
+Steigert Attacken\xfffedesselben Typs.
+Längere Treffer-Serien mit\xfffeMehrfach-Attacken.
+Heilt Statusprobleme\xfffebei Regen.
+Steigert Spezial-Angriff\xfffebei Sonne, senkt aber KP.
+Erhöht Initiative bei\xfffeStatusproblemen.
+Alle Attacken des Pokémon\xfffewerden zu Normal-Att.
+Steigert den Schaden\xfffevon Volltreffern.
+Pokémon nimmt nur durch\xfffedirekte Attacken Schaden.
+Attacken d. Pokémon u. v.\xfffeAngreifern treffen immer.
+Handelt erst nach Pokémon\xfffemit niedrigerer Initiative.
+Steigert Effektivität von\xfffeschwächeren Attacken.
+Verhindert bei Sonnen-\xfffeschein Statusprobleme.
+Das Pokémon kann keine\xfffegetrag. Items verwenden.
+Att. können ungeachtet d.\xfffeFähigkeit verw. werden.
+Erhöht die Chance auf\xfffeeinen Volltreffer.
+Schadet Angreifer, der\xfffefinale Attacke landet.
+Ahnt gefährliche Attacken\xfffedes Gegners voraus.
+Gibt Auskunft über die\xfffestärkste gegn. Attacke.
+Ignoriert Wechsel der\xfffeStatuswerte des Zieles.
+Verstärkt nicht sehr\xfffeeffektive Attacken.
+Senkt die Stärke sehr\xfffeeffektiver Attacken.
+Halbiert zeitweilig Angriff\xfffeund Initiative.
+Normal- u. Kampf-Attacken\xfffetreffen Geist-Pokémon.
+Ruft Wasser herbei und\xfffeerhöht Sp.-Ang.
+Regeneriert bei Hagel\xfffenach und nach KP.
+Senkt die Stärke sehr\xfffeeffektiver Attacken.
+Pokémon beschwört einen\xfffeHagelsturm herauf.
+Das Pokémon sammelt\xfffegelegentlich Honig auf.
+Gibt Auskunft über\xfffegegnerische Items.
+Steigert Attacken mit\xfffeRückstoß-Schaden.
+Passt seinen Typ der\xfffegetragenen Tafel an.
+Steigert Effektivität von\xfffeTeam-Pokémon bei Sonne.
+Senkt die KP eines\xfffeschlafenden Gegners.
+Stiehlt Item, wenn es\xfffevon Träger berührt wird.
+Erhöht die Kraft, aber\xfffehebt Zusatz-Effekte auf.
+Statusveränderungen\xfffewerden umgekehrt.
+Hindert den Gegner durch\xfffeStress am Beerenkonsum.
+Sinken Statuswerte,\xfffesteigt der Angriffs-Wert.
+Bei halbierter KP-Anzahl\xfffesinken die Statuswerte.
+Blockiert gelegentlich\xfffeAttacken.
+Heilt gel. Statusprobleme\xfffev. Partnern in der Nähe.
+Verringert den Schaden\xfffean Mitstreitern.
+Phys. Treffer senken\xfffeVert., steigern Initiative.
+Verdoppelt das eigene\xfffeGewicht.
+Halbiert das eigene\xfffeGewicht.
+Verringert erlittenen\xfffeSchaden bei vollen KP.
+Verstärkt bei Vergiftung\xfffephysische Angriffe.
+Verstärkt Spezial-Att. im\xfffeFall von Verbrennungen.
+Aufgebrauchte Beeren\xfffekönnen nachwachsen.
+Erkennt und pariert\xfffeAngriffe von Mitstreitern.
+Erhöht einen Statuswert\xfffeund senkt einen anderen.
+Nimmt keinen Schaden\xfffedurch Wetterbedingungen.
+Kann Ziel durch bloßes\xfffeBerühren vergiften.
+Heilt beim Austauschen\xfffeeine geringe Menge an KP.
+Hindert Angreifer, die\xfffeVerteidigung zu senken.
+Erhöht in Sandstürmen\xfffedie Initiative.
+Wehrt mit robustem Körper\xfffeviele Status-Attacken ab.
+Greift das Pokémon zuletzt\xfffean, ist es stärker.
+Bestreitet Kämpfe in der\xfffeGestalt des Listenletzten.
+Kämpft als Kopie\xfffeseines Gegenübers.
+Überwindet gegnerische\xfffeSchilde und greift an.
+Berührt man es, übernimmt\xfffeman seine Fähigkeit.
+Besiegt es ein Pokémon,\xfffesteigt sein Angriffs-Wert.
+Angriff steigt nach Ein-\xfffestecken einer Unlicht-Att.
+Aus Angst vor manchen\xfffeAttacken steigt die Init.
+Lenkt Status-Attacken\xfffeauf den Angreifer um.
+Treffer durch Pflanzen-\xfffeAttacken stärken Angriff.
+Ermöglicht Erstschlag\xfffemit Status-Attacken.
+Manche Attacken wirken\xfffein Sandstürmen besser.
+Pokémon nehmen durch\xfffebloßes Berühren Schaden.
+Wechselt seine Gestalt,\xfffewenn Not am Mann ist.
+Erhöht Genauigk. bei sich\xfffeselbst und Mitstreitern.
+Att. können ungeachtet d.\xfffeFähigkeit verw. werden.
+Att. können ungeachtet d.\xfffeFähigkeit verw. werden.

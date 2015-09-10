@@ -1,0 +1,7 @@
+IN SQUADRA
+BOX LOTTA
+ESCI
+Scegli se usare la tua squadra di Pokémon\xfffeoppure l'assortimento del tuo Box Lotta.
+L\xf000Ȃ\x0001\x0000
+\xf000\xff00\x0001\x0002⑭\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0001⑮\xf000\xff00\x0001\x0000

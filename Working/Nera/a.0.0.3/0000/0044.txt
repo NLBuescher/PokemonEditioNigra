@@ -1,0 +1,17 @@
+Ti do il benvenuto sulla Nave Reale Unima!\xfffeViaggia con noi tra sogno e lotta!\xf000븁\x0000\xfffeIl biglietto costa $1000.\xfffeVuoi viaggiare con noi?
+La Nave Reale Unima salpa una volta\xfffeal giorno, nel tardo pomeriggio.\xf000븀\x0000\xfffeÈ una nave da crociera.\xf000븁\x0000
+La Nave Reale Unima salpa solo nel tardo\xfffepomeriggio. Ti prego di ritornare.
+Mi dispiace, ma non hai abbastanza soldi.\xfffeTi prego di tornare un'altra volta.
+Il biglietto costa $1000.\xfffeVuoi viaggiare con noi?
+Passeremo sotto al ponte più grande di\xfffeUnima, il Ponte Freccialuce, arriveremo\xf000븀\x0000\xfffefino al Ponte Meraviglie e da lì torneremo\xf000븀\x0000\xfffead Austropoli.\xf000븁\x0000\xfffeLa fine della traversata sarà annunciata\xfffeda cinque fischi della sirena a vapore.\xf000븁\x0000
+Dal maestoso ponte della Nave Reale Unima\xfffesi possono ammirare viste stupende!\xf000븁\x0000\xfffeE nelle cabine si incontrano Allenatori\xfffeamanti della lotta!\xf000븁\x0000\xfffePaesaggi da sogno e lotte appassionate!\xfffeUna crociera davvero memorabile!\xf000븁\x0000\xfffeAvvisiamo che sulla nave non si può usare\xfffeil C-Gear in quanto potrebbe interferire\xf000븀\x0000\xfffecon le apparecchiature di bordo.\xf000븁\x0000
+Vuoi spegnere il C-Gear?
+Stiamo per lasciare il porto.\xfffeBuon viaggio!\xf000븁\x0000
+Va bene.\xfffeTorna a trovarci.
+Grazie per aver scelto la nostra nave!\xfffeTorna ancora, ti aspettiamo!
+Il tour di oggi è terminato.\xfffeTorna a trovarci domani!
+Congratulazioni!\xf000븁\x0000\xfffeHai battuto tutti gli Allenatori a bordo!\xf000븁\x0000\xfffeQuesto premio è per te!\xf000븁\x0000
+La Nave Reale Unima non è ancora pronta.\xf000븁\x0000\xfffeStiamo facendo del nostro meglio per\xfffepreparare una nave all'altezza degli\xf000븀\x0000\xfffeAllenatori più forti!
+Sali
+Informazioni
+Esci

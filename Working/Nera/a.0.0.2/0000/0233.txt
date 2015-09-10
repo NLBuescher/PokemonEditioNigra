@@ -1,0 +1,6 @@
+SÌ
+NO
+Fai dimenticare!
+Non far dimenticare!
+Blocca \xf000ć\x0001\x0000!
+Non bloccare \xf000ć\x0001\x0000!

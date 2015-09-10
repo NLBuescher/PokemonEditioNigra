@@ -1,0 +1,27 @@
+Die IR-Funktionen
+Funktionen der Nintendo WFC
+Funktionen der Nintendo WFC
+Drahtlose DS-Datenübertragung
+Drahtlose DS-Datenübertragung
+Drahtlose DS-Datenübertragung
+Drahtlose DS-Datenübertragung
+Drahtlose DS-Datenübertragung
+Das Passierlogbuch
+Das Umfrageradar
+Das C-Gear umgestalten
+Das C-Gear ein- oder ausschalten
+Die Infrarotfunktionen erlauben es dir,\xfffeohne viel Mühe mit einem Freund, der sich\xfffein nächster Nähe befindet, Pokémon zu\xfffetauschen oder Kämpfe zu bestreiten.\xfffeZudem kannst du über sie Freundescodes\xfffeaustauschen oder Harmonietests starten.
+Berühre das mit „SPIELSYNCHRO“\xfffebeschriftete Feld, um ein Pokémon\xfffeschlafen zu legen. Im Anschluss kannst\xfffedu über die Nintendo Wi-Fi Connection\xfffedeine Spieldaten versenden.
+Solange du die Nintendo Wi-Fi Connection\xfffenicht korrekt konfiguriert hast, ist es\xfffeunmöglich, Zugang zu ihr zu erhalten,\xfffeegal ob du ein Signal empfängst oder\xfffenicht.
+Über die Drahtlose DS-Datenübertragung\xfffekommst du in den Genuss der folgenden\xfffeSpielfunktionen:\xfffe\xfffe・ Viso-Caster\xfffe・ Kontaktebene
+Den Viso-Caster kannst du mit jedem\xfffeTrainer verwenden, dem du im Wi-Fi-Klub\xfffebegegnet bist, oder mit Trainern, mit\xfffedenen du Freundescodes über das\xfffeC-Gear ausgetauscht hast.
+Berührst du das mit „KONTAKTEBENE“\xfffebeschriftete Feld, gelangst du in\xfffeSekundenschnelle in die Kontaktebene.
+Über die Funktionen der Drahtlosen\xfffeDatenübertragung erkennst du, wie viele\xfffeLeute sich aktuell in deiner Umgebung\xfffeim Konnex-Klub aufhalten oder ob es\xfffemöglich ist, lokal per Geheimgeschehen\xfffeein Geschenk zu empfangen.
+Mithilfe der Drahtlosen Datenübertragung\xfffeerkennst du außerdem, ob sich in deiner\xfffeNähe Personen befinden, deren C-Gear\xfffeeingeschaltet ist. Ist dem so, kannst du\xfffeohne Aufwand ihre Passierlogbuch- oder\xfffeUmfrageradar-Daten empfangen.
+Das Passierlogbuch fungiert als eine Art\xfffeEchtzeitprotokoll. Es zeigt an, was die\xfffeLeute, an denen du vorbeigehst,\xfffein der Spielwelt unternehmen. Öffne das\xfffePassierlogbuch für Details oder um das\xfffeGeschehen frei zu kommentieren.
+Das Umfrageradar erlaubt es dir,\xfffePersonen über ihre Vorlieben und Hobbys\xfffezu befragen. Lege fest, zu welchem Thema\xfffedu eine Umfrage durchführen willst, um\xfffedie Daten von Leuten einzusehen, denen\xfffedu heute oder im Vorfeld begegnet bist.
+Berührst du das Symbol zur Umgestaltung\xfffeder C-Gear-Oberfläche, beginnt es zu\xfffeblinken. Wenn du dann eines der Felder\xfffeberührst, ändert sich seine Farbe. Die\xfffefarbigen Felder lassen sich nach Belieben\xfffeneu anordnen.
+Das Symbol rechts unten auf dem\xfffeTouchscreen erlaubt es dir, das\xfffeC-Gear ein- oder auszuschalten.\xfffeSchaltest du es aus, werden die\xfffeTastfelder abgedunkelt und die\xfffeDrahtlosfunktionen deaktiviert.
+WEITER
+ENDE
+ZURÜCK

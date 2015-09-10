@@ -1,0 +1,33 @@
+Hallo! Ich bin nur eine einfache Magd!\xf000븁\x0000\xfffeIch suche wohlschmeckende Zutaten,\xfffedie den Gourmet-Gaumen meiner Herrin\xf000븀\x0000\xfffeerfreuen können!\xf000븁\x0000
+Schnüff, schnüff... mhhh!\xf000븁\x0000\xfffeAlso irgendwas in deinem Beutel\xffferiecht aber wirklich sehr gut!\xf000븁\x0000\xfffeKann ich mir mal ansehen, was genau\xfffeda in deinem Beutel so gut riecht?\xf000븁\x0000
+Oooh! Was für ein Duft!\xf000븁\x0000\xfffeDas ist tatsächlich die seltene Zutat\xfffe\xf000ĉ\x0001\x0000, unglaublich!\xf000븁\x0000\xfffeIch gebe dir \xf000ȇ\x0001\x0001 $ dafür,\xfffewas sagst du?!
+Du übergibst das Item \xf000ĉ\x0001\x0000\xfffeund erhältst \xf000ȇ\x0001\x0001 $!
+Danke schön!\xf000븁\x0000\xfffeDamit zaubere ich meiner Herrin ein Menü\xfffeauf den Tisch, das sie vor Begeisterung\xf000븀\x0000\xfffeauf selbigem tanzen lässt!
+Hm... nein, das ist leider nicht,\xfffewas ich gesucht habe.\xf000븁\x0000\xfffeDas wird meine Herrin nicht\xfffezufriedenstellen können!
+Na ja, da kann man nichts machen!\xf000븁\x0000\xfffeSag mir Bescheid, wenn du wieder mal\xfffeeine wohlschmeckende Zutat findest!
+Schnüff, schnüff... oh!\xf000븁\x0000\xfffeAus deinem Beutel duftet es nicht\xfffenach Feinschmeckerzutaten.\xf000븁\x0000\xfffeSag mir Bescheid, wenn du mal eine\xfffewohlschmeckende Zutat finden solltest!
+Der ist aber hübsch. Und dieser auch...\xfffeIch liebe Steine einfach über alles!\xf000븀\x0000\xfffeDas ist keine Übertreibung.\xf000븁\x0000\xfffeUnd für seltene Steine greife ich auch\xfffeschon mal ganz tief in die eigene Tasche!\xf000븁\x0000
+Und? Hast du wohl einen Stein bei dir,\xfffeder meinen hohen Ansprüchen genügt?\xf000븁\x0000
+Hübsch... wirklich ausgesprochen hübsch!\xf000븁\x0000\xfffeDas Gestein \xf000ĉ\x0001\x0000, großartig!\xf000븁\x0000\xfffeWürdest du mir diese Kostbarkeit wohl\xfffefür \xf000ȇ\x0001\x0001 $ verkaufen?
+Du übergibst das Item \xf000ĉ\x0001\x0000\xfffeund erhältst \xf000ȇ\x0001\x0001 $!
+Du hast bei mir einen Stein im Brett!\xfffeSo kommen wir ins Geschäft!\xf000븁\x0000\xfffeSteine sind meine große Leidenschaft!
+Hä? Was soll ich mit diesem Schutt?\xf000븁\x0000\xfffeNein, so einen Stein nehme ich nicht.\xfffeStein, danke!
+Ich bin ein steinharter Steinhändler.\xfffeWir kommen schon noch ins Geschäft!
+Und? Hast du wohl einen Stein bei dir,\xfffeder meinen hohen Ansprüchen genügt?\xf000븁\x0000\xfffeHm, sieht nicht danach aus. Schade!\xfffeKomm bald wieder, ja?
+Wie du ja unschwer sehen kannst,\xfffebin ich ein superreicher Superreicher!\xf000븁\x0000\xfffeUnd wie du siehst, ist das Sammeln\xfffeseltener Gegenstände mein Hobby.\xf000븁\x0000\xfffeÜbrigens, dir ist sicher aufgefallen,\xfffedass auch meine Kleidung sehr teuer\xf000븀\x0000\xfffeund exklusiv ist, oder? Oder nicht?\xf000븁\x0000
+Etwas, das sich selbst ein Superreicher\xfffewie ich noch wünschen könnte...\xf000븁\x0000\xfffeSolch ein seltenes Item hast du doch\xfffebei dir, oder? Oder nicht?\xf000븁\x0000
+Sieh an, das Item \xf000ĉ\x0001\x0000!\xf000븁\x0000\xfffeDas verkaufst du mir doch sicher\xfffefür \xf000ȇ\x0001\x0001 $, oder? Oder nicht?
+Du übergibst das Item \xf000ĉ\x0001\x0000\xfffeund erhältst \xf000ȇ\x0001\x0001 $!
+Ich habe da wirklich ein besonderes Item\xfffeerstanden, oder? Oder nicht?
+Das ist kein Item, wie es mir vorschwebt.\xfffeDenkst du doch auch, oder? Oder nicht?
+Wenn du doch noch deine Meinung änderst,\xfffeverkaufst du es mir, oder? Oder nicht?
+Oh, ist das etwa die Alte Krone?\xf000븁\x0000\xfffeEin seltener Schatz, von dem man sagt,\xfffedass er Ewigkeiten im tiefsten Inneren\xf000븀\x0000\xfffeder Unterwasserruine schlummerte.\xf000븁\x0000\xfffeDu würdest sie sicher gut pflegen,\xfffeaber du verkaufst sie mir lieber für\xf000븀\x0000\xfffe\xf000ȇ\x0001\x0001 $, oder? Oder nicht?
+Etwas, das sich selbst ein Superreicher\xfffewie ich noch wünschen könnte...\xf000븁\x0000\xfffeSolch ein seltenes Item hast du doch\xfffebei dir, oder? Oder nicht?\xf000븁\x0000\xfffeSchade!! Du hast kein wirklich seltenes\xfffeItem dabei!
+Ich erzähle dir jetzt mal was,\xfffealso sperr die Lauscher auf!\xf000븁\x0000\xfffeZwischen den Steinen und Felsen dieser\xfffeGegend halten sich Pokémon verborgen,\xf000븀\x0000\xfffeob du's glaubst oder nicht!\xf000븁\x0000\xfffeUnd sie verstecken nicht nur sich selbst\xfffezwischen den Felsen, sie haben darüber\xf000븀\x0000\xfffehinaus auch wertvolle Items bei sich!\xf000븁\x0000\xfffeAlso, wenn du etwas richtig Wertvolles\xfffefindest, bring es bitte direkt zu mir!\xf000븁\x0000\xfffeIch werde dir dafür auch mehr zahlen\xfffeals jeder andere!\xf000븁\x0000
+Und? Hast du was Wertvolles für mich?\xf000븁\x0000
+Das ist gut... doch, das gefällt mir!\xfffeIst das nicht das Item \xf000ĉ\x0001\x0000?\xf000븁\x0000\xfffeJa, also in diesem Fall...\xfffeDafür kann ich dir \xf000ȇ\x0001\x0001 $ anbieten.\xf000븀\x0000\xfffeSind wir im Geschäft?
+Du übergibst das Item \xf000ĉ\x0001\x0000\xfffeund erhältst \xf000ȇ\x0001\x0001 $!
+Danke schön...\xf000븁\x0000\xfffeJetzt kann ich es für einen noch höheren\xfffePreis an einen Sammler verkaufen...\xf000븁\x0000\xfffeHahaha!!!\xfffeGeschäfte machen ist doch das Größte!
+Tut mir leid, aber das brauche ich nicht.\xfffeNein, das werde ich dir nicht abkaufen!
+Wenn du etwas richtig Wertvolles findest,\xfffebring es bitte direkt zu mir!\xf000븁\x0000\xfffeIch werde dir dafür auch mehr zahlen\xfffeals jeder andere!
+Und? Hast du was Wertvolles für mich?\xf000븁\x0000\xfffeMir scheint, in deinem Beutel ist nichts\xfffeBesonderes. Das macht aber nichts!\xf000븀\x0000\xfffeBring einfach nächstes Mal etwas mit!

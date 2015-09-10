@@ -1,0 +1,90 @@
+Komor: Dai, vieni!\xf000븁\x0000
+Se prosegui sempre dritto arrivi a un\xfffeCentro Pokémon.\xf000븁\x0000\xfffeAh, ho una cosa per te.\xfffeTieni. Vedi tu se ti può servire.\xf000븁\x0000
+Komor: Se fai tenere una Baccastagna\xfffea un Pokémon, si risveglierà subito\xf000븀\x0000\xfffese l'avversario lo farà addormentare.\xf000븁\x0000\xfffeE visto che ci sono, ti do un consiglio.\xf000븁\x0000\xfffeIl Capopalestra di Zefiropoli usa\xfffePokémon di tipo Normale.\xf000븁\x0000\xfffeCerca di avere dei Pokémon di tipo Lotta\xfffenella tua squadra!\xf000븁\x0000
+N: \xf000븉\x0001\x0001Vorrei davvero vedere quello che\xfffesfugge agli occhi degli altri.\xf000븁\x0000\xfffeGli ideali dei Pokémon nelle Poké Ball,\xfffela verità sulla natura di un Allenatore...\xf000븁\x0000\xfffeE un futuro in cui i Pokémon possano\xfffeessere veramente liberi...\xf000븁\x0000\xfffeLo desideri anche tu, vero?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Vorrei davvero vedere quello che\xfffesfugge agli occhi degli altri.\xf000븁\x0000\xfffeLa verità sui Pokémon nelle Poké Ball,\xfffegli ideali di un Allenatore...\xf000븁\x0000\xfffeE un futuro in cui i Pokémon possano\xfffeessere veramente liberi...\xf000븁\x0000\xfffeLo desideri anche tu, vero?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001 Bene.\xf000븁\x0000\xfffeIo e i miei amici allora metteremo alla\xfffeprova la forza dei tuoi desideri!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Capisco...\xfffeLa tua risposta mi delude molto.\xf000븁\x0000\xfffeNon ci lasci altra scelta. Io e i miei amici\xfffeti mostreremo da che parte sta la verità!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Io e i miei amici non abbiamo ancora\xfffela forza necessaria per salvare tutti\xf000븀\x0000\xfffei Pokémon.\xf000븁\x0000\xfffeCambiare il mondo richiede uno sforzo\xfffedi cui non siamo ancora capaci.\xf000븁\x0000\xfffeHo bisogno di più forza...\xf000븁\x0000\xfffeDi una forza indiscutibile, che convinca\xfffetutti.\xf000븉\x0001\x0000\xf000븁\x0000
+
+So perfettamente dove trovare\xfffetale forza...\xf000븁\x0000\xfffeÈ la stessa che ha accompagnato\xfffel'eroe che ha fondato Unima:\xf000븀\x0000\xfffeil Pokémon leggendario Reshiram!\xf000븁\x0000\xfffeIo sarò il nuovo eroe e il tuo migliore\xfffeamico!\xf000븁\x0000
+So perfettamente dove trovare\xfffetale forza...\xf000븁\x0000\xfffeÈ la stessa che ha accompagnato\xfffel'eroe che ha fondato Unima:\xf000븀\x0000\xfffeil Pokémon leggendario Zekrom!\xf000븁\x0000\xfffeIo sarò il nuovo eroe e il tuo migliore\xfffeamico!\xf000븁\x0000
+???: Ehi, Aloé! Allora, hai trovato\xfffequalche bel fossile?\xf000븁\x0000
+Aloé: Perché? Ti manca l'ispirazione?\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeA vederlo non si direbbe, ma questo è\xfffeArtemisio, il Capopalestra di Austropoli!\xf000븁\x0000
+Artemisio: Sono qui solo di passaggio.\xfffeSembrate in difficoltà, cos'è successo?\xf000븁\x0000
+Aloé: Cos'è successo?! Qualcuno ha\xffferubato uno dei nostri pezzi!\xf000븁\x0000
+Belle: Ehi, \xf000Ā\x0001\x0000, che succede?\xfffeChe ci fa qui tutta questa gente?\xf000븁\x0000
+Komor: \xf000Ā\x0001\x0000, c'è qualche problema\xfffeper caso?\xf000븁\x0000
+Aloé: Che c'è? Chi sono questi due?\xfffeSono amici tuoi?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffePiacere, Belle e Komor. Siete anche voi\xfffeAllenatori, vedo!\xf000븁\x0000\xfffeBene, bando alle ciance, dividiamoci!\xfffeIo vado da questa parte.\xf000븁\x0000
+Komor e Belle!\xf000븁\x0000\xfffeVoi due restate qui al museo!\xf000븁\x0000
+Artemisio e \xf000Ā\x0001\x0000, voi due andate\xfffeal Bosco Girandola!\xf000븁\x0000\xfffeArtemisio, tu gli farai da guida, ok?\xfffeForza, non indugiate oltre!\xf000븁\x0000
+Artemisio: Allora, tu devi essere\xfffe\xf000Ā\x0001\x0000, giusto?\xf000븁\x0000\xfffeChe dici, partiamo?\xfffeAndiamo a stanare questi ladri!\xf000븁\x0000
+Artemisio: Allora, tu devi essere\xfffe\xf000Ā\x0001\x0000, giusto?\xf000븁\x0000\xfffeChe dici, partiamo?\xfffeAndiamo a stanare questi ladri!\xf000븁\x0000
+Belle: Aspetta, \xf000Ā\x0001\x0000!\xfffeTieni, porta questo con te!\xf000븁\x0000\xfffeMe l'ha dato Zania, si chiama Ricerca\xfffeStrumenti!\xf000븁\x0000
+Il Ricerca Strumenti è un congegno\xfffeutilissimo in grado di segnalare\xf000븀\x0000\xfffela presenza di strumenti nascosti!\xf000븁\x0000
+Komor: Quindi devo solo stare qui a far\xfffela guardia al museo, vero?\xf000븁\x0000
+Belle: Ah, anch'io!\xf000븁\x0000
+Aloé: Sembra che non ci siano quelli\xfffedel Team Plasma qui intorno, ma sarà\xf000븀\x0000\xfffemeglio che rimanga qui.\xf000븁\x0000\xfffeVoi... cercate bene nel Bosco Girandola,\xfffemi raccomando!
+Questi erano vecchi edifici e magazzini\xfffedi una fabbrica tessile in disuso,\xf000븀\x0000\xfffefinché dei giovani pieni di speranze non\xf000븀\x0000\xfffene fecero i loro atelier!\xf000븁\x0000\xfffeÈ così che è nata Zefiropoli,\xfffeconosciuta anche come “città dell'arte"!
+In questo magazzino vendono degli\xfffestrumenti davvero interessanti!
+Erano solo vecchi magazzini e ora sono\xfffediventati fantastici negozi!\xf000븁\x0000\xfffeQuesti giovani hanno fatto davvero un\xfffeottimo lavoro!
+Zefiropoli è veramente un posto alla\xfffemoda e tanti vorrebbero abitarci!\xf000븁\x0000\xfffeÈ una città semplice, ma proprio per\xfffequesto affascinante!
+Ti piace il suono della fisarmonica?
+Zefiropoli\xfffeCittà in cui soffia un vento d'eleganza
+Bar Magazzino\xfffeOfferte speciali tutti i mercoledì!
+Palestra di Zefiropoli\xf000븁\x0000\xfffe\xfffeCapopalestra: Aloé\xfffeUna mamma nata
+Aralia: Nardo mi ha detto cos'è successo.\xf000븁\x0000\xfffeMi dispiace, \xf000Ā\x0001\x0000. A quanto pare\xfffela situazione è piuttosto seria!\xf000븁\x0000
+Aloé: È questa?\xf000븁\x0000
+Belle: Ooooh!\xf000븁\x0000\xfffeMa non è la vecchia pietra trovata\xfffenel Deserto della Quiete?\xf000븁\x0000
+Aloé: Esatto.\xfffeChe sia davvero un Pokémon drago?\xf000븁\x0000
+Gasparago: Mmh?\xf000븁\x0000\xfffeIspezionando la Torre Dragospira abbiamo\xfffetrovato elementi che risalgono allo\xf000븀\x0000\xfffestesso periodo dello Scurolite.\xf000븁\x0000
+Gasparago: Mmh?\xf000븁\x0000\xfffeDa un'ispezione della Torre Dragospira\xfffesono stati trovati reperti che risalgono\xf000븀\x0000\xfffeallo stesso periodo del Chiarolite.\xf000븁\x0000
+Aralia: Ho fatto io stessa queste\xfffericerche.\xf000븁\x0000
+Aloé: Sei un genio, come sempre!\xf000븁\x0000
+Belle: È una fortuna che quelli del Team\xfffePlasma non abbiano notato la vecchia\xf000븀\x0000\xfffepietra!\xf000븁\x0000
+Aloé: In effetti...\xf000븁\x0000\xfffeA ripensarci, avevano cercato di rubare\xfffeil Teschio del drago nella speranza di far\xf000븀\x0000\xffferivivere il Pokémon drago leggendario.\xf000븁\x0000
+\xf000Ā\x0001\x0000, prendi, la affido a te...\xf000븁\x0000
+Nardo: Aspetta un attimo, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Prendendo questo Scurolite ti impegni\xfffeanche ad affrontare N nel caso dovesse\xf000븀\x0000\xfffesuccedermi qualcosa.\xf000븁\x0000\xfffeAccetti questa condizione?
+Prendendo questo Chiarolite ti impegni\xfffeanche ad affrontare N nel caso dovesse\xf000븀\x0000\xfffesuccedermi qualcosa.\xf000븁\x0000\xfffeAccetti questa condizione?
+Nardo: Hai preso la tua decisione.\xfffeVa bene, tieni e in bocca al lupo.\xf000븁\x0000
+Nardo: Non vorrai mica aspettare che\xfffesi realizzi il mondo a cui aspira N\xf000븀\x0000\xfffesenza nemmeno reagire?\xf000븁\x0000\xfffeUn mondo in cui Pokémon e Allenatori\xfffenon vivono più fianco a fianco?
+Nardo: Su, dai, ti prego!\xf000븁\x0000\xfffeTieni, prendi la pietra! Ti servirà quando\xfffeverrà il momento!
+Nardo: Scusa se ho insistito...\xf000븁\x0000\xfffeMa si tratta del mondo in cui uomini e\xfffePokémon vivono felicemente insieme!\xf000븀\x0000\xfffeProteggilo, costi quel che costi!\xf000븁\x0000
+Aloé: Perfetto.\xf000븁\x0000\xfffeSe sarà necessario, questo Scurolite\xfffeproteggerà il futuro ideale per noi e\xf000븀\x0000\xfffei Pokémon!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, abbine cura!\xf000븁\x0000
+Aloé: Perfetto.\xf000븁\x0000\xfffeSe sarà necessario, questo Chiarolite\xfffeproteggerà un futuro di verità in cui\xf000븀\x0000\xfffecontinueremo a vivere insieme ai Pokémon!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, abbine cura!\xf000븁\x0000
+Gasparago: ...\xf000븁\x0000\xfffeOra dobbiamo scoprire come risvegliare\xfffeil Pokémon drago dalla pietra.
+Eh?
+...
+Mmh...
+Aloé: Ma certo! Che gran colpo di genio!\xf000븁\x0000
+Nardo: È vero! Non ci avevo proprio\xfffepensato!\xf000븁\x0000
+\xf000Ā\x0001\x0000! Dobbiamo andare a\xfffeBoreduopoli.\xf000븁\x0000\xfffeIl Capopalestra di Boreduopoli usa\xfffePokémon di tipo Drago!\xf000븁\x0000\xfffeSaprà sicuramente dirci qualcosa!\xf000븁\x0000\xfffeIo intanto mi avvio.\xfffeA dopo!\xf000븁\x0000
+Aralia: Ottima idea! Iris di Boreduopoli\xfffeci fornirà sicuramente qualche indizio!\xf000븁\x0000
+Aralia: Che idea! Aristide di Boreduopoli\xfffeci fornirà sicuramente qualche indizio!\xf000븁\x0000
+Gasparago: \xf000Ā\x0001\x0000! Non dimenticare\xfffemai che i Pokémon sono sempre con te!\xf000븁\x0000
+Aralia: Noi torniamo al laboratorio.\xf000븁\x0000\xfffeForse riusciremo a capire qualcosa di più\xfffesui Pokémon drago e su come fare a\xf000븀\x0000\xffferisvegliarli!\xf000븁\x0000
+Aloé: Niente paura! Appena scopriremo\xfffequalcosa, verremo subito a informarti!\xf000븁\x0000
+Aloé: Niente paura! Appena scopriremo\xfffequalcosa, verremo subito a informarti!
+Belle: Non ho capito molto, tranne\xfffeil fatto che la situazione è grave...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000... sai dov'è Boreduopoli?\xf000븁\x0000\xfffeSi trova oltre il Ponte Propulsione,\xfffequello che parte da Mistralopoli.\xf000븁\x0000\xfffeNon so se mi sono spiegata bene...\xfffeSe non hai capito, guarda la mappa!\xf000븁\x0000
+Belle: Non ho capito molto, tranne\xfffeil fatto che la situazione è grave...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000... sai dov'è Boreduopoli?\xf000븁\x0000\xfffeSi trova oltre il Ponte Propulsione,\xfffequello che parte da Mistralopoli.\xf000븁\x0000\xfffeNon so se mi sono spiegata bene...\xfffeSe non hai capito, guarda la mappa!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

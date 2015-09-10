@@ -1,0 +1,14 @@
+Der Viso-Caster klingelt.
+\xf000Ā\x0001\x0000 nimmt den Anruf an.\xf000븁\x0000
+Die Holzplanken sind tückisch!\xf000븁\x0000\xfffeDu darfst nicht auf ihnen verweilen,\xfffesonst fällst du hinunter!
+Du sprichst mich also tatsächlich an?\xfffeEin Trainer von Format, so mag ich's!\xf000븀\x0000\xfffeHier, diese TM ist für dich!\xf000븁\x0000
+Mit dem Ladestrahl kann ein Pokémon den\xfffeWert seines Spezial-Angriffes erhöhen.\xf000븁\x0000\xfffeMit etwas Glück werden seine Attacken\xfffealso immer stärker und stärker!
+Potz Blitz!\xfffeDa ist das Pokémon ja wieder!\xf000븁\x0000
+Wag dich bloß nicht ins hohe Gras, Kind!\xfffeDieses Pokémon könnte zu stark sein!\xf000븁\x0000
+Sich hier bei Wind und Regen\xfffezu unterhalten, ich weiß nicht...\xf000븁\x0000\xfffeKomm doch zu mir nach Hause,\xfffeda ist es gemütlicher!\xf000븁\x0000
+Ruohohohooo!
+Wuohohohooo!
+Was für ein heftiger Sturm!\xf000븁\x0000\xfffeDer soll ja das Werk dieses Pokémon sein!\xf000븁\x0000
+Route 7
+Turm des Himmels\xf000븁\x0000\xfffe\xfffeRuhestätte gerechter Seelen
+Tipps für Trainer\xf000븁\x0000\xfffe\xfffeIst das eigene Pokémon schwächer\xfffeals das gegnerische, gibt es für\xf000븀\x0000\xfffeden Kampf mehr Erfahrungspunkte.\xf000븁\x0000\xfffeDas gilt natürlich auch umgekehrt!\xf000븁\x0000\xfffeJe stärker das eigene Pokémon\xfffegegenüber dem gegnerischen ist,\xf000븀\x0000\xfffedesto weniger Erfahrungspunkte!

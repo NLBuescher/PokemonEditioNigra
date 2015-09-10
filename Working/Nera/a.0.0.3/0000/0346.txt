@@ -1,0 +1,25 @@
+Buonasera! Sei in un Centro Pokémon.\xf000븁\x0000\xfffeQui rimettiamo in sesto i Pokémon stanchi.\xfffeVuoi far riposare la tua squadra?
+Buongiorno! Sei in un Centro Pokémon.\xf000븁\x0000\xfffeQui rimettiamo in sesto i Pokémon stanchi.\xfffeVuoi far riposare la tua squadra?
+Salve! Ti trovi in un Centro Pokémon.\xf000븁\x0000\xfffeQui rimettiamo in sesto i Pokémon stanchi.\xfffeVuoi far riposare la tua squadra?
+Ciao! Questo è un Centro Pokémon! Ehi,\xfffenon è che oggi compi gli anni?
+Buon compleanno!\xf000븁\x0000\xfffeE continua a venire al Centro Pokémon,\xfffemi raccomando!\xf000븁\x0000\xfffeVuoi far riposare la tua squadra?
+Oh! Forse mi sbagliavo... scusami!\xf000븁\x0000\xfffeVuoi far riposare la tua squadra?
+Ok, prenderò in consegna la tua squadra\xfffedi Pokémon per qualche secondo.
+Grazie per l'attesa!\xf000븁\x0000\xfffeAdesso la tua squadra di Pokémon è in\xfffeperfetta forma.\xf000븁\x0000
+Torna pure quando vuoi!
+Ciao! Sei in un Centro Pokémon.\xf000븁\x0000\xfffeQui rimettiamo in sesto i Pokémon stanchi.\xfffeVuoi far riposare...\xf000븁\x0000
+Q-Quella Scheda Allenatore!\xf000븁\x0000\xfffeChe bel colore! E tutte quelle stelle!\xf000븁\x0000\xfffeFinora avevo visto parecchi Allenatori\xfffecon Schede Allenatore d'Argento.\xf000븁\x0000\xfffeMa una Scheda come la tua non l'avevo mai\xfffevista!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, posso avere l'onore di\xfffecurare i tuoi Pokémon?
+Sono felice di vederti, \xf000Ā\x0001\x0000!\xfffeIl solito, vero?
+È possibile che un Pokémon abbia preso\xfffeil Pokérus.\xf000븁\x0000\xfffeSi sa poco in proposito, ma pare che sia\xfffeuna forma di vita microscopica che prende\xf000븀\x0000\xfffedi mira i Pokémon.\xf000븁\x0000\xfffeSi dice, però, che quelli infettati\xfffecrescano straordinariamente bene.
+Ti do il benvenuto nella Sala Contatto\xfffedel Club Wireless Pokémon.\xf000븁\x0000\xfffeQui potrai comunicare con molti altri\xfffeAllenatori.\xf000븁\x0000\xfffeVuoi entrare?
+Gli Allenatori che incontrerai nella Sala\xfffeContatto sono altri giocatori che\xf000븀\x0000\xfffecome te sono entrati nella sala.\xf000븁\x0000\xfffePuoi mandare in campo i Pokémon per una\xfffelotta uno contro uno o due contro due,\xf000븀\x0000\xfffeoppure fare degli scambi.\xf000븁\x0000\xfffePuoi anche divertirti a scambiare Uova o\xfffea disegnare con i giocatori presenti.\xf000븁\x0000\xfffeNella sala puoi addirittura parlare con\xfffealtri Allenatori.\xf000븁\x0000\xfffeE se tocchi i messaggi inviati puoi anche\xfffescoprire chi li ha mandati.\xf000븁\x0000\xfffeTi va di entrare nella sala?
+Verrà attivata la comunicazione wireless\xfffeDS.
+Spero che ti divertirai nella Sala\xfffeContatto.\xf000븁\x0000
+Torna a trovarci.
+Vai nella Sala Contatto
+Esci
+Regole
+Sono spiacente, ma non puoi ancora\xfffeentrare nella Sala Contatto.\xf000븁\x0000
+Hai almeno un Pokémon che non può essere\xfffeusato.\xf000븁\x0000
+A proposito...\xf000븁\x0000\xfffeNella tua Scheda Allenatore appare\xfffeancora scritto solo “Allenatore"\xf000븀\x0000\xfffenella sezione del titolo, vero?\xf000븁\x0000\xfffeSe lo cambi, è più facile dare una certa\xfffeimmagine di te quando incontri qualcuno\xf000븀\x0000\xfffenella Sala Contatto.\xf000븁\x0000\xfffePer esempio, che ne dici di \xf000Ď\x0001\x0000?\xf000븁\x0000\xfffeÈ solo la mia opinione personale, ma\xfffeintanto prova a cambiarlo.\xf000븁\x0000\xfffeSe poi non è di tuo gradimento, fai sempre\xfffein tempo a toccare il riquadro e cambiarlo\xf000븀\x0000\xfffedi nuovo.\xf000븁\x0000
+Sembra che non si possa ancora usare.

@@ -1,0 +1,10 @@
+Touchez 10 fois l'écran tactile au\xffferythme qui vous convient!
+Test terminé. Veuillez rapprocher votre\xfffeconsole de celle de votre partenaire.
+Test en cours. Veuillez ne pas éloigner\xfffevotre console de celle de votre partenaire.
+La communication infrarouge est établie!
+La communication infrarouge ne fonctionne\xfffeplus. Veuillez rapprocher les consoles.
+
+
+TEST DE RYTHME
+
+

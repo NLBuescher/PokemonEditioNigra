@@ -1,0 +1,372 @@
+VÍDEOS DE COMBATE
+METRO BATALLA
+EMPAREJ. ALEATORIO
+SALIR
+ATRÁS
+MI VÍDEO
+OTROS VÍDEOS
+BORRAR VÍDEOS
+\xf000봂\x0000Vídeo de \xf000Ā\x0001\x0000
+VACÍO
+\xf000ȃ\x0001\x0000
+Comb.
+\xf000봂\x0000Vídeo n.º: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Vídeo n.º: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000Perfil de \xf000Ā\x0001\x0000
+
+\xf000봂\x0000Mes nacim.: \xf000ƀ\x0001\x0000
+\xf000봂\x0000Lugar residencia
+\xf000봂\x0000Mensaje
+
+
+
+
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+
+VÍDEO DE \xf000Ā\x0001\x0000
+BORRAR MI VÍDEO
+BORRAR OTROS VÍDEOS
+
+
+POR CLASIFICACIÓN
+
+ÚLTIMOS 30
+BUSCAR
+POR NÚMERO
+BUSCAR POR EDIFICIO
+BUSCAR POR POKÉMON
+BÚSQUEDA LOCAL
+COMBATES CONEXIÓN
+METRO BATALLA
+ENVIAR FOTO
+VER FOTOS
+ENVIAR
+Elige el Pokémon que quieres ver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUARDAR
+VER VÍDEO\xfffeDE COMBATE
+
+ÚLTIMOS 30 VÍDEOS DE COMBATE
+VÍDEOS DE COMBATE MÁS POPULARES:\xfffeCOMBATES EN CONEXIÓN
+VÍDEOS DE COMBATE MÁS POPULARES:\xfffeMETRO BATALLA
+VÍDEOS ENCONTRADOS
+
+¿Dónde quieres guardar el Vídeo\xfffede Combate de \xf000Ā\x0001\x0000?
+
+¿Quieres borrar el Vídeo de Combate\xfffede \xf000Ā\x0001\x0000?
+VER VÍDEOS COMBATE
+ENVIAR VÍDEO COMBATE
+
+
+
+BUSCAR POR EDIFICIO
+BUSCAR POR POKÉMON
+BÚSQUEDA LOCAL
+ACEPTAR
+Introduce el número del vídeo.
+Selecciona el edificio del combate.
+Selecciona el Pokémon.
+Introduce los criterios de búsqueda.
+No has introducido ningún criterio\xfffede búsqueda.
+Cargando Vídeos de Combate...
+No se ha encontrado ningún Vídeo de\xfffeCombate con los criterios indicados.
+Enviando Vídeo de Combate...
+¡Vídeo de Combate enviado!
+\xf000봂\x0000VER PERFIL
+\xf000봂\x0000CERRAR PERFIL
+
+Introduce los criterios de búsqueda.
+No especificado
+
+No puedes enviar otra vez el mismo vídeo.\xfffeToca la pantalla táctil para continuar.
+No has guardado tu lugar de residencia.
+No tienes ningún Vídeo de Combate\xfffeque enviar.
+\xf000ȁ\x0001\x0000
+
+METRO BATALLA
+
+\xf000봂\x0000TREN INDIVIDUAL
+\xf000봂\x0000TREN DOBLE
+\xf000봂\x0000TREN MULTI
+\xf000봂\x0000TREN Wi-Fi
+\xf000봂\x0000METRO BATALLA
+\xf000봂\x0000SUPERTRÉN INDIVIDUAL
+\xf000봂\x0000SUPERTRÉN DOBLE
+\xf000봂\x0000SUPERTRÉN MULTI
+Selecciona el récord que quieres consultar.
+Previo
+Récord
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000 
+
+\xf000봃\x0001\x0000Vic. cons.
+Múltiple/Entrenador
+Múltiple/amigos
+Rango
+Récord actual
+\xf000봂\x0000RÉCORD TREN Wi-Fi
+Actual
+\xf000봂\x0000PTOS. CLASIFIC. DE \xf000Ā\x0001\x0000
+\xf000봂\x0000RÉCORD MODO PTOS. CLASIFICAT.
+\xf000봂\x0000RÉCORD MODO LIBRE
+\xf000봂\x0000VICT.
+\xf000봂\x0000DERR.
+\xf000봃\x0001\x0000INDIVIDUAL:
+\xf000봃\x0001\x0000DOBLE:
+\xf000봃\x0001\x0000TRIPLE:
+\xf000봃\x0001\x0000ROTATORIO:
+\xf000봃\x0001\x0000LANZADOR:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000PTOS. CLAS.
+\xf000봂\x0000SÍ
+\xf000봂\x0000NO
+SÍ
+NO
+¿Quieres desconectarte de la\xfffeConexión Wi-Fi de Nintendo?
+Coliseo Individual:\xfffeSin restricciones
+Coliseo Individual:\xfffeCon restricciones
+Coliseo Individual:\xfffeSin restricciones con Lanzador
+Coliseo Individual:\xfffeCon restricciones con Lanzador
+Coliseo Doble:\xfffeSin restricciones
+Coliseo Doble:\xfffeCon restricciones
+Coliseo Doble:\xfffeSin restricciones con Lanzador
+Coliseo Doble:\xfffeCon restricciones con Lanzador
+Coliseo Triple:\xfffeSin restricciones
+Coliseo Triple:\xfffeCon restricciones
+Coliseo Triple:\xfffeSin restricciones con Lanzador
+Coliseo Triple:\xfffeCon restricciones con Lanzador
+Coliseo Rotatorio:\xfffeSin restricciones
+Coliseo Rotatorio:\xfffeCon restricciones
+Coliseo Rotatorio:\xfffeSin restricciones con Lanzador
+Coliseo Rotatorio:\xfffeCon restricciones con Lanzador
+Coliseo Múltiple:\xfffeSin restricciones
+Coliseo Múltiple:\xfffeCon restricciones
+Coliseo Múltiple:\xfffeSin restricciones con Lanzador
+Coliseo Múltiple:\xfffeCon restricciones con Lanzador
+Metro Batalla:\xfffeIndividual
+Metro Batalla:\xfffeDoble
+Metro Batalla:\xfffeMúltiple
+Emparejamiento Aleatorio Libre:\xfffeIndividual
+Emparejamiento Aleatorio Libre:\xfffeDoble
+Emparejamiento Aleatorio Libre:\xfffeTriple
+Emparejamiento Aleatorio Libre:\xfffeRotatorio
+Emparejamiento Aleatorio Libre:\xfffeLanzador
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Individual
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Doble
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Triple
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Rotatorio
+Emparej. Aleatorio con Puntos\xfffeClasificatorios: Lanzador
+Torneo Individual:\xfffeSin Lanzador
+Torneo Individual:\xfffeCon Lanzador
+Torneo Doble:\xfffeSin Lanzador
+Torneo Doble:\xfffeCon Lanzador
+Torneo Triple:\xfffeSin Lanzador
+Torneo Triple:\xfffeCon Lanzador
+Torneo Rotatorio:\xfffeSin Lanzador
+Torneo Rotatorio:\xfffeCon Lanzador
+01: Coliseo Individual:\xfffe       Sin Lanzador
+02: Coliseo Individual:\xfffe       Con Lanzador
+03: Coliseo Doble:\xfffe       Sin Lanzador
+04: Coliseo Doble:\xfffe       Con Lanzador
+05: Coliseo Triple:\xfffe       Sin Lanzador
+06: Coliseo Triple:\xfffe       Con Lanzador
+07: Coliseo Rotatorio:\xfffe       Sin Lanzador
+08: Coliseo Rotatorio:\xfffe       Con Lanzador
+09: Coliseo Múltiple:\xfffe       Sin Lanzador
+10: Coliseo Múltiple:\xfffe       Con Lanzador
+11: Metro Batalla:\xfffe       Individual
+12: Metro Batalla:\xfffe       Doble
+13: Metro Batalla:\xfffe       Múltiple
+14: Emparejamiento Aleatorio:\xfffe       Individual
+15: Emparejamiento Aleatorio:\xfffe       Doble
+16: Emparejamiento Aleatorio:\xfffe       Triple
+17: Emparejamiento Aleatorio:\xfffe       Rotatorio
+18: Emparejamiento Aleatorio:\xfffe       Lanzador
+19: Torneo
+20: Castillo Batalla:\xfffe       Múltiple
+21: Ruleta Batalla:\xfffe       Combate Individual
+22: Ruleta Batalla:\xfffe       Combate Doble
+23: Ruleta Batalla:\xfffe       Combate Múltiple
+\xf000봂\x0000¡TOCA AQUÍ!
+¿Quieres desconectarte de la\xfffeConexión Wi-Fi de Nintendo?
+
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con\xfffela Foto del Musical.
+Al parecer hay un problema con los Pokémon\xfffede la Foto del Musical.
+Al parecer hay un problema con\xfffelos datos del Perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Al parecer hay un problema con\xfffeel Pokémon seleccionado.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con\xfffeel Vídeo de Combate.
+Al parecer hay un problema con\xfffeel Vídeo de Combate.
+Al parecer hay un problema con\xfffelos datos del Perfil.
+Al parecer hay un problema con los Pokémon\xfffedel Vídeo de Combate.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+Al parecer hay un problema con\xfffelos criterios de búsqueda.
+Al parecer hay un problema con\xfffelos criterios de búsqueda.
+No se ha podido realizar la búsqueda.
+
+Se ha producido un error de autenticación.\xfffeNo se ha podido establecer la conexión.
+No se ha encontrado ningún Vídeo de\xfffeCombate con los criterios indicados.
+Este Vídeo de Combate no se puede ver.
+No se ha podido recibir el Vídeo de Combate.
+
+
+
+
+
+Se ha producido un error.\xfffeError: 10601
+Se ha producido un error.\xfffeError: 10602
+Se ha producido un error.\xfffeError: 10603
+Se ha producido un error.\xfffeError: 10604
+No se ha podido establecer la conexión.\xfffeError: 10605
+Se ha producido un error.\xfffeError: 10606
+No se ha podido establecer la conexión.\xfffeError: 10607
+Se ha producido un error.\xfffeError: 10608
+Se ha producido un error.\xfffeError: 10609
+No se recibe ninguna señal.\xfffeError: 10610
+No se recibe ninguna señal.\xfffeError: 10611
+No se recibe ninguna señal.\xfffeError: 10612
+La conexión se ha interrumpido.\xfffeError: 10613
+No se ha podido establecer la conexión.\xfffeError: 10614
+
+
+
+
+
+
+
+Se ha perdido la conexión con el servidor.\xfffeToca la pantalla táctil para continuar.
+
+
+No hay datos guardados.
+
+
+
+
+
+
+No se han podido borrar los datos\xfffeguardados.
+No puedes volver a guardar el mismo vídeo.\xfffeToca la pantalla táctil para continuar.
+Guardando...\xfffeNo apagues la consola.
+Recibiendo datos de Clasificación...
+Enviando información de guardado...
+Guardado completado.\xfffeToca la pantalla táctil para continuar.
+¿Quieres borrar el Vídeo de Combate\xfffede \xf000Ā\x0001\x0000?
+¿Quieres borrar estos datos?
+Borrando datos...\xfffeNo apagues la consola.
+Se han borrado los datos.\xfffeToca la pantalla táctil para continuar.
+Enviando Foto del Musical...
+Recibiendo Foto del Musical...
+Enviando tus Datos de la Caja...
+Recibiendo Datos de la Caja...
+No tienes ninguna Foto que enviar.\xfffe¡Ve a participar en el Musical!
+No puedes volver a enviar los mismos datos.\xfffeToca la pantalla táctil para continuar.
+Recibiendo Vídeos de Combate...
+No se han encontrado fotos.
+No se ha encontrado ninguna\xfffeFoto del Musical.
+Se ha enviado tu Vídeo de Combate.\xfffeVídeo n.º: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+Se va a guardar la partida antes de ver\xfffeel Vídeo de Combate.
+Borrando datos... Guardando muchos\xfffedatos... No apagues la consola.
+Guardando muchos datos...\xfffeNo apagues la consola.
+Guardando...\xfffeNo apagues la consola.
+No hay datos de Clasificación.\xfffeToca la pantalla táctil para continuar.
+¿Quieres enviar tu Vídeo de Combate?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negro.

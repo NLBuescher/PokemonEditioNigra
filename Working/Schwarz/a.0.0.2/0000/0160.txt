@@ -1,0 +1,47 @@
+Begegnungskraft+
+Begegnungskraft++
+Begegnungskraft+++
+Begegnungskraft-
+Begegnungskraft--
+Begegnungskraft---
+Brutkraft+
+Brutkraft++
+Brutkraft+++
+Zuneigungskraft+
+Zuneigungskraft++
+Zuneigungskraft+++
+Schnäppchenkraft+
+Schnäppchenkraft++
+Schnäppchenkraft+++
+KP-Heilkraft+
+KP-Heilkraft++
+KP-Heilkraft+++
+AP-Heilkraft+
+AP-Heilkraft++
+AP-Heilkraft+++
+EP-Kraft+
+EP-Kraft++
+EP-Kraft+++
+EP-Kraft-
+EP-Kraft--
+EP-Kraft---
+Kaufkraft+
+Kaufkraft++
+Kaufkraft+++
+Fangkraft+
+Fangkraft++
+Fangkraft+++
+Brutkraft S
+Schnäppchenkraft S
+Zuneigungskraft S
+EP-Kraft S
+Kaufkraft S
+Fangkraft S
+Rundumheilkraft
+Brutkraft MAX
+Schnäppchenkraft MAX
+Zuneigungskraft MAX
+EP-Kraft MAX
+Kaufkraft MAX
+Fangkraft MAX
+

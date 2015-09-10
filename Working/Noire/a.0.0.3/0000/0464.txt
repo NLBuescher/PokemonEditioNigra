@@ -1,0 +1,10 @@
+C'est un distributeur.\xfffeQuelle boisson vous fait envie?
+1 \xf000ĉ\x0001\x0000 pour vous!\xf000븁\x0000
+Gagné!\xfffe1 deuxième gratis!\xf000븁\x0000
+Vous n'avez pas assez d'argent...
+Bon, ça suffit.
+Acheter autre chose?
+EAU FRAîCHE\xf000봃\x0001\x0001200 $
+SODA COOL\xf000봃\x0001\x0001300 $
+LIMONADE\xf000봃\x0001\x0001350 $
+RETOUR

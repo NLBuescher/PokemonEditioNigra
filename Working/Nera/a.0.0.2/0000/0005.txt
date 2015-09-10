@@ -1,0 +1,372 @@
+VIDEO LOTTA
+METRÒ LOTTA
+ABBINAMENTO A CASO
+ESCI
+INDIETRO
+IL MIO VIDEO
+ALTRI VIDEO
+CANCELLA VIDEO
+\xf000봂\x0000VIDEO DI \xf000Ā\x0001\x0000
+VUOTO
+\xf000ȃ\x0001\x0000
+Lotta
+\xf000봂\x0000Numero del video: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000Numero del video: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+\xf000봂\x0000PROFILO DI \xf000Ā\x0001\x0000
+
+\xf000봂\x0000Nascita: \xf000ƀ\x0001\x0000
+\xf000봂\x0000Residenza
+\xf000봂\x0000Frase preferita
+
+
+
+
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+
+VIDEO DI \xf000Ā\x0001\x0000
+CANCELLA MIO VIDEO
+CANCELLA ALTRI VIDEO
+
+
+CERCA PER CLASSIFICA
+
+I 30 PIÙ RECENTI
+CERCA PER CATEGORIA
+CERCA PER NUMERO
+RICERCA PER EDIFICIO
+RICERCA PER POKÉMON
+RICERCA PER LUOGO
+LOTTE IN LINK
+METRÒ LOTTA
+INVIA FOTO
+GUARDA FOTO
+INVIA
+Scegli il Pokémon che vuoi vedere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SALVA
+GUARDA VIDEO\xfffeLOTTA
+
+I 30 VIDEO LOTTA PIÙ RECENTI
+CLASSIFICA VIDEO LOTTA PIÙ POPOLARI\xfffeLOTTE IN LINK
+CLASSIFICA VIDEO LOTTA PIÙ POPOLARI\xfffeMETRÒ LOTTA
+VIDEO LOTTA TROVATI
+
+Dove vuoi salvare il Video Lotta\xfffedi \xf000Ā\x0001\x0000?
+
+Vuoi cancellare il Video Lotta\xfffedi \xf000Ā\x0001\x0000?
+RICERCA VIDEO LOTTA
+INVIA VIDEO LOTTA
+
+
+
+RICERCA PER EDIFICIO
+RICERCA PER POKÉMON
+RICERCA PER LUOGO
+CERCA!
+Digita il numero del video.
+Scegli l'edificio.
+Scegli il nome del Pokémon.
+Imposta dei criteri di ricerca.
+Non hai impostato alcun criterio di ricerca.
+Caricamento dei Video Lotta in corso.
+Non ci sono Video Lotta che rispondono ai\xfffecriteri di ricerca impostati.
+Invio del Video Lotta in corso.
+Video Lotta inviato!
+\xf000봂\x0000GUARDA PROFILO
+\xf000봂\x0000CHIUDI PROFILO
+
+Imposta dei criteri di ricerca.
+Non specificato
+
+Non puoi inviare lo stesso Video Lotta.\xfffeTocca il touch screen per continuare.
+Non hai registrato il tuo luogo d'origine.
+Non hai Video Lotta da inviare.
+\xf000ȁ\x0001\x0000
+
+METRÒ LOTTA
+
+\xf000봂\x0000TRENO LOTTA IN SINGOLO
+\xf000봂\x0000TRENO LOTTA IN DOPPIO
+\xf000봂\x0000TRENO LOTTA MULTIPLA
+\xf000봂\x0000TRENO LOTTA Wi-Fi
+\xf000봂\x0000METRÒ LOTTA
+\xf000봂\x0000SUPERTRENO LOTTA IN SINGOLO
+\xf000봂\x0000SUPERTRENO LOTTA IN DOPPIO
+\xf000봂\x0000SUPERTRENO LOTTA MULTIPLA
+Scegli i risultati che vuoi vedere.
+ULTIMA:
+RECORD:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000 
+
+di fila
+Multipla c/Allenatore
+Multipla c/amico
+Grado
+RECORD ATTUALE
+\xf000봂\x0000RISULTATI TRENO LOTTA Wi-Fi
+ATTUALE
+\xf000봂\x0000PUNTEGGIO DI \xf000Ā\x0001\x0000
+\xf000봂\x0000RISULTATI MODALITÀ PUNTEGGIO
+\xf000봂\x0000RISULTATI MODALITÀ LIBERA
+\xf000봂\x0000Vinte
+\xf000봂\x0000Perse
+\xf000봃\x0001\x0000IN SINGOLO:
+\xf000봃\x0001\x0000IN DOPPIO:
+\xf000봃\x0001\x0000IN TRIPLO:
+\xf000봃\x0001\x0000A ROTAZIONE:
+\xf000봃\x0001\x0000CON LANCIO:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000Punteggio
+\xf000봂\x0000SÌ
+\xf000봂\x0000NO
+SÌ
+NO
+Vuoi scollegarti dalla\xfffeNintendo Wi-Fi Connection?
+Colosseo in Singolo\xfffeSenza restrizioni
+Colosseo in Singolo\xfffeLotta Pari
+Colosseo in Singolo\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Singolo\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Doppio\xfffeSenza restrizioni
+Colosseo in Doppio\xfffeLotta Pari
+Colosseo in Doppio\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Doppio\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Triplo\xfffeSenza restrizioni
+Colosseo in Triplo\xfffeLotta Pari
+Colosseo in Triplo\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Triplo\xfffeLotta Pari, Mirabilancere Sì
+Colosseo a Rotazione\xfffeSenza restrizioni
+Colosseo a Rotazione\xfffeLotta Pari
+Colosseo a Rotazione\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo a Rotazione\xfffeLotta Pari, Mirabilancere Sì
+Colosseo in Multipla\xfffeSenza restrizioni
+Colosseo in Multipla\xfffeLotta Pari
+Colosseo in Multipla\xfffeSenza restrizioni, Mirabilancere Sì
+Colosseo in Multipla\xfffeLotta Pari, Mirabilancere Sì
+Metrò Lotta\xfffein Singolo
+Metrò Lotta\xfffein Doppio
+Metrò Lotta\xfffein Multipla
+Abbinamento a Caso: Libero\xfffein Singolo
+Abbinamento a Caso: Libero\xfffein Doppio
+Abbinamento a Caso: Libero\xfffein Triplo
+Abbinamento a Caso: Libero\xfffea Rotazione
+Abbinamento a Caso: Libero\xfffecon Lancio
+Abbinamento a Caso: Punteggio\xfffein Singolo
+Abbinamento a Caso: Punteggio\xfffein Doppio
+Abbinamento a Caso: Punteggio\xfffein Triplo
+Abbinamento a Caso: Punteggio\xfffea Rotazione
+Abbinamento a Caso: Punteggio\xfffecon Lancio
+Gara in Singolo\xfffeMirabilancere No
+Gara in Singolo\xfffeMirabilancere Sì
+Gara in Doppio\xfffeMirabilancere No
+Gara in Doppio\xfffeMirabilancere Sì
+Gara in Triplo\xfffeMirabilancere No
+Gara in Triplo\xfffeMirabilancere Sì
+Gara a Rotazione\xfffeMirabilancere No
+Gara a Rotazione\xfffeMirabilancere Sì
+01: Colosseo in Singolo\xfffe      Mirabilancere No
+02: Colosseo in Singolo\xfffe      Mirabilancere Sì
+03: Colosseo in Doppio\xfffe      Mirabilancere No
+04: Colosseo in Doppio\xfffe      Mirabilancere Sì
+05: Colosseo in Triplo\xfffe      Mirabilancere No
+06: Colosseo in Triplo\xfffe      Mirabilancere Sì
+07: Colosseo a Rotazione\xfffe      Mirabilancere No
+08: Colosseo a Rotazione\xfffe      Mirabilancere Sì
+09: Colosseo in Multipla\xfffe      Mirabilancere No
+10: Colosseo in Multipla\xfffe      Mirabilancere Sì
+11: Metrò Lotta\xfffe      in Singolo
+12: Metrò Lotta\xfffe      in Doppio
+13: Metrò Lotta\xfffe      in Multipla
+14: Abbinamento a Caso\xfffe      in Singolo
+15: Abbinamento a Caso\xfffe      in Doppio
+16: Abbinamento a Caso\xfffe      in Triplo
+17: Abbinamento a Caso\xfffe      a Rotazione
+18: Abbinamento a Caso\xfffe      con Lancio
+19: Gara di Lotta
+20: Maniero Lotta\xfffe      in Multipla
+21: Arena Lotta\xfffe      in Singolo
+22: Arena Lotta\xfffe      in Doppio
+23: Arena Lotta\xfffe      in Multipla
+\xf000봂\x0000TOCCA QUI!
+Vuoi scollegarti dalla\xfffeNintendo Wi-Fi Connection?
+
+Si è verificato un errore di autenticazione.\xfffeImpossibile collegarsi.
+Questi dati sono già stati registrati.\xfffeTocca il touch screen per continuare.
+Si è verificato un errore con i Dati Musical.\xfffeTocca il touch screen.
+Si è verificato un errore con i Pokémon\xfffedei Dati Musical. Tocca il touch screen.
+Si è verificato un errore con i dati del\xfffeprofilo. Tocca il touch screen.
+Si è verificato un errore. Tocca il touch\xfffescreen per continuare.
+
+Si è verificato un errore di autenticazione.\xfffeImpossibile collegarsi.
+Si è verificato un errore con il Pokémon\xfffeselezionato. Tocca il touch screen.
+Si è verificato un errore. Tocca il touch\xfffescreen per continuare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si è verificato un errore di autenticazione.\xfffeImpossibile collegarsi.
+Questi dati sono già stati registrati.\xfffeTocca il touch screen per continuare.
+Si è verificato un errore con il Video Lotta.\xfffeTocca il touch screen per continuare.
+Si è verificato un errore con il Video Lotta.\xfffeTocca il touch screen per continuare.
+Si è verificato un errore con i dati del\xfffeprofilo. Tocca il touch screen.
+Si è verificato un errore con i Pokémon\xfffedel Video Lotta. Tocca il touch screen.
+Si è verificato un errore. Tocca il touch\xfffescreen per continuare.
+
+Si è verificato un errore di autenticazione.\xfffeImpossibile collegarsi.
+Si è verificato un errore con i criteri di\xfffericerca. Tocca il touch screen.
+Si è verificato un errore con i criteri di\xfffericerca. Tocca il touch screen.
+Ricerca non riuscita...
+
+Si è verificato un errore di autenticazione.\xfffeImpossibile collegarsi.
+Non ci sono Video Lotta che rispondano\xfffeai criteri di ricerca impostati.
+Impossibile vedere questo Video Lotta.
+Ricezione Video Lotta non riuscita.
+
+
+
+
+
+Si è verificato un errore.\xfffe(Codice errore: 10601)
+Si è verificato un errore.\xfffe(Codice errore: 10602)
+Si è verificato un errore.\xfffe(Codice errore: 10603)
+Si è verificato un errore.\xfffe(Codice errore: 10604)
+Impossibile collegarsi.\xfffe(Codice errore: 10605)
+Si è verificato un errore.\xfffe(Codice errore: 10606)
+Impossibile collegarsi.\xfffe(Codice errore: 10607)
+Si è verificato un errore.\xfffe(Codice errore: 10608)
+Si è verificato un errore.\xfffe(Codice errore: 10609)
+Nessuna risposta.\xfffe(Codice errore: 10610)
+Nessuna risposta.\xfffe(Codice errore: 10611)
+Nessuna risposta.\xfffe(Codice errore: 10612)
+Il collegamento si è interrotto.\xfffe(Codice errore: 10613)
+Impossibile collegarsi.\xfffe(Codice errore: 10614)
+
+
+
+
+
+
+
+Il collegamento al server si è interrotto.\xfffeTocca il touch screen per continuare.
+
+
+Non ci sono dati salvati.
+
+
+
+
+
+
+Impossibile cancellare i dati salvati...\xfffe
+Impossibile salvare lo stesso Video Lotta.\xfffeTocca il touch screen per continuare.
+Salvataggio in corso.\xfffeNon spegnere la console.
+Ricezione dati classifica...
+Invio informazioni di salvataggio in corso.
+Salvataggio completato.\xfffeTocca il touch screen per continuare.
+Vuoi cancellare il Video Lotta\xfffedi \xf000Ā\x0001\x0000?
+Vuoi cancellare questi dati?
+I dati verranno eliminati.\xfffeNon spegnere la console.
+I dati sono stati cancellati.\xfffeTocca il touch screen per continuare.
+Invio dei tuoi Dati Musical...
+Ricezione Dati Musical...
+Invio dei tuoi Dati Box...
+Ricezione Dati Box...
+Non hai foto da spedire.\xfffePartecipa al Pokémon Musical!
+Non puoi inviare di nuovo gli stessi dati.\xfffeTocca il touch screen per continuare.
+Ricezione Video Lotta...
+Nessuna foto trovata...
+Dati Musical non trovati. Tocca il touch\xfffescreen per continuare.
+Il tuo Video Lotta è stato inviato.\xfffe(Numero video: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002)
+Verranno salvati i dati di gioco prima\xfffedi visualizzare il Video Lotta.
+I dati saranno eliminati. Salvataggio di molti\xfffedati in corso. Non spegnere la console.
+Salvataggio di molti dati in corso.\xfffeNon spegnere la console.
+Salvataggio in corso.\xfffeNon spegnere la console.
+Non ci sono dati classifica. Tocca il touch\xfffescreen per continuare.
+Vuoi inviare il tuo Video Lotta?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kuro*

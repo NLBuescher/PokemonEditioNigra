@@ -1,0 +1,47 @@
+Aumenta lievemente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Aumenta considerevolmente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Aumenta enormemente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Riduce lievemente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Riduce considerevolmente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Riduce enormemente le probabilità\xfffedi incontrare Pokémon selvatici.\xfffeL'effetto dura tre minuti.
+Aumenta lievemente la rapidità con cui si\xfffeschiudono le Uova mentre cammini.\xfffeL'effetto dura tre minuti.
+Aumenta considerevolmente la rapidità\xfffecon cui si schiudono le Uova mentre\xfffecammini. L'effetto dura tre minuti.
+Aumenta enormemente la rapidità con cui\xfffesi schiudono le Uova mentre cammini.\xfffeL'effetto dura tre minuti.
+Per tre minuti fa sì che i Pokémon si\xfffeaffezionino un po' più facilmente al loro\xfffeAllenatore.
+Per tre minuti fa sì che i Pokémon si\xfffeaffezionino più facilmente al loro\xfffeAllenatore.
+Per tre minuti fa sì che i Pokémon si\xfffeaffezionino molto più facilmente al loro\xfffeAllenatore.
+Per tre minuti consente di avere il 10% di\xfffesconto su tutti i prodotti acquistati al\xfffePokémon-Market.
+Per tre minuti consente di avere il 25% di\xfffesconto su tutti i prodotti acquistati al\xfffePokémon-Market.
+Per tre minuti consente di avere il 50% di\xfffesconto su tutti i prodotti acquistati al\xfffePokémon-Market.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeun po' di PS.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeuna considerevole quantità di PS.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeun'enorme quantità di PS.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeun po' di PP.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeuna considerevole quantità di PP.
+Quando viene usato permette al primo\xfffePokémon della squadra di recuperare\xfffeun'enorme quantità di PP.
+Aumenta lievemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Aumenta considerevolmente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Aumenta enormemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Riduce lievemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Riduce considerevolmente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Riduce enormemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura tre minuti.
+Aumenta lievemente la quantità di soldi\xfffeottenuti dopo ogni lotta. L'effetto dura\xfffetre minuti.
+Aumenta considerevolmente la quantità\xfffedi soldi ottenuti dopo ogni lotta.\xfffeL'effetto dura tre minuti.
+Aumenta enormemente la quantità di soldi\xfffeottenuti dopo ogni lotta. L'effetto dura\xfffetre minuti.
+Aumenta lievemente le probabilità di\xfffecatturare i Pokémon. L'effetto dura\xfffetre minuti.
+Aumenta considerevolmente le probabilità\xfffedi catturare i Pokémon. L'effetto dura\xfffetre minuti.
+Aumenta enormemente le probabilità\xfffedi catturare i Pokémon. L'effetto dura\xfffetre minuti.
+Aumenta enormemente la rapidità con cui\xfffesi schiudono le Uova mentre cammini.\xfffeL'effetto dura 30 minuti.
+Consente di avere per 30 minuti il 50% di\xfffesconto su tutti i prodotti acquistati al\xfffePokémon-Market.
+Per 30 minuti fa sì che i Pokémon si\xfffeaffezionino molto più facilmente al loro\xfffeAllenatore.
+Aumenta enormemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura 30 minuti.
+Aumenta enormemente la quantità di soldi\xfffeottenuti dopo ogni lotta. L'effetto dura\xfffe30 minuti.
+Aumenta enormemente le probabilità\xfffedi catturare i Pokémon. L'effetto dura\xfffe30 minuti.
+Quando lo si riceve, tutti i Pokémon della\xfffesquadra recuperano tutti i loro PS.
+Aumenta enormemente la rapidità con cui\xfffesi schiudono le Uova mentre cammini.\xfffeL'effetto dura 60 minuti.
+Consente di avere per 60 minuti il 50% di\xfffesconto su tutti i prodotti acquistati al\xfffePokémon-Market.
+Per 60 minuti fa sì che i Pokémon si\xfffeaffezionino molto più facilmente al loro\xfffeAllenatore.
+Aumenta enormemente la quantità di\xfffePunti Esperienza ottenuti dopo ogni\xfffelotta. L'effetto dura 60 minuti.
+Aumenta enormemente la quantità di soldi\xfffeottenuti dopo ogni lotta. L'effetto dura\xfffe60 minuti.
+Aumenta enormemente le probabilità\xfffedi catturare i Pokémon. L'effetto dura\xfffe60 minuti.
+

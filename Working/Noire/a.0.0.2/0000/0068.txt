@@ -1,0 +1,373 @@
+Vous entamez la conversation.
+Quelqu'un vous parle.
+On dirait que cette personne est occupée.
+Attendez un instant...
+La conversation a été interrompue.
+On a réussi à vous prendre de vitesse.
+La communication a été interrompue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\xf000봂\x0000ÉCHEC DE LA MISSION
+Vous avez obtenu:\xfffe\xf000ȁ\x0001\x0000 Offrisphère(s)\xf000븂\x0001Z
+\xf000봂\x0000MISSION ACCOMPLIE
+Veuillez patienter,\xfffela mission va commencer.
+
+On dirait que \xf000Ā\x0001\x0000 a surgi\xfffedu Heylink pour vous aider...\xf000븁\x0000\xfffeOh?\xfffe\xf000Ā\x0001\x0000 a laissé un objet!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le bonheur s'accumule dans le Heylink:\xfffe◇　Le niveau de noir a augmenté de \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Le bonheur s'accumule dans le Heylink:\xfffe◆　Le niveau de blanc a augmenté de \xf000Ȃ\x0001\x0000!\xf000븂\x0001Z
+Mii, mii!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
+Grrr!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
+... ... ...!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000
+-
+-
+-
+-
+-
+\xf000Ā\x0001\x0000: Hé hé!\xfffeJe t'ai eu!\xf000븁\x0000\xfffeMais qu'est-ce que ce Pokémon fait là?!\xfffeOh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Hé hé!\xfffeJe t'ai eu!\xf000븁\x0000\xfffeMais qu'est-ce que ce Pokémon fait là?!\xfffeOh?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000!\xf000븁\x0000
+Mii, mii!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
+Grrr!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
+... ... ...!\xf000븁\x0000\xfffeOn dirait qu'il voudrait que vous\xfffevous occupiez de lui!
+-
+-
+-
+-
+-
+\xf000Ā\x0001\x0000: Mmh?\xfffeTu veux que je m'occupe de toi?
+\xf000Ā\x0001\x0000: Ça alors! Qu'est-ce qu'il y a?\xfffeTu veux que je m'occupe de toi?
+
+
+
+
+
+-
+-
+-
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel super pouvoir!\xfffeÇa va bien m'aider, merci beaucoup!\xf000븁\x0000
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel chouette pouvoir!\xfffeÇa va m'être très utile, merci bien!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux y arriver!\xf000븁\x0000\xfffe... ... ... On dirait que le Dresseur\xfffeest en plein combat.
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux le faire!\xf000븁\x0000\xfffe... ... ... On dirait que le Dresseur\xfffeest en plein combat.
+
+
+
+
+
+Mii?\xfffeMii?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+Grr?\xfffeGrr?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+... ... ...?!\xfffe... ... ... ... ... ...?!\xf000븀\x0000\xfffeOn dirait qu'il est occupé.
+\xf000Ā\x0001\x0000: ... ...\xfffe... ... ... ... ... ... ...\xf000븀\x0000\xfffeOn dirait que cette personne est occupée.
+\xf000Ā\x0001\x0000: ... ...\xfffe... ... ... ... ... ... ...\xf000븀\x0000\xfffeOn dirait que cette personne est occupée.
+Miii!\xfffeMiii!\xf000븀\x0000\xfffeQuelle motivation!
+Grrr!\xfffeGrrrrrr!\xf000븀\x0000\xfffeQuelle motivation!
+...!\xfffe... ... ...!\xf000븀\x0000\xfffeQuelle motivation!
+\xf000Ā\x0001\x0000: Alors, ça roule?
+\xf000Ā\x0001\x0000: Hi hi! Tout va bien?
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: ... ... ...\xfffe... ... ... ... ... ... ... Oh!\xf000븁\x0000\xfffeJe... Je dormais, non?\xfffeVite, faut que j'y aille!\xf000븁\x0000\xfffeMerci de m'avoir réveillé.\xfffeTiens, prends ça pour te remercier!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ... ... ...\xfffe... ... ... ... ... ... ... Oh!\xf000븁\x0000\xfffeJe... Je dormais, c'est ça?\xfffeVite, il faut que j'y aille!\xf000븁\x0000\xfffeMerci de m'avoir réveillée.\xfffeTiens, prends ça en remerciement!\xf000븁\x0000
+Mii, mii!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+Grrr!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+... ... ...!\xf000븁\x0000\xfffeOh?\xfffeLe Pokémon s'est soudain mis à briller!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a reçu une \xf000Ĝ\x0001\x0002\xfffedu Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJ'espère que je ne t'ai pas fait peur!\xf000븀\x0000\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJe viens t'apporter ça, j'espère que ça\xfffepourra t'être utile.\xf000븁\x0000\xfffe... \xf000Ā\x0001\x0000 se met soudain à briller!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJ'espère que je ne t'ai pas fait peur!\xf000븀\x0000\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJe viens t'apporter ça, j'espère que ça\xfffepourra t'être utile.\xf000븁\x0000\xfffe... \xf000Ā\x0001\x0000 se met soudain à briller!\xf000븁\x0000
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeGrâce aux Pokémon et à tous mes amis,\xfffemon voyage se passe super bien!\xf000븁\x0000\xfffe... Oh?\xfffeTu as quelque chose pour moi?\xf000븁\x0000
+Merci, c'est sympa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Bonjour!\xfffeToi aussi, tu es en voyage?\xf000븁\x0000\xfffeGrâce aux Pokémon et à tous mes amis,\xfffemon voyage se passe bien!\xf000븁\x0000\xfffe... Oh?\xfffeTu viens m'apporter quelque chose?\xf000븁\x0000
+Merci, c'est gentil!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001 utilise l'\xf000Ĝ\x0001\x0002\xfffereçue du Heyrable sur \xf000Ā\x0001\x0000.\xf000븁\x0000
+Mii?\xfffeMii?!\xf000븁\x0000\xfffeIl a l'air surpris.
+Grr?\xfffeGrr?!\xf000븁\x0000\xfffeIl a l'air surpris.
+... ... ...?!\xfffe... ... ... ... ... ...?!\xf000븁\x0000\xfffeIl a l'air surpris.
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJ'ai quelque chose pour toi,\xfffeattends juste quelques secondes,\xf000븀\x0000\xfffeje viens te parler dès que je suis prêt!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeJe viens du Heylink!\xf000븁\x0000\xfffeJ'ai quelque chose pour toi,\xfffeattends juste quelques secondes,\xf000븀\x0000\xfffeje viens te parler dès que je suis prête!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeToi aussi, t'es en voyage?\xf000븁\x0000\xfffeN'hésite pas à m'aborder si tu as\xfffequelque chose à me dire!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeToi aussi, tu es en voyage?\xf000븁\x0000\xfffeN'hésite pas à m'aborder si tu as\xfffequelque chose à me dire!
+Miiiiii!
+Grrr, grrr!
+... ... ...!
+\xf000Ā\x0001\x0000: J'espère que ce pouvoir\xfffete sera utile! Allez, à bientôt!
+\xf000Ā\x0001\x0000: J'espère que ce pouvoir\xfffete servira! Allez, à bientôt!
+-
+-
+-
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel super pouvoir!\xfffeÇa va bien m'aider, merci beaucoup!\xf000븁\x0000
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh! Quel chouette pouvoir!\xfffeÇa va m'être très utile, merci bien!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+\xf000Ā\x0001\x0000: Bonjour!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffe... Ça te dirait, un petit combat?\xf000븁\x0000\xfffe2 Pokémon avec tous leurs PV,\xfffeniveau ajusté à \xf000Ȃ\x0001\x0001?
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+\xf000Ā\x0001\x0000: Bonjour!\xfffe... Mmh?\xf000븁\x0000\xfffeUn combat avec 2 Pokémon, niveau ajusté\xfffeà \xf000Ȃ\x0001\x0001? Attends un instant...
+-
+-
+-
+OK!\xfffeC'est parti!
+Je suis prête!\xfffeC'est parti!
+-
+-
+-
+OK!\xfffeC'est parti!
+Je suis prête!\xfffeC'est parti!
+-
+-
+-
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à la prochaine!
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à une prochaine fois!
+-
+-
+-
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à la prochaine!
+Pfiou...\xfffeC'était un chouette combat!\xf000븁\x0000\xfffeMerci d'avoir accepté,\xfffeet à une prochaine fois!
+-
+-
+-
+Ah bon?\xfffeOK, une prochaine fois alors!
+Ah bon?\xfffeD'accord, une prochaine fois alors!
+-
+-
+-
+Désolé, je suis pas prêt...\xfffeUne autre fois, d'accord?
+Désolée, je ne suis pas prête...\xfffeUne autre fois, d'accord?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+-
+-
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux y arriver!\xf000븁\x0000\xfffe... Oh, tu veux me donner un coup de main?\xfffeC'est sympa!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 bénéficie d'une Aura\xfffeRécup' PV pour son Pokémon.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Vas-y!\xfffeCourage, tu peux le faire!\xf000븁\x0000\xfffe... Oh, tu veux m'aider?\xfffeMerci!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 bénéficie d'une Aura\xfffeRécup' PV pour son Pokémon.\xf000븁\x0000
+
+
+
+
+
+-
+-
+-
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 voit son Pokémon\xffferegagner son énergie.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oh, merci!\xfffeC'est super sympa!
+... ... ... ... ... ...\xfffe... ... ... ... ... ...!!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 voit son Pokémon\xffferegagner son énergie.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Oh, merci!\xfffeC'est vraiment gentil!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai\xf000븀\x0000\xfffete donner un coup de main!\xf000븁\x0000\xfffe... Oh!\xfffeQuelqu'un m'appelle!\xf000븀\x0000\xfffeÀ la prochaine!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai t'aider!\xf000븁\x0000\xfffe... Oh!\xfffeQuelqu'un m'appelle...\xf000븀\x0000\xfffeAlors à bientôt!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeC'est bien de savoir qu'on peut\xf000븀\x0000\xfffecompter sur quelqu'un!\xf000븁\x0000\xfffe... Hein?\xfffeTu pars déjà?\xf000븁\x0000\xfffeTu m'as l'air d'avoir beaucoup à faire!\xfffeAlors à bientôt!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeC'est rassurant de savoir qu'on peut\xf000븀\x0000\xfffecompter sur quelqu'un!\xf000븁\x0000\xfffe... Quoi?\xfffeTu pars déjà?\xf000븁\x0000\xfffeTu m'as l'air d'avoir beaucoup à faire!\xfffeAlors à bientôt!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai\xf000븀\x0000\xfffete donner un coup de main!\xf000븁\x0000\xfffeTu peux te lancer sans crainte\xfffedans les combats de Pokémon!
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븁\x0000\xfffeJe viens du Heylink.\xfffeEn cas de danger, je viendrai t'aider!\xf000븁\x0000\xfffeTu peux combattre sans crainte\xfffeavec tes Pokémon!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeC'est bien de savoir qu'on peut\xfffecompter sur quelqu'un!
+\xf000Ā\x0001\x0000: Bonjour!\xf000븁\x0000\xfffeC'est rassurant de savoir qu'on peut\xfffecompter sur quelqu'un!
+
+
+
+
+
+
+
+
+
+
+Mii!\xfffeMiii!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+Grr!\xfffeGrrr!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+...!\xfffe... ... ...!\xf000븀\x0000\xfffeOn dirait qu'il cherche quelque chose.
+\xf000Ā\x0001\x0000: Oups! Je suis repéré!\xfffeVite, il est temps de s'enfuir!
+\xf000Ā\x0001\x0000: Oups! Je suis repérée!\xfffeVite, il est temps de s'enfuir!
+Mii!\xfffeMiii!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+Grr!\xfffeGrrr!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+... ... ...!\xfffe... ... ... ... ... ...!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+\xf000Ā\x0001\x0000: Qu'est-ce que ce Pokémon\xfffefait là? C'est bizarre...\xf000븀\x0000\xfffeIl cherche quelque chose?
+\xf000Ā\x0001\x0000: Qu'est-ce que ce Pokémon\xfffefait là? C'est étrange...\xf000븀\x0000\xfffeIl cherche quelque chose?
+Mii!\xfffeMiii!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+Grr!\xfffeGrrr!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+...!\xfffe... ... ...!\xf000븁\x0000\xfffeVous l'avez attrapé!\xf000븁\x0000\xfffe... Mais il a réussi à s'enfuir en\xfffeprofitant de votre surprise.
+\xf000Ā\x0001\x0000: Oups! Je suis repéré!\xfffeVite, il est temps de s'enfuir!
+\xf000Ā\x0001\x0000: Oups! Je suis repérée!\xfffeVite, il est temps de s'enfuir!
+Mii!\xfffeMiii!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+Grr!\xfffeGrrr!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+... ... ...!\xfffe... ... ... ... ... ...!\xf000븀\x0000\xfffeVous vous êtes fait attraper!
+\xf000Ā\x0001\x0000: Ha ha ha,\xfffetu t'es fait avoir!\xf000븀\x0000\xfffeEh! Ne t'enfuis pas!
+\xf000Ā\x0001\x0000: Hi hi hi,\xfffetu t'es fait avoir!\xf000븀\x0000\xfffeEh! Ne t'enfuis pas!
+
+
+
+
+
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+Vous avez atteint l'objectif!\xf000븁\x0000\xfffe... ... ... ... ... ...\xfffe... ... Scratch scratch!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 a caché l'objet \xf000ĉ\x0001\x0001\xfffeavec un petit message. La personne qui\xf000븀\x0000\xfffetrouvera ça sera bien surprise!
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xfffeSacrée surprise, hein!\xf000븀\x0000\xfffeJe viens du Heylink.\xf000븁\x0000\xfffeBon, il est temps de faire une petite pause\xfffedans ton voyage, tu ne crois pas?\xf000븁\x0000\xfffe... Figure-toi qu'en ce moment, il y a une\xfffepromo inouïe dans les Boutiques Pokémon!\xf000븁\x0000\xfffeJe te propose l'objet \xf000ĉ\x0001\x0001\xfffepour la somme ridicule de...\xf000븁\x0000
+... \xf000Ȅ\x0001\x0002 $! Tarif spécial!\xfffeNe laisse pas passer une chance pareille!\xf000븁\x0000\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $! Ça te dit?
+\xf000Ā\x0001\x0000: Bonjour!\xfffeDrôle de surprise, n'est-ce pas?\xf000븀\x0000\xfffeJe viens du Heylink.\xf000븁\x0000\xfffeBon, il est temps de faire une petite pause\xfffedans ton voyage, tu ne crois pas?\xf000븁\x0000\xfffe... Figure-toi qu'en ce moment, il y a une\xfffepromo inouïe dans les Boutiques Pokémon!\xf000븁\x0000\xfffeJe te propose l'objet \xf000ĉ\x0001\x0001\xfffepour la somme ridicule de...\xf000븁\x0000
+... \xf000Ȅ\x0001\x0002 $! Tarif spécial!\xfffeNe laisse pas passer une chance pareille!\xf000븁\x0000\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $! Ça te dit?
+-
+-
+-
+\xf000Ā\x0001\x0000: Salut!\xf000븁\x0000\xfffeHein? Quoi?!\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeMmh... Laisse-moi réfléchir...\xfffe
+\xf000Ā\x0001\x0000: Bonjour!\xf000븁\x0000\xfffeOh? C'est vrai?!\xfffe1 \xf000ĉ\x0001\x0001 pour \xf000Ȅ\x0001\x0002 $?\xf000븁\x0000\xfffeMmh... Laisse-moi réfléchir un peu...
+-
+-
+-
+Merci! Tu ne le regretteras pas!\xfffeVoilà l'objet: 1 magnifique \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeAlors, à bientôt!
+Merci! Tu ne le regretteras pas!\xfffeVoici l'objet: 1 magnifique \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0003 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeAlors, à bientôt!
+-
+-
+-
+C'est décidé!\xfffeDonne-moi 1 \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Waouh, ça c'est une affaire!\xfffeMerci bien!
+C'est décidé!\xfffeDonne-moi 1 \xf000ĉ\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 reçoit 1 \xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Eh bien, quelle bonne affaire!\xfffeMerci beaucoup!
+-
+-
+-
+Ah bon?\xfffeD'accord... À une prochaine fois, alors!
+Ah bon?\xfffeD'accord... À une prochaine fois, alors!
+-
+-
+-
+Mmh...\xfffeNon, ça ne m'intéresse pas, finalement.\xf000븁\x0000\xfffeDésolé!\xfffe... Peut-être une prochaine fois!
+Mmh...\xfffeNon, ça ne m'intéresse pas, finalement.\xf000븁\x0000\xfffeDésolée!\xfffe... Peut-être une prochaine fois!
+-
+-
+-
+... Oups!\xfffeOn dirait que t'as pas assez d'argent!\xf000븁\x0000\xfffeTant pis, ce sera pour une prochaine fois.\xfffeAllez, à bientôt!
+... Oups!\xfffeOn dirait que tu n'as pas assez d'argent!\xf000븁\x0000\xfffeTant pis, ce sera pour une prochaine fois.\xfffeAllez, à bientôt!
+-
+-
+-
+Ah... Désolé!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais j'ai pas assez de sous!\xf000븁\x0000\xfffeJe te l'achète la prochaine fois, promis!\xfffeÀ bientôt!
+Ah... Désolée!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais je suis à court d'argent!\xf000븁\x0000\xfffeJe te l'achète la prochaine fois, promis!\xfffeÀ très bientôt!
+-
+-
+-
+Oups!\xfffeOn dirait que ton Sac est plein!\xf000븁\x0000\xfffeOn fera affaire une prochaine fois.\xfffeÀ bientôt!
+Oups!\xfffeOn dirait que ton Sac est plein!\xf000븁\x0000\xfffeOn fera affaire une prochaine fois.\xfffeÀ bientôt!
+-
+-
+-
+Ah... Désolé!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais mon Sac est plein!\xf000븁\x0000\xfffeJe t'achète quelque chose la prochaine\xfffefois, promis! À bientôt!
+Ah... Désolée!\xfffeJe voulais te l'acheter,\xf000븀\x0000\xfffemais mon Sac est plein!\xf000븁\x0000\xfffeJe t'achète quelque chose la prochaine\xfffefois, promis! À bientôt!
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+
+\xf000ȅ\x0001\x0002 $
+Voulez-vous sauvegarder la partie?
+
+Sauvegarde en cours...\xfffeNe pas éteindre.
+\xf000Ā\x0001\x0000 a sauvegardé la partie.
+
+Erreur de sauvegarde.\xf000븁\x0000
+Une autre partie est déjà sauvegardée.\xfffeSauvegarde impossible.\xf000븁\x0000\xfffeVeuillez vous référer au mode d'emploi\xfffepour plus d'informations.\xf000븁\x0000\xfffeAppuyez sur haut, SELECT et le\xfffebouton B à l'écran titre pour effacer\xf000븀\x0000\xfffela sauvegarde actuelle.
+Une autre partie est déjà sauvegardée.\xfffeSauvegarde impossible.\xf000븁\x0000\xfffeVeuillez vous référer au mode d'emploi\xfffepour plus d'informations.\xf000븁\x0000\xfffeAppuyez sur haut, SELECT et le\xfffebouton B à l'écran titre pour effacer\xf000븀\x0000\xfffela sauvegarde actuelle.\xf000븁\x0000
+Sauvegarde de beaucoup de données...\xfffeNe pas éteindre.
+
+
+
+Vous ne pouvez pas sauvegarder quand\xfffevous êtes dans la partie de quelqu'un\xf000븀\x0000\xfffed'autre, et vice-versa.
+Vous êtes en communication.\xfffeSouhaitez-vous couper la communication?
+Fin de la communication.\xfffeVeuillez patienter...
+
+
+Avant toute chose, vous devriez\xfffefaire soigner vos Pokémon.
+Si les PV de vos Pokémon sont\xfffefaibles, venez nous voir.\xf000븁\x0000\xfffeSi vous prévoyez de partir loin,\xfffevous devriez acheter des Potions\xf000븀\x0000\xfffedans une Boutique Pokémon.\xf000븁\x0000\xfffeNous vous souhaitons\xfffebonne chance.
+Vos Pokémon ont été soignés.\xf000븁\x0000\xfffeNous vous souhaitons\xfffebonne chance.
+La fonction de communication sans fil\xfffedoit être activée dans les paramètres\xf000븀\x0000\xfffede la console. (50699)\xf000븁\x0000
+
+Conseil du Professeur...\xfffe\xf000Ā\x0001\x0000, chaque chose en son temps!
+Impossible de descendre de\xfffeBicyclette ici.
+Aucun des Pokémon de votre équipe\xfffen'a de Ruban.

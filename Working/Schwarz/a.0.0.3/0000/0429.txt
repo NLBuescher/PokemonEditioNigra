@@ -1,0 +1,43 @@
+Cheren: Entschuldigung für den\xfffeTumult von eben.\xf000븁\x0000
+Bell: Äh, also...\xfffeIch werde dann mal aufräumen.\xf000븁\x0000
+Mutter: Aufräumen?\xf000븁\x0000\xfffeSchon gut, schon gut!\xfffeDarum werde ich mich nachher kümmern.\xf000븁\x0000\xfffeSolltet ihr stattdessen nicht\xfffelieber Prof. Esche besuchen?\xf000븁\x0000
+Cheren: Ja, das stimmt. Wir sollten\xfffeuns bei Prof. Esche bedanken gehen!\xf000븁\x0000\xfffeBis bald und Entschuldigung für\xfffedie Umstände!\xf000븁\x0000
+Cheren: Ich warte dann vor\xfffedem Pokémon-Labor auf euch!\xf000븁\x0000
+Bell: Oh! Ich muss vorher noch mal\xfffekurz nach Hause.\xf000븁\x0000
+Ich bitte vielmals um Entschuldigung \xfffefür die Störung.\xf000븁\x0000
+Mutter: \xf000Ā\x0001\x0000, Pokémon-Kämpfe\xfffesind schon eine lebhafte Angelegenheit.\xf000븁\x0000\xfffeDas Lärmen der Pokémon war\xfffebis hier unten zu hören.\xf000븁\x0000
+Ach, das weckt Erinnerungen an meinen\xfffeallerersten Pokémon-Kampf!\xf000븁\x0000
+Ehe ich's vergesse: Nach dem Kampf sollte\xfffeman seinem Pokémon eine Pause gönnen!\xf000븁\x0000
+So, dein Pokémon ist\xfffewieder putzmunter!\xf000븁\x0000\xfffeUnd vergiss deinen Viso-Caster nicht,\xfffewenn du dich auf den Weg machst.\xf000븁\x0000
+Du gehst dich auch bei Prof. Esche\xfffebedanken, nicht wahr?\xf000븁\x0000\xfffeAlso, dann lass dich mal nicht aufhalten!
+Mutter: Puh! Ich unterbreche den\xfffeHausputz für ein kurzes Päuschen.\xf000븁\x0000\xfffeDu und dein Pokémon-Team solltet\xfffeeuch auch eine Verschnaufpause gönnen.\xf000븁\x0000\xfffeDenn ein guter Trainer achtet stets\xfffeauf das Wohl seiner Pokémon!\xf000븁\x0000
+So, jetzt dürftet ihr alle wieder\xfffeim Vollbesitz eurer Kräfte sein!\xf000븀\x0000\xfffeNun kann euch nichts mehr aufhalten!
+Mutter: Wohin treibt es dich als Nächstes\xfffeund welche Pokémon wirst du treffen?
+Mutter: \xf000Ā\x0001\x0000, wie geht es deinem\xfffePokémon-Team eigentlich?\xf000븁\x0000\xfffeGönne ihm und dir selbst eine Pause.\xf000븁\x0000\xfffeDu weißt doch, ein guter Trainer achtet\xfffeimmer auf das Wohl seiner Pokémon.\xf000븁\x0000
+Mutter: So gefallt ihr mir, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDu und dein Pokémon-Team, ihr seht jetzt\xfffewieder richtig frisch und munter aus.\xf000븁\x0000\xfffeNa, dann setzt mal euer Abenteuer fort!
+Mutter: \xf000Ā\x0001\x0000, kümmerst du dich\xfffeauch gut um dein Pokémon-Team?\xf000븁\x0000\xfffeImmerhin setzt es für dich einiges aufs\xfffeSpiel und kämpft nach Leibeskräften.\xf000븁\x0000\xfffeDaher versteht es sich von selbst, sein\xfffeTeam zu hegen und zu pflegen, stimmt's?
+Mutter: Wo ich so darüber nachdenke...\xf000븁\x0000\xfffeAuch dein Vater ist mit seinem Pokémon\xfffeauf Reisen gegangen, genau wie du jetzt.\xf000븁\x0000\xfffeUnd unterwegs traf er dann mich...
+Mutter: Und? Hast du schon viele\xfffePokémon eingefangen, so wie\xf000븀\x0000\xfffeProf. Esche es sich gewünscht hat?
+Mutter: Welche Erfahrungen werden\xfffeCheren und Bell wohl unterwegs machen?\xf000븁\x0000\xfffeWenn sie erst herausfinden, wonach ihr\xfffeHerz strebt, wird dies sicher eine ganz\xf000븀\x0000\xfffeunvergessliche Reise für sie werden!
+Mutter: \xf000Ā\x0001\x0000!\xfffeWillkommen zu Hause!\xf000븁\x0000\xfffeOffenbar hast du viele aufregende\xfffeDinge da draußen erlebt.\xf000븁\x0000\xfffeDu solltest dich etwas ausruhen\xfffeund wieder zu Kräften kommen.\xf000븁\x0000
+Mutter: So gefallt ihr mir! Du und dein\xfffePokémon-Team, ihr seht großartig aus!\xf000븁\x0000\xfffeEin kleiner Ratschlag von deiner Mama...\xf000븁\x0000\xfffeWie du ja weißt, wird die Energie der\xfffePokémon in KP gemessen.\xf000븁\x0000\xfffeWenn dein Pokémon einmal all seine\xfffeKP verliert, kannst du sie in einem\xf000븀\x0000\xfffePokémon-Center wieder auffüllen lassen.\xf000븁\x0000\xfffeWer eine längere Reise antreten will,\xfffesollte sich im Pokémon-Supermarkt\xf000븀\x0000\xfffeimmer gut mit Tränken eindecken.\xf000븁\x0000\xfffeSo, und jetzt mach deine Mutter stolz!\xfffePass gut auf dich auf da draußen!
+Mutter?: Willkommen daheim,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeOffenbar hast du viele aufregende\xfffeDinge da draußen erlebt.\xf000븁\x0000
+Mutter?: Lügst du mich auch nicht an?\xf000븁\x0000\xfffeGleich zwei Legendären Pokémon zu\xfffebegegnen, das ist wirklich unglaublich!\xf000븁\x0000
+Mutter?: Mit wem habe ich das\xfffeVergnügen, wenn ich fragen darf?\xf000븁\x0000
+Mutter?: Da habe ich doch glatt\xfffevergessen, meine Verkleidung abzunehmen!\xf000븁\x0000\xfffeWie unhöflich! So, dann möchte ich mich\xfffejetzt erst einmal vorstellen!\xf000븁\x0000
+Ich bin Mitglied der Internationalen\xfffePolizei, deren Aufgabe es ist, die Welt zu\xf000븀\x0000\xfffebeschützen. Mein Name ist...\xf000븁\x0000\xfffeVerzeihung, das ist streng geheim! Ich\xfffewerde dir stattdessen meinen Decknamen\xf000븀\x0000\xfffeverraten. Er lautet LeBelle. Ich bin\xf000븀\x0000\xfffeallen unter diesem Namen bekannt!\xf000븁\x0000
+LeBelle: Ich scheute den weiten Weg\xfffehierher nicht einen Moment, als ich\xf000븀\x0000\xfffeerfuhr, dass in der Einall-Region eine\xf000븀\x0000\xfffeGruppe namens Team Plasma im\xf000븀\x0000\xfffeUntergrund Ränke schmiedet...\xf000븁\x0000
+Aber dank der Arenaleiter und deiner\xfffeAnstrengungen sind das Schloss von Team\xf000븀\x0000\xfffePlasma zerstört und seine Mitglieder\xf000븀\x0000\xfffein alle Winde zerstreut worden.\xf000븁\x0000
+Vielleicht... ach, was sage ich!\xf000븁\x0000\xfffeZu allem Übel verstecken sich einige\xfffeMitglieder, die man die Sieben Weisen\xf000븀\x0000\xfffenennt, weiterhin in der Einall-Region.\xf000븁\x0000
+An diesem Punkt kommst du ins Spiel.\xfffeIch habe eine große Bitte an dich,\xf000븀\x0000\xfffeda du ein herausragender Trainer bist.\xf000븁\x0000\xfffeIch möchte, dass du erneut die Orte der\xfffeEinall-Region aufsuchst und für mich\xf000븀\x0000\xfffedie Sieben Weisen ausfindig machst.\xf000븁\x0000\xfffeAuch Champ Lauro hat dich mir\xfffefür diese Aufgabe empfohlen!\xf000븁\x0000\xfffeWirst du mir helfen?
+Hust, hust!\xf000븁\x0000\xfffeUnd nochmals meine Bitte:\xf000븁\x0000\xfffeBesuch erneut alle Orte der\xfffeEinall-Region und finde\xf000븀\x0000\xfffedie Sieben Weisen!
+LeBelle: Oh, vielen Dank!\xf000븁\x0000\xfffeDu zählst so viel wie eine ganze Armee\xfffevon Verbündeten!\xf000븁\x0000\xfffeNimm dies als Zeichen meiner Dankbarkeit!\xf000븁\x0000
+Mutter: Das ist doch eine\xfffeSuperangel, oder?!\xf000븁\x0000
+LeBelle: Ja!\xfffeEs ist eine Superangel!\xf000븁\x0000
+Mutter: Es ging doch um die Sieben Weisen\xfffevon Team Plasma, oder irre ich mich da?\xf000븁\x0000\xfffeWie soll denn die Superangel bei der\xfffeSuche nach ihnen behilflich sein?\xf000븁\x0000
+LeBelle: Eine ausgezeichnete Frage!\xf000븁\x0000\xfffeIch hätte auch nichts anderes von der\xfffeMutter von \xf000Ā\x0001\x0000 erwartet!\xf000븁\x0000\xfffeNun, ich werde sie sofort beantworten.\xf000븁\x0000\xfffeSie hat ABSOLUT NICHTS\xfffemit unserer Suche zu tun.\xf000븁\x0000
+...
+...
+Mutter: Aha...\xf000븁\x0000
+LeBelle: Also, nun erkläre ich dir,\xfffewie du die Superangel benutzt.\xf000븁\x0000\xfffeZunächst brauchst du ein Gewässer,\xfffean dem du die Angel auswirfst.\xf000븁\x0000\xfffeNun konzentrierst du dich und wartest!\xf000븁\x0000\xfffeWenn dann ein Pokémon anbeißt und\xfffeein „!“ auftaucht, drückst du auf den\xf000븀\x0000\xfffeA-Knopf und ziehst die Schnur fest an!\xf000븁\x0000\xfffeAlso dann, \xf000Ā\x0001\x0000!\xfffeIch verlasse mich auf dich!\xf000븁\x0000
+Mutter: Die Leute von der Inter-\xfffenationalen Polizei sind eigenartig, oder?\xf000븁\x0000\xfffeAber mach dir nichts daraus und tue\xfffeeinfach das, was du für richtig hältst.\xf000븀\x0000\xfffeSo ist's wohl am besten, denke ich.\xf000븁\x0000\xfffeDu bist ja schon erwachsen genug!

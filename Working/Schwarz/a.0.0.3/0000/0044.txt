@@ -1,0 +1,17 @@
+Wundervolle Aussicht, spannende Kämpfe!\xfffeWillkommen auf der MS Einall Royal!\xf000븀\x0000\xfffeEin Fahrschein kostet 1 000 $!\xf000븁\x0000\xfffeMöchtest du an Bord kommen?
+Die MS Einall Royal\xfffeist ein Passagierschiff.\xf000븁\x0000\xfffeSie verlässt jeden Tag einmal\xfffegegen Abend den Hafen!\xf000븁\x0000
+Die MS Einall Royal legt nur am Abend ab.\xfffeBitte komm abends noch mal wieder.
+Oh, das tut mir aber leid!\xfffeDu hast nicht genug Geld.\xf000븁\x0000\xfffeKomm doch ein andermal wieder!
+Ein Fahrschein kostet 1 000 $.\xfffeMöchtest du an Bord kommen?
+Auf unserer Rundfahrt werden wir\xfffeunter der großen Himmelspfeilbrücke\xf000븀\x0000\xfffedurchfahren, bei der Wunderbrücke\xf000븀\x0000\xfffewenden und dann nach Stratos City\xf000븀\x0000\xfffezurückkehren.\xf000븁\x0000\xfffeIch werde die Schiffssirene fünfmal\xfffeerklingen lassen - als Signal,\xf000븀\x0000\xfffedass alle von Bord gehen müssen.\xf000븁\x0000
+MS Einall Royal\xf000븁\x0000\xfffeAuf unserem stolzen Schiffsdeck\xfffehat man eine wunderbare Aussicht\xf000븀\x0000\xfffeund in unseren Kabinen können sich\xf000븀\x0000\xfffekampfbegeisterte Trainer treffen.\xf000븁\x0000\xfffeGenießen Sie die Aussicht\xfffesowie die Pokémon-Kämpfe.\xf000븁\x0000\xfffeUm nicht die Funkgeräte und andere\xfffeelektronische Geräte an Bord zu\xf000븀\x0000\xfffestören, bitte ich alle Passagiere,\xf000븀\x0000\xfffedas C-Gear nicht zu benutzen.\xf000븀\x0000\xfffeVielen Dank für ihr Verständnis.\xf000븁\x0000
+Möchtest du das C-Gear ausschalten?
+In wenigen Augenblicken legen wir ab.\xfffeAhoi und viel Vergnügen!\xf000븁\x0000
+Sehr wohl!\xfffeBitte komm recht bald wieder.
+Danke, dass du mit der MS Einall Royal\xfffegefahren bist. Beehre uns bald wieder!
+Heute sind wir leider\xfffeschon in See gestochen.\xf000븁\x0000\xfffeBitte beehre uns morgen wieder!
+Herzlichen Glückwunsch!\xfffeDu hast alle Trainer an Bord besiegt.\xf000븁\x0000\xfffeHier ist dein Geschenk.\xfffeBitte nimm es in Empfang!\xf000븁\x0000
+Die MS Einall Royal wird gerade\xfffebeladen und vorbereitet.\xf000븁\x0000\xfffeUm die stärksten Trainer gebührend\xfffezu empfangen, scheuen wir keine Mühen!
+An Bord gehen
+Informationen über das Schiff
+Zurück

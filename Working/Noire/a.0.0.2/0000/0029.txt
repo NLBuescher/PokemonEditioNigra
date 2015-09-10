@@ -1,0 +1,36 @@
+OPTIONS
+VITESSE DU TEXTE
+ANIM. COMBAT
+STYLE DE COMBAT
+SON
+UNUSED
+
+SAUVEGARDE IR
+OK
+RETOUR
+1
+2
+3
+AVEC
+SANS
+CHOIX
+DÉFINI
+STÉRÉO
+MONO
+
+
+
+
+ACTIVE
+INACTIVE
+Vous pouvez choisir parmi 3 vitesses\xfffede défilement du texte.
+Vous pouvez choisir de voir ou non les\xfffeanimations pendant les combats.
+Vous pouvez garder le même Pokémon ou en\xfffechanger quand votre adversaire est mis K.O.
+Vous pouvez régler le son\xfffedu jeu Pokémon.
+
+
+Vous pouvez activer ou non la sauvegarde\xfffeavant l'utilisation de la comm. infrarouge.
+Aucune modification possible.\xfffeIl existe une autre sauvegarde.\xf000븁\x0000
+Appliquer les changements?
+OUI
+NON

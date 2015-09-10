@@ -1,0 +1,22 @@
+Sono qui per studiare i fossili di Pokémon.\xf000븁\x0000
+Vedo che hai un fossile. Vuoi rigenerare\xfffeun Pokémon?
+Quale fossile desideri utilizzare per\xffferigenerare un Pokémon?
+Ricevuto!\xf000븁\x0000\xfffeAllora rigenero subito un Pokémon a\xfffepartire da \xf000ĉ\x0001\x0000!\xf000븁\x0000
+Non ti va di rigenerare un Pokémon?\xfffeVa bene, ho capito.
+
+Ho rigenerato un Pokémon dal fossile che\xfffemi hai affidato!\xf000븁\x0000\xfffeÈ \xf000ā\x0001\x0000! Abbine cura!\xf000븁\x0000
+\xf000Ā\x0001\x0000 ottiene \xf000ā\x0001\x0001!
+Vuoi dare un soprannome a \xf000ā\x0001\x0000?
+Che peccato! La tua squadra è già\xfffeal completo.\xf000븁\x0000\xfffeTorna a prendere questo Pokémon più\xfffetardi. Intanto me ne occuperò io!
+Torna a trovarmi quando avrai dei fossili!
+\xf000ĉ\x0001\x0000
+\xf000ĉ\x0001\x0001
+Radifossile
+Fossilunghia
+Helixfossile
+Domofossile
+Ambra Antica
+Fossilscudo
+Fossilcranio
+Esci
+Un f-fossile...? P-Potresti ripassare\xfffein un altro m-momento...?

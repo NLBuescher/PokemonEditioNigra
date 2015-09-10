@@ -1,0 +1,20 @@
+¡\xf000Ā\x0001\x0000 ha usado el\xfffe\xf000Ĝ\x0001\x0002!\xf000븁\x0000
+Se ha pasado el efecto\xfffedel \xf000Ĝ\x0001\x0002.
+Se ha pasado el efecto\xfffedel \xf000Ĝ\x0001\x0002.\xf000븁\x0000
+Comprobando el Poder Regalo registrado\xfffeo en uso...\xf000븁\x0000
+\xf000\xff00\x0001\x0002PODER REGALO REGISTRADO\xf000\xff00\x0001\x0000
+\xf000\xff00\x0001\x0002PODER REGALO EN USO\xf000\xff00\x0001\x0000
+\xf000Ĝ\x0001\x0000
+\xf000Ĝ\x0001\x0000\xf000봃\x0001\x0000\xf000ȁ\x0001\x0001:\xf000ȁ\x0001\x0002
+¡\xf000Ā\x0001\x0000 se encontrará con más\xfffePokémon salvajes!
+¡\xf000Ā\x0001\x0000 se encontrará con menos\xfffePokémon salvajes!
+¡Los Huevos eclosionarán más rápido!
+¡Los Pokémon de \xf000Ā\x0001\x0000 serán\xfffemás amistosos!
+¡Las Tiendas Pokémon ofrecerán\xfffedescuentos!
+¡El \xf000Ă\x0001\x0001 de \xf000Ā\x0001\x0000\xfffeha recuperado PS!
+¡El \xf000Ă\x0001\x0001 de \xf000Ā\x0001\x0000\xfffeha recuperado PP!
+¡Los Pokémon de \xf000Ā\x0001\x0000 ganarán\xfffemás Puntos de Experiencia!
+¡Los Pokémon de \xf000Ā\x0001\x0000 ganarán\xfffemenos Puntos de Experiencia!
+¡\xf000Ā\x0001\x0000 obtendrá más dinero\xfffeal final de los combates!
+¡\xf000Ā\x0001\x0000 atrapará Pokémon\xfffemás fácilmente!
+¡Todos los Pokémon de \xf000Ā\x0001\x0000\xfffese han recuperado por completo!

@@ -1,0 +1,3 @@
+Vuoi cancellare tutti i dati salvati?
+Una volta cancellati, i dati non\xfffepotranno più essere recuperati.\xf000븁\x0000\xfffeVuoi procedere comunque?
+Cancellazione in corso.\xfffeNon spegnere la console.

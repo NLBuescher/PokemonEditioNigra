@@ -1,0 +1,15 @@
+N: \xf000븉\x0001\x0001Du suchst Team Plasma?\xf000븁\x0000\xfffeSie haben sich ins Innere des\xfffeVergnügungsparks geflüchtet.\xf000븁\x0000\xfffeFolge mir!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Weit und breit niemand zu sehen.\xf000븁\x0000\xfffeSteigen wir ins Riesenrad,\xfffevielleicht sehen wir sie aus der Höhe.\xf000븁\x0000\xfffeIch liebe Riesenräder!\xf000븁\x0000\xfffeMechanik in Perfektion,\xfffemathematische Präzision...\xf000븉\x0001\x0000\xf000븁\x0000
+Team Plasma: N!\xf000븁\x0000
+Team Plasma: Alles in Ordnung?!\xf000븁\x0000
+N: \xf000븉\x0001\x0001Alles bestens!\xf000븁\x0000\xfffeUm die Pokémon zu retten,\xfffemuss ich zuerst meine Leute beschützen.\xf000븁\x0000\xfffeWährend ich kämpfe, flieht ihr von hier.\xf000븁\x0000\xfffeAlso dann, \xf000Ā\x0001\x0000:\xfffeTeilst du meine Vision?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Falls du die Wahrheit sprichst,\xfffeso bin ich erfreut.\xf000븁\x0000\xfffeAlso dann, auf meine Zukunftsvision!\xf000븁\x0000\xfffeIch kann hier und jetzt nicht gegen dich\xfffegewinnen, aber damit Team Plasma fliehen\xf000븀\x0000\xfffekann, muss ich dich aufhalten.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Verstehe... sehr bedauerlich.\xf000븁\x0000\xfffeAlso dann, für meine Zukunftsvision!\xf000븁\x0000\xfffeIch kann hier und jetzt nicht gegen dich\xfffegewinnen, aber damit Team Plasma fliehen\xf000븀\x0000\xfffekann, muss ich dich aufhalten.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Du bist wirklich stark.\xf000븁\x0000\xfffeAber es ist an mir, die Zukunft zu formen.\xfffeDas ist meine Aufgabe!\xf000븉\x0001\x0000\xf000븁\x0000
+Dazu werde ich den Champ übertreffen.\xf000븁\x0000\xfffeIch werde einzigartig sein,\xfffekeine Niederlage kennen.\xf000븁\x0000\xfffeIch bringe alle Trainer dazu,\xfffeihre Pokémon freizulassen!\xf000븁\x0000\xfffeIst es dein Wunsch, wie bisher mit\xfffeden Pokémon zusammen zu sein?\xf000븁\x0000\xfffeDann erlange alle Orden dieser Region\xfffeund begib dich zur Pokémon Liga!\xf000븁\x0000\xfffeDort kannst du ja versuchen,\xfffemich aufzuhalten!\xf000븁\x0000
+\xf000븉\x0001\x0001Aber falls du nicht von ganzem Herzen\xfffean deine Idee glaubst, wirst du mich\xf000븀\x0000\xfffeniemals aufhalten können.\xf000븉\x0001\x0000\xf000븁\x0000
+Die Achterbahn fährt mit Karacho,\xfffeda spinnt jeder Tacho!
+Das Riesenrad dreht sich froh,\xfffefrag mich nicht wieso!
+Ein Vergnügungspark macht jedem Spaß,\xfffeob alt oder jung!
+Kuck mal da! Ein Clown!
+Pokémon-Arena von Rayono City\xf000븁\x0000\xfffe\xfffeLeiterin: Kamilla\xfffeDie strahlende Schönheit

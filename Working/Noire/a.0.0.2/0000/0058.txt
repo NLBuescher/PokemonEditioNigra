@@ -1,0 +1,40 @@
+Mise à jour de la Licence Numérique\xfffepour la Compétitions Live.\xf000븁\x0000\xfffeÉcraser l'ancienne Licence?
+Mise à jour de la Licence Numérique\xfffepour la Compétition Live.\xf000븁\x0000\xfffeL'inscription de la Boîte Combat à la\xfffeprécédente Compétition sera annulée.\xf000븁\x0000\xfffeÉcraser l'ancienne Licence?
+Obtention de la Licence Numérique\xfffepar communication infrarouge.\xf000븁\x0000\xfffeVeuillez rapprocher votre carte de jeu\xfffeet celle de votre partenaire\xf000븀\x0000\xfffepuis appuyer sur le bouton A.\xf000븁\x0000
+Vous vous êtes déjà retiré(e) d'une\xfffeCompétition où vous étiez inscrit(e).\xf000븁\x0000\xfffeVous ne pouvez pas participer à\xfffecette Compétition.\xf000븁\x0000
+Vous avez déjà participé\xfffeà cette Compétition.\xf000븁\x0000\xfffeVous ne pouvez pas vous y inscrire.\xf000븁\x0000
+Inscription des Pokémon\xfffede la Boîte Combat.\xf000븁\x0000\xfffeATTENTION!\xfffeUne fois inscrits, les Pokémon ne peuvent\xf000븀\x0000\xfffeplus être enlevés de la Boîte jusqu'à ce\xf000븀\x0000\xfffeque vous vous désinscriviez.\xf000븁\x0000\xfffeVoulez-vous inscrire les Pokémon de la\xfffeBoîte Combat?
+OUI
+NON
+Voulez-vous annuler l'inscription?
+Vous ne remplissez pas les conditions\xfffed'entrée à cette Compétition.\xf000븁\x0000\xfffeVeuillez consulter les règles\xfffeavant de choisir les Pokémon de\xf000븀\x0000\xfffevotre Boîte Combat.\xf000븁\x0000
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Les Pokémon de la Boîte Combat\xfffeont été inscrits.\xf000븁\x0000\xfffeVous ne pourrez plus enlever les Pokémon\xfffede la Boîte Combat\xf000븀\x0000\xfffejusqu'à ce que vous vous désinscriviez.\xf000븁\x0000
+COMPÉTITIONS!\xfffeQue voulez-vous faire?
+COMBATTRE
+NE PAS PARTICIPER
+SE DÉSINSCRIRE
+Retransmission du dernier combat.\xf000븁\x0000
+Si vous vous désinscrivez, vous\xfffene pourrez plus vous réinscrire\xf000븀\x0000\xfffeà cette Compétition.\xf000븁\x0000\xfffeVoulez-vous vraiment vous désinscrire?
+Suppression de l'inscription.\xfffeConfirmer?
+L'inscription de la Boîte Combat\xfffea été supprimée.\xf000븁\x0000
+Communication infrarouge\xfffeavec votre partenaire.\xf000븁\x0000\xfffeVeuillez rapprocher votre carte de jeu\xfffeet celle de votre partenaire\xf000븀\x0000\xfffepuis appuyer sur le bouton A.\xf000븁\x0000
+Arrêter la communication infrarouge?
+La Compétition choisie ne correspond pas\xfffeà celle de votre partenaire.\xf000븁\x0000\xfffeVeuillez vérifier votre Licence Numérique\xfffeet parler au responsable.\xf000븁\x0000
+Partenaire trouvé!
+Suivez les instructions du responsable\xfffeet appuyez sur le bouton A.\xf000븁\x0000
+Le combat est terminé.\xfffeLes Pokémon de la Boîte Combat\xf000븀\x0000\xfffesont désinscrits.\xf000븁\x0000
+Échec de l'obtention de la Licence.\xf000븁\x0000
+Échec de l'obtention de la Licence.\xf000븁\x0000
+La communication a échoué.\xf000븁\x0000
+Fin de la Compétition Live.\xf000븁\x0000
+OK
+Fin de la Compétition Live.\xfffeMerci de votre participation.\xf000븁\x0000
+Obtention des données...\xfffeVeuillez patienter.
+Recherche de partenaires...\xfffeVeuillez patienter.
+Un problème est survenu\xfffelors du dernier combat.\xf000븀\x0000\xfffeRetransmission impossible.\xf000븁\x0000
+Communication en cours...\xfffeVeuillez patienter.
+Vous avez déjà combattu\xfffeavec ce partenaire.\xf000븁\x0000\xfffeVeuillez trouver un autre partenaire\xfffepour continuer.\xf000븁\x0000
+Il n'y a aucun Pokémon dans la Boîte.\xf000븁\x0000\xfffeVeuillez vérifier les règles de\xfffeparticipation et préparer vos Pokémon.\xf000븁\x0000
+Faites votre sélection.
+Une erreur s'est produite.\xfffeLe combat a pris fin.\xf000븀\x0000\xfffeVeuillez vous adresser au responsable.\xf000븁\x0000

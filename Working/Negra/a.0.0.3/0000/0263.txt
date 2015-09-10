@@ -1,0 +1,13 @@
+El Repelente ha dejado de hacer efecto.
+Parece que aquí no hay nada...
+Parece que el aroma dulce\xfffeha desaparecido...
+¡Ha picado un Pokémon!\xf000븁\x0000
+Hoy no pican...\xf000븁\x0000
+Has tirado demasiado rápido...\xf000븁\x0000
+Has tardado mucho en tirar...\xf000븁\x0000
+¡\xf000Ā\x0001\x0000 entra en la Zona Nexo!\xf000븁\x0000
+¡Desde aquí no puedes teletransportarte\xfffea la Zona Nexo!
+No puedes teletransportarte desde\xfffela Zona Nexo en mitad de una misión.
+No puedes teletransportarte a la\xfffeZona Nexo cuando estás en conexión.
+¡Vas a participar en una misión de\xfffela Zona Nexo!\xf000븁\x0000\xfffeUna vez completada, volverás aquí.\xf000븁\x0000\xfffe¡Te teletransportas a la Zona Nexo\xfffede otro jugador!\xf000븁\x0000
+Conexión finalizada.

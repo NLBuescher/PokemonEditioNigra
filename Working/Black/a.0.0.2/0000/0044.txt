@@ -1,0 +1,113 @@
+Creating save data.
+Please wait...
+
+
+Hi there!{CLEAR}
+
+Welcome to the world of Pokémon!{CLEAR}
+
+
+My name is Professor Juniper.
+Everyone calls me the Pokémon Professor!{CLEAR}
+
+
+That's right! This world is widely
+inhabited by mysterious creatures{ADDLINE}
+called Pokémon!{CLEAR}
+
+
+Pokémon have mysterious powers.
+They come in many shapes{ADDLINE}
+and live in many different places.{CLEAR}
+
+We humans live happily with Pokémon!
+Living and working together,{ADDLINE}
+we complement each other.{CLEAR}
+
+We help each other out to
+accomplish difficult tasks.{CLEAR}
+
+Having Pokémon battle one another
+is particularly popular, and it deepens{ADDLINE}
+the bonds between people and Pokémon.{ADDLINE}
+And that is why I research Pokémon.{CLEAR}
+
+
+Well, that's enough from me...
+Could you tell me about yourself?{CLEAR}
+
+
+Are you a boy?
+Or a girl?{CLEAR}
+
+
+You're a boy, right?{CLEAR}
+
+
+You're a girl, right?{CLEAR}
+
+
+I'd like to know your name.{CLEAR}
+
+Please tell me.{CLEAR}
+
+
+Your name is {NAME}?{CLEAR}
+
+
+Your name is {NAME}?{CLEAR}
+
+
+Yes
+
+
+No
+
+
+So your name's {NAME}.
+What a wonderful name!{CLEAR}
+
+
+Well then. I'm going to introduce you
+to your two best friends!{CLEAR}
+
+
+This young man is Cheren.{CLEAR}
+
+He can be a little difficult, but
+he's a very honest person.{CLEAR}
+
+
+This young woman is Bianca.{CLEAR}
+
+She's a little flighty,
+but she works very hard.{CLEAR}
+
+
+I think you three have potential,
+so I'm going to give you{ADDLINE}
+a very, very important Pokémon.{CLEAR}
+
+
+{NAME}!{CLEAR}
+
+The moment you choose the
+Pokémon that will accompany{ADDLINE}
+you on your journey,{ADDLINE}
+your story will truly begin.{CLEAR}
+
+During your journey, you will meet many
+Pokémon and people with different{ADDLINE}
+personalities and points of view!{CLEAR}
+
+I really hope you find what is important
+to you in all of these travels...{CLEAR}
+
+That's right! Befriend
+new people and Pokémon and{ADDLINE}
+grow as a person!{CLEAR}
+
+That is the most important goal
+for your journey!{CLEAR}
+
+Let's go visit the world of Pokémon!{CLEAR}

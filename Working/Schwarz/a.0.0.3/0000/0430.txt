@@ -1,0 +1,69 @@
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeProf. Esche hat gesagt, dass wir\xfffePokémon bekommen sollen!\xf000븁\x0000
+Wo Bell nur wieder bleibt?\xf000븁\x0000
+Bell: Bin schon wieder zu spät...\xfffeEntschuldigt bitte.\xf000븁\x0000
+Cheren: Also wirklich, Bell!\xf000븁\x0000\xfffeDass du alles gern etwas gemächlicher\xfffeangehst, ist für uns mittlerweile nichts\xf000븀\x0000\xfffeNeues mehr!\xf000븁\x0000\xfffeAber warum gerade heute, wo wir doch\xfffeunsere Pokémon bekommen sollen?!\xf000븁\x0000
+Bell: Du hast ja recht!\xfffeEs tut mir wirklich leid, ihr beiden!\xf000븁\x0000
+Bell: Und wo sind die Pokémon nun?\xf000븁\x0000\xfffeProf. Esche hat sie hierher gebracht,\xfffe\xf000Ā\x0001\x0000, also steht dir auch das\xf000븀\x0000\xfffeRecht zu, dir zuerst eins\xf000븀\x0000\xfffeauszusuchen!\xf000븁\x0000
+Cheren: Das ist nur gerecht!\xf000븁\x0000
+In diesem Geschenkpaket warten\xfffedie Pokémon schon auf uns.\xf000븁\x0000\xfffeNa los, \xf000Ā\x0001\x0000, trau dich schon\xfffeund schau nach, was drin ist!\xf000븀\x0000\xfffeIch kann's kaum noch erwarten!
+Cheren: Wo willst du denn jetzt hin?!\xfffeÖffne doch erst mal das Paket!\xf000븁\x0000
+Cheren: Wärst du so nett,\xfffedas Geschenkpaket zu öffnen?\xf000븁\x0000\xfffeDie Pokémon wollen uns sicher\xfffeschnell kennenlernen.
+Bell: Was meinst du? Was für Pokémon\xfffeverstecken sich wohl darin?
+\xf000Ā\x0001\x0000 öffnet\xfffedas Geschenkpaket!\xf000븁\x0000
+Zusammen mit diesem Brief\xfffehabe ich dir drei Pokémon\xfffegeschickt. Rufe deine Freunde\xfffeherbei und sucht euch je ein\xfffePokémon aus, ohne zu streiten!\xfffeAlles Gute und beste Grüße,\xfffeProf. Esche
+
+
+
+\xf000봂\x0000 Wasser-Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000Feuer-Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000Pflanzen-Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+Wähle dein Pokémon aus!
+Bist du mit diesem Pokémon einverstanden?
+Die Entscheidung ist gefallen!
+JA
+NEIN
+\xf000Ā\x0001\x0000 erhält\xfffe\xf000ā\x0001\x0001!
+Bell: Also, ich nehme dieses Pokémon\xfffeund Cheren bekommt das da, O.K.?\xf000븁\x0000
+Cheren: Wieso entscheidest du,\xfffewelches Pokémon ich bekomme?\xf000븁\x0000\xfffeWas soll's, ich wollte sowieso von Anfang\xfffean \xf000ā\x0001\x0001 haben.\xf000븁\x0000
+Bell: So, nun hat jeder sein\xfffePokémon ausgewählt.\xf000븀\x0000\xfffeUnd jetzt...\xf000븁\x0000\xfffeIch hab's! Jetzt ist es Zeit für\xfffeein kleines Pokémon-Kämpfchen!\xf000븁\x0000
+Cheren: Hör mal, Bell, die Pokémon\xfffesind zwar noch schwach,\xf000븀\x0000\xfffeaber trotzdem sollten wir sie nicht\xf000븀\x0000\xfffeim Haus kämpfen lassen.\xf000븁\x0000
+Bell: Ach was, das geht schon in Ordnung!\xfffeWas könnten die drei schon anrichten?\xf000븀\x0000\xfffeIrgendwann müssen sie ja mal anfangen zu\xf000븀\x0000\xfffekämpfen, oder habe ich etwa unrecht?\xf000븁\x0000\xfffeAlso, \xf000Ā\x0001\x0000!\xfffeLass uns mit dem Pokémon-Kampf beginnen.\xf000븁\x0000
+
+Die Schachtel ist leer...
+
+
+
+
+
+Bell: Wow, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDu scheinst das Zeug zu einem\xfffegroßartigen Trainer zu haben!\xf000븁\x0000\xfffeIch habe da so eine Vorahnung.\xf000븁\x0000
+Bell: Huiii! Da hat mich doch der Kampf\xfffeglatt so gefesselt, dass ich mir gar nicht\xf000븀\x0000\xfffebewusst war, dass ich schon gewonnen\xf000븀\x0000\xfffehatte...\xf000븁\x0000
+Cheren: Also wirklich!\xf000븁\x0000\xfffeBell, jetzt schau dir doch\xfffebloß einmal das Zimmer an!\xf000븁\x0000
+Bell: W-was ist denn hier passiert?!\xfffeDas ist ja wie bei Hempels unterm Sofa!\xf000븁\x0000
+Die Pokémon sind unglaublich!\xfffeWo sie doch noch so klein sind!!\xf000븁\x0000\xfffeIch bin so froh, dass ich ein Pokémon\xfffebekommen habe!\xf000븁\x0000\xfffeÄh, du bist doch jetzt nicht wütend,\xfffe\xf000Ā\x0001\x0000, oder?\xf000븁\x0000
+Cheren: Bell, bei dir sind echt\xfffeHopfen und Malz verloren!\xf000븁\x0000\xfffeSei so gut und lass mich jetzt\xfffedein verletztes Pokémon aufpäppeln...\xf000븁\x0000
+Cheren hat das Pokémon\xfffevon Bell geheilt!
+Lass mich jetzt auch dein\xfffePokémon heilen, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Cheren hat das Pokémon von\xfffe\xf000Ā\x0001\x0000 geheilt!
+Cheren: Einen Sieg davonzutragen, ohne\xfffedabei KP, also Kraftpunkte, einzubüßen,\xf000븀\x0000\xfffeist in der Tat kein Pappenstiel!\xf000븁\x0000\xfffeBedenke aber, dass die AP, also deine\xfffeAngriffspunkte, zwangsläufig abnehmen.\xf000븁\x0000
+Bell: Hey, Cheren! Willst du dein Pokémon\xfffenicht auch mal in einen Kampf schicken?\xf000븁\x0000\xfffeWer so gut über Pokémon Bescheid\xfffeweiß wie du, richtet bestimmt auch nicht\xf000븀\x0000\xfffeso ein heilloses Durcheinander an wie ich.\xf000븀\x0000\xfffeIch glaube, du hast Talent für Kämpfe!\xf000븁\x0000
+Cheren: Ja, da muss ich dir zustimmen!\xf000븁\x0000\xfffeViel schlimmer werde ich das Zimmer ja\xfffeauch wohl kaum zurichten können.\xf000븁\x0000\xfffeAußerdem wäre es nur fair, wenn ich mir\xfffeauch mal einen Kampf gönne!\xf000븁\x0000
+
+
+
+
+Damit steht unser allererster Kampf!\xfffeSpürst du auch den Nervenkitzel?\xf000븁\x0000\xfffeZeig mir, was du draufhast, und\xfffegib alles, \xf000ā\x0001\x0001!\xf000븁\x0000
+
+Cheren: Ich hatte nicht damit gerechnet,\xfffegleich im ersten Kampf den Kürzeren\xf000븀\x0000\xfffezu ziehen, aber was für eine Spannung!\xf000븁\x0000\xfffeJetzt bin ich endlich ein Pokémon-Trainer!\xf000븁\x0000\xfffeAber nun muss ich mich erst mal bei\xfffedeiner Mutter für die ganze Unordnung\xf000븀\x0000\xfffehier entschuldigen.\xf000븁\x0000
+Cheren: Was für ein Gefühl!\xf000븁\x0000\xfffeNun bin ich endlich ein Pokémon-Trainer,\xfffeaber jetzt muss ich mich erst mal bei\xf000븀\x0000\xfffedeiner Mutter für die ganze Unordnung\xf000븀\x0000\xfffehier entschuldigen.\xf000븁\x0000
+Bell: Äh, ich auch!\xf000븁\x0000
+Da steht eine Wii-Konsole! Die Spiele \xfffebedient man über die Wii-Fernbedienung!
+Es gibt eine Wii-Konsole!\xf000븁\x0000\xfffeSie ist in einwandfreiem Zustand!
+Das ist der Flachbildfernseher,\xfffeden Vater gekauft hat.
+Da steht ein Bett...\xf000븁\x0000\xfffeDie Bettlaken sind von Mama\xfffefrisch gewaschen und duften gut!
+Auch das Bett ist völlig zerwühlt!
+\xf000Ā\x0001\x0000 sieht sich den PC an!\xfffePokémon Basiswissen:\xf000븁\x0000\xfffeIn dieser Welt leben Pokémon und\xfffeMenschen friedlich zusammen.\xf000븁\x0000\xfffeMenschen, die Pokémon im Kampf\xfffeeinsetzen, werden Trainer genannt.
+Eine Urkunde für die Vervollständigung\xfffedes Pokédex der Einall-Region!\xf000븁\x0000
+Eine Urkunde für die Vervollständigung\xfffedes Nationalen Pokédex!\xf000븁\x0000
+Eine Trophäe für den Sieg im Einzelkampf\xfffegegen den Metromeister der Kampfmetro!
+Eine Trophäe für den Sieg im Doppelkampf\xfffegegen den Metromeister der Kampfmetro!
+Eine Trophäe für den Sieger im Multikampf\xfffegegen den Metromeister der Kampfmetro!

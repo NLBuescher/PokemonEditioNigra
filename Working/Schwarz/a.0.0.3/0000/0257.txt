@@ -1,0 +1,9 @@
+Deoxys reagiert auf den\xfffeMeteoriten...\xf000븁\x0000\xfffeMöchtest du dein Deoxys näher an\xfffeden Meteoriten heranführen?
+Welches Deoxys möchtest du näher\xfffean den Meteoriten heranführen?\xf000븁\x0000
+Dieses Pokémon reagiert nicht\xfffeauf den Meteoriten.
+Das Ei reagiert nicht auf den Meteoriten.
+Die Form von \xf000Ă\x0001\x0000 hat sich\xfffegeändert. Es ist jetzt ausgeglichener!
+Die Form von \xf000Ă\x0001\x0000\xfffehat sich geändert.\xf000븀\x0000\xfffeSein Angriff ist nun überragend!
+Die Form von \xf000Ă\x0001\x0000\xfffehat sich geändert.\xf000븀\x0000\xfffeSeine Verteidigung ist nun tadellos!
+Der Zustand von \xf000Ă\x0001\x0000\xfffehat sich gewandelt.\xf000븀\x0000\xfffeSeine Initiative hat zugenommen!
+Da ist ein geheimnisvoller Meteorit,\xfffeder aus dem Weltall herabgestürzt ist...

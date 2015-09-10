@@ -1,0 +1,80 @@
+Sondeo sobre versión jugada
+Sondeo sobre tipos de personas
+Sondeo sobre Pokémon preferidos
+Sondeo sobre ideales
+Sondeo sobre personas que te gustan
+Sondeo sobre gustos
+Sondeo sobre aficiones
+Sondeo sobre vida escolar
+Sondeo sobre ocio y diversión
+Sondeo sobre Pokémon
+Acerca de cómo juega cada uno\xfffea Pokémon Negro y Pokémon Blanco
+Acerca de las personas que se encuentran\xfffea tu alrededor
+Acerca de los gustos sobre los Pokémon
+Acerca de los ideales y las cosas importantes\xfffepara cada uno
+Acerca de los gustos sobre las personas
+Acerca de los gustos sobre estaciones\xfffedel año, clases de comida y colores.
+Acerca de las aficiones de cada uno
+Acerca de las asignaturas y las diferentes\xfffehoras en la escuela
+Acerca de las actividades de ocio\xfffey tiempo libre
+Acerca de las impresiones de cada uno\xfffesobre los juegos de Pokémon
+¿A qué versión juegas?
+¿Eres chico o chica?
+¿Prefieres combates o intercambios?
+¿Prefieres la ciudad o el campo?
+¿Qué cualidad buscas en un oponente?
+¿Qué te gustaría tener?
+¿Qué valoras más en una persona?
+¿Qué Pokémon te gustan?
+¿Cuál fue tu Pokémon inicial?
+¿Adónde prefieres ir en tu tiempo libre?
+¿Cuándo disfrutas más en la escuela?
+¿Qué es más importante para ti?
+¿Qué estación del año prefieres?
+¿Qué clase de comida te gusta?
+¿Qué clase de personas prefieres?
+¿Qué es lo mejor de Pokémon?
+¿Cuál es tu asignatura favorita?
+¿Qué asignatura se te da peor?
+¿Qué te gustaría ser?
+¿A qué dedicas tu tiempo libre?
+¿Qué género musical prefieres?
+¿Qué programas de TV prefieres?
+¿Qué clase de películas prefieres?
+¿Qué deporte te gusta?
+¿Cuál es tu color favorito?
+¿Cuál es tu afición?
+¿Cuál es tu profesión?
+¿Cuál es tu Líder de Gimnasio favorito?
+¿Qué tipo de Pokémon prefieres?
+¿Cuál es tu tiempo de juego?
+Encuesta para saber si la gente juega más\xfffea Pokémon Negro o Pokémon Blanco.
+Encuesta para saber si hay más\xfffejugadores o jugadoras.
+Encuesta para saber si los jugadores\xfffeprefieren los combates o los intercambios.
+Encuesta para saber si la gente prefiere\xfffevivir en la ciudad o en el campo.
+Encuesta para saber si en un oponente se\xfffevalora más la inteligencia o la forma física.
+Encuesta para saber si la gente prefiere\xfffetener tiempo o dinero.
+Encuesta para saber si se valora más la\xfffeapariencia o el interior de las personas.
+Encuesta para saber qué clases de Pokémon\xfffegustan más.
+Encuesta para saber cuál es el Pokémon\xfffeinicial más elegido por los jugadores.
+Encuesta para saber adónde prefieren ir\xfffelos jugadores en su tiempo libre.
+Encuesta para saber cuál es el mejor rato\xfffede la escuela para los jugadores.
+Encuesta para saber si los jugadores\xfffevaloran más la familia o los amigos.
+Encuesta para saber cuál es la estación\xfffedel año preferida de los jugadores.
+Encuesta para saber qué clase de comida\xfffegusta más a los jugadores.
+Encuesta para saber qué clase de personas\xfffeprefieren los jugadores.
+Encuesta para saber qué aspecto de\xfffePokémon gusta más a los jugadores.
+Encuesta para saber cuál es la asignatura\xfffefavorita de los jugadores.
+Encuesta para saber cuál es la asignatura\xfffeque se les da peor a los jugadores.
+Encuesta para saber qué personaje\xfffePokémon les gustaría ser a los jugadores.
+Encuesta para saber a qué dedican el tiempo\xfffelibre los jugadores.
+Encuesta para saber qué género musical\xfffeprefieren los jugadores.
+Encuesta para saber qué programas de TV\xfffeprefieren los jugadores.
+Encuesta para saber qué clase de películas\xfffeprefieren los jugadores.
+Encuesta para saber cuál es el deporte\xfffefavorito de los jugadores.
+Encuesta para saber cuál es el color\xfffefavorito de los jugadores.
+Encuesta para saber cuál es la afición más\xfffefrecuente entre los jugadores.
+Encuesta para saber cuál es la profesión\xfffemás frecuente entre los jugadores.
+Encuesta para saber cuál es el Líder de\xfffeGimnasio favorito de los jugadores.
+Encuesta para saber cuál es el tipo de\xfffePokémon preferido de los jugadores.
+Encuesta para saber cuál es el promedio de\xfffetiempo de juego entre los jugadores.

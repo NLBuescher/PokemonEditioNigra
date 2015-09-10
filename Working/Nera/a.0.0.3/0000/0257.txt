@@ -1,0 +1,9 @@
+Deoxys sta reagendo al meteorite...\xf000븁\x0000\xfffeVuoi che ci si avvicini?
+Quale Deoxys vuoi che si avvicini?\xf000븁\x0000
+Quel Pokémon non reagisce al meteorite.
+L'Uovo non reagisce al meteorite.
+\xf000Ă\x0001\x0000 ha assunto la Forma Normale!
+\xf000Ă\x0001\x0000 ha assunto la Forma Attacco!
+\xf000Ă\x0001\x0000 ha assunto la Forma Difesa!
+\xf000Ă\x0001\x0000 ha assunto la Forma Velocità!
+C'è un misterioso meteorite caduto dallo\xfffespazio...

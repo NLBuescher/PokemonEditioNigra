@@ -1,0 +1,51 @@
+In der Kampfprüfung wird dein Kampfstil\xfffeanalysiert! Möchtest du es probieren?
+Meister!\xfffeNimmst du an der Kampfprüfung teil?
+Es tut mir leid...\xf000븁\x0000\xfffeFür dich ist es noch ein wenig zu früh,\xfffeum an der Kampfprüfung teilzunehmen.\xf000븁\x0000\xfffeKomm wieder, wenn du deine Reise beendet\xfffehast und stärker geworden bist.
+Bis zum nächsten Mal!
+An welcher Kampfprüfung möchtest du\xfffeteilnehmen, Einzel- oder Doppelkampf?
+Lass uns sofort anfangen!\xf000븁\x0000\xfffeAber sei dir der Tatsache bewusst, dass\xfffedu fünf Kämpfe in Folge bestreiten musst,\xf000븀\x0000\xfffebevor du eine Pause einlegen kannst.\xf000븁\x0000\xfffeSuche jetzt bitte die Pokémon aus,\xfffedie am Kampf teilnehmen sollen.\xf000븁\x0000
+Speichervorgang...\xfffeBitte das System nicht ausschalten.
+Beginnen wir mit der Kampfprüfung!\xfffeBitte tritt ein!\xf000븁\x0000
+Die Prüfung ist vorbei!\xf000븁\x0000\xfffeDas Ergebnis der Kampfprüfung\xfffeerhältst du sofort.\xf000븁\x0000\xfffeDein Prüfungsergebnis lautet...\xf000븁\x0000
+Was?! Der Meister-Rang?!\xfffeWahnsinn! Nimm mich bitte als Schüler!
+Dein Ergebnis: Der Elite-Rang!\xfffeDamit kannst du dich sehen lassen!
+Dein Ergebnis: Der Hyper-Rang!\xfffeDu hast fleißig trainiert, oder?
+Dein Ergebnis: Der Super-Rang!\xfffeDu bist schon ganz schön stark!
+Das Ergebnis ist: Der Normal-Rang.\xfffeDeine Fähigkeiten sind recht gewöhnlich.
+Dein Ergebnis: Der Novizen-Rang.\xfffeDu musst dich mehr anstrengen!
+Dein Ergebnis: Der Anfänger-Rang.\xfffeMeistere erst mal die Grundlagen!
+Ich habe auf dich gewartet!\xf000븁\x0000\xfffeMöchtest du an der heruntergeladenen\xfffeEinzelkampf-Prüfung teilnehmen?
+Möchtest du eine spezielle Kampfprüfung\xfffeherunterladen?
+Es konnten keine herunterladbaren\xfffeInhalte gefunden werden...\xf000븁\x0000\xfffeWas möchtest du tun?
+Die spezielle Einzelkampf-Prüfung\xfffewurde heruntergeladen.\xf000븁\x0000\xfffeDie Teilnahme ist einmalig und du musst\xfffedie Prüfung bis zum Ende durchspielen.\xf000븁\x0000\xfffeWährenddessen bitte das System nicht\xfffeausschalten.\xf000븁\x0000
+Die spezielle Doppelkampf-Prüfung\xfffewurde heruntergeladen.\xf000븁\x0000\xfffeDie Teilnahme ist einmalig und du musst\xfffedie Prüfung bis zum Ende durchspielen.\xf000븁\x0000\xfffeWährenddessen bitte nicht das System\xfffeausschalten.\xf000븁\x0000
+Jetzt an der Prüfung teilnehmen?
+Also, dann bis später.\xfffeIch warte hier auf dich!
+Bei der Kampfprüfung gibt es den\xfffeEinzel- und den Doppelkampf.\xf000븁\x0000\xfffeBeim Einzelkampf nimmst du mit drei und\xfffebeim Doppelkampf mit vier Pokémon teil.\xf000븁\x0000\xfffeEs müssen verschiedene Pokémon sein,\xfffeund sie dürfen auch nicht die gleichen\xf000븀\x0000\xfffeItems tragen.\xf000븁\x0000\xfffeDes Weiteren werden in diesem Institut\xfffealle teilnehmenden Pokémon auf Lv. 50\xf000븀\x0000\xfffegesetzt.\xf000븁\x0000\xfffeDie Wertung der Kampfprüfung erfolgt\xfffeabschließend, nachdem du hintereinander\xf000븀\x0000\xfffegegen fünf Trainer angetreten bist.\xf000븁\x0000\xfffeMöchtest du es probieren?
+Nun kommt Trainer Nr. \xf000Ȁ\x0001\x0000.\xfffeGib dein Bestes!\xf000븁\x0000
+Ich habe auf dich gewartet!\xf000븁\x0000\xfffeMöchtest du an der heruntergeladenen\xfffeDoppelkampf-Prüfung teilnehmen?
+Du hast bereits an allen vorliegenden\xfffeKampfprüfungen teilgenommen.\xf000븁\x0000\xfffeWas möchtest du tun?
+Gegenwärtig keine Prüfungsergebnisse.
+Wessen Prüfungsergebnisse willst du\xfffeeinsehen?
+Verbindungsaufbau... System nicht\xfffeausschalten. Abbrechen mit B-Knopf.
+An Prüfung teilnehmen
+Info
+Zurück
+Einzelkampf
+Doppelkampf
+Herunterladen
+Standard
+Spezial
+EINZELKAMPF
+DOPPELKAMPF
+ERGEBNISSE
+PUNKTE
+\xf000ȃ\x0001\x0000
+ANFÄNGER-RANG
+NOVIZEN-RANG
+NORMAL-RANG
+SUPER-RANG
+HYPER-RANG
+ELITE-RANG
+MEISTER-RANG
+Herunterladen abgebrochen!

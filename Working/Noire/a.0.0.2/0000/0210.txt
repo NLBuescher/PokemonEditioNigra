@@ -1,0 +1,121 @@
+\xf000봂\x0000Rencontre Aléatoire Libre
+\xf000봂\x0000Rencontre Aléatoire Rang
+\xf000봂\x0000Combat Solo
+\xf000봂\x0000Combat Duo
+\xf000봂\x0000Combat Trio
+\xf000봂\x0000Combat Rotatif
+\xf000봂\x0000Combat Shooter
+\xf000봂\x0000Résultats de \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000Score Rang:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000Combats disputés:
+\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
+\xf000봃\x0001\x0000Victoires:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000Défaites:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0001/\xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0004/\xf000ȃ\x0001\x0003
+Pokémon inscrit(s)
+Pokémon inscrit(s)
+Pokémon inscrit(s)
+Résidence:
+SALUER
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Réception des données.\xfffeVeuillez patienter...
+Choisissez le mode de jeu.
+Démarrage du mode\xfffeRencontre Aléatoire Libre...\xf000븁\x0000
+LIBRE
+RANG
+RETOUR
+Voulez-vous arrêter les\xfffeRencontres Aléatoires?
+OUI
+NON
+Recherche d'un adversaire en cours...
+Adversaire trouvé!
+Voulez-vous cesser de chercher\xfffeun adversaire?
+Faites votre sélection.
+Envoi des données en cours.\xfffeVeuillez patienter...
+Voulez-vous continuer à vous battre?
+Voulez-vous arrêter les\xfffeRencontres Aléatoires?
+Sauvegarde en cours...\xfffeNe pas éteindre.
+Démarrage du mode \xfffeRencontre Aléatoire Rang...\xf000븁\x0000
+En attente du serveur.\xfffeVeuillez patienter...
+En attente d'une réponse.\xfffeVeuillez patienter...
+
+
+
+PARTICIPER
+INFORMATIONS
+RETOUR
+
+
+OUI
+NON
+Recherche des données des\xfffeCompétitions en cours...
+Vous n'avez pas enregistré votre ID de \xfffeSynchro-Jeu sur le Pokémon Global Link.\xf000븁\x0000\xfffeVeuillez utiliser un ordinateur pour\xfffeaccéder au site du Pokémon Global Link\xf000븀\x0000\xfffeet entrer votre ID de Synchro-Jeu.\xf000븁\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
+
+Impossible de trouver une Compétition\xfffeà laquelle vous pourriez participer.\xf000븁\x0000\xfffeAttention: vous ne pouvez participer\xfffeà une Compétition qu'une seule fois.\xf000븁\x0000
+Renouvellement de votre Licence en\xfffecours. N'éteignez pas votre console.
+Aucune Compétition organisée\xfffeen ce moment.\xf000븁\x0000
+Votre Licence Numérique va être\xffferenouvelée pour vous permettre de\xf000븀\x0000\xfffeparticiper à une Compétition Wi-Fi.\xf000븁\x0000\xfffeVoulez-vous continuer?
+Votre Licence Numérique va être\xffferenouvelée pour vous permettre de\xf000븀\x0000\xfffeparticiper à une Compétition Wi-Fi.\xf000븁\x0000\xfffeLa précédente inscription de votre\xfffeBoîte Combat va être supprimée.\xf000븁\x0000\xfffeÉcraser l'ancienne Licence?
+Vous ne pouvez pas participer sans\xffferenouveler votre Licence.\xf000븁\x0000\xfffeVoulez-vous annuler le renouvellement?
+
+Échec du renouvellement de la Licence.
+Inscription des Pokémon\xfffede la Boîte Combat.\xf000븁\x0000\xfffeATTENTION!\xfffeUne fois inscrits, les Pokémon ne peuvent\xf000븀\x0000\xfffeplus être enlevés de la Boîte jusqu'à ce\xf000븀\x0000\xfffeque vous vous désinscriviez.\xf000븁\x0000\xfffeVoulez-vous inscrire les Pokémon de la\xfffeBoîte Combat?
+OUI
+NON
+Annuler l'inscription?
+Interrompre le processus d'inscription?
+Envoi des données...\xfffeVeuillez ne pas éteindre la console.
+Il y a un problème avec vos Pokémon.\xfffeVous ne pouvez pas participer.\xf000븁\x0000
+Inscription à la Compétition réussie!\xf000븁\x0000
+Vous ne remplissez pas les conditions\xfffed'entrée à cette Compétition.\xf000븁\x0000\xfffeVeuillez consulter les règles avant\xfffede choisir les Pokémon de votre\xf000븀\x0000\xfffeBoîte Combat.\xf000븁\x0000
+Combats de Pokémon! Compétition Wi-Fi!\xfffeQue voulez-vous faire?
+COMBATTRE
+SE DÉSINSCRIRE
+RETOUR
+Interrompre la Compétition?
+
+Période d'ouverture dépassée.\xfffeLa Compétition est terminée.\xf000븁\x0000
+La Boîte Combat a été désinscrite.\xf000븁\x0000
+Vous n'êtes inscrit(e) à aucune\xfffeCompétition.\xf000븁\x0000
+Une fois désinscrit(e), vous ne pourrez\xfffeplus participer à cette Compétition.\xf000븁\x0000\xfffeVoulez-vous vous désinscrire?
+Suppression de l'inscription.\xfffeVoulez-vous confirmer?
+Recherche d'un adversaire en cours...
+
+Partenaire trouvé!
+Résultat du combat envoyé sur le serveur.\xf000븁\x0000\xfffeLe calcul du Score de Rang peut prendre\xfffeun certain temps.\xf000븁\x0000\xfffeUne fois terminé, il apparaîtra au\xfffemoment de votre prochain combat.\xf000븁\x0000
+
+Réception des données.\xfffeVeuillez ne pas éteindre la console...
+Vérification des données des\xfffeCompétitions en cours...
+Combats de Pokémon! Compétition Wi-Fi!\xfffeVoulez-vous continuer à combattre?
+COMBATTRE
+SE DÉSINSCRIRE
+RETOUR
+La Compétition à laquelle vous êtes\xfffeinscrit(e) n'est pas encore ouverte.\xf000븁\x0000\xfffeVeuillez consulter le programme et\xfffepatienter jusqu'à l'ouverture.\xf000븁\x0000
+Vous n'avez aucun Pokémon dans votre\xfffeBoîte Combat.\xf000븁\x0000\xfffeVeuillez consulter les règles avant de\xfffechoisir les Pokémon de votre Boîte Combat.\xf000븁\x0000
+
+L\xf000Ȃ\x0001\x0000
+♂
+♀
+
+Vous participez à cette Compétition.\xfffeInscrivez-y vos Pokémon.
+Vous participez à cette Compétition.\xfffeVotre Boîte Combat est scellée.
+Si vous vous désinscrivez, vous\xfffene pourrez plus vous réinscrire\xf000븀\x0000\xfffeà cette Compétition.\xf000븁\x0000\xfffeVoulez-vous vraiment vous désinscrire?
+
+Suppression de l'inscription.\xfffeVeuillez ne pas éteindre la console.
+L'inscription a été supprimée.\xf000븁\x0000
+La période d'ouverture de cette\xfffeCompétition est dépassée.
+Vous vous êtes désinscrit(e)\xfffede cette Compétition.
+Aucune donnée de Licence Numérique.\xf000븁\x0000
+La console et/ou la carte de jeu ne\xfffecorrespondent plus à celles de\xf000븀\x0000\xfffel'inscription.\xf000븁\x0000\xfffeL'inscription est supprimée.\xf000븁\x0000
+Si vous vous désinscrivez, vous\xfffene pourrez plus vous réinscrire\xf000븀\x0000\xfffeà cette Compétition.\xf000븁\x0000\xfffeVoulez-vous vraiment vous désinscrire?
+Suppression de l'inscription.\xfffeVoulez-vous confirmer?
+L'inscription a été supprimée.\xf000븁\x0000
+RETOUR
+SE DÉSINSCRIRE
+OUI
+NON
+Il y a un problème avec vos Pokémon.\xfffeVous ne pouvez pas participer.\xf000븁\x0000

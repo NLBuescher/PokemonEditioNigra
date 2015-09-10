@@ -1,0 +1,6 @@
+
+
+
+Salvataggio in corso. Non spegnere\xfffela console.
+\xf000Ā\x0001\x0000 ha salvato il gioco.
+Esiste già un salvataggio e non puoi\xfffecrearne un altro.

@@ -1,0 +1,45 @@
+Bestücke ein separates System mit\xfffeeiner Pokémon Diamant-, Perl-, Platin-\xfffeHeartGold- oder SoulSilver-Karte\xfffeund schalte es ein. Berühre im\xfffeDS-Menübildschirm die Option\xfffe„DS-Download-Spiel“, wähle die\xfffemit „Poképorter (ID: \xf000Ȅ\x0001\x0000)“\xfffebeschriftete Schaltfläche aus und\xfffelade die Daten herunter.
+Übertrage Daten auf das andere\xfffeNintendo DS-System...
+Wähle auf dem anderen System\xfffebitte die gewünschten Pokémon aus.
+Der Poképorter wurde aktiviert...
+Der Poképorter ist in Betrieb...
+Empfange die ermittelten Daten...
+Speichervorgang...\xfffeSchalte das System bitte nicht aus.
+Speichervorgang abgeschlossen.\xf000븂\x0001<
+Der Poképorter wird abgeschaltet.\xf000븂\x0001<
+Möchtest du die Arbeit am Poképorter\xfffeabbrechen?
+Verbindungsaufbau zum anderen\xfffeNintendo DS-System fehlgeschlagen.\xf000븁\x0000
+Warte auf das Bestätigungssignal\xfffedes anderen Nintendo DS-Systems...
+Poképorter (ID: \xf000Ȅ\x0001\x0000)
+Pokémon Schwarze Edition\xfffeProgrammdaten des Poképorters
+Pokémon Weiße Edition\xfffeProgrammdaten des Poképorters
+Transferanlage (ID: \xf000Ȅ\x0001\x0000)
+Pokémon Schwarze Edition\xfffeProgrammdaten der Transferanlage
+Pokémon Weiße Edition\xfffeProgrammdaten der Transferanlage
+Ja
+Nein
+Bestücke ein separates System mit\xfffeeiner Pokémon Diamant-, Perl-, Platin-,\xfffeHeartGold- oder SoulSilver-Karte\xfffeund schalte es ein. Berühre im\xfffeDS-Menübildschirm die Option\xfffe„DS-Download-Spiel“, wähle die mit\xfffe„Transferanlage (ID: \xf000Ȅ\x0001\x0000)“\xfffebeschriftete Schaltfläche aus und\xfffelade die Daten herunter.\xfffeB-Knopf: Abbrechen
+Die Transferanlage wurde aktiviert!\xfffeBitte warte einen Augenblick...
+\xf000Ȃ\x0001\x0000 Film-Pokémon in der Auswahl gefunden.\xf000븁\x0000\xfffeSollen diese Pokémon auf Pokémon Schwarze\xfffeEdition herüberwandern?
+\xf000Ȃ\x0001\x0000 Film-Pokémon in der Auswahl gefunden.\xf000븁\x0000\xfffeSollen diese Pokémon auf Pokémon Weiße\xfffeEdition herüberwandern?
+Du hast keinen Platz in deinen Boxen!\xfffeBitte sorge zunächst für genügend Raum.\xf000븁\x0000
+Schicke Pokémon durch die\xfffeTransferanlage!\xfffeBitte warten...
+Getragene Items wandern zurück in den\xfffeBeutel. Einverstanden?
+Items, von denen du bereits zu viele im\xfffeBeutel hast, verschwinden. Einverstanden?
+Doch keine Pokémon über die Transferanlage\xfffehinüberwandern lassen?
+Der Pokémon-Transfer wird abgebrochen.\xf000븁\x0000
+Der Transfer von \xf000Ȃ\x0001\x0000 Film-Pokémon\xfffein deine Boxen war erfolgreich!\xf000븁\x0000
+Eine Tresorkapsel wurde gefunden.\xfffeWillst du sie nehmen?
+Schicke die Tresorkapsel durch die\xfffeTransferanlage!\xfffeBitte warten...
+Der Transfer der Tresorkapsel in\xfffedie Basis-Items-Tasche war\xfffeerfolgreich!\xf000븁\x0000
+
+Die Transferanlage hat ihren Dienst\xfffegetan. Bitte schalte nun das zweite\xfffeNintendo DS-System wieder ab.\xf000븁\x0000
+Pokémon mit VM-Attacken kannst du\xfffenicht durch die Transferanlage\xfffeschicken.\xf000븁\x0000\xfffePokémon ohne VM-Attacken: \xf000Ȃ\x0001\x0000!\xf000븁\x0000
+Die Tresorkapsel wurde bereits\xfffeempfangen.\xf000븁\x0000
+Speichervorgang fehlgeschlagen.\xfffeDie Transferanlage wird wieder\xfffeabgeschaltet.\xf000븁\x0000
+Speichervorgang abgeschlossen.\xf000븁\x0000
+Es gibt nichts, was durch die\xfffeTransferanlage geschickt werden\xfffekönnte!\xf000븁\x0000
+Kein kompatibles Spiel gefunden.\xfffeDie Transferanlage wird wieder\xfffeabgeschaltet.\xf000븁\x0000
+Die Arbeit an der Transferanlage beenden?
+Soll die Drahtlose DS-Datenübertragung\xfffegestartet werden?
+Lesen der Speicherdaten fehl-\xfffegeschlagen. Es sind keine oder\xfffenur fehlerhafte Daten vorhanden.\xfffeTransferanlage wird abgeschaltet.\xf000븁\x0000

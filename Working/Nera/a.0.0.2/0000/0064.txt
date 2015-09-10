@@ -1,0 +1,14 @@
+Caricamento in corso.\xfffeAttendi...
+Non è stata rilevata alcuna scheda\xfffeDS compatibile. Spegni la console,\xfffeinserisci un'altra scheda DS e\xffferiavvia il Trasferitore.\xf000븁\x0000
+Salvataggio in corso.\xfffeNon spegnere la console.
+Salvataggio completato.\xf000븂\x0001<
+Il Trasferitore ha concluso\xfffel'operazione.\xfffeSpegni la console per terminare.
+Errore nella lettura dei dati.\xfffeIl Trasferitore dovrà interrompere\xfffel'operazione.\xf000븁\x0000
+Collegamento all'altro\xfffeNintendo DS fallito.\xf000븁\x0000
+Salvataggio dati non riuscito.\xfffeIl Trasferitore dovrà interrompere\xfffel'operazione.\xf000븁\x0000
+Il Trasferitore è avviato.\xfffeRicerca dei Pokémon in corso.\xfffeAttendi...
+
+
+SÌ
+NO
+デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A

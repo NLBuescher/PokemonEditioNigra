@@ -1,0 +1,33 @@
+Este árbol se puede cortar.\xfffe¿Deseas cortarlo?
+\xf000Ă\x0001\x0000 va a usar Corte.\xf000븁\x0000
+Parece que puedes cortar este árbol.
+
+
+
+Es una roca enorme, pero un Pokémon\xfffepodría moverla.\xf000븁\x0000\xfffe¿Quieres usar Fuerza?
+
+Es una roca enorme, pero un Pokémon\xfffepodría moverla.
+Gracias al movimiento Fuerza, puedes\xfffedesplazar rocas a un lado.
+\xf000Ă\x0001\x0000 va a usar Fuerza.\xf000븁\x0000
+El movimiento Fuerza de \xf000Ă\x0001\x0000\xfffepermite desplazar la roca a un lado.
+
+El agua tiene buena pinta...\xfffe¿Quieres hacer Surf?
+\xf000Ă\x0001\x0000 va a usar Surf.\xf000븁\x0000
+No puedes usar Surf cuando vas\xfffecon alguien.
+
+
+
+
+
+
+
+Es una gran catarata.\xfffe¿Quieres usar Cascada?
+\xf000Ă\x0001\x0000 va a usar Cascada.\xf000븁\x0000
+Un muro de agua cae con un estruendo\xfffeensordecedor...
+
+\xf000Ă\x0001\x0000 va a usar Destello.\xf000븁\x0000
+\xf000Ă\x0001\x0000 va a usar Teletransp.\xf000븁\x0000
+\xf000Ă\x0001\x0000 va a usar Excavar.\xf000븁\x0000
+¡Parecen aguas profundas! ¿Quieres\xfffeque un Pokémon te ayude a bucear?
+¡Parecen aguas profundas!\xfffe¿Quieres usar Buceo?
+\xf000Ă\x0001\x0000 va a usar Buceo.\xf000븁\x0000

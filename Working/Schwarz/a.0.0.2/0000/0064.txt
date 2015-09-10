@@ -1,0 +1,14 @@
+Ladevorgang.\xfffeBitte warten...
+Kein kompatibles Spiel gefunden.\xfffeSchalte dein System ab, lege eine\xfffekompatible Nintendo DS-Karte ein und\xfffestarte die Transferanlage erneut.\xf000븁\x0000
+Speichervorgang...\xfffeBitte schalte das System nicht aus.
+Speichervorgang abgeschlossen.\xf000븂\x0001<
+Die Transferanlage wird abgeschaltet.\xfffeBitte schalte dein System aus,\xfffeum den Vorgang zu beenden.
+Fehler beim Lesen der Daten.\xfffeDie Transferanlage wird abgeschaltet.\xf000븁\x0000
+Der Verbindungsaufbau zum zweiten\xfffeSystem ist fehlgeschlagen.\xf000븁\x0000
+Fehler beim Schreiben der Daten. Die\xfffeTransferanlage wird abgeschaltet.\xf000븁\x0000
+Die Transferanlage wurde aktiviert!\xfffeEs wird nun nach Pokémon gesucht.\xfffeBitte warte einen Augenblick.
+
+
+JA
+NEIN
+デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A

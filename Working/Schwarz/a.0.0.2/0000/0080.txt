@@ -1,0 +1,669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Willkommen beim Geheimgeschehen!
+GESCHENK EMPFANGEN
+KARTENALBUM ANSEHEN
+ZURÜCK
+Um ein Geschenk zu empfangen, muss\xfffeeine Verbindung hergestellt werden.\xf000븀\x0000\xfffeFortfahren?
+Ja
+Nein
+Wähle bitte aus, auf welche Weise du\xfffedas Geschenk erhalten möchtest.
+DRAHTLOS ERHALTEN
+ÜBER NINTENDO WFC ERHALTEN
+ÜBER INFRAROT EMPFANGEN
+ZURÜCK
+Wähle bitte aus, auf welche Weise du\xfffedein Geschenk erhalten möchtest.
+Wähle eine nicht mehr benötigte Karte aus,\xfffedie du wegwerfen möchtest.\xf000븁\x0000
+Solange du keine deiner Karten wegwirfst,\xfffekannst du keine neuen Geschenke\xf000븀\x0000\xfffeempfangen. Fortfahren?
+Ja
+Nein
+Soll die Drahtlose DS-Datenübertragung\xfffegestartet werden?
+Ja
+Nein
+Mit Nintendo Wi-Fi Connection verbinden?
+JA
+NEIN
+Infrarotverbindung wird gestartet.\xf000븁\x0000\xfffeRichte deine Karte auf die deines\xfffeGegenübers aus und wähle „Ja“.\xf000븁\x0000
+BEREIT
+ZURÜCK
+Suche nach Geschenk.\xfffeEinen Moment bitte...
+Wähle das Geschenk, das\xfffedu erhalten möchtest.
+Geschenkannahme beenden?
+Ja
+Nein
+Dieses Geschenk annehmen?
+Ja
+Nein
+Geschenk wird empfangen...\xfffeBitte schalte das System nicht aus.
+Das Geschenk wurde empfangen!\xf000븁\x0000\xfffeBitte hole es beim Lieferanten\xfffein einem Pokémon-Center ab!\xf000븁\x0000
+Speichere Albendaten...\xfffeBitte schalte das System nicht aus.
+Was soll mit der Wunderkarte geschehen?
+Austauschen
+Wegwerfen
+Zurück
+Da du das Geschenk noch nicht empfangen\xfffehast, kannst du die Karte nicht\xf000븀\x0000\xfffewegwerfen. Nimm das Geschenk beim Liefe-\xf000븀\x0000\xffferanten im Pokémon-Center entgegen.\xf000븁\x0000
+Die Karte wurde weggeworfen.\xf000븁\x0000
+Bitte wähle die auszutauschende Karte.
+Willst du diese Karte wirklich wegwerfen?
+Ja
+Nein
+Wozu möchtest du eine Erklärung lesen?
+GEHEIMGESCHEHEN
+KARTENALBUM
+VOLLES KARTENALBUM
+ZURÜCK
+INFORMATIONEN
+Das Geheimgeschehen ermöglicht dir, über\xfffeverschiedene Datenübertragungskanäle\xf000븀\x0000\xfffefantastische Geschenke zu erhalten.\xf000븁\x0000\xfffeSobald du ein Geschenk angenommen hast,\xfffemusst du nur noch zurück ins Spiel\xf000븀\x0000\xfffeund es dir im Pokémon-Center bei\xf000븀\x0000\xfffeeinem Lieferanten abholen.\xf000븁\x0000
+Für jedes Geschenk, das du über das\xfffeGeheimgeschehen annimmst, erhältst du\xf000븀\x0000\xfffeeine Wunderkarte für dein Kartenalbum.\xf000븁\x0000\xfffeMit diesen Wunderkarten kannst du\xfffeüberprüfen, ob du ein bestimmtes Geschenk\xf000븀\x0000\xfffebereits vom Lieferanten abgeholt hast.\xf000븁\x0000\xfffeGeschenke, die du noch nicht er-\xfffehalten hast, solltest du dir umgehend\xf000븀\x0000\xfffebeim Lieferanten abholen!\xf000븁\x0000\xfffeDie Zahl der Wunderkarten, die in dein\xfffeAlbum passt, ist allerdings begrenzt.\xf000븁\x0000\xfffeNachdem du dein Abenteuer begonnen und\xfffegespeichert hast, fasst es 12 Karten.\xf000븁\x0000\xfffeVor der ersten Speicherung kannst du\xfffemaximal drei Wunderkarten aufbewahren.\xf000븁\x0000\xfffeIst das Fassungsvermögen des Albums er-\xfffeschöpft, kannst du keine weiteren Karten\xf000븀\x0000\xfffeannehmen und musst für Platz sorgen.\xf000븁\x0000
+Wenn dein Kartenalbum voll ist, kannst du\xfffekeine weiteren Geschenke mehr annehmen.\xf000븁\x0000\xfffeUm ein neues Geschenk erhalten zu können,\xfffemusst du eine der Wunderkarten wählen,\xf000븀\x0000\xfffeindem du den A-Knopf drückst, und sie\xf000븀\x0000\xfffeentsorgen.\xf000븁\x0000\xfffeWenn du nicht alle zu den Wunderkarten\xfffein deinem Album gehörigen Geschenke\xf000븀\x0000\xfffeabgeholt hast, musst du zurück ins Spiel\xf000븀\x0000\xfffeund dies im Pokémon-Center nachholen.\xf000븁\x0000
+Für jedes Geschenk, das du über das\xfffeGeheimgeschehen annimmst, erhältst du\xf000븀\x0000\xfffeeine Wunderkarte für dein Kartenalbum.\xf000븁\x0000\xfffeMit diesen Wunderkarten kannst du\xfffeüberprüfen, ob du ein bestimmtes Geschenk\xf000븀\x0000\xfffebereits vom Lieferanten abgeholt hast.\xf000븁\x0000\xfffeGeschenke, die du noch nicht geschnappt\xfffehast, solltest du dir umgehend holen!\xf000븁\x0000\xfffeDie Zahl der Wunderkarten, die in dein\xfffeAlbum passt, ist allerdings begrenzt.\xf000븁\x0000\xfffeNachdem du dein Abenteuer begonnen und\xfffegespeichert hast, fasst es 12 Karten.\xf000븁\x0000\xfffeVor der ersten Speicherung kannst du\xfffemaximal drei Wunderkarten aufbewahren.\xf000븁\x0000\xfffeIst das Fassungsvermögen des Albums\xfffeerschöpft, kannst du keine weiteren Kar-\xf000븀\x0000\xfffeten annehmen und musst für Platz sorgen.\xf000븁\x0000
+Verbindung wird hergestellt.\xfffeBitte warten...
+Der Lieferant bewahrt bereits zu viele\xfffeGeschenke für dich auf.\xf000븁\x0000\xfffeBitte gehe zurück ins Spiel und hole dir\xfffedeine Geschenke beim Lieferanten ab!\xf000븁\x0000
+Dieses Geschenk hast du schon in Empfang\xfffegenommen. Ein zweites Mal kannst du\xf000븀\x0000\xfffees nicht erhalten.\xf000븁\x0000
+Es wurden keine Geschenke gefunden.\xf000븁\x0000
+
+Du hast zu viele Wunderkarten!\xf000븁\x0000\xfffeIn deinem Kartenalbum ist kein\xfffePlatz für eine weitere Wunderkarte.\xf000븁\x0000\xfffeKartenalbum verwalten?
+Ja
+Nein
+Fehler beim Empfang des Geschenks.\xf000븁\x0000
+
+Solange du dein Abenteuer noch nicht\xfffebegonnen und gespeichert hast, kannst\xf000븀\x0000\xfffedu keine weiteren Geschenke empfangen.\xf000븁\x0000
+KARTENALBUM
+A: Verwalten
+ZURÜCK
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002. \xf000ȁ\x0001\x0001 \xf000ȃ\x0001\x0000
+Wunderkarte
+Empfangsdatum
+\xf000ȁ\x0001\x0002. \xf000ƀ\x0001\x0001 \xf000ȃ\x0001\x0000
+A: Beenden
+
+Danke, dass du dir den neuen\xfffePokémon-Film ansiehst!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2010 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2011 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2012 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2013 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2014 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2015 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2016 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2017 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2018 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2019 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du 2020 gekommen bist, um\xfffedir den neuen Pokémon-Film anzusehen!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch im\xfffePokémon-Center!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Tokyo!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Osaka!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Fukuoka!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Nagoya!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Sapporo!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deinen Besuch im\xfffePokémon-Center von Yokohama!\xfffeHole dir dein Geschenk bei\xfffeunserem Lieferanten im Spiel ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Weltmeisterschaften (WCS)!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2010!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2011!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémonVideospiel-Weltmeisterschaften\xfffe(WCS) 2012!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2013!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2014!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2015!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2016!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2017!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2018!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2019!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2020!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zu Worlds gekommen bist!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2010!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2011!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2012!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2013!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2014!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2015!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2016!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2017!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2018!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2019!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei Worlds 2020!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE)!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2010!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2011!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2012!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2013!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2014!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2015!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2016!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2017!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2018!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2019!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2020!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2010!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2011!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2012!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2013!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2014!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2015!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2016!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2017!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2018!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2019!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2020!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch bei\xfffedieser Veranstaltung!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an dieser\xfffePokémon-Veranstaltung!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du Pokémon spielst!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch im Geschäft!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an den\xfffeKampfturnieren!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an dieser\xfffeVideospiel-Veranstaltung!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von der\xfffeVideospiel-Veranstaltung!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk vom Pokémon Fan Club!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du dir Pokémon Sunday\xfffeansiehst!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von Pokémon Sunday!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme am\xfffeChallenge-Plaza!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk vom Challenge-Plaza!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an der\xfffeBattle Challenge!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von der Battle Challenge!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme am\xfffeTrainer's Court!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk vom Trainer's Court!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deine Teilnahme an der\xfffeBattle Tour!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von der Battle Tour!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zum Pokémon-Konzert\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du dir die Pokémon-\xfffeZeichentrickserie ansiehst!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du über die Nintendo Wi-Fi\xfffeConnection spielst!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für den Download!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du Pokémon Ranger spielst!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Die Ranger-Vereinigung bittet dich darum,\xfffeein Pokémon in Pflege zu nehmen!\xfffeHole dir das Pokémon beim Lieferanten\xfffeim Pokémon-Center ab!
+Die Ranger-Vereinigung bittet dich darum,\xfffeein Ei in Pflege zu nehmen!\xfffeHole dir das Ei beim Lieferanten\xfffeim Pokémon-Center ab!
+Danke, dass du die Funktionen der\xfffePokémon Dream World nutzt!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von der\xfffePokémon Dream World!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du in der Pokémon DW spielst!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk von der Pokémon DW!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2010!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2011!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2012!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2013!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2014!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2015!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2016!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2017!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2018!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2019!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für dein Erscheinen beim\xfffePokémon Event 2020!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2010\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2011\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2012\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2013\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2014\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2015\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2016\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2017\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2018\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2019\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du zur Pokémon Festa 2020\xfffegekommen bist!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke für deinen Besuch\xfffeim PokéPark!\xfffeHole dir dein Geschenk bei unserem\xfffeLieferanten im Pokémon-Center ab!
+Ein Geschenk vom PokéPark!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2010\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2011\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2012\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2013\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2014\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2015\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2016\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2017\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2018\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2019\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du den PokéPark 2020\xfffebesucht hast!\xfffeHole dir dein Geschenk von unserem\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Hole dir dein Geschenk beim\xfffeLieferanten im Pokémon-Center ab!
+Danke, dass du gekommen bist, um\xfffedir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2010 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2011 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2012 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2013 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2014 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2015 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2016 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2017 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2018 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2019 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du 2020 gekommen bist,\xfffeum dir den Pokémon-Film anzusehen!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Tokyo!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Osaka!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Fukuoka!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Nagoya!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Sapporo!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokémon-Center von Yokohama!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Weltmeisterschaften (WCS)!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2010!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2011!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2012!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2013!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2014!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2015!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2016!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2017!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2018!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2019!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffePokémon Videospiel-Weltmeisterschaften\xfffe(WCS) 2020!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zu Worlds gekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2010!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2011!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2012!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2013!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2014!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2015!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2016!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2017!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2018!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2019!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch bei Worlds 2020!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE)!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2010!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2011!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2012!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2013!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2014!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2015!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2016!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2017!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2018!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2019!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch des\xfffeVideo Game Events (VGE) 2020!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2010!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2011!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2012!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2013!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2014!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2015!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2016!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2017!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2018!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2019!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den Pokémon\xfffeVideospiel-Meisterschaften (VGC) 2020!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zu dieser Veranstaltung\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zu diesem\xfffePokémon-Event gekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du Pokémon spielst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im Geschäft!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an den\xfffeKampfturnieren!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an dieser\xfffeVideospiel-Veranstaltung!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von der\xfffeVideospiel-Veranstaltung!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk vom Pokémon Fan Club!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du dir Pokémon Sunday\xfffeansiehst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von Pokémon Sunday!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme am\xfffeChallenge-Plaza!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk vom Challenge-Plaza!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an der\xfffeBattle Challenge!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von der Battle Challenge!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme am\xfffeTrainer's Court!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk vom Trainer's Court!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deine Teilnahme an der\xfffeBattle Tour!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von der Battle Tour!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zum Pokémon-Konzert\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du dir die Pokémon-\xfffeZeichentrickserie ansiehst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du über die Nintendo Wi-Fi\xfffeConnection spielst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für den Download!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Dieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du Pokémon Ranger spielst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Die Ranger-Vereinigung bittet dich darum,\xfffeein Pokémon in Pflege zu nehmen!\xfffeDu hast das Pokémon schon vom\xfffeLieferanten überreicht bekommen.
+Die Ranger-Vereinigung bittet dich darum,\xfffeein Ei in Pflege zu nehmen!\xfffeDu hast das Ei schon vom Lieferanten\xfffeüberreicht bekommen.
+Danke, dass du die Funktionen der\xfffePokémon Dream World nutzt!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von der\xfffePokémon Dream World!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du in der Pokémon DW spielst!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk von der Pokémon DW!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2010!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2011!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2012!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2013!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2014!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2015!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2016!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2017!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2018!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2019!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für dein Erscheinen beim\xfffePokémon Event 2020!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2010\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2011\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2012\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2013\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2014\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2015\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2016\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2017\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2018\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2019\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du zur Pokémon Festa 2020\xfffegekommen bist!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke für deinen Besuch im\xfffePokéPark!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Ein Geschenk vom PokéPark!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2010\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2011\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2012\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2013\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2014\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2015\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2016\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2017\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2018\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2019\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Danke, dass du den PokéPark 2020\xfffebesucht hast!\xfffeDieses Geschenk hast du schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.
+Du hast dieses Geschenk schon vom\xfffeLieferanten überreicht bekommen.

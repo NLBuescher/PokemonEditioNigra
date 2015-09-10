@@ -1,0 +1,38 @@
+Komor: Se un Pokémon viene avvelenato,\xfffecontinua a perdere PS per tutta\xf000븀\x0000\xfffela durata della lotta.\xf000븁\x0000\xfffeSe non sta lottando, invece, i PS non\xfffediminuiscono.\xf000븁\x0000
+Ehi, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSei qui per sfidare il Capopalestra?
+Fino a poco fa era qui a parlarci\xfffedei tipi di Pokémon...\xf000븁\x0000\xfffeNon l'hai incontrato per strada?\xf000븁\x0000
+Per diventare un Allenatore forte non\xfffec'è nulla di meglio che la lotta sul campo!\xf000븁\x0000\xfffePer non parlare poi delle sfide contro\xfffei Capipalestra!\xf000븁\x0000
+Senti \xf000Ā\x0001\x0000, ti andrebbe di lottare\xfffecontro di me?\xf000븁\x0000\xfffeVoglio capire quanto sono effettivamente\xfffeimportanti gli strumenti durante le lotte.
+Komor: \xf000Ā\x0001\x0000!\xfffeTi andrebbe di lottare contro di me?\xf000븁\x0000\xfffeVoglio capire quanto sono effettivamente\xfffeimportanti gli strumenti durante le lotte.
+Non ti va? Voglio assolutamente provare\xfffea usare gli strumenti durante una lotta,\xf000븀\x0000\xfffequindi aspetterò qui finché non\xf000븀\x0000\xfffete la sentirai di lottare!
+Komor: Bene! Allora, che fare?\xfffeProvo l'efficacia degli strumenti o provo\xf000븀\x0000\xfffea vedere quanto resisto senza usarli\xf000븀\x0000\xfffein una lotta?\xf000븁\x0000\xfffeAd ogni modo, non dobbiamo esagerare,\xfffenon siamo all'aperto!\xf000븁\x0000
+Komor: Come pensavo... non è facile\xfffeusare al meglio gli strumenti.\xf000븁\x0000\xfffeA proposito, \xf000Ā\x0001\x0000. Tieni, è per te.\xf000븁\x0000
+Komor: Se dai ad un Pokémon una Bacca\xfffeda tenere, la mangerà durante una lotta\xf000븀\x0000\xfffein caso di necessità.\xf000븁\x0000\xfffeSe, invece, gli fai tenere un oggetto\xfffeartificiale come una pozione, non saprà\xf000븀\x0000\xfffecosa farsene. Buona fortuna!\xf000븁\x0000
+La Scuola per Allenatori è stata creata\xfffeper rispondere alle esigenze di tutti\xf000븀\x0000\xfffecoloro che amano i Pokémon e vogliono\xf000븀\x0000\xfffesaperne di più sul loro conto!
+I Pokémon sono dotati di abilità\xfffemisteriose.\xf000븁\x0000\xfffeOgni abilità ha un effetto diverso e\xfffemolte di queste abilità rivelano\xf000븀\x0000\xfffeil loro potere durante la lotta!
+Esiste una tecnica per annullare\xfffel'evoluzione dei Pokémon.\xf000븁\x0000\xfffeVediamo cosa dice il libro di testo:\xfffe“Se durante l'evoluzione di un Pokémon\xf000븀\x0000\xfffepremi il pulsante B, lo sorprenderai al\xf000븀\x0000\xfffepunto da interromperne l'evoluzione."
+Alcune mosse possono essere apprese\xfffesolo tramite le Macchine Tecniche.\xf000븁\x0000\xfffeNon occorre usarle con cautela, dato\xfffeche si possono riutilizzare a volontà!\xf000븁\x0000\xfffeE se poi non ti piace la mossa che hai\xfffeinsegnato, basta usare un'altra MT!
+Ti va di rispondere a un quiz sui problemi\xfffedi stato dei Pokémon?
+Bene, allora inizio!\xf000븁\x0000\xfffeQuale dei seguenti strumenti serve\xfffea guarire i Pokémon avvelenati?
+Antidoto
+Antiparalisi
+Sveglia
+Ottima risposta! Prossima domanda!\xf000븁\x0000
+Per guarire un Pokémon paralizzato serve\xfffel'Antiparalisi...\xf000븁\x0000\xfffeMa cosa serve per svegliare un Pokémon\xfffeaddormentato?
+Ma quante ne sai!\xf000븁\x0000\xfffeRisposta esatta!\xf000븁\x0000\xfffeSai tutto sui problemi di stato!\xfffeTieni, questo regalo è per te!\xf000븁\x0000
+La Cura Totale, come dice il nome stesso,\xfffeguarisce qualsiasi problema di stato!
+Quando hai voglia di rispondere a un quiz,\xfffevieni a parlare con me!
+Noooo!\xf000븁\x0000\xfffePeccato, non è la risposta giusta.\xfffeSarà per un'altra volta!
+Sulla lavagna sono descritti i problemi\xfffedi stato che i Pokémon possono\xf000븀\x0000\xfffesubire durante la lotta.\xf000븁\x0000
+Cosa vuoi leggere?
+Quando un Pokémon è avvelenato, perde\xfffePS fintanto che è in campo a lottare.\xf000븁\x0000\xfffeFinita la lotta, l'avvelenamento permane:\xfffeusa un Antidoto!\xf000븁\x0000
+La paralisi riduce la Velocità e può\xfffeimpedire il movimento.\xf000븁\x0000\xfffePermane anche dopo la lotta:\xfffeusa un Antiparalisi!\xf000븁\x0000
+Un Pokémon addormentato non può\xfffeattaccare.\xf000븁\x0000\xfffePuò capitare che si svegli da solo, ma\xfffese è ancora addormentato a fine lotta\xf000븀\x0000\xfffecontinuerà a dormire anche dopo:\xf000븀\x0000\xfffeusa una Sveglia!\xf000븁\x0000
+Le scottature riducono l'Attacco e\xfffediminuiscono i PS a ogni turno.\xf000븁\x0000\xfffeInoltre, persistono dopo la lotta:\xfffeusa un Antiscottatura!\xf000븁\x0000
+Se un Pokémon è congelato, non può fare\xfffenulla.\xf000븁\x0000\xfffePuò capitare che si scongeli da solo, ma\xfffese è ancora congelato a fine lotta\xf000븀\x0000\xfffeil congelamento permarrà anche dopo:\xf000븀\x0000\xfffeusa un Antigelo!\xf000븁\x0000
+Avvelenamento
+Paralisi
+Sonno
+Scottatura
+Congelamento
+Esci

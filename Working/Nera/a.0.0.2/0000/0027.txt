@@ -1,0 +1,43 @@
+PULSANTE X
+SELECT
+PULSANTE B
+Apri i Graffiti
+Fermo immagine
+Annulla i Graffiti
+Spessore matita
+Copia colore
+Usa la gomma
+Chiudi i Graffiti
+Timbro
+MODALITÀ GRAFFITI
+
+
+ID \xf000Ȅ\x0001\x0000
+
+\xf000Ȁ\x0001\x0000/4
+Scegli un amico.
+CHIAMA
+PARTECIPA
+Chiamata in corso!
+
+
+
+Collegamento in corso!
+
+
+
+Ricerca di amici in corso!
+
+
+
+Vuoi chiudere l'Interpoké?
+Se il capogruppo si ritira, il gruppo verrà\xfffesciolto. Vuoi procedere comunque?
+SÌ
+NO
+Il capogruppo si è ritirato. Il gruppo\xfffesarà sciolto.
+L'altro partecipante si è ritirato.\xfffeIl gruppo sarà sciolto.
+Non ci sono più partecipanti. Il gruppo\xfffesarà sciolto.
+La chiamata non è riuscita.
+Il collegamento non è riuscito.
+Il filtro famiglia non permette l'invio\xfffee la ricezione di immagini.\xfffePer inviare immagini occorre\xfffeprima rimuovere il filtro dalle\xfffeImpostazioni della console.
+Attendi che l'altro giocatore finisca.

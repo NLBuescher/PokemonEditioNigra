@@ -1,0 +1,37 @@
+
+
+Encore \xf000Ȁ\x0001\x0000 place(s).
+Encore \xf000Ȁ\x0001\x0000 place(s).
+Recherche participants Combat Multi!
+Recherche participants Comédie Musicale!
+Recherche participants Métro de Combat!
+\xf000Ā\x0001\x0000\xf000봅\x0001F Nº \xf000Ȅ\x0001\x0001
+En attente de participants...\xfffeBouton B: Annuler
+Lorsque tous les joueurs seront prêts...\xfffeBouton A: Confirmer   Bouton B: Annuler
+\xf000Ā\x0001\x0000 vous a contacté(e).\xfffeVoulez-vous l'intégrer au groupe?
+Ce groupe vous convient-il?
+Se retirer du Combat Multi?
+Se retirer de la Comédie Musicale?
+Se retirer du Métro de Combat?
+Si le meneur se désiste, le groupe\xfffesera dissous. Continuer?
+Le Combat Multi est annulé.
+La Comédie Musicale est annulée.
+Le Métro de Combat est annulé.
+
+Il n'y a aucun membre.\xfffeLe Combat Multi va être annulé.
+Veuillez patienter...\xfffeBouton B: Annuler
+
+Un problème est survenu...\xfffeLe Combat Multi va être annulé.\xf000븂\x0001<
+Un problème est survenu...\xfffeLa Comédie Musicale va être annulée.\xf000븂\x0001<
+Un problème est survenu...\xfffeLe Métro de Combat va être annulé.\xf000븂\x0001<
+\xf000ȁ\x0001\x0000:
+\xf000ȁ\x0001\x0000: \xf000Ā\x0001\x0001\xf000봅\x0001j Nº \xf000Ȅ\x0001\x0002
+Choisissez qui rejoindre\xfffeà la Comédie Musicale.
+Choisissez qui rejoindre\xfffeau Métro de Combat.
+Les membres sont au complet.\xfffePar ici, s’il vous plaît.
+\xf000Ā\x0001\x0000 a refusé...\xf000븂\x0001<
+En attente de \xf000Ā\x0001\x0000...\xfffeBouton B: Annuler
+\xf000Ā\x0001\x0000 a accepté.\xf000븂\x0001<
+Veuillez patienter...\xfffeBouton B: Annuler
+Voulez-vous quitter le groupe?
+Un problème est survenu...\xf000븂\x0001<

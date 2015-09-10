@@ -1,0 +1,10 @@
+Bitte berühre in einem beliebigen Rhythmus\xfffezehnmal den Touchscreen.
+Test abgeschlossen. Bitte stelle eine\xfffeInfrarotverbindung zum Gegenüber her.
+Harmonietest läuft...\xfffeBitte die Infrarotverbindung nicht trennen.
+Infrarotverbindung hergestellt!
+Die Verbindung wurde unterbrochen.\xfffeBitte stelle eine Infrarotverbindung her.
+
+
+RHYTHMUSTEST
+
+

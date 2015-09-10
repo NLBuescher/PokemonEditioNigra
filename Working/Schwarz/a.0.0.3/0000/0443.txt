@@ -1,0 +1,15 @@
+Diesen Pokéball besitze ich schon\xfffesehr lange, also sollte ich ihn dir\xf000븀\x0000\xfffevielleicht schenken, findest du nicht?\xf000븁\x0000
+Ohne Pokébälle kann man auch keine\xfffePokémon fangen!\xf000븁\x0000\xfffeUnd da es verschiedene Pokébälle gibt,\xfffemusst du lernen, sie richtig einzusetzen!
+Keckeck!
+Komm, lass uns eine Runde\xfffeFeuer-Pflanze-Wasser spielen!
+Wie enttäuschend...\xfffeDu bist ja langweilig!
+Ich fange an!\xfffeAuf die Pflanze, fertig, los!
+Du setzt Feuer ein\xfffeund ich Pflanze.\xf000븁\x0000\xfffePflanzen-Pokémon sind schwach\xfffegegen Feuer-Pokémon,\xf000븀\x0000\xfffealso habe ich verloren.
+Du setzt Feuer ein\xfffeund ich Wasser.\xf000븁\x0000\xfffeFeuer-Pokémon sind schwach\xfffegegen Wasser-Pokémon,\xf000븀\x0000\xfffealso habe ich gewonnen!
+Du setzt Wasser ein\xfffeund ich Feuer.\xf000븁\x0000\xfffeFeuer-Pokémon sind schwach\xfffegegen Wasser-Pokémon,\xf000븀\x0000\xfffealso habe ich verloren!
+Du setzt Wasser ein und\xfffeich Pflanze.\xf000븁\x0000\xfffeWasser-Pokémon sind schwach\xfffegegen Pflanzen-Pokémon,\xf000븀\x0000\xfffealso habe ich gewonnen!
+Du setzt Pflanze ein\xfffeund ich Wasser.\xf000븁\x0000\xfffeWasser-Pokémon sind schwach\xfffegegen Pflanzen-Pokémon,\xf000븀\x0000\xfffealso habe ich verloren!
+Du setzt Pflanze ein\xfffeund ich Feuer.\xf000븁\x0000\xfffePflanzen-Pokémon sind schwach\xfffegegen Feuer-Pokémon,\xf000븀\x0000\xfffealso habe ich gewonnen!
+Feuer
+Pflanze
+Wasser

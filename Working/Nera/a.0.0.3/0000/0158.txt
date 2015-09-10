@@ -1,0 +1,27 @@
+
+$\xf000ȅ\x0001\x0002
+Vuoi salvare il gioco?
+
+Salvataggio in corso. Non spegnere\xfffela console.
+\xf000Ā\x0001\x0000 ha salvato il gioco!
+
+Errore di salvataggio.\xf000븁\x0000
+Esiste già un salvataggio e non puoi\xfffecrearne un altro.\xf000븁\x0000\xfffeConsulta il manuale di istruzioni per\xfffeulteriori informazioni.\xf000븁\x0000\xfffePremi Su + SELECT + Pulsante B nello\xfffeschermo del titolo per cancellare\xf000븀\x0000\xfffeil salvataggio esistente.
+Esiste già un salvataggio e non puoi\xfffecrearne un altro.\xf000븁\x0000\xfffeConsulta il manuale di istruzioni per\xfffeulteriori informazioni.\xf000븁\x0000\xfffePremi Su + SELECT + Pulsante B nello\xfffeschermo del titolo per cancellare\xf000븀\x0000\xfffeil salvataggio esistente.\xf000븁\x0000
+Salvataggio di molti dati in corso.\xfffeNon spegnere la console.
+
+
+
+È possibile salvare solo all'interno della\xfffepropria partita.
+Stai comunicando con qualcuno. Desideri\xfffeinterrompere la comunicazione?
+Il collegamento verrà interrotto.\xfffeAttendi...
+
+
+Ora rimetterò in sesto la tua squadra di\xfffePokémon.
+Quando i tuoi Pokémon non hanno molti PS,\xfffevisita subito un Centro Pokémon.\xf000븁\x0000\xfffeInoltre, se stai per intraprendere un\xfffelungo viaggio, è opportuno fare un po'\xf000븀\x0000\xfffedi scorta di pozioni al Pokémon-Market.\xf000븁\x0000\xfffeBuona fortuna!
+Ecco, la tua squadra di Pokémon è in\xfffeperfetta forma!\xf000븁\x0000\xfffeIn bocca al lupo!
+La comunicazione wireless è disattivata.\xf000븁\x0000\xfffePer attivarla, vai alle Impostazioni della\xfffeconsole.\xf000븀\x0000\xfffe(Codice errore: 50699)\xf000븁\x0000
+
+Risuonano le parole della Prof.ssa Aralia:\xfffe\xf000Ā\x0001\x0000, c'è un luogo e un momento\xf000븀\x0000\xfffeper ogni cosa!\xf000븀\x0000\xfffeMa non qui e non ora.
+Non puoi scendere dalla Bici qui!
+Nessun Pokémon della tua squadra ha\xfffeun Fiocco.

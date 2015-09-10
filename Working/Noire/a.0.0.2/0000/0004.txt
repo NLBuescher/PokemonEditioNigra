@@ -1,0 +1,16 @@
+Bienvenue aux Compétitions!
+Les Compétitions sont un mode dans lequel\xfffeon trouve les Compétitions Wi-Fi et les\xf000븁\x0000\xfffeCompétitions Live organisées\xfffedans des Lieux d'Événement.\xf000븁\x0000\xfffeLes Pokémon pouvant participer sont\xfffeceux de votre Boîte Combat.\xf000븁\x0000\xfffeUne fois inscrits, ceux-ci ne peuvent\xfffeplus être changés.\xf000븀\x0000\xfffeFaites très attention à ce dernier point.\xf000븁\x0000\xfffeAprès votre inscription, les données\xfffeseront enregistrées dans votre Licence\xf000븀\x0000\xfffeNumérique, que vous pourrez ensuite\xf000븀\x0000\xfffevisualiser.\xf000븁\x0000
+VERS LES COMPÉTITIONS Wi-Fi
+VERS LES COMPÉTITIONS LIVE
+VISUALISER LA LICENCE NUMÉRIQUE
+INFORMATIONS
+RETOUR
+PARTICIPER
+Vous pouvez participer à une Compétition\xfffeWi-Fi après votre inscription\xf000븁\x0000\xfffeà l'aide d'un ordinateur sur le\xfffesite du Pokémon Global Link:\xf000븁\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffeLes règles et périodes d'ouverture\xfffesont indiquées sur le site.\xf000븁\x0000
+Voulez-vous participer à\xfffeune Compétition Wi-Fi?
+
+
+
+ANNULER PARTICIPATION
+Voulez-vous participer à\xfffeune Compétition Live?
+Vous pouvez trouver les lieux où sont\xfffeorganisées les Compétitions Live\xf000븀\x0000\xfffesur le site officiel de Pokémon:\xf000븁\x0000\xfffehttp://www.pokemon.fr.\xf000븁\x0000\xfffeVous y trouverez également les règles\xfffeet les périodes d'ouverture.\xf000븁\x0000

@@ -1,0 +1,7 @@
+Vuoi attivare il C-Gear e avviare\xfffele comunicazioni?
+La console Nintendo DS non va in modalità\xffferiposo se la chiudi quando il C-Gear è\xfffeacceso. Attenzione alla batteria!
+Vuoi spegnere il C-Gear e interrompere\xfffeil collegamento?
+\xf000\xff00\x0001\x0001Attenzione!\xf000\xff00\x0001\x0000\xfffeRicorda di spegnere il C-Gear e\xfffeinterrompere il collegamento nei luoghi\xfffein cui è vietato usare la comunicazione\xfffewireless come aerei, ospedali, ecc.
+Impossibile accendere il C-Gear.\xfffeLa comunicazione wireless della console\xfffeè disattivata. Per attivarla, vai allo\xfffeschermo Impostazioni della console.\xfffe(Codice errore: 50699)
+SÌ
+NO

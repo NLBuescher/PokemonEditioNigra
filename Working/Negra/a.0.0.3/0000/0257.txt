@@ -1,0 +1,9 @@
+Deoxys observa el meteorito con avidez.\xfffe¿Quieres dejar que se acerque más?
+¿Qué Deoxys quieres que se acerque?\xf000븁\x0000
+Ese Pokémon no presta atención\xfffeal meteorito.
+El Huevo no reacciona ante el meteorito.
+\xf000Ă\x0001\x0000 ha adoptado una forma\xfffeequilibrada.
+\xf000Ă\x0001\x0000 ha cambiado de forma.\xfffeAhora su Ataque es mayor.
+\xf000Ă\x0001\x0000 ha cambiado de forma.\xfffeAhora su Defensa es mayor.
+\xf000Ă\x0001\x0000 ha cambiado de forma.\xfffeAhora su Velocidad es mayor.
+Hay un extraño meteorito que cayó\xfffedel espacio.

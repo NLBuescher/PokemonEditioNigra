@@ -1,0 +1,69 @@
+Tcheren: \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeLe Professeur Keteleeria a dit que nous\xfffeallions recevoir des Pokémon...?\xf000븁\x0000
+...\xfffe...\xf000븁\x0000\xfffeBianca? Elle est encore...?\xf000븁\x0000
+Bianca: Pfu... Pfu... Désolée, désolée!\xfffeJe suis encore en retard...\xf000븁\x0000
+Tcheren: Bianca, comment te dire...\xf000븁\x0000\xfffeJe sais depuis plus de 10 ans que tu as\xfffetendance à aller à ton rythme, qui est,\xf000븀\x0000\xfffesoyons francs, plutôt lent.\xf000븁\x0000\xfffeMais bon sang! C'est aujourd'hui que\xfffele Professeur Keteleeria distribue\xf000븀\x0000\xfffedes Pokémon!!!\xf000븁\x0000
+Bianca: Mais euh! J'ai dit que j'étais\xfffedésolée. Bon, \xf000Ā\x0001\x0000, Tcheren...\xf000븁\x0000
+Bianca: Y sont où, ces Pokémon?\xf000븁\x0000\xfffeY devraient déjà être chez toi,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeDonc c'est toi qui vas choisir le tien en\xfffepremier.\xf000븁\x0000
+Tcheren: Cela va sans dire.\xf000븁\x0000
+Dans cette boîte, 3 Pokémon nous\xfffeattendent!\xf000븁\x0000\xfffeVa, \xf000Ā\x0001\x0000, à toi de faire\xfffele premier pas.\xf000븁\x0000\xfffeOuvre donc!\xfffeNous mourons d'impatience!
+Tcheren: Tu crois vraiment que nous\xfffeallons te laisser partir sans ouvrir\xf000븀\x0000\xfffela boîte?\xf000븁\x0000
+Tcheren: Ne voudrais-tu pas ouvrir\xfffecette boîte?\xf000븁\x0000\xfffeLes Pokémon doivent mourir d'impatience\xfffede nous rencontrer.
+Bianca: Allez!!!\xfffeJe me demande quels Pokémon c'est...
+\xf000Ā\x0001\x0000 ouvre la boîte!\xf000븁\x0000
+... Tu trouveras joints à\xfffecette lettre trois Pokémon.\xfffeAvec tes amis, choisissez chacun\xfffele vôtre sans vous disputer.\xfffeAmicalement,\xfffe              Professeur Keteleeria
+
+
+
+\xf000봂\x0000 Pokémon de type Eau\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000 Pokémon de type Feu\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000 Pokémon de type Plante\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+Choisissez un Pokémon!
+Ce Pokémon vous convient?
+C'est décidé!
+OUI
+NON
+\xf000Ā\x0001\x0000 obtient\xfffeun \xf000ā\x0001\x0001!
+Bianca: Euh...\xfffeJe prends celui-ci!\xf000븀\x0000\xfffeEt pour Tcheren, ce sera celui-là!\xf000븁\x0000
+Tcheren: Dis-moi, depuis quand prends-tu\xfffedes décisions pour moi?\xf000븁\x0000\xfffeCertes, c'était celui que je désirais\xfffedepuis le début, mais tout de même...\xf000븁\x0000
+Bianca: Bon. Tout le monde a son\xfffePokémon.\xf000븁\x0000\xfffeAlors, vous savez ce que ça veut dire.\xfffeHein, hein?\xf000븁\x0000\xfffeC'est l'heure d'un combat de Pokémon!\xf000븁\x0000
+Tcheren: Bianca, si je puis me\xfffepermettre...\xf000븁\x0000\xfffeCe n'est pas parce qu'ils sont encore\xfffefaibles que l'on peut s'autoriser\xf000븀\x0000\xfffece genre de fantaisies en intérieur.\xf000븁\x0000
+Bianca: Mais non, t'y connais rien!\xfffeY sont encore tout mimi et faiblards.\xf000븁\x0000\xfffeSi on les fait pas se battre, ils pourront\xfffejamais devenir forts!\xf000븁\x0000\xfffeAllez, \xf000Ā\x0001\x0000.\xfffeEn garde!\xf000븁\x0000
+
+La boîte est vide.
+
+
+
+
+
+Bianca: Eh ben...\xfffe\xf000Ā\x0001\x0000, t'assures!\xf000븁\x0000\xfffeJ'ai comme le pressentiment\xfffeque tu vas devenir un super Dresseur.\xf000븁\x0000
+Bianca: Eh ben...\xf000븁\x0000\xfffeJ'étais tellement dans ce combat...\xfffeJe réalise pas encore que j'ai gagné.\xf000븁\x0000
+Tcheren: ...\xfffe...\xf000븁\x0000\xfffeBianca...\xfffeTu as regardé autour de toi?\xf000븁\x0000
+Bianca: Mais... Mais!!!\xfffeQu'est-ce qui s'est passé?\xf000븁\x0000
+Les Pokémon, y rigolent pas!!!\xfffePourtant, y sont si petits et mimi!\xf000븁\x0000\xfffeJ'suis trop trop contente d'en avoir\xfffeenfin un.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000...\xfffeTu te fâches pas, hein?\xf000븁\x0000
+Tcheren: Ma petite Bianca, tu es\xfffeirrécupérable.\xf000븁\x0000\xfffePrête-moi donc ton Pokémon,\xfffeque je le guérisse.\xf000븁\x0000
+Tcheren soigne le Pokémon de Bianca.
+Il faut aussi soigner ton Pokémon,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000
+Tcheren soigne le Pokémon\xfffede \xf000Ā\x0001\x0000.
+Tcheren: Réussir à gagner sans faire\xfffediminuer les PV de son Pokémon,\xf000븀\x0000\xfffeautrement dit son endurance,\xf000븀\x0000\xfffequel exploit!\xf000븁\x0000\xfffeMais les PP, les Points de Pouvoir donc,\xfffediminuent forcément.\xf000븁\x0000
+Bianca: Euh... Euh... Et si tu faisais\xfffeun duel avec Tcheren, aussi?\xf000븁\x0000\xfffeComme il est super balèze, je suis sûre\xfffequ'il pourra se battre sans mettre\xf000븀\x0000\xfffele bazar comme moi.\xf000븁\x0000
+Tcheren: Excellente idée!\xf000븁\x0000\xfffeAvec mon exceptionnelle connaissance\xfffedes Pokémon, aucun risque que cette\xf000븀\x0000\xfffechambre souffre davantage.\xf000븁\x0000\xfffeEt puis, ce serait injuste qu'il n'y ait\xfffeque vous deux pour profiter\xf000븀\x0000\xfffedes Pokémon.\xf000븁\x0000
+
+
+
+
+Très bien, je relève ton défi!\xfffeLe frisson de la première fois...\xf000븁\x0000\xfffe\xf000ā\x0001\x0001, donne tout ce que tu as!\xf000븁\x0000
+
+Tcheren: J'ai goûté de manière imprévue à\xfffela défaite pour ce premier combat.\xf000븁\x0000\xfffeMais cette sensation...\xfffeSerais-je déjà devenu Dresseur?\xf000븁\x0000\xfffe... Hum, par contre...\xfffeIl va falloir s'excuser auprès de ta\xf000븀\x0000\xfffemère pour tout ce désordre.\xf000븁\x0000
+Tcheren: Cette sensation...\xfffeSerais-je déjà devenu Dresseur?\xf000븁\x0000\xfffe... Hum, par contre...\xfffeIl va falloir s'excuser auprès de ta\xf000븀\x0000\xfffemère pour tout ce désordre.\xf000븁\x0000
+Bianca: Euh... C'est vrai...\xfffeMoi aussi, il faudrait...\xf000븁\x0000
+Il y a une console Wii!\xfffeAvec des télécommandes Wii!
+Il y a une console Wii!\xf000븁\x0000\xfffeElle est encore en parfait état.
+C'est une télé à écran plat achetée par\xfffePapa.
+Il y a un lit...!\xf000븁\x0000\xfffeLes draps lavés par Maman sentent\xfffebon le propre.
+Le lit est dans un de ces états...!
+\xf000Ā\x0001\x0000 consulte son PC!\xf000븁\x0000\xfffeConnaissances de base Pokémon:\xf000븁\x0000\xfffeDans notre monde, humains et Pokémon\xfffecoexistent en paix.\xf000븁\x0000\xfffeLes gens faisant combattre les Pokémon\xfffesont appelés Dresseurs.
+C'est un certificat de complétion\xfffedu Pokédex d'Unys!\xf000븁\x0000
+C'est un certificat de complétion\xfffedu Pokédex National!\xf000븁\x0000
+C'est un trophée attestant votre\xfffevictoire Solo sur le Chef du Métro!
+C'est un trophée attestant votre\xfffevictoire Duo sur le Chef du Métro!
+C'est un trophée attestant votre\xfffevictoire Multi sur le Chef du Métro!

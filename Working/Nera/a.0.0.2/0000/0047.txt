@@ -1,0 +1,18 @@
+Con il pollice sinistro, tocca delicatamente\xfffeil touch screen dove richiesto dalla grafica.
+Il riconoscimento tattile non è riuscito.\xfffeRiprova seguendo le tracce sullo schermo.
+Ora fai la stessa cosa con il pollice destro,\xfffesenza spostare quello sinistro.
+Controllo terminato.\xfffeInizia il collegamento a infrarossi.
+Controllo in corso.\xfffeMantieni il collegamento a infrarossi.
+Il collegamento a infrarossi è stato\xfffeavviato.
+Il collegamento a infrarossi è stato\xfffeinterrotto. Riprova.
+
+
+
+
+Se la prima non ha effetto, prova a toccare\xfffeun'altra volta.
+
+
+
+
+CONTROLLO SINCRONIA
+Solleva le dita dal touch screen e ricomincia\xfffeusando la mano sinistra.

@@ -1,0 +1,47 @@
+LOTTA
+SCAMBIA
+INDIETRO
+LOTTE PER DUE
+LOTTE PER QUATTRO
+LOTTA IN SINGOLO
+LOTTA IN DOPPIO
+LOTTA IN TRIPLO
+Utilizza il collegamento a infrarossi per\xfffeconnetterti al giocatore avversario.
+Utilizza il collegamento a infrarossi per\xfffeconnetterti al giocatore alleato.
+
+Utilizza il collegamento a infrarossi per\xfffeconnetterti al capogruppo avversario.
+Attendi...
+CODICE AMICO
+CONTROLLO\xfffeAFFINITÀ
+Vuoi interrompere?
+Utilizza il collegamento a infrarossi per\xfffescambiare Pokémon con un altro giocatore.
+
+
+
+
+
+
+Attendi...
+Le opzioni selezionate non sono compatibili.\xfffeRitornerai al menu principale.
+Vuoi salvare il gioco?
+SÌ
+NO
+Salvataggio in corso.\xfffeNon spegnere la console.
+Inizio dello scambio.\xfffeAttendi...
+Inizio della lotta.\xfffeAttendi...
+LOTTA A ROTAZIONE
+Scambia il codice amico con un altro\xfffegiocatore con il collegamento a infrarossi.
+La tua lista di amici è piena. Non è possibile\xffferegistrare altri codici amico.
+\xf000봂\x0000Amici registrati:\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000/32
+AVANTI
+Va bene questo gruppo?
+Utilizza il collegamento a infrarossi per\xfffeconnetterti agli altri giocatori.
+Collegati con gli infrarossi al capogruppo\xfffeche ha stabilito i parametri di lotta.
+Numero di partecipanti: \xf000Ȁ\x0001\x0000\xfffeTocca AVANTI per procedere.
+USA IL BOX LOTTA
+USA LA TUA SQUADRA
+La registrazione del codice amico è\xffferiuscita!
+La lista amici è stata aggiornata!
+Per gli scambi devi disporre di almeno due\xfffePokémon.
+Esiste già un salvataggio e non puoi\xfffecrearne un altro.\xf000븁\x0000\xfffeConsulta il manuale di istruzioni per\xfffeulteriori informazioni.\xf000븁\x0000\xfffePremi Su + SELECT + Pulsante B nello\xfffeschermo del titolo per cancellare\xf000븀\x0000\xfffeil salvataggio esistente.
+Utilizza il collegamento a infrarossi per\xfffegiocare con i tuoi amici.

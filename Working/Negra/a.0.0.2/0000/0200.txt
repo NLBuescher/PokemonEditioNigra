@@ -1,0 +1,350 @@
+SALUDAR
+DIBUJAR
+COMBATE
+INTERCAMBIO
+SALIR
+GIRO
+
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 ha contactado contigo.\xf000븂\x0001\x000f
+Se ha interrumpido la sesión.
+Esperando respuesta de \xf000Ā\x0001\x0000...\xf000븂\x0001\x000f
+La sesión ha finalizado.
+\xf000Ā\x0001\x0000 te permite ver\xfffesu Ficha de Entrenador.\xf000븁\x0000\xfffe¿Quieres mostrarle la tuya?
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004,\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000, que vive en\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+Esta es la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Esperando a que el otro jugador termine.
+Has rechazado la invitación.
+\xf000Ā\x0001\x0000 te ha invitado\xfffea hacer un dibujo.\xf000븁\x0000\xfffe¿Quieres dibujar con esta persona?
+
+Has rechazado la invitación.
+
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeIndividual sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeIndividual con restricciones?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeDoble sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeDoble con restricciones?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeTriple sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeTriple con restricciones?\xf000븁\x0000
+
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeRotatorio sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeRotatorio con restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeMúltiple sin restricciones?\xf000븁\x0000
+\xf000Ā\x0001\x0000 te propone un combate.\xf000븁\x0000\xfffe¿Aceptas su propuesta de un Combate\xfffeMúltiple con restricciones?\xf000븁\x0000
+
+Has rechazado la invitación.
+\xf000Ā\x0001\x0000 te ha propuesto realizar\xfffeun intercambio.\xf000븁\x0000\xfffe¿Aceptas la invitación?
+El intercambio va a comenzar.\xf000븂\x0001<
+Has rechazado la invitación.
+¡Necesitas al menos dos Pokémon\xfffesi quieres hacer intercambios!
+\xf000Ā\x0001\x0000 te ha propuesto\xfffemezclar récords.\xf000븁\x0000\xfffe¿Quieres mezclar récords\xfffecon esta persona?
+
+
+\xf000Ā\x0001\x0000 te ha invitado\xfffea un Intercambio Giro.\xf000븁\x0000\xfffe¿Quieres participar?
+
+Has rechazado la invitación.
+No tienes ningún Huevo.\xfffeNo puedes aceptar la oferta.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe¡Soy \xf000Ā\x0001\x0000!\xfffe¿Te apetece hacer algo?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe¡Soy \xf000Ā\x0001\x0000!\xfffe¿Te apetece hacer algo?
+¡Anda, si yo tenía que hacer\xfffeun montón de cosas!\xf000븁\x0000\xfffeOtra vez será. ¡Lo siento!
+¡Anda, si yo tenía que hacer\xfffeun montón de cosas!\xf000븁\x0000\xfffeOtra vez será. ¡Lo siento!
+¿Qué quieres hacer?
+¿Qué quieres hacer?
+...\xfffeEste Entrenador parece estar ocupado...
+...\xfffeEsta Entrenadora parece estar ocupada...
+\xf000Ā\x0001\x0000 no responde.
+\xf000Ā\x0001\x0000 no responde.
+¡Claro! A modo de saludo, te enseño\xfffemi Ficha de Entrenador.
+Para presentarme, te enseño\xfffemi Ficha de Entrenador.
+¿Mmm? ¿Dónde habré puesto\xfffemi Ficha de Entrenador?\xf000븁\x0000\xfffe¡Bueno, otra vez será!
+¿Mmm? ¿Dónde habré puesto\xfffemi Ficha de Entrenador?\xf000븁\x0000\xfffe¡Bueno, otra vez será!
+Mira mi Ficha de Entrenador.\xfffeEs mi forma de mandarte un saludo.
+Nos estamos enseñando las Fichas\xfffede Entrenador para conocernos.
+Espero que nos conozcamos mejor.
+Me alegra haberte conocido.\xfffe¡Espero que nos veamos por ahí!
+Oh... ¿Querías dibujar conmigo?\xfffeClaro, espera un momento.
+¿Quieres dibujar conmigo?\xfffeClaro, espera un momento...
+
+
+Oh... Lo siento, ¡ahora mismo no puedo!\xfffe¡Dejémoslo para otra ocasión!
+Oh... Lo siento.\xfffe¡Dejémoslo para otra ocasión!
+\xf000Ā\x0001\x0000: Ahora mismo estamos\xfffedibujando.\xf000븁\x0000\xfffe¡Oh! ¡Tengo una idea! \xf000Ā\x0001\x0001,\xfffe¿quieres unirte y dibujar tú también?
+\xf000Ā\x0001\x0000: Ahora mismo estamos\xfffedibujando.\xf000븁\x0000\xfffe¡Oh! ¡Tengo una idea! \xf000Ā\x0001\x0001,\xfffe¿quieres unirte y dibujar tú también?
+Está bien.\xfffeBueno, hasta la próxima.
+Oh...\xfffeBueno, vuelve cuando quieras.
+¡Vale! Espera un momento.
+¡Vale! Espera un momento.
+¡Genial! ¡Vamos a dibujar juntos!\xf000븂\x0001<
+¡Genial! ¡Vamos a dibujar juntos!\xf000븂\x0001<
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+¿Debo dibujar algo que empiece con\xfffela última letra de lo que tú dibujes?
+¡Guau! ¡Qué bien se te da!
+¡No dibujes tantas caras tronchantes!\xfffe¡Me duele la tripa de tanto reírme!
+¡Ja, ja, ja! ¡¿Qué es eso?!
+¡Guau! ¡Qué bien se te da dibujar!\xfffe¡A ver si a mí me sale igual de bien!
+¡Me encanta dibujar!\xfffe¡Podría hacerlo durante horas!
+¡¿Eh?! ¿Qué es eso?\xfffe¿Se supone que es mi retrato?
+¡Huy! ¡Me salgo de las líneas!
+Quieres luchar, ¿eh?\xfffeVale, pero dame un poco de tiempo.
+¿Un combate? ¡Hecho!\xfffeDeja que me prepare.
+¡Gracias por esperar!\xfffe¡Empecemos el combate!\xf000븂\x0001<
+¡Gracias por esperar!\xfffe¡Empecemos el combate!\xf000븂\x0001<
+Lo siento, pero mis Pokémon no se\xfffeencuentran muy bien.\xf000븁\x0000\xfffeDejémoslo para otra ocasión.
+Lo siento, pero mis Pokémon\xfffeno se encuentran muy bien.\xf000븁\x0000\xfffeDejémoslo para otra ocasión.
+\xf000Ā\x0001\x0000: Ahora íbamos a echar\xfffeun Combate Múltiple.\xf000븁\x0000\xfffe¡Ya sé! ¿Quieres unirte a nosotros,\xfffe\xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0000: Ahora íbamos a echar\xfffeun Combate Múltiple.\xf000븁\x0000\xfffe¡Ya sé! ¿Quieres unirte a nosotros,\xfffe\xf000Ā\x0001\x0001?
+Está bien. Bueno, hasta la próxima.
+Oh...\xfffeBueno, vuelve cuando quieras.
+¡Vale! Espera un momento.
+¡Vale! Espera un momento.
+¡Gracias por esperar!\xfffe¡Empecemos el Combate Múltiple!\xf000븂\x0001<
+¡Gracias por esperar!\xfffe¡Empecemos el Combate Múltiple!\xf000븂\x0001<
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+Oh... ¡Lo siento! Lo dejamos para otro\xfffemomento, ¿vale?
+
+
+¡Guaaau! ¡Sí que eres fuerte!
+Ese Pokémon sí que está bien entrenado.
+¿Usas ese movimiento ahora?\xfffe¡Qué estrategia tan buena!
+¡Eso es! ¡Ese es el movimiento\xfffemás oportuno!
+¡Qué pasada!\xfffe¡Menudo estilazo tienes!
+¡Qué pasada!\xfffe¡Nunca había visto nada igual!
+¡Vaya! ¿Ahora me sales con ese Pokémon?
+¡Qué momento tan oportuno para cambiar\xfffede Pokémon!
+¿Quieres hacer un intercambio?\xfffeClaro, espera un momento.
+¿Quieres hacer un intercambio?\xfffeClaro, espera un momento.
+
+
+¡Lo siento! Ahora mismo no tengo Pokémon\xfffeque intercambiar.\xf000븁\x0000\xfffeDejémoslo para otro momento.
+¡Lo siento! Ahora mismo no tengo Pokémon\xfffeque intercambiar.\xf000븁\x0000\xfffeDejémoslo para otro momento.
+¡Yuuujuuu!\xfffe¡Siempre he querido este Pokémon!
+¡Estoy intercambiando Pokémon!
+¡Por fin! ¡He estado buscando este\xfffePokémon un montón de tiempo!
+¡Por fin logré ese Pokémon que tanto\xfffequería mediante un intercambio!
+No puedes hacer intercambios si solo\xfffellevas un Pokémon contigo.\xf000븁\x0000
+No puedes hacer intercambios si solo\xfffellevas un Pokémon contigo.\xf000븁\x0000
+Cuando quieras que hagamos algo,\xfffe¡ya sabes dónde estoy!
+Cuando quieras que hagamos algo,\xfffeme lo dices, ¿vale?
+
+
+
+
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+Oh... ¡Lo siento! Lo dejamos para otro\xfffemomento, ¿vale?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+¿Que hagamos un Intercambio Giro?\xfffe¡Venga! ¡Espera a que me prepare!
+¿Quieres que hagamos un Intercambio\xfffeGiro? ¡Vale! ¡Espera a que me prepare!
+
+
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+Oh... ¡Lo siento! Lo dejamos para otro\xfffemomento, ¿vale?
+Te hace falta un Huevo para participar\xfffeen un Intercambio Giro.\xf000븁\x0000
+Te hace falta un Huevo para participar\xfffeen un Intercambio Giro.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Vamos a hacer\xfffeun Intercambio Giro.\xf000븁\x0000\xfffe¡Oye, \xf000Ā\x0001\x0001! ¿Te gustaría\xfffeparticipar en el Intercambio Giro?
+\xf000Ā\x0001\x0000: Vamos a hacer\xfffeun Intercambio Giro.\xf000븁\x0000\xfffe¡Oye, \xf000Ā\x0001\x0001! ¿Te gustaría\xfffeparticipar en el Intercambio Giro?
+Está bien. Bueno, hasta la próxima.
+Oh...\xfffeBueno, vuelve cuando quieras.
+¡Vale! Espera un momento.
+¡Vale! Espera un momento.
+¡Genial! ¡Hagamos un Intercambio Giro!\xf000븂\x0001<
+¡Genial! ¡Hagamos un Intercambio Giro!\xf000븂\x0001<
+¿Eh? ¿No tienes ningún Huevo?\xfffePues si vuelves con uno, avísame.
+¿Eh? ¿No tienes ningún Huevo?\xfffePues si vuelves con uno, avísame.
+Lo siento. Ahora tengo mucho que hacer.\xfffeLo dejamos para otro momento, ¿vale?
+Oh... ¡Lo siento! Lo dejamos para otro\xfffemomento, ¿vale?
+Hay un Huevo en tu equipo que\xfffeno se puede intercambiar.
+Hay un Huevo en tu equipo que\xfffeno se puede intercambiar.
+Hay un Huevo en tu equipo que\xfffeno se puede intercambiar.\xf000븁\x0000
+Hay un Huevo en tu equipo que\xfffeno se puede intercambiar.\xf000븁\x0000
+¡Me encanta hacer Intercambios Giro!
+Estamos haciendo un Intercambio Giro.
+¡Oye! Sí, tú. Espera un segundo.
+¡Vaya! ¡Se ha vuelto a mover!
+¡Mi Huevo mola!
+Me acabo de quedar sin el Huevo\xfffeque quería.
+¡Estupendo! ¡He conseguido justo el Huevo\xfffeque quería!
+Si se hubiera parado allí, habría\xfffeconseguido una Baya.
+Esta es la Sala Unión.\xf000븁\x0000\xfffeSi necesitas ayuda con lo que sea,\xfffeno dudes en decírmelo.\xf000븁\x0000
+
+¿Qué quieres que te explique?
+Existen cinco modalidades de combate.\xf000븁\x0000\xfffeEl Combate Individual es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador puede tener un Pokémon\xfffeen combate.\xf000븁\x0000\xfffeEl Combate Doble es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca dos Pokémon\xfffea la vez para combatir.\xf000븁\x0000\xfffeEl Combate Triple es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca tres Pokémon\xfffea la vez para combatir.\xf000븁\x0000\xfffeEl Combate Rotatorio es para dos\xfffeEntrenadores.\xf000븁\x0000\xfffeCada Entrenador saca tres Pokémon\xfffea la vez para combatir, uno al frente\xf000븀\x0000\xfffey dos detrás.\xf000븁\x0000\xfffeEl Combate Múltiple es para cuatro\xfffeEntrenadores.\xf000븁\x0000\xfffeSe enfrentan en equipos en un combate\xfffede dos contra dos en el que\xf000븀\x0000\xfffecada Entrenador puede tener un Pokémon\xf000븀\x0000\xfffeen combate.\xf000븁\x0000
+Puedes intercambiar Pokémon con otros\xfffejugadores.\xf000븁\x0000\xfffe¡Conocer a gente nueva puede ser una\xfffeforma de encontrar nuevos Pokémon!\xf000븁\x0000
+
+En un Intercambio Giro, cada uno lleva\xfffeun Huevo que intercambia con los demás.\xf000븁\x0000\xfffe¿Con qué Huevo acabarás?\xfffe¿Qué Pokémon saldrá del Huevo?\xf000븁\x0000\xfffe¿A que es emocionante?\xf000븁\x0000\xfffePueden participar hasta cinco personas,\xfffeasí que... ¡pruébalo con tus amigos!\xf000븁\x0000
+Puedes dibujar junto a otros jugadores.\xf000븁\x0000\xfffeOs reuniréis todos en un mismo\xfffelienzo de manera simultánea.\xf000븁\x0000\xfffe¡Seguro que muchos dibujos entre\xfffeamigos son auténticas obras de arte!\xf000븁\x0000\xfffePueden participar hasta cinco jugadores,\xfffeasí que... ¡invita a tus amigos!\xf000븁\x0000
+¡Puedes chatear con otros jugadores\xfffeen la Sala Unión!\xf000븁\x0000\xfffeElige las palabras y deja que la gente\xfffete conozca y sepa sobre tus gustos.\xf000븁\x0000\xfffe¡Socializa, habla con la gente y amplía tu\xfffecírculo de amigos!\xf000븁\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMBATE
+INTERCAMBIO
+
+GIRO
+DIBUJAR
+CHATEAR
+ATRÁS
+Hablando con \xf000Ā\x0001\x0000...
+¡Anda, si yo tenía que hacer un montón\xfffede cosas!\xf000븁\x0000\xfffeOtra vez será. ¡Lo siento!
+
+
+
+こんにちは！
+Hello!
+Bonjour!
+Ciao!
+Hallo!
+¡Hola!
+¡H-o-l-a!
+안녕하세요
+COMBATES PARA DOS
+COMBATES PARA CUATRO
+SALIR
+COMBATE INDIVIDUAL
+COMBATE DOBLE
+COMBATE TRIPLE
+COMBATE ROTATORIO
+VALE
+VER REGLAMENTO
+ATRÁS
+
+SIN RESTRICCIONES
+CON RESTRICCIONES
+CON SUPERLANZADOR
+SIN SUPERLANZADOR
+ATRÁS
+Modalidad:\xf000봅\x0001s \xf000\xff00\x0001\x0002Combate Individual\xf000\xff00\x0001\x0000
+Modalidad:\xf000봅\x0001s \xf000\xff00\x0001\x0002Combate Doble\xf000\xff00\x0001\x0000
+Modalidad:\xf000봅\x0001s \xf000\xff00\x0001\x0002Combate Triple\xf000\xff00\x0001\x0000
+Modalidad:\xf000봅\x0001s \xf000\xff00\x0001\x0002Combate Rotatorio\xf000\xff00\x0001\x0000
+Modalidad:\xf000봅\x0001s Combate Múltiple
+Reglas del combate:\xf000봅\x0001s \xf000\xff00\x0001\x0002Sin restricciones\xf000\xff00\x0001\x0000
+Reglas del combate:\xf000봅\x0001s \xf000\xff00\x0001\x0002Con restricciones\xf000\xff00\x0001\x0000
+Superlanzador:\xf000봅\x0001s \xf000\xff00\x0001\x0002Sí\xf000\xff00\x0001\x0000
+Superlanzador:\xf000봅\x0001s \xf000\xff00\x0001\x0002No\xf000\xff00\x0001\x0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+No puedes participar porque no reúnes\xfffelos requisitos necesarios.
+Por favor, espera un momento.\xfffeBotón B: Salir
+Elige qué Pokémon usarás en el combate.\xf000븂\x0001<
+Selecciona los tres Pokémon con los que\xfffequieres combatir.\xf000븂\x0001<
+Selecciona los cuatro Pokémon con los que\xfffequieres combatir.\xf000븂\x0001<
+Selecciona los seis Pokémon con los que\xfffequieres combatir.\xf000븂\x0001<
+Selecciona hasta tres Pokémon con los que\xfffequieras combatir.\xf000븂\x0001<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No voy a participar porque no conozco\xfffeese juego.
+No puedes participar porque no reúnes\xfffelos requisitos necesarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finalizando la conexión...\xfffeEspera unos instantes.\xf000븂\x0001<
+
+Finalizará la conexión. ¿Estás de acuerdo?
+EQUIPO
+CAJA DE COMBATE
+...\xfffeParece que esta persona está ocupada.
+
+
+
+
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha normal!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Bronce!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Cobre!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Plata!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Oro!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Blanca!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha Negra!
+Veamos la Ficha de Entrenador\xfffede \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffe¡Es una Ficha que no habías visto nunca!

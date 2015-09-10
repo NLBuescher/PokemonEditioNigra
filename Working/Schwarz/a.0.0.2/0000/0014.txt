@@ -1,0 +1,1159 @@
+\xf000Ă\x0001\x0000 wurde besiegt!
+\xf000Ă\x0001\x0000 (Wild) wurde besiegt!
+\xf000Ă\x0001\x0000 (Gegner) wurde besiegt!
+\xf000Ă\x0001\x0000 hat sich wieder erholt!
+\xf000Ă\x0001\x0000 (Wild) hat sich wieder erholt!
+\xf000Ă\x0001\x0000 (Gegner) hat sich wieder erholt!
+Das ist sehr effektiv gegen \xf000Ă\x0001\x0000!
+Das ist sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 (Wild)!
+Das ist sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 (Gegner)!
+Das ist sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001!
+Das ist sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001 (Wild)!
+Das ist sehr effektiv gegen \xf000Ă\x0001\x0000\xfffeund \xf000Ă\x0001\x0001 (Gegner)!
+Das ist sehr effektiv gegen \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002!
+Das ist sehr effektiv gegen \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002 (Wild)!
+Das ist sehr effektiv gegen \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002 (Gegner)!
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 (Wild)...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 (Gegner)...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001 (Wild)...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001 (Gegner)...
+Das ist nicht sehr effektiv gegen\xfffe\xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002...
+Das ist nicht sehr effektiv gg. \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002 (Wild)...
+Das ist nicht sehr effektiv gg. \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001 und \xf000Ă\x0001\x0002 (Gegner)...
+Aber der Einsatz bei \xf000Ă\x0001\x0000\xfffeschlug fehl!
+Aber der Einsatz bei \xf000Ă\x0001\x0000 (Wild)\xfffeschlug fehl!
+Aber der Einsatz bei \xf000Ă\x0001\x0000 (Gegner)\xfffeschlug fehl!
+Angriff von \xf000Ă\x0001\x0000 steigt.
+Angriff von \xf000Ă\x0001\x0000 (Wild) steigt.
+Angriff von \xf000Ă\x0001\x0000 (Gegner) steigt.
+Verteidigung von \xf000Ă\x0001\x0000 steigt.
+Verteidigung von \xf000Ă\x0001\x0000 (Wild) steigt.
+Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) steigt.
+Spezial-Angriff von\xfffe\xf000Ă\x0001\x0000 steigt.
+Spezial-Angriff von\xfffe\xf000Ă\x0001\x0000 (Wild) steigt.
+Spezial-Angriff von\xfffe\xf000Ă\x0001\x0000 (Gegner) steigt.
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 steigt.
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Wild) steigt.
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) steigt.
+Initiative von \xf000Ă\x0001\x0000 steigt.
+Initiative von \xf000Ă\x0001\x0000 (Wild) steigt.
+Initiative von \xf000Ă\x0001\x0000 (Gegner) steigt.
+Genauigkeit von \xf000Ă\x0001\x0000 steigt.
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild) steigt.
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt.
+Fluchtwert von \xf000Ă\x0001\x0000 steigt.
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild) steigt.
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt.
+Angriff von \xf000Ă\x0001\x0000 steigt stark!
+Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Verteidigung von \xf000Ă\x0001\x0000 steigt stark!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000\xfffesteigt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000\xfffesteigt stark!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) steigt stark!
+Initiative von \xf000Ă\x0001\x0000 steigt stark!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 steigt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 steigt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt stark!
+Angriff von \xf000Ă\x0001\x0000 steigt drastisch!
+Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Verteidigung von \xf000Ă\x0001\x0000\xfffesteigt drastisch!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000\xfffesteigt drastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000\xfffesteigt drastisch!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) steigt drastisch!
+Initiative von \xf000Ă\x0001\x0000 steigt\xfffedrastisch!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 steigt\xfffedrastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 steigt\xfffedrastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffesteigt drastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffesteigt drastisch!
+Angriff von \xf000Ă\x0001\x0000 sinkt.
+Angriff von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Angriff von \xf000Ă\x0001\x0000 (Gegner) sinkt.
+Verteidigung von \xf000Ă\x0001\x0000 sinkt.
+Verteidigung von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner) sinkt.
+Spezial-Angriff von \xf000Ă\x0001\x0000 sinkt.
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt.
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 sinkt.
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt.
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) sinkt.
+Initiative von \xf000Ă\x0001\x0000 sinkt.
+Initiative von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Initiative von \xf000Ă\x0001\x0000 (Gegner) sinkt.
+Genauigkeit von \xf000Ă\x0001\x0000 sinkt.
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner) sinkt.
+Fluchtwert von \xf000Ă\x0001\x0000 sinkt.
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild) sinkt.
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner) sinkt.
+Angriff von \xf000Ă\x0001\x0000 sinkt stark!
+Angriff von \xf000Ă\x0001\x0000 (Wild) sinkt stark!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Verteidigung von \xf000Ă\x0001\x0000 sinkt stark!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000 sinkt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000\xfffesinkt stark!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) sinkt stark!
+Initiative von \xf000Ă\x0001\x0000 sinkt stark!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 sinkt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 sinkt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt stark!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt stark!
+Angriff von \xf000Ă\x0001\x0000 sinkt drastisch!
+Angriff von \xf000Ă\x0001\x0000 (Wild) sinkt\xfffedrastisch!
+Angriff von \xf000Ă\x0001\x0000 (Gegner) sinkt\xfffedrastisch!
+Verteidigung von \xf000Ă\x0001\x0000 sinkt\xfffedrastisch!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt drastisch!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt drastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000 sinkt\xfffedrastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt drastisch!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt drastisch!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 sinkt drastisch!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Wild) sinkt drastisch!
+Spezial-Verteidigung von\xfffe\xf000Ă\x0001\x0000 (Gegner) sinkt drastisch!
+Initiative von \xf000Ă\x0001\x0000 sinkt drastisch!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt drastisch!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt drastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 sinkt\xfffedrastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt drastisch!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt drastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 sinkt drastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt drastisch!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt drastisch!
+Angriff von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Verteidigung von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Spezial-Angriff von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Spezial-Verteidigung v. \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Initiative von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Genauigkeit von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Fluchtwert von \xf000Ă\x0001\x0000\xfffekann nicht weiter erhöht werden!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter erhöht werden!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter erhöht werden!
+Angriff von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Verteidigung von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Spezial-Angriff von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Spezial-Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Spezial-Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Spezial-Verteidigung v. \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Initiative von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Initiative von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Initiative von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Genauigkeit von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Fluchtwert von \xf000Ă\x0001\x0000\xfffekann nicht weiter sinken!
+Fluchtwert von \xf000Ă\x0001\x0000 (Wild)\xfffekann nicht weiter sinken!
+Fluchtwert von \xf000Ă\x0001\x0000 (Gegner)\xfffekann nicht weiter sinken!
+Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 wurden aufgehoben!
+Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 (Wild) wurden aufgehoben!
+Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 (Gegner) wurden aufgehoben!
+Status von \xf000Ă\x0001\x0000\xfffesinkt nicht!
+Status von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt nicht!
+Status von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt nicht!
+Angriff von \xf000Ă\x0001\x0000\xfffesinkt nicht!
+Angriff von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt nicht!
+Angriff von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt nicht!
+Verteidigung von \xf000Ă\x0001\x0000\xfffesinkt nicht!
+Verteidigung von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt nicht!
+Verteidigung von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt nicht!
+Genauigkeit von \xf000Ă\x0001\x0000\xfffesinkt nicht!
+Genauigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffesinkt nicht!
+Genauigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffesinkt nicht!
+Es hat keine Wirkung auf\xfffe\xf000Ă\x0001\x0000...
+Es hat keine Wirkung auf\xfffe\xf000Ă\x0001\x0000 (Wild)...
+Es hat keine Wirkung auf\xfffe\xf000Ă\x0001\x0000 (Gegner)...
+\xf000Ă\x0001\x0000 wehrt die\xfffeAttacke ab!
+\xf000Ă\x0001\x0000 (Wild) wehrt die\xfffeAttacke ab!
+\xf000Ă\x0001\x0000 (Gegner) wehrt die\xfffeAttacke ab!
+\xf000Ă\x0001\x0000 ist unversehrt!
+\xf000Ă\x0001\x0000 (Wild) ist unversehrt!
+\xf000Ă\x0001\x0000 (Gegner) ist unversehrt!
+\xf000ĉ\x0001\x0001 reduziert den Schaden\xfffegegen \xf000Ă\x0001\x0000!
+\xf000ĉ\x0001\x0001 reduziert den Schaden\xfffegegen \xf000Ă\x0001\x0000 (Wild)!
+\xf000ĉ\x0001\x0001 reduziert den Schaden\xfffegegen \xf000Ă\x0001\x0000 (Gegner)!
+\xf000Ă\x0001\x0000 verwandelt sich!
+\xf000Ă\x0001\x0000 (Wild) verwandelt sich!
+\xf000Ă\x0001\x0000 (Gegner) verwandelt sich!
+\xf000Ă\x0001\x0000 hat sein\xfffeItem (\xf000ĉ\x0001\x0001) fallen lassen!
+\xf000Ă\x0001\x0000 (Wild) hat sein\xfffeItem (\xf000ĉ\x0001\x0001) fallen lassen!
+\xf000Ă\x0001\x0000 (Gegner) hat sein\xfffeItem (\xf000ĉ\x0001\x0001) fallen lassen!
+Die Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 wurden aufgehoben!
+Die Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 (Wild) wurden aufgehoben!
+Die Statusveränderungen von\xfffe\xf000Ă\x0001\x0000 (Gegner) wurden aufgehoben!
+\xf000Ă\x0001\x0000 ist in die Mitte\xfffegewechselt!
+\xf000Ă\x0001\x0000 (Wild) ist in die Mitte\xfffegewechselt!
+\xf000Ă\x0001\x0000 (Gegner) ist in die Mitte\xfffegewechselt!
+\xf000Ă\x0001\x0000 wurde vergiftet!
+\xf000Ă\x0001\x0000 (Wild) wurde vergiftet!
+\xf000Ă\x0001\x0000 (Gegner) wurde vergiftet!
+\xf000Ă\x0001\x0000 wurde schwer\xfffevergiftet!
+\xf000Ă\x0001\x0000 (Wild) wurde schwer\xfffevergiftet!
+\xf000Ă\x0001\x0000 (Gegner) wurde schwer\xfffevergiftet!
+\xf000Ă\x0001\x0000 wurde durch das Item\xfffe\xf000ĉ\x0001\x0001 schwer vergiftet!
+\xf000Ă\x0001\x0000 (Wild) wurde durch das Item\xfffe\xf000ĉ\x0001\x0001 schwer vergiftet!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch das Item\xfffe\xf000ĉ\x0001\x0001 schwer vergiftet!
+\xf000Ă\x0001\x0000 wird durch\xfffeGift verletzt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffeGift verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffeGift verletzt!
+Die Vergiftung von \xf000Ă\x0001\x0000\xfffewurde geheilt.
+Die Vergiftung von \xf000Ă\x0001\x0000 (Wild)\xfffewurde geheilt.
+Die Vergiftung von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde geheilt.
+\xf000Ă\x0001\x0000 ist bereits vergiftet.
+\xf000Ă\x0001\x0000 (Wild) ist bereits\xfffevergiftet.
+\xf000Ă\x0001\x0000 (Gegner) ist bereits\xfffevergiftet.
+Das Gift zeigt keine Wirkung\xfffebei \xf000Ă\x0001\x0000!
+Das Gift zeigt keine Wirkung\xfffebei \xf000Ă\x0001\x0000 (Wild)!
+Das Gift zeigt keine Wirkung\xfffebei \xf000Ă\x0001\x0000 (Gegner)!
+\xf000Ă\x0001\x0000 brennt!
+\xf000Ă\x0001\x0000 (Wild) brennt!
+\xf000Ă\x0001\x0000 (Gegner) brennt!
+\xf000Ă\x0001\x0000 erleidet\xfffeVerbrennung durch \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) erleidet\xfffeVerbrennung durch \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) erleidet\xfffeVerbrennung durch \xf000ĉ\x0001\x0001!
+Die Verbrennung schadet\xfffe\xf000Ă\x0001\x0000!
+Die Verbrennung schadet\xfffe\xf000Ă\x0001\x0000 (Wild)!
+Die Verbrennung schadet\xfffe\xf000Ă\x0001\x0000 (Gegner)!
+Verbrennung von \xf000Ă\x0001\x0000\xfffewurde geheilt.
+Verbrennung von \xf000Ă\x0001\x0000 (Wild)\xfffewurde geheilt.
+Verbrennung von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde geheilt.
+\xf000Ă\x0001\x0000 brennt bereits.
+\xf000Ă\x0001\x0000 (Wild) brennt bereits.
+\xf000Ă\x0001\x0000 (Gegner) brennt bereits.
+\xf000Ă\x0001\x0000 fängt nicht an\xfffezu brennen!
+\xf000Ă\x0001\x0000 (Wild) fängt nicht an\xfffezu brennen!
+\xf000Ă\x0001\x0000 (Gegner) fängt nicht an\xfffezu brennen!
+\xf000Ă\x0001\x0000 ist paralysiert!\xfffeEs greift eventuell nicht an!
+\xf000Ă\x0001\x0000 (Wild) ist paralysiert!\xfffeEs greift eventuell nicht an!
+\xf000Ă\x0001\x0000 (Gegner) ist paralysiert!\xfffeEs greift eventuell nicht an!
+\xf000Ă\x0001\x0000 ist paralysiert!\xfffeEs kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Wild) ist paralysiert!\xfffeEs kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Gegner) ist paralysiert!\xfffeEs kann nicht angreifen!
+Die Paralyse von \xf000Ă\x0001\x0000\xfffewurde aufgehoben.
+Die Paralyse von \xf000Ă\x0001\x0000 (Wild)\xfffewurde aufgehoben.
+Die Paralyse von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde aufgehoben.
+\xf000Ă\x0001\x0000 ist bereits\xfffeparalysiert!
+\xf000Ă\x0001\x0000 (Wild) ist bereits\xfffeparalysiert!
+\xf000Ă\x0001\x0000 (Gegner) ist bereits\xfffeparalysiert!
+\xf000Ă\x0001\x0000 kann nicht\xfffeparalysiert werden!
+\xf000Ă\x0001\x0000 (Wild) kann nicht\xfffeparalysiert werden!
+\xf000Ă\x0001\x0000 (Gegner) kann nicht\xfffeparalysiert werden!
+\xf000Ă\x0001\x0000 erstarrt\xfffezu Eis!
+\xf000Ă\x0001\x0000 (Wild) erstarrt\xfffezu Eis!
+\xf000Ă\x0001\x0000 (Gegner) erstarrt\xfffezu Eis!
+\xf000Ă\x0001\x0000 ist eingefroren!
+\xf000Ă\x0001\x0000 (Wild) ist\xfffeeingefroren!
+\xf000Ă\x0001\x0000 (Gegner) ist\xfffeeingefroren!
+\xf000Ă\x0001\x0000 wurde aufgetaut!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffeaufgetaut!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffeaufgetaut!
+\xf000Ă\x0001\x0000 ist bereits\xfffeeingefroren!
+\xf000Ă\x0001\x0000 (Wild) ist bereits\xfffeeingefroren!
+\xf000Ă\x0001\x0000 (Gegner) ist bereits\xfffeeingefroren!
+\xf000Ă\x0001\x0000 kann nicht\xfffeeingefroren werden!
+\xf000Ă\x0001\x0000 (Wild) kann nicht\xfffeeingefroren werden!
+\xf000Ă\x0001\x0000 (Gegner) kann nicht\xfffeeingefroren werden!
+Das Eis wurde durch \xf000ć\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 aufgetaut!
+Das Eis wurde durch \xf000ć\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 (Wild) aufgetaut!
+Das Eis wurde durch \xf000ć\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 (Gegner) aufgetaut!
+\xf000Ă\x0001\x0000 ist eingeschlafen!
+\xf000Ă\x0001\x0000 (Wild) ist eingeschlafen!
+\xf000Ă\x0001\x0000 (Gegner)\xfffeist eingeschlafen!
+\xf000Ă\x0001\x0000 schläft tief\xfffeund fest.
+\xf000Ă\x0001\x0000 (Wild) schläft tief\xfffeund fest.
+\xf000Ă\x0001\x0000 (Gegner) schläft tief\xfffeund fest.
+\xf000Ă\x0001\x0000 ist aufgewacht!
+\xf000Ă\x0001\x0000 (Wild) ist\xfffeaufgewacht!
+\xf000Ă\x0001\x0000 (Gegner) ist\xfffeaufgewacht!
+\xf000Ă\x0001\x0000 schläft bereits!
+\xf000Ă\x0001\x0000 (Wild) schläft bereits!
+\xf000Ă\x0001\x0000 (Gegner) schläft bereits!
+\xf000Ă\x0001\x0000 schläft nicht ein!
+\xf000Ă\x0001\x0000 (Wild) schläft nicht ein!
+\xf000Ă\x0001\x0000 (Gegner) schläft nicht ein!
+Nachtmahr sucht\xfffe\xf000Ă\x0001\x0000 heim!
+Nachtmahr sucht\xfffe\xf000Ă\x0001\x0000 (Wild) heim!
+Nachtmahr sucht\xfffe\xf000Ă\x0001\x0000 (Gegner) heim!
+Nachtmahr schadet\xfffe\xf000Ă\x0001\x0000!
+Nachtmahr schadet\xfffe\xf000Ă\x0001\x0000 (Wild)!
+Nachtmahr schadet\xfffe\xf000Ă\x0001\x0000 (Gegner)!
+\xf000Ă\x0001\x0000 hat sich verliebt!
+\xf000Ă\x0001\x0000 (Wild) hat sich verliebt!
+\xf000Ă\x0001\x0000 (Gegner) hat sich verliebt!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 sich verliebt!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 (Wild) sich verliebt!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 (Gegner) sich verliebt!
+\xf000Ă\x0001\x0000 hat sich in\xfffe\xf000Ă\x0001\x0001 verliebt!
+\xf000Ă\x0001\x0000 (Wild) hat sich in\xfffe\xf000Ă\x0001\x0001 verliebt!
+\xf000Ă\x0001\x0000 (Gegner) hat sich in\xfffe\xf000Ă\x0001\x0001 verliebt!
+\xf000Ă\x0001\x0000 ist starr\xfffevor Liebe!
+\xf000Ă\x0001\x0000 (Wild) ist starr\xfffevor Liebe!
+\xf000Ă\x0001\x0000 (Gegner) ist starr\xfffevor Liebe!
+\xf000Ă\x0001\x0000 ist nicht mehr\xfffeverliebt!
+\xf000Ă\x0001\x0000 (Wild) ist nicht mehr\xfffeverliebt!
+\xf000Ă\x0001\x0000 (Gegner) ist nicht mehr\xfffeverliebt!
+Der Zustand von \xf000Ă\x0001\x0000\xfffehat sich wieder normalisiert!
+Der Zustand von \xf000Ă\x0001\x0000 (Wild)\xfffehat sich wieder normalisiert!
+Der Zustand von \xf000Ă\x0001\x0000 (Gegner)\xfffehat sich wieder normalisiert!
+\xf000Ă\x0001\x0000 wurde verwirrt!
+\xf000Ă\x0001\x0000 (Wild) wurde verwirrt!
+\xf000Ă\x0001\x0000 (Gegner) wurde verwirrt!
+\xf000Ă\x0001\x0000 ist verwirrt!
+\xf000Ă\x0001\x0000 (Wild) ist verwirrt!
+\xf000Ă\x0001\x0000 (Gegner) ist verwirrt!
+\xf000Ă\x0001\x0000 ist nicht\xfffemehr verwirrt!
+\xf000Ă\x0001\x0000 (Wild) ist nicht\xfffemehr verwirrt!
+\xf000Ă\x0001\x0000 (Gegner) ist nicht\xfffemehr verwirrt!
+\xf000Ă\x0001\x0000 ist bereits verwirrt!
+\xf000Ă\x0001\x0000 (Wild) ist bereits verwirrt!
+\xf000Ă\x0001\x0000 (Gegner) ist bereits verwirrt!
+\xf000Ă\x0001\x0000 lässt sich nicht\xfffeverwirren!
+\xf000Ă\x0001\x0000 (Wild) lässt sich nicht\xfffeverwirren!
+\xf000Ă\x0001\x0000 (Gegner) lässt sich nicht\xfffeverwirren!
+\xf000Ă\x0001\x0000 ist vor\xfffeErschöpfung verwirrt!
+\xf000Ă\x0001\x0000 (Wild) ist vor\xfffeErschöpfung verwirrt!
+\xf000Ă\x0001\x0000 (Gegner) ist vor\xfffeErschöpfung verwirrt!
+\xf000Ă\x0001\x0000 ist zurückgeschreckt\xfffeund kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Wild) ist zurückgeschreckt\xfffeund kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Gegner) ist zurückgeschreckt\xfffeund kann nicht angreifen!
+\xf000Ă\x0001\x0000 mangelt es an\xfffeKonzentration. Es kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Wild) mangelt es an\xfffeKonzentration. Es kann nicht angreifen!
+\xf000Ă\x0001\x0000 (Gegner) mangelt es an\xfffeKonzentration. Es kann nicht angreifen!
+\xf000Ă\x0001\x0000 wurde erkannt!
+\xf000Ă\x0001\x0000 (Wild) wurde erkannt!
+\xf000Ă\x0001\x0000 (Gegner) wurde erkannt!
+\xf000Ă\x0001\x0000 wurde durch\xfffe\xf000ć\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 (Wild) wurde durch\xfffe\xf000ć\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch\xfffe\xf000ć\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000ć\x0001\x0001 befreit!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000ć\x0001\x0001 befreit!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000ć\x0001\x0001 befreit!
+\xf000Ă\x0001\x0000 erleidet Schaden\xfffedurch Rückstoß!
+\xf000Ă\x0001\x0000 (Wild) erleidet Schaden\xfffedurch Rückstoß!
+\xf000Ă\x0001\x0000 (Gegner) erleidet Schaden\xfffedurch Rückstoß!
+\xf000Ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffewurde per Fährte erkannt!
+\xf000Ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffewurde per Fährte erkannt!
+\xf000Ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde per Fährte erkannt!
+Gegen \xf000Ă\x0001\x0000 wurde ein\xfffeVolltreffer gelandet!
+Gegen \xf000Ă\x0001\x0000 (Wild) wurde ein\xfffeVolltreffer gelandet!
+Gegen \xf000Ă\x0001\x0000 (Gegner) wurde ein\xfffeVolltreffer gelandet!
+KP von \xf000Ă\x0001\x0000 wurden\xfffeaufgefrischt!
+KP von \xf000Ă\x0001\x0000 (Wild) wurden\xfffeaufgefrischt!
+KP von \xf000Ă\x0001\x0000 (Gegner) wurden\xfffeaufgefrischt!
+\xf000Ă\x0001\x0000 hat die AP seiner\xfffeAttacke \xf000ć\x0001\x0001 aufgefrischt!
+\xf000Ă\x0001\x0000 (Wild) hat die AP seiner\xfffeAttacke \xf000ć\x0001\x0001 aufgefrischt!
+\xf000Ă\x0001\x0000 (Gegner) hat die AP seiner\xfffeAttacke \xf000ć\x0001\x0001 aufgefrischt!
+AP aller Attacken von \xf000Ă\x0001\x0000\xfffewurden aufgefüllt!
+AP aller Attacken von \xf000Ă\x0001\x0000 (Wild)\xfffewurden aufgefüllt!
+AP aller Attacken von \xf000Ă\x0001\x0000 (Gegner)\xfffewurden aufgefüllt!
+Der Sandsturm fügt \xf000Ă\x0001\x0000\xfffeSchaden zu!
+Der Sandsturm fügt \xf000Ă\x0001\x0000 (Wild)\xfffeSchaden zu!
+Der Sandsturm fügt \xf000Ă\x0001\x0000 (Gegner)\xfffeSchaden zu!
+\xf000Ă\x0001\x0000 wird von\xfffeHagelkörnern getroffen!
+\xf000Ă\x0001\x0000 (Wild) wird von\xfffeHagelkörnern getroffen!
+\xf000Ă\x0001\x0000 (Gegner) wird von\xfffeHagelkörnern getroffen!
+\xf000Ă\x0001\x0000 wurde\xfffeSchaden zugefügt!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffeSchaden zugefügt!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffeSchaden zugefügt!
+\xf000Ă\x0001\x0000 nimmt die Fähigkeit\xfffe\xf000Ć\x0001\x0001 an!
+\xf000Ă\x0001\x0000 (Wild) nimmt die Fähigkeit\xfffe\xf000Ć\x0001\x0001 an!
+\xf000Ă\x0001\x0000 (Gegner) nimmt die Fähigkeit\xfffe\xf000Ć\x0001\x0001 an!
+\xf000Ă\x0001\x0000 gerät durch den\xfffeLuftballon in die Schwebe!
+\xf000Ă\x0001\x0000 (Wild) gerät durch den\xfffeLuftballon in die Schwebe!
+\xf000Ă\x0001\x0000 (Gegner) gerät durch den\xfffeLuftballon in die Schwebe!
+Der Luftballon von \xf000Ă\x0001\x0000\xfffeist geplatzt!
+Der Luftballon von \xf000Ă\x0001\x0000 (Wild)\xfffeist geplatzt!
+Der Luftballon von \xf000Ă\x0001\x0000 (Gegner)\xfffeist geplatzt!
+\xf000Ă\x0001\x0000 kommt dank des\xfffeFluchtknopfes zurück!
+\xf000Ă\x0001\x0000 (Wild) kommt dank des\xfffeFluchtknopfes zurück!
+\xf000Ă\x0001\x0000 (Gegner) kommt dank des\xfffeFluchtknopfes zurück!
+\xf000Ă\x0001\x0000 hält \xf000Ă\x0001\x0001\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 hält \xf000Ă\x0001\x0001 (Wild)\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 hält \xf000Ă\x0001\x0001 (Gegner)\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 (Wild) hält \xf000Ă\x0001\x0001\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 (Wild) hält \xf000Ă\x0001\x0001 (Wild)\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 (Gegner) hält \xf000Ă\x0001\x0001\xfffedie Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 (Gegner) hält \xf000Ă\x0001\x0001\xfffe(Gegner) die Rote Karte vor die Nase!
+\xf000Ă\x0001\x0000 erleidet durch\xfffeden Beulenhelm Schaden!
+\xf000Ă\x0001\x0000 (Wild) erleidet durch\xfffeden Beulenhelm Schaden!
+\xf000Ă\x0001\x0000 (Gegner) erleidet durch\xfffeden Beulenhelm Schaden!
+Die Stärke der Feuer-Attacken von\xfffe\xf000Ă\x0001\x0000 wurde erhöht!
+Die Stärke der Feuer-Attacken von\xfffe\xf000Ă\x0001\x0000 (Wild) wurde erhöht!
+Die Stärke der Feuer-Attacken von\xfffe\xf000Ă\x0001\x0000 (Gegner) wurde erhöht!
+\xf000Ă\x0001\x0000 wurde verletzt!
+\xf000Ă\x0001\x0000 (Wild) wurde verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde verletzt!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffewurde durchschaut!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffewurde durchschaut!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde durchschaut!
+\xf000Ă\x0001\x0000 erschaudert!
+\xf000Ă\x0001\x0000 (Wild) erschaudert!
+\xf000Ă\x0001\x0000 (Gegner) erschaudert!
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 erschnüffelt!
+\xf000Ă\x0001\x0000 (Wild) hat\xfffe\xf000ĉ\x0001\x0001 erschnüffelt!
+\xf000Ă\x0001\x0000 (Gegner) hat\xfffe\xf000ĉ\x0001\x0001 erschnüffelt!
+\xf000Ă\x0001\x0000 gelingt es,\xfffegegnerische Fähigkeiten zu überbrücken!
+\xf000Ă\x0001\x0000 (Wild) gelingt es,\xfffegegnerische Fähigkeiten zu überbrücken!
+\xf000Ă\x0001\x0000 (Gegner) gelingt es,\xfffegegnerische Fähigkeiten zu überbrücken!
+\xf000Ă\x0001\x0000 faulenzt!
+\xf000Ă\x0001\x0000 (Wild) faulenzt!
+\xf000Ă\x0001\x0000 (Gegner) faulenzt!
+\xf000Ă\x0001\x0000 zieht den Angriff\xfffeauf sich!
+\xf000Ă\x0001\x0000 (Wild) zieht den Angriff\xfffeauf sich!
+\xf000Ă\x0001\x0000 (Gegner) zieht den Angriff\xfffeauf sich!
+\xf000Ă\x0001\x0000 schläft nicht ein!
+\xf000Ă\x0001\x0000 (Wild) schläft nicht ein!
+\xf000Ă\x0001\x0000 (Gegner) schläft nicht ein!
+\xf000Ă\x0001\x0000 verankert sich\xfffemithilfe von Saugnapf!
+\xf000Ă\x0001\x0000 (Wild) verankert sich\xfffemithilfe von Saugnapf!
+\xf000Ă\x0001\x0000 (Gegner) verankert sich\xfffemithilfe von Saugnapf!
+\xf000Ă\x0001\x0000 saugt\xfffeKloakensoße auf!
+\xf000Ă\x0001\x0000 (Wild) saugt\xfffeKloakensoße auf!
+\xf000Ă\x0001\x0000 (Gegner) saugt\xfffeKloakensoße auf!
+\xf000Ă\x0001\x0000 hat sich \xf000ĉ\x0001\x0001\xfffewegnehmen lassen!
+\xf000Ă\x0001\x0000 (Wild) hat sich \xf000ĉ\x0001\x0001\xfffewegnehmen lassen!
+\xf000Ă\x0001\x0000 (Gegner) hat sich \xf000ĉ\x0001\x0001\xfffewegnehmen lassen!
+\xf000Ă\x0001\x0000 hat die Fähigkeit\xfffeMumie angenommen!
+\xf000Ă\x0001\x0000 (Wild) hat die Fähigkeit\xfffeMumie angenommen!
+\xf000Ă\x0001\x0000 (Gegner) hat die Fähigkeit\xfffeMumie angenommen!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffewurde zurückgelenkt!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffewurde zurückgelenkt!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde zurückgelenkt!
+\xf000Ă\x0001\x0000 nimmt keinen Schaden\xfffedurch Attacken von Partnern!
+\xf000Ă\x0001\x0000 (Wild) nimmt keinen Schaden\xfffedurch Attacken von Partnern!
+\xf000Ă\x0001\x0000 (Gegner) nimmt keinen Schaden\xfffedurch Attacken von Partnern!
+\xf000Ă\x0001\x0000 wurde vergiftet!
+\xf000Ă\x0001\x0000 (Wild) wurde vergiftet!
+\xf000Ă\x0001\x0000 (Gegner) wurde vergiftet!
+\xf000Ă\x0001\x0000 hat\xfffe\xf000ĉ\x0001\x0001 geerntet!
+\xf000Ă\x0001\x0000 (Wild) hat\xfffe\xf000ĉ\x0001\x0001 geerntet!
+\xf000Ă\x0001\x0000 (Gegner) hat\xfffe\xf000ĉ\x0001\x0001 geerntet!
+Das Trugbild von \xf000Ă\x0001\x0000\xfffeverschwindet!
+Das Trugbild von \xf000Ă\x0001\x0000 (Wild)\xfffeverschwindet!
+Das Trugbild von \xf000Ă\x0001\x0000 (Gegner)\xfffeverschwindet!
+Der Angriffs-Wert von \xf000Ă\x0001\x0000\xfffeerreicht das maximale Niveau!
+Der Angriffs-Wert von \xf000Ă\x0001\x0000 (Wild)\xfffeerreicht das maximale Niveau!
+Der Angriffs-Wert von \xf000Ă\x0001\x0000 (Gegner)\xfffeerreicht das maximale Niveau!
+\xf000Ă\x0001\x0000 ist in\xfffeeinem Alptraum gefangen!
+\xf000Ă\x0001\x0000 (Wild) ist in\xfffeeinem Alptraum gefangen!
+\xf000Ă\x0001\x0000 (Gegner) ist in\xfffeeinem Alptraum gefangen!
+\xf000Ă\x0001\x0000 setzt Gegner mit\xfffeErzwinger unter Druck!
+\xf000Ă\x0001\x0000 (Wild) setzt Gegner mit\xfffeErzwinger unter Druck!
+\xf000Ă\x0001\x0000 (Gegner) setzt Gegner mit\xfffeErzwinger unter Druck!
+\xf000Ă\x0001\x0000 hat das Item\xfffe\xf000ĉ\x0001\x0001 gefunden!
+\xf000Ă\x0001\x0000 (Wild) hat das Item\xfffe\xf000ĉ\x0001\x0001 gefunden!
+\xf000Ă\x0001\x0000 (Gegner) hat das Item\xfffe\xf000ĉ\x0001\x0001 gefunden!
+\xf000Ă\x0001\x0000 konnte kein\xfffeItem abgenommen werden!
+\xf000Ă\x0001\x0000 (Wild) konnte kein\xfffeItem abgenommen werden!
+\xf000Ă\x0001\x0000 (Gegner) konnte kein\xfffeItem abgenommen werden!
+\xf000Ă\x0001\x0000 kommt\xfffenicht in Fahrt.
+\xf000Ă\x0001\x0000 (Wild) kommt\xfffenicht in Fahrt.
+\xf000Ă\x0001\x0000 (Gegner) kommt\xfffenicht in Fahrt.
+\xf000Ă\x0001\x0000 kriegt schließlich\xfffedoch noch die Kurve!
+\xf000Ă\x0001\x0000 (Wild) kriegt schließlich\xfffedoch noch die Kurve!
+\xf000Ă\x0001\x0000 (Gegner) kriegt schließlich\xfffedoch noch die Kurve!
+\xf000Ă\x0001\x0000 strahlt eine\xfffeknisternde Aura aus!
+\xf000Ă\x0001\x0000 (Wild) strahlt eine\xfffeknisternde Aura aus!
+\xf000Ă\x0001\x0000 (Gegner) strahlt eine\xfffeknisternde Aura aus!
+\xf000Ă\x0001\x0000 strahlt eine\xfffelodernde Aura aus!
+\xf000Ă\x0001\x0000 (Wild) strahlt eine\xfffelodernde Aura aus!
+\xf000Ă\x0001\x0000 (Gegner) strahlt eine\xfffelodernde Aura aus!
+\xf000Ă\x0001\x0000 tauscht\xfffeFähigkeiten mit dem Ziel!
+\xf000Ă\x0001\x0000 (Wild) tauscht\xfffeFähigkeiten mit dem Ziel!
+\xf000Ă\x0001\x0000 (Gegner) tauscht\xfffeFähigkeiten mit dem Ziel!
+\xf000Ă\x0001\x0000 macht sich\xfffebereit!
+\xf000Ă\x0001\x0000 (Wild) macht sich\xfffebereit!
+\xf000Ă\x0001\x0000 (Gegner) macht sich\xfffebereit!
+\xf000Ă\x0001\x0000 übersteht\xfffedie Attacke!
+\xf000Ă\x0001\x0000 (Wild) übersteht\xfffedie Attacke!
+\xf000Ă\x0001\x0000 (Gegner) übersteht\xfffedie Attacke!
+\xf000Ă\x0001\x0000 schützt sich selbst.
+\xf000Ă\x0001\x0000 (Wild) schützt sich selbst.
+\xf000Ă\x0001\x0000 (Gegner) schützt sich selbst.
+Es durchbrach den Schutz\xfffevon \xf000Ă\x0001\x0000!
+Es durchbrach den Schutz\xfffevon \xf000Ă\x0001\x0000 (Wild)!
+Es durchbrach den Schutz\xfffevon \xf000Ă\x0001\x0000 (Gegner)!
+\xf000Ă\x0001\x0000 schützt sich selbst!
+\xf000Ă\x0001\x0000 (Wild) schützt sich selbst!
+\xf000Ă\x0001\x0000 (Gegner) schützt sich selbst!
+\xf000Ă\x0001\x0000 ist auf die\xfffeOffenlegung hereingefallen!
+\xf000Ă\x0001\x0000 (Wild) ist auf die\xfffeOffenlegung hereingefallen!
+\xf000Ă\x0001\x0000 (Gegner) ist auf die\xfffeOffenlegung hereingefallen!
+\xf000Ă\x0001\x0000 fliegt hoch empor!
+\xf000Ă\x0001\x0000 (Wild) fliegt hoch empor!
+\xf000Ă\x0001\x0000 (Gegner) fliegt hoch empor!
+\xf000Ă\x0001\x0000 verfällt in Raserei!
+\xf000Ă\x0001\x0000 (Wild) verfällt in Raserei!
+\xf000Ă\x0001\x0000 (Gegner) verfällt in Raserei!
+\xf000Ă\x0001\x0000 taucht unter!
+\xf000Ă\x0001\x0000 (Wild) taucht unter!
+\xf000Ă\x0001\x0000 (Gegner) taucht unter!
+\xf000Ă\x0001\x0000 vergräbt sich\xfffein der Erde!
+\xf000Ă\x0001\x0000 (Wild) vergräbt sich\xfffein der Erde!
+\xf000Ă\x0001\x0000 (Gegner) vergräbt sich\xfffein der Erde!
+\xf000Ă\x0001\x0000 verschwand\xfffeaugenblicklich!
+\xf000Ă\x0001\x0000 (Wild) verschwand\xfffeaugenblicklich!
+\xf000Ă\x0001\x0000 (Gegner) verschwand\xfffeaugenblicklich!
+\xf000Ă\x0001\x0000 springt hoch\xfffein die Luft!
+\xf000Ă\x0001\x0000 (Wild) springt hoch\xfffein die Luft!
+\xf000Ă\x0001\x0000 (Gegner) springt hoch\xfffein die Luft!
+\xf000Ă\x0001\x0000 entfacht\xfffeeinen Wirbelwind!
+\xf000Ă\x0001\x0000 (Wild) entfacht\xfffeeinen Wirbelwind!
+\xf000Ă\x0001\x0000 (Gegner) entfacht\xfffeeinen Wirbelwind!
+\xf000Ă\x0001\x0000 leuchtet grell!
+\xf000Ă\x0001\x0000 (Wild) leuchtet grell!
+\xf000Ă\x0001\x0000 (Gegner) leuchtet grell!
+\xf000Ă\x0001\x0000 absorbiert\xfffeSonnenlicht!
+\xf000Ă\x0001\x0000 (Wild) absorbiert\xfffeSonnenlicht!
+\xf000Ă\x0001\x0000 (Gegner) absorbiert\xfffeSonnenlicht!
+\xf000Ă\x0001\x0000 zieht seinen\xfffeKopf ein!
+\xf000Ă\x0001\x0000 (Wild) zieht seinen\xfffeKopf ein!
+\xf000Ă\x0001\x0000 (Gegner) zieht seinen\xfffeKopf ein!
+\xf000Ă\x0001\x0000 gibt\xfffeeine Zugabe!
+\xf000Ă\x0001\x0000 (Wild) gibt\xfffeeine Zugabe!
+\xf000Ă\x0001\x0000 (Gegner) gibt\xfffeeine Zugabe!
+Zugabe von \xf000Ă\x0001\x0000\xfffeist beendet!
+Zugabe von \xf000Ă\x0001\x0000 (Wild)\xfffeist beendet!
+Zugabe von \xf000Ă\x0001\x0000 (Gegner)\xfffeist beendet!
+Die Fähigkeit von \xf000Ă\x0001\x0000\xfffewurde unterdrückt!
+Die Fähigkeit von \xf000Ă\x0001\x0000 (Wild)\xfffewurde unterdrückt!
+Die Fähigkeit von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde unterdrückt!
+\xf000Ă\x0001\x0000 fällt auf\xfffeVerhöhner herein!
+\xf000Ă\x0001\x0000 (Wild) fällt auf\xfffeVerhöhner herein!
+\xf000Ă\x0001\x0000 (Gegner) fällt auf\xfffeVerhöhner herein!
+\xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001\xfffenach Verhöhner nicht einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann \xf000ć\x0001\x0001\xfffenach Verhöhner nicht einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann \xf000ć\x0001\x0001\xfffenach Verhöhner nicht einsetzen!
+Verhöhner von \xf000Ă\x0001\x0000\xfffelässt nach!
+Verhöhner von \xf000Ă\x0001\x0000 (Wild)\xfffelässt nach!
+Verhöhner von \xf000Ă\x0001\x0000 (Gegner)\xfffelässt nach!
+\xf000Ă\x0001\x0000 wird von\xfffeFolterknecht unterworfen!
+\xf000Ă\x0001\x0000 (Wild) wird von\xfffeFolterknecht unterworfen!
+\xf000Ă\x0001\x0000 (Gegner) wird von\xfffeFolterknecht unterworfen!
+\xf000Ă\x0001\x0000 kann aufgrund von\xfffeFolterknecht die Attacke nicht 2-mal\xf000븀\x0000\xfffehintereinander einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann aufgrund von\xfffeFolterknecht die Attacke nicht 2-mal\xf000븀\x0000\xfffehintereinander einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann aufgrund von\xfffeFolterknecht die Attacke nicht 2-mal\xf000븀\x0000\xfffehintereinander einsetzen!
+Folterknecht von \xf000Ă\x0001\x0000\xfffehört auf zu wirken!
+Folterknecht von \xf000Ă\x0001\x0000 (Wild)\xfffehört auf zu wirken!
+Folterknecht von \xf000Ă\x0001\x0000 (Gegner)\xfffehört auf zu wirken!
+\xf000Ă\x0001\x0000 versiegelt\xfffedie Attacke(n) des gegnerischen Teams!
+\xf000Ă\x0001\x0000 (Wild) versiegelt\xfffedie Attacke(n) des gegnerischen Teams!
+\xf000Ă\x0001\x0000 (Gegner) versiegelt\xfffedie Attacke(n) des gegnerischen Teams!
+\xf000Ă\x0001\x0000 kann die versiegelte\xfffeAttacke \xf000ć\x0001\x0001\xf000븀\x0000\xfffenicht einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann die versiegelte\xfffeAttacke \xf000ć\x0001\x0001\xf000븀\x0000\xfffenicht einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann die versiegelte\xfffeAttacke \xf000ć\x0001\x0001\xf000븀\x0000\xfffenicht einsetzen!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffewurde blockiert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffewurde blockiert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffewurde blockiert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeist blockiert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeist blockiert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeist blockiert!
+\xf000Ă\x0001\x0000 ist nicht\xfffemehr blockiert!
+\xf000Ă\x0001\x0000 (Wild) ist nicht\xfffemehr blockiert!
+\xf000Ă\x0001\x0000 (Gegner) ist nicht\xfffemehr blockiert!
+\xf000Ă\x0001\x0000 umgibt sich mit\xfffeeinem Wasserring!
+\xf000Ă\x0001\x0000 (Wild) umgibt sich mit\xfffeeinem Wasserring!
+\xf000Ă\x0001\x0000 (Gegner) umgibt sich mit\xfffeeinem Wasserring!
+Der Wasserring stellt KP von\xfffe\xf000Ă\x0001\x0000 wieder her!
+Der Wasserring stellt KP von\xfffe\xf000Ă\x0001\x0000 (Wild) wieder her!
+Der Wasserring stellt KP von\xfffe\xf000Ă\x0001\x0000 (Gegner) wieder her!
+\xf000Ă\x0001\x0000 wurde\xfffebepflanzt!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffebepflanzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffebepflanzt!
+Egelsamen schadet\xfffe\xf000Ă\x0001\x0000!
+Egelsamen schadet\xfffe\xf000Ă\x0001\x0000 (Wild)!
+Egelsamen schadet\xfffe\xf000Ă\x0001\x0000 (Gegner)!
+\xf000Ă\x0001\x0000 nutzt seine\xfffeKP und hebt den Angriffs-Wert!
+\xf000Ă\x0001\x0000 (Wild) nutzt seine\xfffeKP und hebt den Angriffs-Wert!
+\xf000Ă\x0001\x0000 (Gegner) nutzt seine\xfffeKP und hebt den Angriffs-Wert!
+\xf000Ă\x0001\x0000 verstärkt\xfffeseinen Fokus!
+\xf000Ă\x0001\x0000 (Wild) verstärkt\xfffeseinen Fokus!
+\xf000Ă\x0001\x0000 (Gegner) verstärkt\xfffeseinen Fokus!
+\xf000Ă\x0001\x0000 kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) kopiert \xf000Ć\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 versucht, den\xfffeGegner mit sich zu nehmen!
+\xf000Ă\x0001\x0000 (Wild) versucht, den\xfffeGegner mit sich zu nehmen!
+\xf000Ă\x0001\x0000 (Gegner) versucht, den\xfffeGegner mit sich zu nehmen!
+\xf000Ă\x0001\x0000 nimmt den Gegner\xfffemit sich!
+\xf000Ă\x0001\x0000 (Wild) nimmt den Gegner\xfffemit sich!
+\xf000Ă\x0001\x0000 (Gegner) nimmt den Gegner\xfffemit sich!
+\xf000Ă\x0001\x0000 möchte, dass\xfffeder Gegner ein Nachspiel erträgt!
+\xf000Ă\x0001\x0000 (Wild) möchte, dass\xfffeder Gegner ein Nachspiel erträgt!
+\xf000Ă\x0001\x0000 (Gegner) möchte, dass\xfffeder Gegner ein Nachspiel erträgt!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffehat aufgrund von Nachspiel\xf000븀\x0000\xfffealle AP verloren!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffehat aufgrund von Nachspiel\xf000븀\x0000\xfffealle AP verloren!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffehat aufgrund von Nachspiel\xf000븀\x0000\xfffealle AP verloren!
+\xf000Ă\x0001\x0000 hat im Schlaf\xfffeEnergie getankt!
+\xf000Ă\x0001\x0000 (Wild) hat im Schlaf\xfffeEnergie getankt!
+\xf000Ă\x0001\x0000 (Gegner) hat im Schlaf\xfffeEnergie getankt!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000\xfffewird um \xf000Ȁ\x0001\x0002 AP reduziert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffewird um \xf000Ȁ\x0001\x0002 AP reduziert!
+\xf000ć\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffewird um \xf000Ȁ\x0001\x0002 AP reduziert!
+\xf000Ă\x0001\x0000 verwandelt\xfffesich in \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 verwandelt\xfffesich in \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 verwandelt\xfffesich in \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) verwandelt\xfffesich in \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) verwandelt\xfffesich in \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) verwandelt\xfffesich in \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) verwandelt\xfffesich in \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 zielt\xfffeauf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 zielt\xfffeauf \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 zielt\xfffeauf \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) zielt\xfffeauf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) zielt\xfffeauf \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) zielt\xfffeauf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) zielt\xfffeauf \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 schwebt aufgrund\xfffevon Elektromagnetismus!
+\xf000Ă\x0001\x0000 (Wild) schwebt aufgrund\xfffevon Elektromagnetismus!
+\xf000Ă\x0001\x0000 (Gegner) schwebt aufgrund\xfffevon Elektromagnetismus!
+Der Elektromagnetismus von\xfffe\xf000Ă\x0001\x0000 lässt nach!
+Der Elektromagnetismus von\xfffe\xf000Ă\x0001\x0000 (Wild) lässt nach!
+Der Elektromagnetismus von\xfffe\xf000Ă\x0001\x0000 (Gegner) lässt nach!
+\xf000Ă\x0001\x0000 lädt sich auf!
+\xf000Ă\x0001\x0000 (Wild) lädt sich auf!
+\xf000Ă\x0001\x0000 (Gegner) lädt sich auf!
+\xf000Ă\x0001\x0000 wurde\xfffeschläfrig gemacht!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffeschläfrig gemacht!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffeschläfrig gemacht!
+\xf000Ă\x0001\x0000 zieht alle\xfffeAufmerksamkeit auf sich!
+\xf000Ă\x0001\x0000 (Wild) zieht alle\xfffeAufmerksamkeit auf sich!
+\xf000Ă\x0001\x0000 (Gegner) zieht alle\xfffeAufmerksamkeit auf sich!
+\xf000Ă\x0001\x0000 tauscht die\xfffeStatusveränderungen mit dem Ziel!
+\xf000Ă\x0001\x0000 (Wild) tauscht die\xfffeStatusveränderungen mit dem Ziel!
+\xf000Ă\x0001\x0000 (Gegner) tauscht die\xfffeStatusveränderungen mit dem Ziel!
+\xf000Ă\x0001\x0000 tauscht alle\xfffeVeränderungen seines Angriffs und\xf000븀\x0000\xfffeSpezial-Angriffs mit dem Ziel!
+\xf000Ă\x0001\x0000 (Wild) tauscht alle\xfffeVeränderungen seines Angriffs und\xf000븀\x0000\xfffeSpezial-Angriffs mit dem Ziel!
+\xf000Ă\x0001\x0000 (Gegner) tauscht alle\xfffeVeränderungen seines Angriffs und\xf000븀\x0000\xfffeSpezial-Angriffs mit dem Ziel!
+\xf000Ă\x0001\x0000 tauscht alle\xfffeVeränderungen seiner Verteidigung und\xf000븀\x0000\xfffeSpezial-Verteidigung mit dem Ziel!
+\xf000Ă\x0001\x0000 (Wild) tauscht alle\xfffeVeränderungen seiner Verteidigung und\xf000븀\x0000\xfffeSpezial-Verteidigung mit dem Ziel!
+\xf000Ă\x0001\x0000 (Gegner) tauscht alle\xfffeVeränderungen seiner Verteidigung und\xf000븀\x0000\xfffeSpezial-Verteidigung mit dem Ziel!
+\xf000Ă\x0001\x0000 tauscht\xfffeItems mit dem Ziel!
+\xf000Ă\x0001\x0000 (Wild) tauscht\xfffeItems mit dem Ziel!
+\xf000Ă\x0001\x0000 (Gegner) tauscht\xfffeItems mit dem Ziel!
+\xf000Ă\x0001\x0000 erhält\xfffedas Item \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) erhält\xfffedas Item \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) erhält\xfffedas Item \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 erlernt\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) erlernt\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) erlernt\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 setzt\xfffeNachahmer bei \xf000ć\x0001\x0001 ein!
+\xf000Ă\x0001\x0000 (Wild) setzt\xfffeNachahmer bei \xf000ć\x0001\x0001 ein!
+\xf000Ă\x0001\x0000 (Gegner) setzt\xfffeNachahmer bei \xf000ć\x0001\x0001 ein!
+\xf000Ă\x0001\x0000 wird in mysteriöses\xfffeMondlicht getaucht.
+\xf000Ă\x0001\x0000 (Wild) wird in mysteriöses\xfffeMondlicht getaucht.
+\xf000Ă\x0001\x0000 (Gegner) wird in mysteriöses\xfffeMondlicht getaucht.
+Das Heilopfer erreicht\xfffe\xf000Ă\x0001\x0000!
+Das Heilopfer erreicht\xfffe\xf000Ă\x0001\x0000 (Wild)!
+Das Heilopfer erreicht\xfffe\xf000Ă\x0001\x0000 (Gegner)!
+Wunschtraum von \xf000Ă\x0001\x0000\xfffeerfüllt sich!
+Wunschtraum von \xf000Ă\x0001\x0000 (Wild)\xfffeerfüllt sich!
+Wunschtraum von \xf000Ă\x0001\x0000 (Gegner)\xfffeerfüllt sich!
+\xf000Ă\x0001\x0000 verursacht\xfffeAufruhr!
+\xf000Ă\x0001\x0000 (Wild) verursacht\xfffeAufruhr!
+\xf000Ă\x0001\x0000 (Gegner) verursacht\xfffeAufruhr!
+\xf000Ă\x0001\x0000 wird durch\xfffeAufruhr wach!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffeAufruhr wach!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffeAufruhr wach!
+Aber der Aufruhr hält\xfffe\xf000Ă\x0001\x0000 wach!
+Aber der Aufruhr hält\xfffe\xf000Ă\x0001\x0000 (Wild) wach!
+Aber der Aufruhr hält\xfffe\xf000Ă\x0001\x0000 (Gegner) wach!
+\xf000Ă\x0001\x0000 kann bei dem\xfffeAufruhr nicht schlafen!
+\xf000Ă\x0001\x0000 (Wild) kann bei dem\xfffeAufruhr nicht schlafen!
+\xf000Ă\x0001\x0000 (Gegner) kann bei dem\xfffeAufruhr nicht schlafen!
+\xf000Ă\x0001\x0000 ist in Aufruhr!
+\xf000Ă\x0001\x0000 (Wild) ist in Aufruhr!
+\xf000Ă\x0001\x0000 (Gegner) ist in Aufruhr!
+\xf000Ă\x0001\x0000\xfffeberuhigt sich.
+\xf000Ă\x0001\x0000 (Wild)\xfffeberuhigt sich.
+\xf000Ă\x0001\x0000 (Gegner)\xfffeberuhigt sich.
+\xf000Ă\x0001\x0000 hortet \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) hortet \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) hortet \xf000Ȁ\x0001\x0001!
+Der gehortete Effekt von\xfffe\xf000Ă\x0001\x0000 lässt nach!
+Der gehortete Effekt von\xfffe\xf000Ă\x0001\x0000 (Wild) lässt nach!
+Der gehortete Effekt von\xfffe\xf000Ă\x0001\x0000 (Gegner) lässt nach!
+\xf000Ă\x0001\x0000 kann keine Items\xfffemehr einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann keine Items\xfffemehr einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann keine Items\xfffemehr einsetzen!
+\xf000Ă\x0001\x0000 kann wieder Items\xfffeeinsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann wieder Items\xfffeeinsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann wieder Items\xfffeeinsetzen!
+\xf000Ă\x0001\x0000 hat das Item\xfffe\xf000ĉ\x0001\x0001 recycelt!
+\xf000Ă\x0001\x0000 (Wild) hat das Item\xfffe\xf000ĉ\x0001\x0001 recycelt!
+\xf000Ă\x0001\x0000 (Gegner) hat das Item\xfffe\xf000ĉ\x0001\x0001 recycelt!
+\xf000Ă\x0001\x0000 pflanzt seine\xfffeWurzeln!
+\xf000Ă\x0001\x0000 (Wild) pflanzt seine\xfffeWurzeln!
+\xf000Ă\x0001\x0000 (Gegner) pflanzt seine\xfffeWurzeln!
+\xf000Ă\x0001\x0000 nimmt über\xfffeseine Wurzeln Nährstoffe auf!
+\xf000Ă\x0001\x0000 (Wild) nimmt über\xfffeseine Wurzeln Nährstoffe auf!
+\xf000Ă\x0001\x0000 (Gegner) nimmt über\xfffeseine Wurzeln Nährstoffe auf!
+\xf000Ă\x0001\x0000\xfffeverankert seine Wurzeln!
+\xf000Ă\x0001\x0000 (Wild)\xfffeverankert seine Wurzeln!
+\xf000Ă\x0001\x0000 (Gegner)\xfffeverankert seine Wurzeln!
+\xf000Ă\x0001\x0000 speichert Energie!
+\xf000Ă\x0001\x0000 (Wild) speichert Energie!
+\xf000Ă\x0001\x0000 (Gegner) speichert Energie!
+\xf000Ă\x0001\x0000 erzeugt Energie!
+\xf000Ă\x0001\x0000 (Wild) erzeugt Energie!
+\xf000Ă\x0001\x0000 (Gegner) erzeugt Energie!
+\xf000Ă\x0001\x0000 wartet auf\xfffeeinen Angriff!
+\xf000Ă\x0001\x0000 (Wild) wartet auf\xfffeeinen Angriff!
+\xf000Ă\x0001\x0000 (Gegner) wartet auf\xfffeeinen Angriff!
+\xf000Ă\x0001\x0000 übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) übernimmt\xfffeAttacke von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 hüllt sich\xfffeselbst in Magiemantel!
+\xf000Ă\x0001\x0000 (Wild) hüllt sich\xfffeselbst in Magiemantel!
+\xf000Ă\x0001\x0000 (Gegner) hüllt sich\xfffeselbst in Magiemantel!
+\xf000Ă\x0001\x0000 leitet\xfffe\xf000ć\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 (Wild) leitet\xfffe\xf000ć\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 (Gegner) leitet\xfffe\xf000ć\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 ist geflüchtet!
+\xf000Ă\x0001\x0000 (Wild) ist geflüchtet!
+\xf000Ă\x0001\x0000 (Gegner) ist geflüchtet!
+\xf000Ă\x0001\x0000 kommt zu\xfffe\xf000Ā\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 (Wild) kommt zu\xfffe\xf000Ā\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 (Gegner) kommt zu\xfffe\xf000Ā\x0001\x0001 zurück!
+\xf000Ă\x0001\x0000 tauscht Angriff und\xfffeVerteidigung!
+\xf000Ă\x0001\x0000 (Wild) tauscht Angriff und\xfffeVerteidigung!
+\xf000Ă\x0001\x0000 (Gegner) tauscht Angriff und\xfffeVerteidigung!
+\xf000Ă\x0001\x0000 hat dem\xfffeZiel das Item \xf000ĉ\x0001\x0001 gestohlen\xf000븀\x0000\xfffeund es ihm weggegessen!
+\xf000Ă\x0001\x0000 (Wild) hat dem\xfffeZiel das Item \xf000ĉ\x0001\x0001 gestohlen\xf000븀\x0000\xfffeund es ihm weggegessen!
+\xf000Ă\x0001\x0000 (Gegner) hat dem\xfffeZiel das Item \xf000ĉ\x0001\x0001 gestohlen\xf000븀\x0000\xfffeund es ihm weggegessen!
+\xf000Ă\x0001\x0000 schleudert sein\xfffeItem (\xf000ĉ\x0001\x0001)!
+\xf000Ă\x0001\x0000 (Wild) schleudert sein\xfffeItem (\xf000ĉ\x0001\x0001)!
+\xf000Ă\x0001\x0000 (Gegner) schleudert sein\xfffeItem (\xf000ĉ\x0001\x0001)!
+\xf000Ă\x0001\x0000 bläst\xfffe\xf000ć\x0001\x0001 weg!
+\xf000Ă\x0001\x0000 (Wild) bläst\xfffe\xf000ć\x0001\x0001 weg!
+\xf000Ă\x0001\x0000 (Gegner) bläst\xfffe\xf000ć\x0001\x0001 weg!
+Ein Delegator von \xf000Ă\x0001\x0000\xfffeist erschienen!
+Ein Delegator von \xf000Ă\x0001\x0000 (Wild)\xfffeist erschienen!
+Ein Delegator von \xf000Ă\x0001\x0000 (Gegner)\xfffeist erschienen!
+\xf000Ă\x0001\x0000 hat bereits\xfffeeinen Delegator!
+\xf000Ă\x0001\x0000 (Wild) hat bereits\xfffeeinen Delegator!
+\xf000Ă\x0001\x0000 (Gegner) hat bereits\xfffeeinen Delegator!
+Der Delegator steckt den\xfffeSchlag für \xf000Ă\x0001\x0000 ein!
+Der Delegator steckt den\xfffeSchlag für \xf000Ă\x0001\x0000 (Wild) ein!
+Der Delegator steckt den\xfffeSchlag für \xf000Ă\x0001\x0000 (Gegner) ein!
+Delegator von\xfffe\xf000Ă\x0001\x0000 lässt nach!
+Delegator von\xfffe\xf000Ă\x0001\x0000 (Wild) lässt nach!
+Delegator von\xfffe\xf000Ă\x0001\x0000 (Gegner) lässt nach!
+\xf000Ă\x0001\x0000 wird durch\xfffeRundumschutz geschützt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffeRundumschutz geschützt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffeRundumschutz geschützt!
+\xf000Ă\x0001\x0000 wird durch\xfffeRapidschutz beschützt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffeRapidschutz beschützt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffeRapidschutz beschützt!
+\xf000Ă\x0001\x0001 setzt bei\xfffe\xf000Ă\x0001\x0000 Klammergriff ein!
+\xf000Ă\x0001\x0001 (Wild) setzt bei\xfffe\xf000Ă\x0001\x0000 Klammergriff ein!
+\xf000Ă\x0001\x0001 (Gegner) setzt bei\xfffe\xf000Ă\x0001\x0000 Klammergriff ein!
+\xf000Ă\x0001\x0001 setzt bei\xfffe\xf000Ă\x0001\x0000 (Wild) Klammergriff ein!
+\xf000Ă\x0001\x0001 (Wild) setzt bei\xfffe\xf000Ă\x0001\x0000 (Wild) Klammergriff ein!
+\xf000Ă\x0001\x0001 setzt bei\xfffe\xf000Ă\x0001\x0000 (Gegner) Klammergriff ein!
+\xf000Ă\x0001\x0001 (Gegner) setzt bei\xfffe\xf000Ă\x0001\x0000 (Gegner) Klammergriff ein!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 umwickelt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 (Wild) umwickelt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 (Gegner) umwickelt!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000Ă\x0001\x0001 umwickelt!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000Ă\x0001\x0001 (Wild) umwickelt!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000Ă\x0001\x0001 umwickelt!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000Ă\x0001\x0001 (Gegner) umwickelt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 geschnappt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 (Wild) geschnappt!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000Ă\x0001\x0001 (Gegner) geschnappt!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000Ă\x0001\x0001 geschnappt!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000Ă\x0001\x0001 (Wild) geschnappt!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000Ă\x0001\x0001 geschnappt!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000Ă\x0001\x0001 (Gegner) geschnappt!
+\xf000Ă\x0001\x0000 wird in\xfffedem Strudel gefangen!
+\xf000Ă\x0001\x0000 (Wild) wird in\xfffedem Strudel gefangen!
+\xf000Ă\x0001\x0000 (Gegner) wird in\xfffedem Strudel gefangen!
+\xf000Ă\x0001\x0000 wurde in\xfffewirbelndem Feuer eingeschlossen!
+\xf000Ă\x0001\x0000 (Wild) wurde in\xfffewirbelndem Feuer eingeschlossen!
+\xf000Ă\x0001\x0000 (Gegner) wurde in\xfffewirbelndem Feuer eingeschlossen!
+\xf000Ă\x0001\x0000 wurde von\xfffewirbelndem Magma gefangen!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffewirbelndem Magma gefangen!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffewirbelndem Magma gefangen!
+\xf000Ă\x0001\x0000 wurde durch\xfffeSandgrab gefangen!
+\xf000Ă\x0001\x0000 (Wild) wurde durch\xfffeSandgrab gefangen!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch\xfffeSandgrab gefangen!
+\xf000Ă\x0001\x0000 hat keine\xfffeAttacken mehr übrig!
+\xf000Ă\x0001\x0000 (Wild) hat keine\xfffeAttacken mehr übrig!
+\xf000Ă\x0001\x0000 (Gegner) hat keine\xfffeAttacken mehr übrig!
+Team von \xf000Ă\x0001\x0000\xfffewird durch Bodyguard geschützt!
+Team von \xf000Ă\x0001\x0000 (Wild)\xfffewird durch Bodyguard geschützt!
+Team von \xf000Ă\x0001\x0000 (Gegner)\xfffewird durch Bodyguard geschützt!
+\xf000Ă\x0001\x0000 wird durch\xfffeWeißnebel geschützt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffeWeißnebel geschützt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffeWeißnebel geschützt!
+\xf000Ă\x0001\x0000 wurde\xfffeausgewählt!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffeausgewählt!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffeausgewählt!
+\xf000Ă\x0001\x0000 kann sich wegen des\xfffeRückstoßes durch den Angriff nicht bewegen.
+\xf000Ă\x0001\x0000 (Wild) kann sich wegen des\xfffeRückstoßes durch den Angriff nicht bewegen.
+\xf000Ă\x0001\x0000 (Gegner) kann sich wegen des\xfffeRückstoßes durch den Angriff nicht bewegen.
+\xf000Ă\x0001\x0000 wurde durch\xfffeStachler verletzt!
+\xf000Ă\x0001\x0000 (Wild) wurde durch\xfffeStachler verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch\xfffeStachler verletzt!
+\xf000Ă\x0001\x0000 wird von spitzen\xfffeSteinen getroffen!
+\xf000Ă\x0001\x0000 (Wild) wird von spitzen\xfffeSteinen getroffen!
+\xf000Ă\x0001\x0000 (Gegner) wird von spitzen\xfffeSteinen getroffen!
+\xf000Ă\x0001\x0000 hat die\xfffeDimensionen verdreht!
+\xf000Ă\x0001\x0000 (Wild) hat die\xfffeDimensionen verdreht!
+\xf000Ă\x0001\x0000 (Gegner) hat die\xfffeDimensionen verdreht!
+Abgesang von \xf000Ă\x0001\x0000\xfffesteht bei \xf000Ȁ\x0001\x0001!
+Abgesang von \xf000Ă\x0001\x0000 (Wild)\xfffesteht bei \xf000Ȁ\x0001\x0001!
+Abgesang von \xf000Ă\x0001\x0000 (Gegner)\xfffesteht bei \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000 wird von einem\xfffekühlen Licht umhüllt!
+\xf000Ă\x0001\x0000 (Wild) wird von einem\xfffekühlen Licht umhüllt!
+\xf000Ă\x0001\x0000 (Gegner) wird von einem\xfffekühlen Licht umhüllt!
+\xf000Ă\x0001\x0000 wird in klirrend\xfffekalte Luft gehüllt!
+\xf000Ă\x0001\x0000 (Wild) wird in klirrend\xfffekalte Luft gehüllt!
+\xf000Ă\x0001\x0000 (Gegner) wird in klirrend\xfffekalte Luft gehüllt!
+\xf000Ă\x0001\x0000 verhindert\xfffeeine Flucht mit \xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) verhindert\xfffeeine Flucht mit \xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) verhindert\xfffeeine Flucht mit \xf000Ć\x0001\x0001!
+\xf000Ă\x0001\x0000 kann\xfffenicht mehr fliehen!
+\xf000Ă\x0001\x0000 (Wild) kann\xfffenicht mehr fliehen!
+\xf000Ă\x0001\x0000 (Gegner) kann\xfffenicht mehr fliehen!
+\xf000Ă\x0001\x0000 kann nicht fliehen!
+\xf000Ă\x0001\x0000 (Wild) kann nicht fliehen!
+\xf000Ă\x0001\x0000 (Gegner) kann nicht fliehen!
+
+
+
+Heilung von \xf000Ă\x0001\x0000 wurde\xfffeverhindert!
+Heilung von \xf000Ă\x0001\x0000 (Wild) wurde\xfffeverhindert!
+Heilung von \xf000Ă\x0001\x0000 (Gegner) wurde\xfffeverhindert!
+\xf000Ă\x0001\x0000 kann nun wieder\xfffegeheilt werden!
+\xf000Ă\x0001\x0000 (Wild) kann nun wieder\xfffegeheilt werden!
+\xf000Ă\x0001\x0000 (Gegner) kann nun wieder\xfffegeheilt werden!
+\xf000Ă\x0001\x0000 kann aufgrund\xfffevon Heilblockade nicht geheilt werden!
+\xf000Ă\x0001\x0000 (Wild) kann aufgrund\xfffevon Heilblockade nicht geheilt werden!
+\xf000Ă\x0001\x0000 (Gegner) kann aufgrund\xfffevon Heilblockade nicht geheilt werden!
+\xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001\xfffeaufgrund der Heilblockade nicht einsetzen.
+\xf000Ă\x0001\x0000 (Wild) kann \xf000ć\x0001\x0001\xfffeaufgrund der Heilblockade nicht einsetzen.
+\xf000Ă\x0001\x0000 (Gegner) kann \xf000ć\x0001\x0001\xfffeaufgrund der Heilblockade nicht einsetzen.
+\xf000Ă\x0001\x0000 hat volle KP!
+\xf000Ă\x0001\x0000 (Wild) hat volle KP!
+\xf000Ă\x0001\x0000 (Gegner) hat volle KP!
+\xf000Ă\x0001\x0000 verwandelt\xfffesich zu Typ \xf000ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) verwandelt\xfffesich zu Typ \xf000ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) verwandelt\xfffesich zu Typ \xf000ă\x0001\x0001!
+\xf000Ă\x0001\x0000 wurde\xfffeEnergie abgesaugt!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffeEnergie abgesaugt!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffeEnergie abgesaugt!
+\xf000Ă\x0001\x0000 macht weiter\xfffeund bricht zusammen!
+\xf000Ă\x0001\x0000 (Wild) macht weiter\xfffeund bricht zusammen!
+\xf000Ă\x0001\x0000 (Gegner) macht weiter\xfffeund bricht zusammen!
+\xf000Ă\x0001\x0000 kann\xfffe\xf000ć\x0001\x0001 nicht einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann\xfffe\xf000ć\x0001\x0001 nicht einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann\xfffe\xf000ć\x0001\x0001 nicht einsetzen!
+\xf000ĉ\x0001\x0001 füllt KP von\xfffe\xf000Ă\x0001\x0000 auf!
+\xf000ĉ\x0001\x0001 füllt KP von\xfffe\xf000Ă\x0001\x0000 (Wild) auf!
+\xf000ĉ\x0001\x0001 füllt KP von\xfffe\xf000Ă\x0001\x0000 (Gegner) auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffefüllt AP von \xf000ć\x0001\x0002 auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffefüllt AP von \xf000ć\x0001\x0002 auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffefüllt AP von \xf000ć\x0001\x0002 auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffefüllt einige KP auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffefüllt einige KP auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffefüllt einige KP auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeheilt die Vergiftung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeheilt die Vergiftung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeheilt die Vergiftung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeheilt die Paralyse!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeheilt die Paralyse!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeheilt die Paralyse!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 aufwacht!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 (Wild) aufwacht!
+\xf000ĉ\x0001\x0001 hat bewirkt, dass\xfffe\xf000Ă\x0001\x0000 (Gegner) aufwacht!
+\xf000ĉ\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 taut es auf!
+\xf000ĉ\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 (Wild) taut es auf!
+\xf000ĉ\x0001\x0001 von\xfffe\xf000Ă\x0001\x0000 (Gegner) taut es auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeheilt die Verbrennung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeheilt die Verbrennung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeheilt die Verbrennung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffehebt die Verwirrung auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffehebt die Verwirrung auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffehebt die Verwirrung auf!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffehebt sein Gefühl der Anziehung auf.
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffehebt sein Gefühl der Anziehung auf.
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffehebt sein Gefühl der Anziehung auf.
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Spezial-Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Spezial-Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Spezial-Angriff!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Spezial-Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Spezial-Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Spezial-Verteidigung!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Initiative!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Initiative!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Initiative!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Genauigkeit!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Genauigkeit!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Genauigkeit!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Fluchtwert!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Fluchtwert!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Fluchtwert!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Spezial-Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Spezial-Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Spezial-Angriff stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Spezial-Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Spezial-Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Spezial-Verteidigung stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Initiative stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Initiative stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Initiative stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Genauigkeit stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Genauigkeit stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Genauigkeit stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Fluchtwert stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Fluchtwert stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Fluchtwert stark!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Spezial-Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Spezial-Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Spezial-Angriff drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Spezial-Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Spezial-Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Spezial-Verteidigung drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Initiative drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Initiative drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Initiative drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seine Genauigkeit drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seine Genauigkeit drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seine Genauigkeit drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeerhöht seinen Fluchtwert drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeerhöht seinen Fluchtwert drastisch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeerhöht seinen Fluchtwert drastisch!
+\xf000Ă\x0001\x0000 pumpt sich\xfffemittels \xf000ĉ\x0001\x0001 auf!
+\xf000Ă\x0001\x0000 (Wild) pumpt sich\xfffemittels \xf000ĉ\x0001\x0001 auf!
+\xf000Ă\x0001\x0000 (Gegner) pumpt sich\xfffemittels \xf000ĉ\x0001\x0001 auf!
+\xf000Ă\x0001\x0000 flieht\xfffedurch Einsatz von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) flieht\xfffedurch Einsatz von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) flieht\xfffedurch Einsatz von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 hält mithilfe von\xfffe\xf000ĉ\x0001\x0001 durch!
+\xf000Ă\x0001\x0000 (Wild) hält mithilfe von\xfffe\xf000ĉ\x0001\x0001 durch!
+\xf000Ă\x0001\x0000 (Gegner) hält mithilfe von\xfffe\xf000ĉ\x0001\x0001 durch!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffestellt seine Statuswerte wieder her!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffestellt seine Statuswerte wieder her!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffestellt seine Statuswerte wieder her!
+\xf000Ă\x0001\x0000 verliert einige KP!
+\xf000Ă\x0001\x0000 (Wild) verliert einige KP!
+\xf000Ă\x0001\x0000 (Gegner) verliert einige KP!
+Aber \xf000Ă\x0001\x0000 ist gar\xfffenicht dort!
+Aber \xf000Ă\x0001\x0000 (Wild) ist gar\xfffenicht dort!
+Aber \xf000Ă\x0001\x0000 (Gegner) ist gar\xfffenicht dort!
+Aber \xf000Ă\x0001\x0000 trägt kein\xfffeItem bei sich, das es einsetzen könnte!
+Aber \xf000Ă\x0001\x0000 (Wild) trägt kein\xfffeItem bei sich, das es einsetzen könnte!
+Aber \xf000Ă\x0001\x0000 (Gegner) trägt\xfffekein Item bei sich, das es einsetzen könnte!
+Dank \xf000ĉ\x0001\x0001 ist \xf000Ă\x0001\x0000\xfffesofort bereit!
+Dank \xf000ĉ\x0001\x0001 ist \xf000Ă\x0001\x0000 (Wild)\xfffesofort bereit!
+Dank \xf000ĉ\x0001\x0001 ist \xf000Ă\x0001\x0000 (Gegner)\xfffesofort bereit!
+Dank \xf000ĉ\x0001\x0001 kann\xfffe\xf000Ă\x0001\x0000 den ersten Zug machen!
+Dank \xf000ĉ\x0001\x0001 kann\xfffe\xf000Ă\x0001\x0000 (Wild) den ersten Zug machen!
+Dank \xf000ĉ\x0001\x0001 kann\xfffe\xf000Ă\x0001\x0000 (Gegner) den ersten Zug machen!
+\xf000Ă\x0001\x0000 verbessert die\xfffeGenauigkeit seiner nächsten Attacke\xf000븀\x0000\xfffemithilfe von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) verbessert die\xfffeGenauigkeit seiner nächsten Attacke\xf000븀\x0000\xfffemithilfe von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) verbessert die\xfffeGenauigkeit seiner nächsten Attacke\xf000븀\x0000\xfffemithilfe von \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 (Wild) wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 (Gegner) wird durch\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)\xf000븀\x0000\xfffeverletzt!
+\xf000Ă\x0001\x0000 wurde durch das\xfffeItem \xf000ĉ\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 (Wild) wurde durch das\xfffeItem \xf000ĉ\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch das\xfffeItem \xf000ĉ\x0001\x0001 verletzt!
+\xf000Ă\x0001\x0000 pumpt sich auf!
+\xf000Ă\x0001\x0000 (Wild) pumpt sich auf!
+\xf000Ă\x0001\x0000 (Gegner) pumpt sich auf!
+\xf000Ă\x0001\x0000 will\xfffe\xf000Ă\x0001\x0001 helfen!
+\xf000Ă\x0001\x0000 (Wild) will\xfffe\xf000Ă\x0001\x0001 helfen!
+\xf000Ă\x0001\x0000 (Gegner) will\xfffe\xf000Ă\x0001\x0001 helfen!
+\xf000Ă\x0001\x0000 kopiert die\xfffeStatusveränderungen von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) kopiert die\xfffeStatusveränderungen von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) kopiert die\xfffeStatusveränderungen von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 schnappt sich \xf000ĉ\x0001\x0002\xfffevon \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 schnappt sich \xf000ĉ\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 schnappt sich \xf000ĉ\x0001\x0002\xfffevon \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) schnappt sich\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) schnappt sich\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) schnappt sich\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) schnappt sich\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) stiehlt\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) nimmt einen\xfffeTeil seiner KP und legt einen\xf000븀\x0000\xfffeFluch auf \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 wurde durch\xfffeFluch verletzt!
+\xf000Ă\x0001\x0000 (Wild) wurde durch\xfffeFluch verletzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde durch\xfffeFluch verletzt!
+\xf000Ă\x0001\x0000 sieht eine\xfffeAttacke voraus!
+\xf000Ă\x0001\x0000 (Wild) sieht eine\xfffeAttacke voraus!
+\xf000Ă\x0001\x0000 (Gegner) sieht eine\xfffeAttacke voraus!
+\xf000Ă\x0001\x0000 äußert einen\xfffeKismetwunsch für die Zukunft!
+\xf000Ă\x0001\x0000 (Wild) äußert einen\xfffeKismetwunsch für die Zukunft!
+\xf000Ă\x0001\x0000 (Gegner) äußert einen\xfffeKismetwunsch für die Zukunft!
+\xf000Ă\x0001\x0000 wurde von\xfffe\xf000ć\x0001\x0001 getroffen!
+\xf000Ă\x0001\x0000 (Wild) wurde von\xfffe\xf000ć\x0001\x0001 getroffen!
+\xf000Ă\x0001\x0000 (Gegner) wurde von\xfffe\xf000ć\x0001\x0001 getroffen!
+\xf000Ă\x0001\x0000 kann aufgrund von\xfffeErdanziehung nicht mehr in der Luft bleiben!
+\xf000Ă\x0001\x0000 (Wild) kann aufgrund von\xfffeErdanziehung nicht mehr in der Luft bleiben!
+\xf000Ă\x0001\x0000 (Gegner) kann aufgrund von\xfffeErdanziehung nicht mehr in der Luft bleiben!
+\xf000Ă\x0001\x0000 kann \xf000ć\x0001\x0001\xfffeaufgrund von Erdanziehung\xf000븀\x0000\xfffenicht einsetzen!
+\xf000Ă\x0001\x0000 (Wild) kann \xf000ć\x0001\x0001\xfffeaufgrund von Erdanziehung\xf000븀\x0000\xfffenicht einsetzen!
+\xf000Ă\x0001\x0000 (Gegner) kann \xf000ć\x0001\x0001\xfffeaufgrund von Erdanziehung\xf000븀\x0000\xfffenicht einsetzen!
+\xf000Ă\x0001\x0000 hat den Typ von\xfffe\xf000Ă\x0001\x0001 angenommen!
+\xf000Ă\x0001\x0000 hat den Typ von\xfffe\xf000Ă\x0001\x0001 (Wild) angenommen!
+\xf000Ă\x0001\x0000 hat den Typ von\xfffe\xf000Ă\x0001\x0001 (Gegner) angenommen!
+\xf000Ă\x0001\x0000 (Wild) hat den Typ von\xfffe\xf000Ă\x0001\x0001 angenommen!
+\xf000Ă\x0001\x0000 (Wild) hat den Typ von\xfffe\xf000Ă\x0001\x0001 (Wild) angenommen!
+\xf000Ă\x0001\x0000 (Gegner) hat den Typ von\xfffe\xf000Ă\x0001\x0001 angenommen!
+\xf000Ă\x0001\x0000 (Gegner) hat den Typ von\xfffe\xf000Ă\x0001\x0001 (Gegner) angenommen!
+\xf000Ă\x0001\x0000 teilt Kräfte auf!
+\xf000Ă\x0001\x0000 (Wild) teilt Kräfte auf!
+\xf000Ă\x0001\x0000 (Gegner) teilt Kräfte auf!
+\xf000Ă\x0001\x0000 teilt Schutzkräfte auf!
+\xf000Ă\x0001\x0000 (Wild) teilt Schutzkräfte auf!
+\xf000Ă\x0001\x0000 (Gegner) teilt\xfffeSchutzkräfte auf!
+\xf000Ă\x0001\x0000 ist\xfffeleichter geworden!
+\xf000Ă\x0001\x0000 (Wild) ist\xfffeleichter geworden!
+\xf000Ă\x0001\x0000 (Gegner) ist\xfffeleichter geworden!
+\xf000Ă\x0001\x0000 wurde ebenfalls\xfffevom Funkenflug erfasst!
+\xf000Ă\x0001\x0000 (Wild) wurde ebenfalls\xfffevom Funkenflug erfasst!
+\xf000Ă\x0001\x0000 (Gegner) wurde ebenfalls\xfffevom Funkenflug erfasst!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000\xfffeist verbrannt und somit nutzlos geworden!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Wild)\xfffeist verbrannt und somit nutzlos geworden!
+\xf000ĉ\x0001\x0001 von \xf000Ă\x0001\x0000 (Gegner)\xfffeist verbrannt und somit nutzlos geworden!
+\xf000Ă\x0001\x0000 erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 (Wild) erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Wild) erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Wild)!
+\xf000Ă\x0001\x0000 (Gegner) erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 (Gegner) erhält\xfffe\xf000ĉ\x0001\x0002 von \xf000Ă\x0001\x0001 (Gegner)!
+\xf000Ă\x0001\x0000 entführt\xfffe\xf000Ă\x0001\x0001 in luftige Höhen!
+\xf000Ă\x0001\x0000 entführt\xfffe\xf000Ă\x0001\x0001 (Wild) in luftige Höhen!
+\xf000Ă\x0001\x0000 entführt\xfffe\xf000Ă\x0001\x0001 (Gegner) in luftige Höhen!
+\xf000Ă\x0001\x0000 (Wild) entführt\xfffe\xf000Ă\x0001\x0001 in luftige Höhen!
+\xf000Ă\x0001\x0000 (Wild) entführt\xfffe\xf000Ă\x0001\x0001 (Wild) in luftige Höhen!
+\xf000Ă\x0001\x0000 (Gegner) entführt\xfffe\xf000Ă\x0001\x0001 in luftige Höhen!
+\xf000Ă\x0001\x0000 (Gegner) entführt\xfffe\xf000Ă\x0001\x0001 (Gegner) in luftige Höhen!
+\xf000Ă\x0001\x0000 wurde aus dem\xfffeFreien Fall befreit!
+\xf000Ă\x0001\x0000 (Wild) wurde aus dem\xfffeFreien Fall befreit!
+\xf000Ă\x0001\x0000 (Gegner) wurde aus dem\xfffeFreien Fall befreit!
+\xf000Ă\x0001\x0000 wurde davongeschleudert\xfffeund ist herabgestürzt!
+\xf000Ă\x0001\x0000 (Wild) wurde davongeschleudert\xfffeund ist herabgestürzt!
+\xf000Ă\x0001\x0000 (Gegner) wurde davon-\xfffegeschleudert und ist herabgestürzt!
+\xf000Ă\x0001\x0000 hat sich\xfffevorgedrängelt!
+\xf000Ă\x0001\x0000 (Wild) hat sich\xfffevorgedrängelt!
+\xf000Ă\x0001\x0000 (Gegner) hat sich\xfffevorgedrängelt!
+\xf000Ă\x0001\x0000 lässt sich\xfffeauf Galanterie ein!
+\xf000Ă\x0001\x0000 (Wild) lässt sich\xfffeauf Galanterie ein!
+\xf000Ă\x0001\x0000 (Gegner) lässt sich\xfffeauf Galanterie ein!
+\xf000Ă\x0001\x0000 und \xf000Ă\x0001\x0001\xfffehaben den Platz getauscht!
+\xf000Ă\x0001\x0000 (Wild) und \xf000Ă\x0001\x0001\xfffehaben den Platz getauscht!
+\xf000Ă\x0001\x0000 (Gegner) und \xf000Ă\x0001\x0001\xfffehaben den Platz getauscht!
+\xf000Ă\x0001\x0000 wurde\xfffezum Schweben gebracht!
+\xf000Ă\x0001\x0000 (Wild) wurde\xfffezum Schweben gebracht!
+\xf000Ă\x0001\x0000 (Gegner) wurde\xfffezum Schweben gebracht!
+\xf000Ă\x0001\x0000 wurde von der\xfffeWirkung von Telekinese befreit!
+\xf000Ă\x0001\x0000 (Wild) wurde von der\xfffeWirkung von Telekinese befreit!
+\xf000Ă\x0001\x0000 (Gegner) wurde von der\xfffeWirkung von Telekinese befreit!
+\xf000Ă\x0001\x0000 wartet auf\xfffe\xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 wartet auf\xfffe\xf000Ă\x0001\x0001 (Wild)...
+\xf000Ă\x0001\x0000 wartet auf\xfffe\xf000Ă\x0001\x0001 (Gegner)...
+\xf000Ă\x0001\x0000 (Wild) wartet auf\xfffe\xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 (Wild) wartet auf\xfffe\xf000Ă\x0001\x0001 (Wild)...
+\xf000Ă\x0001\x0000 (Gegner) wartet auf\xfffe\xf000Ă\x0001\x0001...
+\xf000Ă\x0001\x0000 (Gegner) wartet auf\xfffe\xf000Ă\x0001\x0001 (Gegner)...
+Die Harmonie mit \xf000Ă\x0001\x0000\xfffekönnte gar nicht besser sein!
+Die Harmonie mit \xf000Ă\x0001\x0000 (Wild)\xfffekönnte gar nicht besser sein!
+Die Harmonie mit \xf000Ă\x0001\x0000 (Gegner)\xfffekönnte gar nicht besser sein!
+\xf000Ă\x0001\x0000 nimmt\xfffeSchaden durch das Meer aus Feuer.
+\xf000Ă\x0001\x0000 (Wild) nimmt\xfffeSchaden durch das Meer aus Feuer.
+\xf000Ă\x0001\x0000 (Gegner) nimmt\xfffeSchaden durch das Meer aus Feuer.

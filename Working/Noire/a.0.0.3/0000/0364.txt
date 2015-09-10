@@ -1,0 +1,27 @@
+Bienvenue au Bureau d'Étude des Saisons.\xf000븁\x0000\xfffeDurant certaines saisons, le\xfffeMont Foré, près de Parsemille,\xf000븀\x0000\xfffeest recouvert de neige.
+Il existe des Pokémon qui changent de\xfffeforme en fonction des saisons.\xf000븁\x0000\xfffePeut-on dire qu'il s'agit\xfffed'une forme d'évolution...?
+Nous étudions les changements provoqués\xfffepar le passage des saisons.\xf000븁\x0000\xfffeIl y a des \xf000ā\x0001\x0000 dans les environs,\xfffen'est-ce pas? Ces Pokémon présentent\xf000븁\x0000\xfffela particularité remarquable de changer\xfffede forme en fonction des saisons.\xf000븁\x0000\xfffeNous souhaitons les étudier pour\xfffecomprendre les rapports entre\xf000븀\x0000\xfffeles saisons, le climat et les Pokémon.\xf000븁\x0000\xfffeC'est pour cela que nous avons\xfffeimaginé un système de climatisation\xf000븀\x0000\xffferévolutionnaire qui permet de contrôler\xf000븀\x0000\xfffeà loisir la température et le taux\xf000븀\x0000\xfffed'humidité, indépendamment de la saison!\xf000븁\x0000
+Or, tout cela est bien beau, mais nous\xfffesommes tellement occupés que nous\xf000븀\x0000\xfffen'avons absolument pas le temps d'aller\xf000븀\x0000\xfffeattraper un \xf000ā\x0001\x0000.\xf000븁\x0000\xfffePourrais-tu t'en charger?\xfffeEnsuite, si tu remarques que la forme\xf000븀\x0000\xfffedu \xf000ā\x0001\x0000 a changé, pourrais-tu\xf000븀\x0000\xfffel'amener ici pour nous le montrer?\xf000븁\x0000\xfffeSi nous parvenons à nous assurer du\xfffechangement d'apparence chez ton\xf000븀\x0000\xfffe\xf000ā\x0001\x0000, nous nous mettrons\xf000븀\x0000\xfffenous-mêmes à la recherche\xf000븀\x0000\xfffed'un spécimen de cette saison.\xf000븁\x0000
+Tu veux bien me laisser examiner\xfffeton \xf000ā\x0001\x0000? Allez, s'il te plaît!
+Un \xf000ā\x0001\x0000 dans sa Forme Printemps!\xfffeRegarde-moi cette couleur et ce lustre!\xf000븁\x0000\xfffeOn dirait un champ de fleurettes au doux\xfffesoleil de mai... Et ce subtil parfum floral\xf000븀\x0000\xfffequi émane de son pelage... quel délice!\xf000븁\x0000\xfffeOh, merci, merci!\xfffeIl m'en faut un, à moi aussi!
+Un \xf000ā\x0001\x0000 dans sa Forme Été!\xfffeCette couleur, ce beau poil lustré...\xf000븁\x0000\xfffeUn vrai buisson ardent! Et cette odeur\xfffechampêtre qui émane de son pelage...\xf000븁\x0000\xfffeOh, merci à toi!\xfffeJe fonce m'en trouver un!
+Un \xf000ā\x0001\x0000 dans sa Forme Automne!\xfffeRegarde-moi cette couleur, ce lustre!\xf000븁\x0000\xfffeOn dirait un sentier où dansent\xfffeles feuilles mortes!\xf000븁\x0000\xfffeEt cette odeur d'humus...\xfffeOh, merci mille fois!\xf000븀\x0000\xfffeJe fonce m'en attraper un!
+Un \xf000ā\x0001\x0000 dans sa Forme Hiver!\xfffeRegarde-moi ces reflets, ce lustre!\xf000븁\x0000\xfffeOn dirait une piste de ski pleine de\xfffeneige fraîche! Et ce fumet puissant,\xf000븀\x0000\xfffecomme si on venait de retourner la terre!\xf000븁\x0000\xfffeAh, merci, merci!\xfffeJe dois absolument aller m'en trouver un!
+Merci bien, mais j'ai déjà attrapé\xfffeun \xf000ā\x0001\x0000 de cette saison!
+Vraiment? Nous avons tellement\xfffebesoin de ton aide...
+Ah, te voilà!\xf000븁\x0000\xfffeGrâce à toi, nous avons réussi\xfffeà attraper un \xf000ā\x0001\x0000\xf000븀\x0000\xfffede chaque saison.\xf000븁\x0000\xfffeAvec eux, on va pouvoir étudier\xfffeen détail le lien entre les saisons,\xf000븀\x0000\xfffele climat et les Pokémon.\xf000븁\x0000\xfffeTiens, ce n'est pas grand-chose, mais\xfffeaccepte ça en remerciement!\xf000븁\x0000
+Il n'y a qu'ici qu'on peut voir\xfffeun \xf000ā\x0001\x0000 de chaque saison.\xf000븀\x0000\xfffeC'est devenu notre mascotte!
+Ça me fait mal au cœur de te dire ça,\xfffemais ce Pokémon n'est pas un \xf000ā\x0001\x0000.
+Viii!
+Vi! Vi! Viii!
+Vi! Vi!
+Viii...
+On contrôle la température et le taux\xfffed'humidité avec la machine.
+Le verre est froid au toucher.\xfffeLa plante à l'intérieur a de jolis fruits!
+Le verre est très froid au toucher.\xf000븁\x0000\xfffeLes feuilles de la plante à l'intérieur\xfffesont toutes tombées.
+Le verre est tiède au toucher.\xfffeLa plante à l'intérieur bourgeonne.
+Le verre est chaud au toucher.\xf000븁\x0000\xfffeLa plante à l'intérieur a\xfffede belles feuilles.
+Température sur la Route 6: \xf000ȁ\x0001\x0000 degrés.
+Température sur la Route 6: \xf000ȁ\x0001\x0000 degrés.
+Température sur la Route 6: \xf000ȁ\x0001\x0000 degrés.
+Température sur la Route 6: -\xf000Ȁ\x0001\x0000 degrés.

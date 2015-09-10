@@ -1,0 +1,36 @@
+OPZIONI
+VELOCITÀ TESTO
+ANIMAZIONE
+POKÉMON IN LOTTA
+SUONO
+CARATTERI
+
+SALV. AUT. IR
+OK
+ESCI
+1
+2
+3
+SÌ
+NO
+SCEGLI
+TIENI
+STEREO
+MONO
+
+
+
+
+SÌ
+NO
+Scegli uno dei tre livelli di velocità\xfffedi scorrimento del testo.
+Scegli se vuoi vedere le animazioni durante\xfffele lotte di Pokémon.
+Scegli se tenere o sostituire il tuo Pokémon\xfffequando mandi KO l'avversario.
+Scegli la modalità audio del gioco.
+
+
+Scegli se salvare prima della connessione\xfffea infrarossi del C-Gear.
+Sono presenti altri dati di gioco salvati.\xfffeImpossibile cambiare le impostazioni.\xf000븁\x0000
+Vuoi salvare le modifiche?
+SÌ
+NO
