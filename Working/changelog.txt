@@ -1,4 +1,7 @@
 current release version: 0.0.1b
 
 a.0.0.2\0044.txt:
-    10  "per totum mundum professor Pokémon uocor" => "omnes me uocant professorem Pokémon"
+    8   "per totum mundum professor Pokémon uocor" => "omnes me uocant professorem Pokémon"
+    10  "uiuuntque in omnibus modis locorum" => "diffuderuntque paululum ubique"
+    27  "electus es" => "elegeris"
+    27  "iter tuus" => "iter tuum"
