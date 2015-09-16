@@ -8,8 +8,8 @@ playable Latin version.
 
 ## Sections
 
-1. [Overall Progress](#Overall Progress)
-2. [Modernisms](#Modernisms)
+1. [Overall Progress](#1-overall-progress)
+2. [Modernisms](#2-modernisms)
 
 ## 1. Overall Progress
 
