@@ -784,7 +784,10 @@ sequences are identified.
 
 ## 2. Modernisms:
 
-A collection of various translation decisions
+A collection of various translation decisions that I've had to make regarding
+modern concepts and words, including reimaginations of old words, and new words
+that I've either come up with myself or are in use elsewhere in the Internet
+Latin community.
 
 ### A note on the use of "ab"
 
@@ -796,6 +799,9 @@ context speak for the exact meaning of the word, but sometimes I'm forced to
 make the relationship much more explicit.
 
 In these cases I've resorted to using "ab" with its meaning of "in respect to".
+An example of this is the sentence "Sunt multae aliae species a Pokémon.", where
+I've tried to convey the genitive or dative of respect idea that one would expect
+with this sentence with "a(b)".
 
 ### Button - Pulsandum
 
