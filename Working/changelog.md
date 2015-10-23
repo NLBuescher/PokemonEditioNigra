@@ -3,8 +3,16 @@
 ### Added:
 
 Various input prompts including the "Your name?" bit from the welcome speech.
+Help text headings
 
+### Changed:
 
+Introduction Sequence:
+
+- "Certamina" => "Pugnae" for "Battles"
+- Capitalization has been revised. The beginning of sentences are now also
+  capitalized (rather than just the beginning of paragraphs).
+  
 ## 0.0.2b
 
 ### Added:

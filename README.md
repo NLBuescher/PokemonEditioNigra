@@ -81,8 +81,8 @@ sequences are identified.
 - [ ] 59. 
 - [ ] 60. 
 - [ ] 61. 
-- [ ] 62. 
-- [ ] 63. 
+- [ ] 62. Help text (Headings complete)
+- [ ] 63. Help text (Headings complete)
 - [ ] 64. 
 - [ ] 65. 
 - [ ] 66. 
@@ -218,7 +218,7 @@ sequences are identified.
 - [ ] 196. 
 - [ ] 197. 
 - [ ] 198. 
-- [ ] 199. 
+- [x] 199. List of Pokémon types
 - [ ] 200. 
 - [ ] 201. 
 - [ ] 202. 
@@ -739,7 +739,7 @@ sequences are identified.
 - [ ] 427. 
 - [ ] 428. 
 - [ ] 429. 
-- [ ] 430. 
+- [ ] 430. "We can have a Pokémon?"
 - [ ] 431. 
 - [ ] 432. 
 - [ ] 433. 
@@ -818,6 +818,30 @@ find on clothing, and "pulsante", which is specifically a button designed to be
 pressed. The Latin "pulsandum" is literally a thing to be pressed, an equally
 descriptive and concise, but still classical, term.
 
+### A note on Capitalization
+
+I've decided to only capitalize the first word of a sentence, and all proper
+nouns. Note that this does not extend to the months or anything similar.
+Strictly names.
+
+I've seen various capitalization schemes implemented in different editions of
+Latin texts that I've had the pleasure of reading, so I figured it would be good
+to mention which of these I've decided to use.
+
+### Club - Club
+
+I figured this one deserved a mention, since it's an English word directly
+imported and simply declined like a third declension noun (club, clubis). I
+honestly think this is a better fit than "sodalitas", which seems to have more
+of a secret society or formal organization kind of feel.
+
+### Dowsing Machine - Quaestrumentum
+
+I have to admit that this word seems a bit silly. The word is no more than a
+simple portmonteau of "quaero", meaning "to seek" or "to search for", and
+"instrumentum", meaning "a tool". I think the word sounds nice, and the silliness
+fits with the overall theme of Pokémon.
+
 ### Enter - Referre (*+ in + acc* or *+ abl*)
 
 This was by far the hardest decision I've had to make simply because French,
@@ -843,5 +867,15 @@ book").
 I honestly don't think that I have to explain this one too much, but I'd like to
 point out simply that I personally really hate words that mix Greek and Latin
 roots, so when I made this decision I wanted to make sure that the the English
-"microphone" isn't some awful hybrid. Luckily it's not, so I was happy to use
-this word.
+"microphone" isn't some awful hybrid. Luckily it's all Greek, so I was happy to
+use this word.
+
+### Survey - Scrutatium
+
+The words "quaestio" and "interrogatio" are much too bogged down in legal
+connotation for me to feel comfortable using either of them for this purpose, so
+I opted to use a new word based on the verb "scrutari", instead.
+
+### Trainer - Lanista
+
+What better word for a Pokémon Trainer than "trainer of gladiators"?
