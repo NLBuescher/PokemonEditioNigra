@@ -1,111 +1,32 @@
-Création de la sauvegarde en cours.
-Veuillez patienter.
 
 
-Hellooo!{CLEAR}
-
-Bienvenue dans le monde des Pokémon!{CLEAR}
 
 
-Mon nom est Keteleeria,{CLEAR}
 
-mais tout le monde m'appelle
-Professeur Pokémon.{CLEAR}
-
-
-Eh oui! Ce monde est peuplé de créatures
-mystérieuses appelées “Pokémon".{CLEAR}
-
-
-Les Pokémon ont tous des pouvoirs,
-une apparence et un habitat particuliers.{CLEAR}
-
-Ils vivent en paix avec les humains.
-Ils se complètent, s'entraident,{ADDLINE}
-et il leur arrive même de faire{ADDLINE}
-de grandes choses ensemble!{CLEAR}
-
-Les combats de Pokémon, par exemple,
-sont très populaires,{CLEAR}
-
-et permettent d'approfondir les liens
-entre un Dresseur et son équipe Pokémon.{CLEAR}
-
-Et donc moi, justement, j'étudie
-ces fameux Pokémon.{CLEAR}
+Création de la sauvegarde en cours.\xfffeVeuillez patienter.
+Hellooo!\xf000븁\x0000\xfffeBienvenue dans le monde des Pokémon!\xf000븁\x0000
+Mon nom est Keteleeria,\xf000븁\x0000\xfffemais tout le monde m'appelle\xfffeProfesseur Pokémon.\xf000븁\x0000
+Eh oui! Ce monde est peuplé de créatures\xfffemystérieuses appelées “Pokémon".\xf000븁\x0000
+Les Pokémon ont tous des pouvoirs,\xfffeune apparence et un habitat particuliers.\xf000븁\x0000\xfffeIls vivent en paix avec les humains.\xfffeIls se complètent, s'entraident,\xf000븀\x0000\xfffeet il leur arrive même de faire\xf000븀\x0000\xfffede grandes choses ensemble!\xf000븁\x0000\xfffeLes combats de Pokémon, par exemple,\xfffesont très populaires,\xf000븁\x0000\xfffeet permettent d'approfondir les liens\xfffeentre un Dresseur et son équipe Pokémon.\xf000븁\x0000\xfffeEt donc moi, justement, j'étudie\xfffeces fameux Pokémon.\xf000븁\x0000
+Bon, j'en ai fini avec mon monologue...\xfffeParle-moi un peu de toi!\xf000븁\x0000
+Es-tu un garçon, ou une fille?\xf000븁\x0000
+Un garçon, c'est bien ça?\xf000븁\x0000
+Une fille, c'est bien ça?\xf000븁\x0000
 
 
-Bon, j'en ai fini avec mon monologue...
-Parle-moi un peu de toi!{CLEAR}
-
-
-Es-tu un garçon, ou une fille?{CLEAR}
-
-
-Un garçon, c'est bien ça?{CLEAR}
-
-
-Une fille, c'est bien ça?{CLEAR}
-
-
-Et quel est ton nom?{CLEAR}
-
-
-{NAME}, c'est ça?{CLEAR}
-
-
-{NAME}, c'est juste?{CLEAR}
-
-
+Et quel est ton nom?\xf000븁\x0000
+\xf000Ā\x0001\x0000, c'est ça?\xf000븁\x0000
+\xf000Ā\x0001\x0000, c'est juste?\xf000븁\x0000
 OUI
-
-
 NON
+\xf000Ā\x0001\x0000, quel joli nom!\xfffeC'est super trognon!\xf000븁\x0000
+Bien, laisse-moi te présenter\xfffetes meilleurs amis!\xf000븁\x0000
+Ce garçon, c'est Tcheren.\xf000븁\x0000\xfffeIl est un peu spécial, mais\xfffeil a un bon fond.\xf000븁\x0000
+Cette fille, c'est Bianca.\xf000븁\x0000\xfffeElle est très gentille, et puis,\xfffeelle fait de son mieux...\xf000븁\x0000
+Une fine équipe, n'est-ce pas?\xf000븁\x0000\xfffeEt comme j'ai confiance en vous trois, je\xfffevais vous confier à chacun un Pokémon.\xf000븀\x0000\xfffeJ'espère que vous en prendrez bien soin!\xf000븁\x0000
+\xf000Ā\x0001\x0000!!!\xf000븁\x0000\xfffeDès que tu auras choisi le Pokémon qui va\xfffedevenir ton plus fidèle compagnon de\xf000븀\x0000\xfffevoyage, ton aventure va commencer.\xf000븁\x0000\xfffeTu vas rencontrer des centaines de\xfffePokémon, et une foule de gens avec\xf000븀\x0000\xfffedes opinions et des idées très variées.\xf000븁\x0000\xfffeJ'espère que tu retireras quelque chose\xfffed'unique de toutes ces rencontres,\xf000븁\x0000\xfffeet qu'elles te feront grandir...\xfffeC'est l'objectif principal de ce voyage.\xf000븁\x0000\xfffeBon, trêve de bavardage, en\xffferoute pour le monde des Pokémon!\xf000븀\x0000\xfffeC'est parti mon kiki!!!\xf000븁\x0000
 
 
-{NAME}, quel joli nom!
-C'est super trognon!{CLEAR}
 
 
-Bien, laisse-moi te présenter
-tes meilleurs amis!{CLEAR}
 
-
-Ce garçon, c'est Tcheren.{CLEAR}
-
-Il est un peu spécial, mais
-il a un bon fond.{CLEAR}
-
-
-Cette fille, c'est Bianca.{CLEAR}
-
-Elle est très gentille, et puis,
-elle fait de son mieux...{CLEAR}
-
-
-Une fine équipe, n'est-ce pas?{CLEAR}
-
-Et comme j'ai confiance en vous trois, je
-vais vous confier à chacun un Pokémon.{ADDLINE}
-J'espère que vous en prendrez bien soin!{CLEAR}
-
-
-{NAME}!!!{CLEAR}
-
-Dès que tu auras choisi le Pokémon qui va
-devenir ton plus fidèle compagnon de{ADDLINE}
-voyage, ton aventure va commencer.{CLEAR}
-
-Tu vas rencontrer des centaines de
-Pokémon, et une foule de gens avec{ADDLINE}
-des opinions et des idées très variées.{CLEAR}
-
-J'espère que tu retireras quelque chose
-d'unique de toutes ces rencontres,{CLEAR}
-
-et qu'elles te feront grandir...
-C'est l'objectif principal de ce voyage.{CLEAR}
-
-Bon, trêve de bavardage, en
-route pour le monde des Pokémon!{ADDLINE}
-C'est parti mon kiki!!!{CLEAR}

@@ -1,113 +1,32 @@
-Creating save data.
-Please wait...
 
 
-Hi there!{CLEAR}
-
-Welcome to the world of Pokémon!{CLEAR}
 
 
-My name is Professor Juniper.
-Everyone calls me the Pokémon Professor!{CLEAR}
+
+Creating save data.\xfffePlease wait...
+Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
+My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
+That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
+Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
+Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
+Are you a boy?\xfffeOr a girl?\xf000븁\x0000
+You're a boy, right?\xf000븁\x0000
+You're a girl, right?\xf000븁\x0000
 
 
-That's right! This world is widely
-inhabited by mysterious creatures{ADDLINE}
-called Pokémon!{CLEAR}
-
-
-Pokémon have mysterious powers.
-They come in many shapes{ADDLINE}
-and live in many different places.{CLEAR}
-
-We humans live happily with Pokémon!
-Living and working together,{ADDLINE}
-we complement each other.{CLEAR}
-
-We help each other out to
-accomplish difficult tasks.{CLEAR}
-
-Having Pokémon battle one another
-is particularly popular, and it deepens{ADDLINE}
-the bonds between people and Pokémon.{ADDLINE}
-And that is why I research Pokémon.{CLEAR}
-
-
-Well, that's enough from me...
-Could you tell me about yourself?{CLEAR}
-
-
-Are you a boy?
-Or a girl?{CLEAR}
-
-
-You're a boy, right?{CLEAR}
-
-
-You're a girl, right?{CLEAR}
-
-
-I'd like to know your name.{CLEAR}
-
-Please tell me.{CLEAR}
-
-
-Your name is {NAME}?{CLEAR}
-
-
-Your name is {NAME}?{CLEAR}
-
-
+I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
+Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
 Yes
-
-
 No
+So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
+Well then. I'm going to introduce you\xfffeto your two best friends!\xf000븁\x0000
+This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
+This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
+I think you three have potential,\xfffeso I'm going to give you\xf000븀\x0000\xfffea very, very important Pokémon.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeThe moment you choose the\xfffePokémon that will accompany\xf000븀\x0000\xfffeyou on your journey,\xf000븀\x0000\xfffeyour story will truly begin.\xf000븁\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000븀\x0000\xfffepersonalities and points of view!\xf000븁\x0000\xfffeI really hope you find what is important\xfffeto you in all of these travels...\xf000븁\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000븀\x0000\xfffegrow as a person!\xf000븁\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000븁\x0000\xfffeLet's go visit the world of Pokémon!\xf000븁\x0000
 
 
-So your name's {NAME}.
-What a wonderful name!{CLEAR}
 
 
-Well then. I'm going to introduce you
-to your two best friends!{CLEAR}
 
-
-This young man is Cheren.{CLEAR}
-
-He can be a little difficult, but
-he's a very honest person.{CLEAR}
-
-
-This young woman is Bianca.{CLEAR}
-
-She's a little flighty,
-but she works very hard.{CLEAR}
-
-
-I think you three have potential,
-so I'm going to give you{ADDLINE}
-a very, very important Pokémon.{CLEAR}
-
-
-{NAME}!{CLEAR}
-
-The moment you choose the
-Pokémon that will accompany{ADDLINE}
-you on your journey,{ADDLINE}
-your story will truly begin.{CLEAR}
-
-During your journey, you will meet many
-Pokémon and people with different{ADDLINE}
-personalities and points of view!{CLEAR}
-
-I really hope you find what is important
-to you in all of these travels...{CLEAR}
-
-That's right! Befriend
-new people and Pokémon and{ADDLINE}
-grow as a person!{CLEAR}
-
-That is the most important goal
-for your journey!{CLEAR}
-
-Let's go visit the world of Pokémon!{CLEAR}
