@@ -11,6 +11,7 @@
 
 ### Changed:
 
+- Reworked the translations to follow post-classical notation
 - Cleanup. All of narc files have been reexported
 - "Modernisms" has been renamed "Glossary"
 - The Glossary section of the ReadMe is now ordered by the Latin words

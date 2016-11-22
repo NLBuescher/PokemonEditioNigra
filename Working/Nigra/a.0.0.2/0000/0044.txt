@@ -3,30 +3,25 @@
 
 
 
-Creans data seruata.\xfffeExspectas...
-Salue!\xf000븁\x0000\xfffeBene aduenisti in mundum Pokémon!\xf000븁\x0000
-Aralia mihi nomen est, sed\xfffeomnes me uocant professorem Pokémon!\xf000븁\x0000
-Ita uero! Hic mundus habitatus\xfffea creaturis arcanis est,\xf000븀\x0000\xfffequae Pokémon uocantur!\xf000븁\x0000
-Sunt multae aliae species a Pokémon\xfffediffuderuntque paululum ubique.\xf000븁\x0000\xfffeCommuniter omnes uires arcanas habent.\xf000븁\x0000\xfffeAtque optmium est Pokémon concorditer\xfffecongruere nobiscum, hominibus!\xf000븁\x0000\xfffeHaec conuictio prodest utrisque\xfffenostrum, permittetque nobis superare\xf000븀\x0000\xfffedifficultates.\xf000븁\x0000\xfffePugnae inter Pokémon sunt\xfffepopularissima creantque fortes copulas\xf000븀\x0000\xfffeamicitiae lanistis cum Pokémon eorum.\xf000븁\x0000\xfffeEst negotium meum studere\xfffehis adorandis creaturis.\xf000븁\x0000
+Creans data servata.\xfffeExspectas...
+Salve!\xf000븁\x0000\xfffeBene advenisti in mundum Pokémonum!\xf000븁\x0000
+Aralia mihi nomen est, sed\xfffeomnes me vocant professorem Pokémonum!\xf000븁\x0000
+Ita vero! Hic mundus habitatus\xfffea creaturis arcanis est,\xf000븀\x0000\xfffequi Pokémones vocantur!\xf000븁\x0000
+Sunt multae aliae species a Pokémonibus\xfffediffuderuntque paululum ubique.\xf000븁\x0000\xfffeCommuniter omnes vires arcanas habent.\xf000븁\x0000\xfffeNos homines vivamus in concordia\xfffecum nostris amicis, Pokémonibus!\xf000븁\x0000\xfffeHaec convictio prodest utrisque\xfffenostrum, permittetque nobis superare\xf000븀\x0000\xfffedifficultates.\xf000븁\x0000\xfffePugnae inter Pokémones sunt\xfffepopularissima creantque fortes copulas\xf000븀\x0000\xfffeamicitiae lanistis cum Pokémonibus eorum.\xf000븁\x0000\xfffeEst negotium meum studere\xfffehis adorandis creaturis.\xf000븁\x0000
 At, satis dicebam de me...\xfffeNunc, mihi pauca de te dicas.\xf000븁\x0000
 Esne puer, aut puella?\xf000븁\x0000
 Nonne es puer?\xf000븁\x0000
 Nonne es puella?\xf000븁\x0000
 
 
-At quis uocaris?\xf000븁\x0000
+At quis vocaris?\xf000븁\x0000
 Estne \xf000Ā\x0001\x0000 nomen tibi?\xf000븁\x0000
 Estne \xf000Ā\x0001\x0000 nomen tibi?\xf000븁\x0000
-Ita
+Sic
 Non
 Sic \xf000Ā\x0001\x0000 nomen tibi est.\xfffeQuam bellum nomen!\xf000븁\x0000
-Bene. Liceat mihi tradere tibi\xfffeuestros duos summos amicos!\xf000븁\x0000
-Hic iuuenis Cheren uocatur.\xf000븁\x0000\xfffePotest paululum difficilis esse,\xfffesed habet animum bonum.\xf000븁\x0000
-Haec iuuenis Bianca uocatur.\xf000븁\x0000\xfffePaululum leuis est, sed\xfffesemper potest confidere ei.\xf000븁\x0000
-Bene, liberi, confido tribus uestrum!\xf000븁\x0000\xfffeItaque uolo commitere cuique uestrum\xfffecarum Pokémon.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeCum elegeris eum Pokémon qui comes\xfffetibi erit, iter tuum uere incipiet.\xf000븁\x0000\xfffeOccurres multis Pokémon hominibusque\xfffediuersarum idearum!\xf000븁\x0000\xfffeSpero ut inuenias aliquid pretii\xfffeinter omnes congressus, qui\xf000븀\x0000\xfffeadiuuabunt te increscere personaliter!\xf000븁\x0000\xfffeQuod est primum propositum itineris tui!\xf000븁\x0000\xfffeBene, nunc eamus ad mundum Pokémon!\xf000븁\x0000
-
-
-
-
-
+Bene. Liceat mihi tradere tibi\xfffevestros duos summos amicos!\xf000븁\x0000
+Hic iuvenis Cheren vocatur.\xf000븁\x0000\xfffePotest paululum difficilis esse,\xfffesed habet animum bonum.\xf000븁\x0000
+Haec iuvenis Bianca vocatur.\xf000븁\x0000\xfffePaululum levis est, sed\xfffesemper potest confidere ei.\xf000븁\x0000
+Bene, liberi, confido tribus vestrum!\xf000븁\x0000\xfffeItaque volo commitere cuique vestrum\xfffecarum Pokémonem.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeCum elegeris eum Pokémonem qui comes\xfffetibi erit, iter tuum vere incipiet.\xf000븁\x0000\xfffeOccurres multis Pokémonibus hominibusque\xfffediversarum idearum!\xf000븁\x0000\xfffeSpero ut invenias aliquid pretii\xfffeinter omnes congressus, qui\xf000븀\x0000\xfffeadiuvabunt te increscere personaliter!\xf000븁\x0000\xfffeQuod est primum propositum itineris tui!\xf000븁\x0000\xfffeBene, nunc eamus ad mundum Pokémonum!\xf000븁\x0000
