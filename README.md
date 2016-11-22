@@ -9,7 +9,7 @@ This project aims to produce a full text and graphical overhaul of Game Freak's 
 1. [Overall Progress](#1-overall-progress)
 2. [Glossary](#2-glossary)
 
-## 1. Overall Progress
+## 1\. Overall Progress
 
 This section is a checklist of various all of the text files contained in the relevant narc packages in the original ROM. The list will get filled in with labels and descriptions, as well as a check mark, as progress is made and text sequences are identified.
 
@@ -58,7 +58,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 41.
 - [ ] 42.
 - [ ] 43.
-- [x] 44. "Welcome to the world of Pokémon!"
+- [x] 44\. "Welcome to the world of Pokémon!"
 - [ ] 45.
 - [ ] 46.
 - [ ] 47.
@@ -76,8 +76,8 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 59.
 - [ ] 60.
 - [ ] 61.
-- [ ] 62. Help text
-- [ ] 63. Help text (Same as above)
+- [ ] 62\. Help text
+- [ ] 63\. Help text (Same as above)
 - [ ] 64.
 - [ ] 65.
 - [ ] 66.
@@ -95,7 +95,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 78.
 - [ ] 79.
 - [ ] 80.
-- [x] 81. "Your Name?" and others
+- [x] 81\. "Your Name?" and others
 - [ ] 82.
 - [ ] 83.
 - [ ] 84.
@@ -193,7 +193,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 176.
 - [ ] 177.
 - [ ] 178.
-- [ ] 179. "Continue", "New Game", and others as well as WiFi warnings
+- [ ] 179\. "Continue", "New Game", and others as well as WiFi warnings
 - [ ] 180.
 - [ ] 181.
 - [ ] 182.
@@ -213,7 +213,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 196.
 - [ ] 197.
 - [ ] 198.
-- [x] 199. List of Pokémon types
+- [x] 199\. List of Pokémon types
 - [ ] 200.
 - [ ] 201.
 - [ ] 202.
@@ -734,7 +734,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 427.
 - [ ] 428.
 - [ ] 429.
-- [ ] 430. "We can have a Pokémon?"
+- [ ] 430\. "We can have a Pokémon?"
 - [ ] 431.
 - [ ] 432.
 - [ ] 433.
@@ -777,7 +777,7 @@ This section is a checklist of various all of the text files contained in the re
 - [ ] 470.
 - [ ] 471.
 
-## 2. Glossary:
+## 2\. Glossary:
 
 A collection of various translation decisions that I've had to make regarding modern concepts and words, including reimaginations of old words, and new words that I've either come up with myself or are in use elsewhere in the Internet Latin community.
 
@@ -799,13 +799,13 @@ Another port directly from modern language. In this case however, its neuter gen
 
 ### Pokémōn, Pokémōnis, m./f.
 
-    | Singular  | Plural
-----|-----------|-------------
-Nom | Pokémōn   | Pokémōn
-Gen | Pokémōnis | Pokémōnum
-Dat | Pokémōnī  | Pokémōnibus
-Acc | Pokémōnem | Pokémōnēs
-Abl | Pokémōne  | Pokémōnibus
+Case | Singular  | Plural
+---- | --------- | -----------
+Nom  | Pokémōn   | Pokémōn
+Gen  | Pokémōnis | Pokémōnum
+Dat  | Pokémōnī  | Pokémōnibus
+Acc  | Pokémōnem | Pokémōnēs
+Abl  | Pokémōne  | Pokémōnibus
 
 At first, as can be seen in earlier versions of the project, I had decided to keep "Pokémon" as an indeclinable noun, but reading up on the grammar of indeclinable nouns, I found that they are only found in the nominative and accusative. Wanting to stay true to classical Latin, but desperately needing to use the word in more than the nominative and accusative, I decided to find a declension pattern that fits. I've modeled this declension after the name of the Greek god "Pluton", so the second "o" is always long.
 
@@ -817,15 +817,15 @@ I took a few pointers from [this tumblr post](http://interretialia.tumblr.com/po
 
 ### Pokérus, Pokérī, n.
 
-    | Singular | Plural
-----|----------|-----------
-Nom | Pokérus  | Pokéra
-Gen | Pokérī   | Pokérōrum
-Dat | Pokérō   | Pokérīs
-Acc | Pokérus  | Pokéra
-Abl | Pokérō   | Pokérīs
+Case | Singular | Plural
+---- | -------- | ---------
+Nom  | Pokérus  | Pokéra
+Gen  | Pokérī   | Pokérōrum
+Dat  | Pokérō   | Pokérīs
+Acc  | Pokérus  | Pokéra
+Abl  | Pokérō   | Pokérīs
 
-The declension for "Pokérus" of course derives from its primary component, "vīrus". "Vīrus" is irregular however, since it's a *neuter* -us 2nd declension noun, so its plural forms follow a neuter pattern, and its accusatives are identical to its nominatives.
+The declension for "Pokérus" of course derives from its primary component, "vīrus". "Vīrus" is irregular however, since it's a _neuter_ -us 2nd declension noun, so its plural forms follow a neuter pattern, and its accusatives are identical to its nominatives.
 
 ### Pokédēx, Pokédicis, m.
 
@@ -841,11 +841,11 @@ Italian has two words for "button": "buttone", which is the kind of button found
 
 I have to admit that this word seems a bit silly. The word is no more than a simple portmonteau of "quaerere", meaning "to seek" or "to search for", and "instrumentum", meaning "a tool". I think the word sounds nice, and the silliness fits with the overall theme of Pokémon.
 
-### referre, rettulisse, relātum (+ *in* + *acc* or *abl*) - enter
+### referre, rettulisse, relātum (+ _in_ + _acc_ or _abl_) - enter
 
 This was by far the hardest decision I've had to make simply because French, Italian, and Spanish all have words for "enter" that are all from different Latin words. I ended up choosing "referre", which was an influence on neither the French, Italian, or Spanish words for "enter".
 
-The word "referre" generally means to bring back, or to report, but when used with a place where or to which, the word takes on the meaning of "entering *something* *somewhere*".
+The word "referre" generally means to bring back, or to report, but when used with a place where or to which, the word takes on the meaning of "entering _something_ _somewhere_".
 
 ### scrūtātium, scrūtātiī, n. - survey
 
