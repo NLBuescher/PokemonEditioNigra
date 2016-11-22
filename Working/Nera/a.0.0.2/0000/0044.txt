@@ -1,117 +1,32 @@
-Creazione del salvataggio in corso.
-Attendi.
 
 
-Ciao!{CLEAR}
-
-Ti do il benvenuto nel mondo dei Pokémon!{CLEAR}
 
 
-Io sono la Prof.ssa Aralia.{CLEAR}
 
-Ma tutti mi chiamano professoressa
-Pokémon.{CLEAR}
-
-
-Questo mondo è abitato da creature
-strane chiamate Pokémon.{CLEAR}
-
-
-Ne esistono numerose specie differenti e
-sono diffuse un po' ovunque.{CLEAR}
-
-Le accomuna il fatto di avere dei poteri
-misteriosi.{CLEAR}
-
-Noi umani viviamo in totale armonia con i
-nostri amici Pokémon!{CLEAR}
-
-Vivere e lavorare con loro al nostro
-fianco rende tutti più felici.{CLEAR}
-
-Non è affatto raro che gli esseri umani
-facciano lottare i Pokémon tra loro.{CLEAR}
-
-Questo serve a rinsaldare il legame di
-amicizia tra noi e loro.{CLEAR}
-
-Il mio lavoro consiste esattamente nello
-studiare queste strane creature.{CLEAR}
+Creazione del salvataggio in corso.\xfffeAttendi.
+Ciao!\xf000븁\x0000\xfffeTi do il benvenuto nel mondo dei Pokémon!\xf000븁\x0000
+Io sono la Prof.ssa Aralia.\xf000븁\x0000\xfffeMa tutti mi chiamano professoressa\xfffePokémon.\xf000븁\x0000
+Questo mondo è abitato da creature\xfffestrane chiamate Pokémon.\xf000븁\x0000
+Ne esistono numerose specie differenti e\xfffesono diffuse un po' ovunque.\xf000븁\x0000\xfffeLe accomuna il fatto di avere dei poteri\xfffemisteriosi.\xf000븁\x0000\xfffeNoi umani viviamo in totale armonia con i\xfffenostri amici Pokémon!\xf000븁\x0000\xfffeVivere e lavorare con loro al nostro\xfffefianco rende tutti più felici.\xf000븁\x0000\xfffeNon è affatto raro che gli esseri umani\xfffefacciano lottare i Pokémon tra loro.\xf000븁\x0000\xfffeQuesto serve a rinsaldare il legame di\xfffeamicizia tra noi e loro.\xf000븁\x0000\xfffeIl mio lavoro consiste esattamente nello\xfffestudiare queste strane creature.\xf000븁\x0000
+Bene, questo è quanto...\xf000븁\x0000\xfffeDimmi qualcosa di te, adesso.\xf000븁\x0000
+Sei un ragazzo o una ragazza?\xf000븁\x0000
+Sei un ragazzo, quindi?\xf000븁\x0000
+Sei una ragazza, quindi?\xf000븁\x0000
 
 
-Bene, questo è quanto...{CLEAR}
-
-Dimmi qualcosa di te, adesso.{CLEAR}
-
-
-Sei un ragazzo o una ragazza?{CLEAR}
-
-
-Sei un ragazzo, quindi?{CLEAR}
-
-
-Sei una ragazza, quindi?{CLEAR}
-
-
-Mi piacerebbe sapere anche il tuo nome.{CLEAR}
-
-Dimmi come ti chiami!{CLEAR}
-
-
-Ti chiami {NAME}, allora?{CLEAR}
-
-
-{NAME}, giusto?{CLEAR}
-
-
+Mi piacerebbe sapere anche il tuo nome.\xf000븁\x0000\xfffeDimmi come ti chiami!\xf000븁\x0000
+Ti chiami \xf000Ā\x0001\x0000, allora?\xf000븁\x0000
+\xf000Ā\x0001\x0000, giusto?\xf000븁\x0000
 SÌ
-
-
 NO
+\xf000Ā\x0001\x0000... che bel nome!\xf000븁\x0000
+Lascia che ti presenti gli amici che ti\xfffeaccompagneranno in questo viaggio.\xf000븁\x0000
+Questo è Komor.\xf000븁\x0000\xfffeA volte è un po' intransigente, ma ha un\xfffeanimo buono.\xf000븁\x0000
+Questa è Belle.\xf000븁\x0000\xfffeHa il suo ritmo nel fare le cose, ma ce la\xfffemette tutta.\xf000븁\x0000
+Bene, ragazzi, allora conto su voi tre!\xf000븁\x0000\xfffePer questo voglio affidare a ciascuno di\xfffevoi un prezioso Pokémon!\xf000븀\x0000\xfffeAbbiatene cura!\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeAppena avrai scelto il Pokémon che ti farà\xfffeda compagno di avventure, il tuo viaggio\xf000븀\x0000\xfffeavrà inizio.\xf000븁\x0000\xfffeIncontrerai molti Pokémon e persone con\xfffeidee diverse.\xf000븁\x0000\xfffeSpero che tu riesca a trarre qualcosa di\xfffeprezioso da tutti questi incontri.\xf000븁\x0000\xfffeQualcosa che ti sia d'aiuto nella tua\xfffecrescita personale.\xf000븁\x0000\xfffeÈ lo scopo principale di quest'avventura.\xf000븁\x0000\xfffeBene, allora, entriamo nel mondo dei\xfffePokémon!\xf000븁\x0000
 
 
-{NAME}... che bel nome!{CLEAR}
 
 
-Lascia che ti presenti gli amici che ti
-accompagneranno in questo viaggio.{CLEAR}
 
-
-Questo è Komor.{CLEAR}
-
-A volte è un po' intransigente, ma ha un
-animo buono.{CLEAR}
-
-
-Questa è Belle.{CLEAR}
-
-Ha il suo ritmo nel fare le cose, ma ce la
-mette tutta.{CLEAR}
-
-
-Bene, ragazzi, allora conto su voi tre!{CLEAR}
-
-Per questo voglio affidare a ciascuno di
-voi un prezioso Pokémon!{ADDLINE}
-Abbiatene cura!{CLEAR}
-
-
-{NAME}!{CLEAR}
-
-Appena avrai scelto il Pokémon che ti farà
-da compagno di avventure, il tuo viaggio{ADDLINE}
-avrà inizio.{CLEAR}
-
-Incontrerai molti Pokémon e persone con
-idee diverse.{CLEAR}
-
-Spero che tu riesca a trarre qualcosa di
-prezioso da tutti questi incontri.{CLEAR}
-
-Qualcosa che ti sia d'aiuto nella tua
-crescita personale.{CLEAR}
-
-È lo scopo principale di quest'avventura.{CLEAR}
-
-Bene, allora, entriamo nel mondo dei
-Pokémon!{CLEAR}

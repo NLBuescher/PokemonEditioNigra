@@ -1,0 +1,3 @@
+\xfffe          put text on next line
+\xf000븀\x0000   move text up one line
+\xf000븀\x0000   clear box

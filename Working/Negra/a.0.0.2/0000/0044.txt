@@ -1,116 +1,32 @@
-Creando datos de guardado...
-Por favor, espera.
-
-¡Hooola! ¿Qué tal?{CLEAR}
-
-¡Te doy la bienvenida al mundo
-Pokémon!{CLEAR}
 
 
-Yo soy la Prof.ª Encina.{CLEAR}
-
-Pero todo el mundo me conoce
-como la Profesora Pokémon.{CLEAR}
 
 
-Este mundo está habitado por criaturas
-llamadas Pokémon.{CLEAR}
+
+Creando datos de guardado...\xfffePor favor, espera.
+¡Hooola! ¿Qué tal?\xf000븁\x0000\xfffe¡Te doy la bienvenida al mundo\xfffePokémon!\xf000븁\x0000
+Yo soy la Prof.ª Encina.\xf000븁\x0000\xfffePero todo el mundo me conoce\xfffecomo la Profesora Pokémon.\xf000븁\x0000
+Este mundo está habitado por criaturas\xfffellamadas Pokémon.\xf000븁\x0000
+Los Pokémon poseen poderes fantásticos,\xfffepresentan las formas más variadas\xf000븀\x0000\xfffey viven en todo tipo de entornos.\xf000븁\x0000\xfffe¡Y lo mejor es que se llevan de maravilla\xfffecon nosotros, los humanos!\xf000븁\x0000\xfffeEsta convivencia nos beneficia a ambos\xfffey nos permite colaborar para superar\xf000븀\x0000\xfffedificultades.\xf000븁\x0000\xfffeAlgo que les encanta a los Pokémon\xfffees combatir.\xf000븁\x0000\xfffe¡Así es como crean fuertes lazos de\xfffeamistad con sus Entrenadores!\xf000븁\x0000\xfffe¿Y quieres saber a qué me dedico yo?\xfffe¡A estudiar a estas criaturas adorables!\xf000븁\x0000
+Bueno, ya está, que me enrollo más\xfffeque las persianas.\xf000븁\x0000\xfffe¿Por qué no me cuentas algo sobre ti?\xf000븁\x0000
+¿Eres un chico o una chica?\xf000븁\x0000
+Bien, así que eres un chico.\xf000븁\x0000
+Bien, así que eres una chica.\xf000븁\x0000
 
 
-Los Pokémon poseen poderes fantásticos,
-presentan las formas más variadas{ADDLINE}
-y viven en todo tipo de entornos.{CLEAR}
-
-¡Y lo mejor es que se llevan de maravilla
-con nosotros, los humanos!{CLEAR}
-
-Esta convivencia nos beneficia a ambos
-y nos permite colaborar para superar{ADDLINE}
-dificultades.{CLEAR}
-
-Algo que les encanta a los Pokémon
-es combatir.{CLEAR}
-
-¡Así es como crean fuertes lazos de
-amistad con sus Entrenadores!{CLEAR}
-
-¿Y quieres saber a qué me dedico yo?
-¡A estudiar a estas criaturas adorables!{CLEAR}
-
-
-Bueno, ya está, que me enrollo más
-que las persianas.{CLEAR}
-
-¿Por qué no me cuentas algo sobre ti?{CLEAR}
-
-
-¿Eres un chico o una chica?{CLEAR}
-
-
-Bien, así que eres un chico.{CLEAR}
-
-
-Bien, así que eres una chica.{CLEAR}
-
-
-También querría saber tu nombre.
-¿Cómo te llamas?{CLEAR}
-
-
-¿Te llamas {NAME}?{CLEAR}
-
-
-¿Te llamas {NAME}?{CLEAR}
-
-
+También querría saber tu nombre.\xfffe¿Cómo te llamas?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
 SÍ
-
 NO
-
-¡{NAME}! ¡Qué nombre tan bonito!{CLEAR}
-
-
-Y estos chicos de aquí... tengo entendido
-que son tus amigos.{CLEAR}
-
-
-Este chico se llama Cheren.{CLEAR}
-
-Tiene un carácter un poco difícil,
-pero es un chico muy sincero.{CLEAR}
+¡\xf000Ā\x0001\x0000! ¡Qué nombre tan bonito!\xf000븁\x0000
+Y estos chicos de aquí... tengo entendido\xfffeque son tus amigos.\xf000븁\x0000
+Este chico se llama Cheren.\xf000븁\x0000\xfffeTiene un carácter un poco difícil,\xfffepero es un chico muy sincero.\xf000븁\x0000
+Esta chica se llama Bel.\xf000븁\x0000\xfffeVa un poquito a su aire, pero siempre\xfffepuedes contar con ella.\xf000븁\x0000
+Ahora os voy a entregar un Pokémon\xfffea cada uno de los tres para que\xf000븀\x0000\xfffelo cuidéis muy bien.\xf000븁\x0000
+¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeHa llegado el momento de elegir al Pokémon\xfffeque te acompañará a partir de ahora\xf000븀\x0000\xfffeen tu viaje.\xf000븁\x0000\xfffeConocerás a muchos Pokémon y a mucha\xfffegente con distintas personalidades\xf000븀\x0000\xfffey puntos de vista.\xf000븁\x0000\xfffeEstoy segura de que podrás aprender\xfffede todas esas experiencias y descubrir\xf000븀\x0000\xfffelo que es más importante para ti.\xf000븁\x0000\xfffe¡Así es! Conocer a mucha gente y Pokémon\xfffete permitirá crecer como persona.\xf000븁\x0000\xfffeAl fin y al cabo, ese es el objetivo\xfffeprincipal de esta aventura.\xf000븁\x0000\xfffe¡Y ahora en marcha!\xf000븁\x0000\xfffe¡Nos vamos al mundo Pokémon!\xf000븁\x0000
 
 
-Esta chica se llama Bel.{CLEAR}
-
-Va un poquito a su aire, pero siempre
-puedes contar con ella.{CLEAR}
 
 
-Ahora os voy a entregar un Pokémon
-a cada uno de los tres para que{ADDLINE}
-lo cuidéis muy bien.{CLEAR}
 
-
-¡{NAME}!{CLEAR}
-
-Ha llegado el momento de elegir al Pokémon
-que te acompañará a partir de ahora{ADDLINE}
-en tu viaje.{CLEAR}
-
-Conocerás a muchos Pokémon y a mucha
-gente con distintas personalidades{ADDLINE}
-y puntos de vista.{CLEAR}
-
-Estoy segura de que podrás aprender
-de todas esas experiencias y descubrir{ADDLINE}
-lo que es más importante para ti.{CLEAR}
-
-¡Así es! Conocer a mucha gente y Pokémon
-te permitirá crecer como persona.{CLEAR}
-
-Al fin y al cabo, ese es el objetivo
-principal de esta aventura.{CLEAR}
-
-¡Y ahora en marcha!{CLEAR}
-
-¡Nos vamos al mundo Pokémon!{CLEAR}

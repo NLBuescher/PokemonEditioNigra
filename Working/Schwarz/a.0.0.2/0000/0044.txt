@@ -1,121 +1,32 @@
-Spielstand wird erstellt.
-Bitte warte einen Moment...
 
 
-Hallo! Wie geht's?{CLEAR}
-
-Willkommen in der Welt der Pokémon!{CLEAR}
 
 
-Ich bin Prof. Esche!{CLEAR}
 
-Die Leute nennen mich auch die
-Pokémon-Professorin.{CLEAR}
-
-
-Wie du vielleicht weißt, wird diese
-Welt von Wesen bevölkert,{ADDLINE}
-die man Pokémon nennt.{CLEAR}
-
-
-In den Pokémon schlummern geheimnisvolle
-Kräfte. Begegnen kann man ihnen beinahe{ADDLINE}
-überall und es gibt eine große Vielfalt an{ADDLINE}
-unterschiedlichen Arten unter ihnen.{CLEAR}
-
-Die Pokémon und wir Menschen ergänzen
-uns ganz ausgezeichnet! Wir führen{ADDLINE}
-ein Leben in Eintracht mit ihnen und{ADDLINE}
-helfen uns gegenseitig, wo wir können.{CLEAR}
-
-Um das Band der Freundschaft zu seinen
-Pokémon zu stärken, ist es sehr{ADDLINE}
-beliebt, mit ihnen gegen die Teams{ADDLINE}
-anderer Trainer zu kämpfen.{CLEAR}
-
-Tja, und ich habe mein Leben der
-Erforschung der Pokémon gewidmet!{CLEAR}
+Spielstand wird erstellt.\xfffeBitte warte einen Moment...
+Hallo! Wie geht's?\xf000븁\x0000\xfffeWillkommen in der Welt der Pokémon!\xf000븁\x0000
+Ich bin Prof. Esche!\xf000븁\x0000\xfffeDie Leute nennen mich auch die\xfffePokémon-Professorin.\xf000븁\x0000
+Wie du vielleicht weißt, wird diese\xfffeWelt von Wesen bevölkert,\xf000븀\x0000\xfffedie man Pokémon nennt.\xf000븁\x0000
+In den Pokémon schlummern geheimnisvolle\xfffeKräfte. Begegnen kann man ihnen beinahe\xf000븀\x0000\xfffeüberall und es gibt eine große Vielfalt an\xf000븀\x0000\xfffeunterschiedlichen Arten unter ihnen.\xf000븁\x0000\xfffeDie Pokémon und wir Menschen ergänzen\xfffeuns ganz ausgezeichnet! Wir führen\xf000븀\x0000\xfffeein Leben in Eintracht mit ihnen und\xf000븀\x0000\xfffehelfen uns gegenseitig, wo wir können.\xf000븁\x0000\xfffeUm das Band der Freundschaft zu seinen\xfffePokémon zu stärken, ist es sehr\xf000븀\x0000\xfffebeliebt, mit ihnen gegen die Teams\xf000븀\x0000\xfffeanderer Trainer zu kämpfen.\xf000븁\x0000\xfffeTja, und ich habe mein Leben der\xfffeErforschung der Pokémon gewidmet!\xf000븁\x0000
+Aber genug von mir...\xf000븁\x0000\xfffeErzähl mir doch lieber ein bisschen\xfffewas über dich!\xf000븁\x0000
+Bist du ein Junge oder ein Mädchen?\xf000븁\x0000
+Aha, ein Junge bist du also!\xfffeHabe ich das richtig verstanden?\xf000븁\x0000
+Aha, ein Mädchen bist du also!\xfffeHabe ich das richtig verstanden?\xf000븁\x0000
 
 
-Aber genug von mir...{CLEAR}
-
-Erzähl mir doch lieber ein bisschen
-was über dich!{CLEAR}
-
-
-Bist du ein Junge oder ein Mädchen?{CLEAR}
-
-
-Aha, ein Junge bist du also!
-Habe ich das richtig verstanden?{CLEAR}
-
-
-Aha, ein Mädchen bist du also!
-Habe ich das richtig verstanden?{CLEAR}
-
-
-Jetzt wüsste ich noch gern, wie du heißt.{CLEAR}
-
-Verrate mir doch bitte deinen Namen!{CLEAR}
-
-
-{NAME} lautet dein Name also.
-Ist das richtig?{CLEAR}
-
-
-{NAME} heißt du also.
-Ist das richtig?{CLEAR}
-
-
+Jetzt wüsste ich noch gern, wie du heißt.\xf000븁\x0000\xfffeVerrate mir doch bitte deinen Namen!\xf000븁\x0000
+\xf000Ā\x0001\x0000 lautet dein Name also.\xfffeIst das richtig?\xf000븁\x0000
+\xf000Ā\x0001\x0000 heißt du also.\xfffeIst das richtig?\xf000븁\x0000
 Ja
-
 Nein
-
-{NAME}...
-Das ist aber mal ein toller Name!{CLEAR}
-
-
-Gut, dann will ich dir jetzt noch mal
-deine treuen Weggefährten vorstellen.{ADDLINE}
-Ihr seid ein unzertrennliches Gespann!{CLEAR}
+\xf000Ā\x0001\x0000...\xfffeDas ist aber mal ein toller Name!\xf000븁\x0000
+Gut, dann will ich dir jetzt noch mal\xfffedeine treuen Weggefährten vorstellen.\xf000븀\x0000\xfffeIhr seid ein unzertrennliches Gespann!\xf000븁\x0000
+Dieser Junge hier heißt Cheren.\xf000븁\x0000\xfffeManchmal gibt er sich ein wenig mürrisch,\xfffeaber er ist ein aufrichtiger Bursche.\xf000븁\x0000
+Dieses Mädchen hört auf den Namen Bell.\xf000븁\x0000\xfffeSie geht alles ein wenig gemütlicher an,\xfffeaber gibt immer ihr Bestes...\xf000븁\x0000
+Ich werde euch dreien jetzt einfach mal\xfffevertrauen und jedem von euch eins meiner\xf000븀\x0000\xfffekostbaren Pokémon schenken.\xf000븁\x0000
+Hör mir gut zu, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeVon dem Augenblick an, an dem du dich für\xfffeein Pokémon entscheidest, beginnt dein\xf000븀\x0000\xfffeganz persönliches Abenteuer.\xf000븁\x0000\xfffeAuf deiner Reise wirst du mit unzähligen\xfffePokémon und Menschen in Berührung\xf000븀\x0000\xfffekommen, die nicht immer dieselben\xf000븀\x0000\xfffeIdeen und Auffassungen teilen wie du.\xf000븁\x0000\xfffeIch hoffe, es gelingt dir, durch diese\xfffeBegegnungen herauszufinden, was für\xf000븀\x0000\xfffedich im Leben wichtig ist und was nicht...\xf000븁\x0000\xfffeIch sehe, du verstehst mich! Das große\xfffeZiel deiner Reise sollte es sein, über den\xf000븀\x0000\xfffeUmgang mit Menschen und Pokémon reifer\xf000븀\x0000\xfffezu werden und innerlich zu wachsen.\xf000븁\x0000\xfffeSo, jetzt aber mal los! Geh und stürze\xfffedich kopfüber in die Welt der Pokémon!\xf000븁\x0000
 
 
-Dieser Junge hier heißt Cheren.{CLEAR}
-
-Manchmal gibt er sich ein wenig mürrisch,
-aber er ist ein aufrichtiger Bursche.{CLEAR}
 
 
-Dieses Mädchen hört auf den Namen Bell.{CLEAR}
 
-Sie geht alles ein wenig gemütlicher an,
-aber gibt immer ihr Bestes...{CLEAR}
-
-
-Ich werde euch dreien jetzt einfach mal
-vertrauen und jedem von euch eins meiner{ADDLINE}
-kostbaren Pokémon schenken.{CLEAR}
-
-
-Hör mir gut zu, {NAME}!{CLEAR}
-
-Von dem Augenblick an, an dem du dich für
-ein Pokémon entscheidest, beginnt dein{ADDLINE}
-ganz persönliches Abenteuer.{CLEAR}
-
-Auf deiner Reise wirst du mit unzähligen
-Pokémon und Menschen in Berührung{ADDLINE}
-kommen, die nicht immer dieselben{ADDLINE}
-Ideen und Auffassungen teilen wie du.{CLEAR}
-
-Ich hoffe, es gelingt dir, durch diese
-Begegnungen herauszufinden, was für{ADDLINE}
-dich im Leben wichtig ist und was nicht...{CLEAR}
-
-Ich sehe, du verstehst mich! Das große
-Ziel deiner Reise sollte es sein, über den{ADDLINE}
-Umgang mit Menschen und Pokémon reifer{ADDLINE}
-zu werden und innerlich zu wachsen.{CLEAR}
-
-So, jetzt aber mal los! Geh und stürze
-dich kopfüber in die Welt der Pokémon!{CLEAR}

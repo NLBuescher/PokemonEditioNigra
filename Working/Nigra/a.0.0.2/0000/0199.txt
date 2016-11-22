@@ -5,7 +5,7 @@ Venenum
 Terra
 Saxum
 Insectum
-Vmbra
+Umbra
 Chalybs
 Ignis
 Aqua

@@ -1,20 +1,20 @@
 Menu Primum
-De Centris Pokémon
+De Centris Pokémonum
 De C-Gear
 De Menu
 De Pugnis
-De Pokémon
+De Pokémonibus
 Res aliae
 Pergere
-Ludus nouus
+Ludus novus
 Donum mysterium
 Certamina
 Lusoris numeri digitales
 Optiones synchroniludi
 Optiones CWF Nintendo
 Probatio microphoni
-Centrum Pokémon
-Movere Pokémon in PC
+Centrum Pokémonum
+Movere Pokémones in PC
 Arca Pugnae
 Commercium conexum
 Pugna conexa
@@ -36,24 +36,24 @@ Eventus scrutatiorum
 Conexus infraruber
 Synchroniludus
 Intramundus
-Donum uis
+Donum vis
 Donum orbis
 Bulga
 Scheda Lanistae
 Pokédex
-Consilium capturae Pokémon
+Consilium capturae Pokémonum
 Generes et comparatio generum
 Impetus corporis, praecipuus, et status
 Pokémon fatigati
-Pokémon uenenati
-Pokémon eneruati
+Pokémon venenati
+Pokémon enervati
 Pokémon dormientes
 Pokémon congelati
 Pokémon ambusti
 Pokémon confusi
 Pokémon attracti
 Puncta experientiae
-Euolutio Pokémon
+Evolutio Pokémonum
 Natura et Mores
 Pokérus
 Cursus
@@ -61,8 +61,8 @@ Quaestrumentum
 Interpoké
 Insignia Gymnasiorum
 Assignare instrumenta functionesque
-Transferre Pokémon cum Poké Vectura
-Capere Pokémon cum Poké Vectura
+Transferre Pokémones cum Poké Vectura
+Capere Pokémones cum Poké Vectura
 When you are playing, press the X Button\xfffeto open the menu and save often.\xfffe\xfffeOnce saved, you can select “CONTINUE"\xfffefrom the main menu to continue playing\xfffethe game from that location even if you've\xfffeturned off your Nintendo DS since.
 To delete your saved data and\xfffestart a new game, go to the\xfffetitle screen and press the\xfffefollowing buttons at the same time.\xfffe\xfffeUP + SELECT + B Button
 You can receive special gifts at events and\xfffeother locations in the following three ways.\xfffe\xfffe-GET VIA WIRELESS\xfffe-GET VIA NINTENDO WFC\xfffe-GET VIA INFRARED\xfffe\xfffePlease note that each event has its own way\xfffeof distributing gifts.
